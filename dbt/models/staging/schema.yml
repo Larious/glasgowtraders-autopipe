@@ -1,0 +1,20 @@
+version: 2
+models:
+  - name: stg_raw_listings
+    columns:
+      - name: place_id
+        tests: [not_null, unique]
+      - name: business_status
+        tests:
+          - accepted_values:
+              values: ['OPERATIONAL', 'CLOSED_PERMANENTLY', 'CLOSED_TEMPORARILY']
+      - name: postcode
+        tests:
+          - not_null
+```
+
+Save. Then commit everything:
+```
+git add -A
+git commit -m "phase-04: dbt models, enrichment, and schema tests"
+git push
