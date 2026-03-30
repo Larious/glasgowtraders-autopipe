@@ -1,4 +1,3 @@
-
 {{ config(materialized='table') }}
 
 WITH base AS (SELECT * FROM {{ ref('stg_raw_listings') }}),
@@ -29,8 +28,3 @@ seo AS (
 )
 
 SELECT * FROM seo WHERE health_score >= 40
-```
-
-Save. Then:
-```
-nano dbt/models/staging/schema.yml

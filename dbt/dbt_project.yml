@@ -3,8 +3,3 @@ version: '1.0.0'
 profile: glasgow_traders
 model-paths: ["models"]
 test-paths: ["tests"]
-```
-
-Save. Then:
-```
-nano dbt/models/staging/stg_raw_listings.sql
