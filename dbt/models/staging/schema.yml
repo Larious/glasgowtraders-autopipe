@@ -11,10 +11,3 @@ models:
       - name: postcode
         tests:
           - not_null
-```
-
-Save. Then commit everything:
-```
-git add -A
-git commit -m "phase-04: dbt models, enrichment, and schema tests"
-git push

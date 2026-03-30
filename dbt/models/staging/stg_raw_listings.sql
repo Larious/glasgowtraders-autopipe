@@ -8,8 +8,3 @@ SELECT
     content_hash, wp_post_id, scraped_at
 FROM staging.raw_listings
 WHERE pipeline_status IN ('STAGED', 'TRANSFORMED')
-```
-
-Save. Then:
-```
-nano dbt/models/intermediate/int_listings_enriched.sql
