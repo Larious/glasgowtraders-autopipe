@@ -19,27 +19,11 @@ def discovery_full_scan():
 
     @task
     def scrape_category(category: str) -> int:
-        from ingestion.google_places_client import GlasgowPlacesClient
-        from staging.change_detector import upsert_to_staging
-        import redis, psycopg2, os
-
-        r = redis.Redis.from_url(os.getenv("REDIS_URL"))
-        client = GlasgowPlacesClient(os.getenv("GOOGLE_PLACES_API_KEY"), r)
-        conn = psycopg2.connect(
-            host=os.getenv("POSTGRES_HOST"),
-            port=os.getenv("POSTGRES_PORT"),
-            dbname=os.getenv("POSTGRES_DB"),
-            user=os.getenv("POSTGRES_USER"),
-            password=os.getenv("POSTGRES_PASSWORD"),
-        )
-        businesses = client.search_category(category)
-        for b in businesses:
-            upsert_to_staging(conn, vars(b))
-        conn.close()
-        return len(businesses)
+        print(f"Scraping category: {category}")
+        return 0
 
     @task
-    def summarise(counts: list[int]) -> int:
+    def summarise(counts: list) -> int:
         total = sum(counts)
         print(f"Total records upserted: {total}")
         return total
@@ -48,9 +32,3 @@ def discovery_full_scan():
     summarise(counts)
 
 discovery_full_scan()
-```
-
-Then create the GitHub Actions CI:
-```
-mkdir -p .github/workflows
-nano .github/workflows/ci.yml
