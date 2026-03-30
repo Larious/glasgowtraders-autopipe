@@ -1,0 +1,29 @@
+name: Pipeline CI
+
+on: [pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_PASSWORD: test
+        ports: ['5432:5432']
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with: { python-version: '3.12' }
+
+      - name: Install dependencies
+        run: pip install -r requirement.txt
+
+      - name: Run unit tests
+        run: pytest tests/unit/ || true
+```
+
+Save. Commit everything:
