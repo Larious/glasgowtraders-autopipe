@@ -67,6 +67,7 @@ class GlasgowPlacesClient:
             "website","geometry","rating","user_ratings_total",
             "type","opening_hours","business_status"
         ])["result"]
+        detail["place_id"] = place_id
         self.redis.setex(f"place:{place_id}", 86400, str(detail))
         return detail
 
