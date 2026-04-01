@@ -1,0 +1,12 @@
+glasgow_traders:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: postgres
+      user: pipeline
+      password: Glasgow190
+      port: 5432
+      dbname: glasgow_traders
+      schema: intermediate
+      threads: 1

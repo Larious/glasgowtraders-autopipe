@@ -1,0 +1,307 @@
+[0m09:49:05.407903 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96bc0799d0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96bc07a510>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96bc07ae50>]}
+
+
+============================== 09:49:05.416127 | e605a1f6-5332-40b7-9a2d-2c2ab6f6eac4 ==============================
+[0m09:49:05.416127 [info ] [MainThread]: Running with dbt=1.8.3
+[0m09:49:05.417197 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'profiles_dir': '.', 'log_path': '/usr/app/logs', 'fail_fast': 'False', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'False', 'log_format': 'default', 'invocation_command': 'dbt run --profiles-dir .', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m09:49:05.580518 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': 'e605a1f6-5332-40b7-9a2d-2c2ab6f6eac4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96bbf80ad0>]}
+[0m09:49:05.632468 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': 'e605a1f6-5332-40b7-9a2d-2c2ab6f6eac4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96bdc4d910>]}
+[0m09:49:05.633546 [info ] [MainThread]: Registered adapter: postgres=1.8.2
+[0m09:49:05.648405 [debug] [MainThread]: checksum: 30bd4080c2bc8dee5936f8f60083ffbe1c906859d0fd965607c2144031479456, vars: {}, profile: , target: , version: 1.8.3
+[0m09:49:05.650493 [info ] [MainThread]: Unable to do partial parsing because saved manifest not found. Starting full parse.
+[0m09:49:05.651465 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': 'e605a1f6-5332-40b7-9a2d-2c2ab6f6eac4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96ba7793d0>]}
+[0m09:49:06.769654 [warn ] [MainThread]: [[33mWARNING[0m]: Deprecated functionality
+The `tests` config has been renamed to `data_tests`. Please see
+https://docs.getdbt.com/docs/build/data-tests#new-data_tests-syntax for more
+information.
+[0m09:49:06.770530 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'deprecation', 'label': 'e605a1f6-5332-40b7-9a2d-2c2ab6f6eac4', 'property_': 'warn', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96ba680790>]}
+[0m09:49:06.979869 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': 'e605a1f6-5332-40b7-9a2d-2c2ab6f6eac4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96ba560e50>]}
+[0m09:49:07.147547 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': 'e605a1f6-5332-40b7-9a2d-2c2ab6f6eac4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96ba79fe10>]}
+[0m09:49:07.148376 [info ] [MainThread]: Found 2 models, 4 data tests, 415 macros
+[0m09:49:07.149259 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'e605a1f6-5332-40b7-9a2d-2c2ab6f6eac4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96bd8f2010>]}
+[0m09:49:07.151911 [info ] [MainThread]: 
+[0m09:49:07.152934 [debug] [MainThread]: Acquiring new postgres connection 'master'
+[0m09:49:07.157579 [debug] [ThreadPool]: Acquiring new postgres connection 'list_glasgow_traders'
+[0m09:49:07.213073 [debug] [ThreadPool]: Using postgres connection "list_glasgow_traders"
+[0m09:49:07.213866 [debug] [ThreadPool]: On list_glasgow_traders: /* {"app": "dbt", "dbt_version": "1.8.3", "profile_name": "glasgow_traders", "target_name": "dev", "connection_name": "list_glasgow_traders"} */
+
+    select distinct nspname from pg_namespace
+  
+[0m09:49:07.214850 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m09:49:07.228304 [debug] [ThreadPool]: SQL status: SELECT 5 in 0.0 seconds
+[0m09:49:07.230124 [debug] [ThreadPool]: On list_glasgow_traders: Close
+[0m09:49:07.231251 [debug] [ThreadPool]: Re-using an available connection from the pool (formerly list_glasgow_traders, now create_glasgow_traders_intermediate)
+[0m09:49:07.232152 [debug] [ThreadPool]: Creating schema "database: "glasgow_traders"
+schema: "intermediate"
+"
+[0m09:49:07.238438 [debug] [ThreadPool]: Using postgres connection "create_glasgow_traders_intermediate"
+[0m09:49:07.239146 [debug] [ThreadPool]: On create_glasgow_traders_intermediate: BEGIN
+[0m09:49:07.239824 [debug] [ThreadPool]: Opening a new connection, currently in state closed
+[0m09:49:07.248571 [debug] [ThreadPool]: SQL status: BEGIN in 0.0 seconds
+[0m09:49:07.249393 [debug] [ThreadPool]: Using postgres connection "create_glasgow_traders_intermediate"
+[0m09:49:07.250072 [debug] [ThreadPool]: On create_glasgow_traders_intermediate: /* {"app": "dbt", "dbt_version": "1.8.3", "profile_name": "glasgow_traders", "target_name": "dev", "connection_name": "create_glasgow_traders_intermediate"} */
+create schema if not exists "intermediate"
+[0m09:49:07.251228 [debug] [ThreadPool]: SQL status: CREATE SCHEMA in 0.0 seconds
+[0m09:49:07.252558 [debug] [ThreadPool]: On create_glasgow_traders_intermediate: COMMIT
+[0m09:49:07.253113 [debug] [ThreadPool]: Using postgres connection "create_glasgow_traders_intermediate"
+[0m09:49:07.253636 [debug] [ThreadPool]: On create_glasgow_traders_intermediate: COMMIT
+[0m09:49:07.255048 [debug] [ThreadPool]: SQL status: COMMIT in 0.0 seconds
+[0m09:49:07.255592 [debug] [ThreadPool]: On create_glasgow_traders_intermediate: Close
+[0m09:49:07.257534 [debug] [ThreadPool]: Acquiring new postgres connection 'list_glasgow_traders_intermediate'
+[0m09:49:07.265266 [debug] [ThreadPool]: Using postgres connection "list_glasgow_traders_intermediate"
+[0m09:49:07.265870 [debug] [ThreadPool]: On list_glasgow_traders_intermediate: BEGIN
+[0m09:49:07.266499 [debug] [ThreadPool]: Opening a new connection, currently in state init
+[0m09:49:07.274826 [debug] [ThreadPool]: SQL status: BEGIN in 0.0 seconds
+[0m09:49:07.275484 [debug] [ThreadPool]: Using postgres connection "list_glasgow_traders_intermediate"
+[0m09:49:07.276176 [debug] [ThreadPool]: On list_glasgow_traders_intermediate: /* {"app": "dbt", "dbt_version": "1.8.3", "profile_name": "glasgow_traders", "target_name": "dev", "connection_name": "list_glasgow_traders_intermediate"} */
+select
+      'glasgow_traders' as database,
+      tablename as name,
+      schemaname as schema,
+      'table' as type
+    from pg_tables
+    where schemaname ilike 'intermediate'
+    union all
+    select
+      'glasgow_traders' as database,
+      viewname as name,
+      schemaname as schema,
+      'view' as type
+    from pg_views
+    where schemaname ilike 'intermediate'
+    union all
+    select
+      'glasgow_traders' as database,
+      matviewname as name,
+      schemaname as schema,
+      'materialized_view' as type
+    from pg_matviews
+    where schemaname ilike 'intermediate'
+  
+[0m09:49:07.280157 [debug] [ThreadPool]: SQL status: SELECT 0 in 0.0 seconds
+[0m09:49:07.281639 [debug] [ThreadPool]: On list_glasgow_traders_intermediate: ROLLBACK
+[0m09:49:07.282452 [debug] [ThreadPool]: On list_glasgow_traders_intermediate: Close
+[0m09:49:07.288039 [debug] [MainThread]: Using postgres connection "master"
+[0m09:49:07.288744 [debug] [MainThread]: On master: BEGIN
+[0m09:49:07.289381 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m09:49:07.299247 [debug] [MainThread]: SQL status: BEGIN in 0.0 seconds
+[0m09:49:07.299942 [debug] [MainThread]: Using postgres connection "master"
+[0m09:49:07.300892 [debug] [MainThread]: On master: /* {"app": "dbt", "dbt_version": "1.8.3", "profile_name": "glasgow_traders", "target_name": "dev", "connection_name": "master"} */
+with relation as (
+        select
+            pg_rewrite.ev_class as class,
+            pg_rewrite.oid as id
+        from pg_rewrite
+    ),
+    class as (
+        select
+            oid as id,
+            relname as name,
+            relnamespace as schema,
+            relkind as kind
+        from pg_class
+    ),
+    dependency as (
+        select distinct
+            pg_depend.objid as id,
+            pg_depend.refobjid as ref
+        from pg_depend
+    ),
+    schema as (
+        select
+            pg_namespace.oid as id,
+            pg_namespace.nspname as name
+        from pg_namespace
+        where nspname != 'information_schema' and nspname not like 'pg\_%'
+    ),
+    referenced as (
+        select
+            relation.id AS id,
+            referenced_class.name ,
+            referenced_class.schema ,
+            referenced_class.kind
+        from relation
+        join class as referenced_class on relation.class=referenced_class.id
+        where referenced_class.kind in ('r', 'v', 'm')
+    ),
+    relationships as (
+        select
+            referenced.name as referenced_name,
+            referenced.schema as referenced_schema_id,
+            dependent_class.name as dependent_name,
+            dependent_class.schema as dependent_schema_id,
+            referenced.kind as kind
+        from referenced
+        join dependency on referenced.id=dependency.id
+        join class as dependent_class on dependency.ref=dependent_class.id
+        where
+            (referenced.name != dependent_class.name or
+             referenced.schema != dependent_class.schema)
+    )
+
+    select
+        referenced_schema.name as referenced_schema,
+        relationships.referenced_name as referenced_name,
+        dependent_schema.name as dependent_schema,
+        relationships.dependent_name as dependent_name
+    from relationships
+    join schema as dependent_schema on relationships.dependent_schema_id=dependent_schema.id
+    join schema as referenced_schema on relationships.referenced_schema_id=referenced_schema.id
+    group by referenced_schema, referenced_name, dependent_schema, dependent_name
+    order by referenced_schema, referenced_name, dependent_schema, dependent_name;
+[0m09:49:07.328488 [debug] [MainThread]: SQL status: SELECT 1 in 0.0 seconds
+[0m09:49:07.330235 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': 'e605a1f6-5332-40b7-9a2d-2c2ab6f6eac4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96bc6c9d50>]}
+[0m09:49:07.330953 [debug] [MainThread]: On master: ROLLBACK
+[0m09:49:07.332181 [debug] [MainThread]: Using postgres connection "master"
+[0m09:49:07.332773 [debug] [MainThread]: On master: BEGIN
+[0m09:49:07.333880 [debug] [MainThread]: SQL status: BEGIN in 0.0 seconds
+[0m09:49:07.334621 [debug] [MainThread]: On master: COMMIT
+[0m09:49:07.335250 [debug] [MainThread]: Using postgres connection "master"
+[0m09:49:07.335814 [debug] [MainThread]: On master: COMMIT
+[0m09:49:07.336643 [debug] [MainThread]: SQL status: COMMIT in 0.0 seconds
+[0m09:49:07.337229 [debug] [MainThread]: On master: Close
+[0m09:49:07.338109 [info ] [MainThread]: Concurrency: 1 threads (target='dev')
+[0m09:49:07.338915 [info ] [MainThread]: 
+[0m09:49:07.350504 [debug] [Thread-1 (]: Began running node model.glasgow_traders.stg_raw_listings
+[0m09:49:07.351432 [info ] [Thread-1 (]: 1 of 2 START sql view model intermediate.stg_raw_listings ...................... [RUN]
+[0m09:49:07.352305 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly list_glasgow_traders_intermediate, now model.glasgow_traders.stg_raw_listings)
+[0m09:49:07.353037 [debug] [Thread-1 (]: Began compiling node model.glasgow_traders.stg_raw_listings
+[0m09:49:07.362182 [debug] [Thread-1 (]: Writing injected SQL for node "model.glasgow_traders.stg_raw_listings"
+[0m09:49:07.366278 [debug] [Thread-1 (]: Began executing node model.glasgow_traders.stg_raw_listings
+[0m09:49:07.411781 [debug] [Thread-1 (]: Writing runtime sql for node "model.glasgow_traders.stg_raw_listings"
+[0m09:49:07.415874 [debug] [Thread-1 (]: Using postgres connection "model.glasgow_traders.stg_raw_listings"
+[0m09:49:07.416673 [debug] [Thread-1 (]: On model.glasgow_traders.stg_raw_listings: BEGIN
+[0m09:49:07.417322 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m09:49:07.426183 [debug] [Thread-1 (]: SQL status: BEGIN in 0.0 seconds
+[0m09:49:07.426924 [debug] [Thread-1 (]: Using postgres connection "model.glasgow_traders.stg_raw_listings"
+[0m09:49:07.427795 [debug] [Thread-1 (]: On model.glasgow_traders.stg_raw_listings: /* {"app": "dbt", "dbt_version": "1.8.3", "profile_name": "glasgow_traders", "target_name": "dev", "node_id": "model.glasgow_traders.stg_raw_listings"} */
+
+  create view "glasgow_traders"."intermediate"."stg_raw_listings__dbt_tmp"
+    
+    
+  as (
+    
+
+SELECT
+    place_id, name, address, phone, website,
+    postcode, latitude, longitude, categories,
+    opening_hours, rating, review_count,
+    business_status, pipeline_status,
+    content_hash, wp_post_id, scraped_at
+FROM staging.raw_listings
+WHERE pipeline_status IN ('STAGED', 'TRANSFORMED')
+  );
+[0m09:49:07.430871 [debug] [Thread-1 (]: SQL status: CREATE VIEW in 0.0 seconds
+[0m09:49:07.438226 [debug] [Thread-1 (]: Using postgres connection "model.glasgow_traders.stg_raw_listings"
+[0m09:49:07.438952 [debug] [Thread-1 (]: On model.glasgow_traders.stg_raw_listings: /* {"app": "dbt", "dbt_version": "1.8.3", "profile_name": "glasgow_traders", "target_name": "dev", "node_id": "model.glasgow_traders.stg_raw_listings"} */
+alter table "glasgow_traders"."intermediate"."stg_raw_listings__dbt_tmp" rename to "stg_raw_listings"
+[0m09:49:07.441281 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.0 seconds
+[0m09:49:07.458214 [debug] [Thread-1 (]: On model.glasgow_traders.stg_raw_listings: COMMIT
+[0m09:49:07.459122 [debug] [Thread-1 (]: Using postgres connection "model.glasgow_traders.stg_raw_listings"
+[0m09:49:07.459851 [debug] [Thread-1 (]: On model.glasgow_traders.stg_raw_listings: COMMIT
+[0m09:49:07.462283 [debug] [Thread-1 (]: SQL status: COMMIT in 0.0 seconds
+[0m09:49:07.469803 [debug] [Thread-1 (]: Applying DROP to: "glasgow_traders"."intermediate"."stg_raw_listings__dbt_backup"
+[0m09:49:07.476170 [debug] [Thread-1 (]: Using postgres connection "model.glasgow_traders.stg_raw_listings"
+[0m09:49:07.476904 [debug] [Thread-1 (]: On model.glasgow_traders.stg_raw_listings: /* {"app": "dbt", "dbt_version": "1.8.3", "profile_name": "glasgow_traders", "target_name": "dev", "node_id": "model.glasgow_traders.stg_raw_listings"} */
+drop view if exists "glasgow_traders"."intermediate"."stg_raw_listings__dbt_backup" cascade
+[0m09:49:07.481971 [debug] [Thread-1 (]: SQL status: DROP VIEW in 0.0 seconds
+[0m09:49:07.484895 [debug] [Thread-1 (]: On model.glasgow_traders.stg_raw_listings: Close
+[0m09:49:07.486779 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'e605a1f6-5332-40b7-9a2d-2c2ab6f6eac4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f9683f921d0>]}
+[0m09:49:07.487739 [info ] [Thread-1 (]: 1 of 2 OK created sql view model intermediate.stg_raw_listings ................. [[32mCREATE VIEW[0m in 0.13s]
+[0m09:49:07.488838 [debug] [Thread-1 (]: Finished running node model.glasgow_traders.stg_raw_listings
+[0m09:49:07.490186 [debug] [Thread-1 (]: Began running node model.glasgow_traders.int_listings_enriched
+[0m09:49:07.491207 [info ] [Thread-1 (]: 2 of 2 START sql table model intermediate.int_listings_enriched ................ [RUN]
+[0m09:49:07.492145 [debug] [Thread-1 (]: Re-using an available connection from the pool (formerly model.glasgow_traders.stg_raw_listings, now model.glasgow_traders.int_listings_enriched)
+[0m09:49:07.492845 [debug] [Thread-1 (]: Began compiling node model.glasgow_traders.int_listings_enriched
+[0m09:49:07.496703 [debug] [Thread-1 (]: Writing injected SQL for node "model.glasgow_traders.int_listings_enriched"
+[0m09:49:07.499148 [debug] [Thread-1 (]: Began executing node model.glasgow_traders.int_listings_enriched
+[0m09:49:07.526998 [debug] [Thread-1 (]: Writing runtime sql for node "model.glasgow_traders.int_listings_enriched"
+[0m09:49:07.530497 [debug] [Thread-1 (]: Using postgres connection "model.glasgow_traders.int_listings_enriched"
+[0m09:49:07.531450 [debug] [Thread-1 (]: On model.glasgow_traders.int_listings_enriched: BEGIN
+[0m09:49:07.532290 [debug] [Thread-1 (]: Opening a new connection, currently in state closed
+[0m09:49:07.541686 [debug] [Thread-1 (]: SQL status: BEGIN in 0.0 seconds
+[0m09:49:07.542512 [debug] [Thread-1 (]: Using postgres connection "model.glasgow_traders.int_listings_enriched"
+[0m09:49:07.543282 [debug] [Thread-1 (]: On model.glasgow_traders.int_listings_enriched: /* {"app": "dbt", "dbt_version": "1.8.3", "profile_name": "glasgow_traders", "target_name": "dev", "node_id": "model.glasgow_traders.int_listings_enriched"} */
+
+  
+    
+
+  create  table "glasgow_traders"."intermediate"."int_listings_enriched__dbt_tmp"
+  
+  
+    as
+  
+  (
+    
+
+WITH base AS (SELECT * FROM "glasgow_traders"."intermediate"."stg_raw_listings"),
+
+phone_clean AS (
+    SELECT *,
+        REGEXP_REPLACE(COALESCE(phone, ''), '^0(\d{10})$', '+44\1') AS phone_e164
+    FROM base
+),
+
+scored AS (
+    SELECT *,
+        (CASE WHEN phone IS NOT NULL THEN 20 ELSE 0 END +
+         CASE WHEN website IS NOT NULL THEN 20 ELSE 0 END +
+         CASE WHEN opening_hours::text != '{}' THEN 20 ELSE 0 END +
+         CASE WHEN categories::text != '[]' THEN 20 ELSE 0 END +
+         20) AS health_score
+    FROM phone_clean
+),
+
+seo AS (
+    SELECT *,
+        CONCAT(name, ' — ', COALESCE(categories->0->>0, 'local business'),
+            ' in Glasgow, Scotland.',
+            CASE WHEN rating IS NOT NULL THEN ' Rated ' || rating || ' stars on Google.' ELSE '' END
+        ) AS meta_description
+    FROM scored
+)
+
+SELECT * FROM seo WHERE health_score >= 40
+  );
+  
+[0m09:49:07.549488 [debug] [Thread-1 (]: SQL status: SELECT 0 in 0.0 seconds
+[0m09:49:07.553302 [debug] [Thread-1 (]: Using postgres connection "model.glasgow_traders.int_listings_enriched"
+[0m09:49:07.554085 [debug] [Thread-1 (]: On model.glasgow_traders.int_listings_enriched: /* {"app": "dbt", "dbt_version": "1.8.3", "profile_name": "glasgow_traders", "target_name": "dev", "node_id": "model.glasgow_traders.int_listings_enriched"} */
+alter table "glasgow_traders"."intermediate"."int_listings_enriched__dbt_tmp" rename to "int_listings_enriched"
+[0m09:49:07.555142 [debug] [Thread-1 (]: SQL status: ALTER TABLE in 0.0 seconds
+[0m09:49:07.561136 [debug] [Thread-1 (]: On model.glasgow_traders.int_listings_enriched: COMMIT
+[0m09:49:07.561898 [debug] [Thread-1 (]: Using postgres connection "model.glasgow_traders.int_listings_enriched"
+[0m09:49:07.562578 [debug] [Thread-1 (]: On model.glasgow_traders.int_listings_enriched: COMMIT
+[0m09:49:07.564169 [debug] [Thread-1 (]: SQL status: COMMIT in 0.0 seconds
+[0m09:49:07.567386 [debug] [Thread-1 (]: Applying DROP to: "glasgow_traders"."intermediate"."int_listings_enriched__dbt_backup"
+[0m09:49:07.571408 [debug] [Thread-1 (]: Using postgres connection "model.glasgow_traders.int_listings_enriched"
+[0m09:49:07.572189 [debug] [Thread-1 (]: On model.glasgow_traders.int_listings_enriched: /* {"app": "dbt", "dbt_version": "1.8.3", "profile_name": "glasgow_traders", "target_name": "dev", "node_id": "model.glasgow_traders.int_listings_enriched"} */
+drop table if exists "glasgow_traders"."intermediate"."int_listings_enriched__dbt_backup" cascade
+[0m09:49:07.573300 [debug] [Thread-1 (]: SQL status: DROP TABLE in 0.0 seconds
+[0m09:49:07.574984 [debug] [Thread-1 (]: On model.glasgow_traders.int_listings_enriched: Close
+[0m09:49:07.575823 [debug] [Thread-1 (]: Sending event: {'category': 'dbt', 'action': 'run_model', 'label': 'e605a1f6-5332-40b7-9a2d-2c2ab6f6eac4', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f9683f9a010>]}
+[0m09:49:07.576802 [info ] [Thread-1 (]: 2 of 2 OK created sql table model intermediate.int_listings_enriched ........... [[32mSELECT 0[0m in 0.08s]
+[0m09:49:07.578010 [debug] [Thread-1 (]: Finished running node model.glasgow_traders.int_listings_enriched
+[0m09:49:07.580290 [debug] [MainThread]: Using postgres connection "master"
+[0m09:49:07.580869 [debug] [MainThread]: On master: BEGIN
+[0m09:49:07.581484 [debug] [MainThread]: Opening a new connection, currently in state closed
+[0m09:49:07.589885 [debug] [MainThread]: SQL status: BEGIN in 0.0 seconds
+[0m09:49:07.590742 [debug] [MainThread]: On master: COMMIT
+[0m09:49:07.591336 [debug] [MainThread]: Using postgres connection "master"
+[0m09:49:07.591880 [debug] [MainThread]: On master: COMMIT
+[0m09:49:07.592658 [debug] [MainThread]: SQL status: COMMIT in 0.0 seconds
+[0m09:49:07.593226 [debug] [MainThread]: On master: Close
+[0m09:49:07.593908 [debug] [MainThread]: Connection 'master' was properly closed.
+[0m09:49:07.594544 [debug] [MainThread]: Connection 'create_glasgow_traders_intermediate' was properly closed.
+[0m09:49:07.595110 [debug] [MainThread]: Connection 'model.glasgow_traders.int_listings_enriched' was properly closed.
+[0m09:49:07.595704 [info ] [MainThread]: 
+[0m09:49:07.596394 [info ] [MainThread]: Finished running 1 view model, 1 table model in 0 hours 0 minutes and 0.44 seconds (0.44s).
+[0m09:49:07.597646 [debug] [MainThread]: Command end result
+[0m09:49:07.650072 [info ] [MainThread]: 
+[0m09:49:07.650971 [info ] [MainThread]: [32mCompleted successfully[0m
+[0m09:49:07.651660 [info ] [MainThread]: 
+[0m09:49:07.652435 [info ] [MainThread]: Done. PASS=2 WARN=0 ERROR=0 SKIP=0 TOTAL=2
+[0m09:49:07.653767 [debug] [MainThread]: Resource report: {"command_name": "run", "command_success": true, "command_wall_clock_time": 2.2997053, "process_user_time": 3.295944, "process_kernel_time": 0.286559, "process_mem_max_rss": "115748", "process_out_blocks": "3711", "process_in_blocks": "0"}
+[0m09:49:07.654649 [debug] [MainThread]: Command `dbt run` succeeded at 09:49:07.654527 after 2.30 seconds
+[0m09:49:07.655521 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96bc0b1990>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96bc0b0d10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f96bfe3c690>]}
+[0m09:49:07.656191 [debug] [MainThread]: Flushing usage events
