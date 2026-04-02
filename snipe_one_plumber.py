@@ -1,16 +1,24 @@
 """
 Glasgow Traders - Single Listing Sniper v5
 Full gallery support + lp_listingpro_options serialized array
+Reads credentials from .env file - NEVER hardcode secrets.
 """
 
 import requests
 import sys
+import os
 from requests.auth import HTTPBasicAuth
+from dotenv import load_dotenv
 
-GOOGLE_API_KEY  = "***REMOVED***"
-WP_BASE_URL     = "https://www.glasgowtrader.co.uk"
-WP_USER         = "Dev"
-WP_APP_PASSWORD = "***REMOVED***"
+load_dotenv()
+
+GOOGLE_API_KEY  = os.getenv("GOOGLE_PLACES_API_KEY")
+WP_BASE_URL     = os.getenv("WP_BASE_URL")
+WP_USER         = os.getenv("WP_USERNAME")
+WP_APP_PASSWORD = os.getenv("WP_APP_PASSWORD")
+
+if not all([GOOGLE_API_KEY, WP_BASE_URL, WP_USER, WP_APP_PASSWORD]):
+    sys.exit("ERROR: Missing credentials in .env file.")
 
 AUTH = HTTPBasicAuth(WP_USER, WP_APP_PASSWORD)
 CAT_ID_PLUMBER = 22
