@@ -1,59 +1,45 @@
 import requests
-from requests.auth import HTTPBasicAuth
 
-class WordPressPublisher:
-    def __init__(self, base_url, username, app_password):
-        self.base = base_url.rstrip('/')
-        self.auth = HTTPBasicAuth(username, app_password)
-        self.session = requests.Session()
-        self.session.auth = self.auth
+class ListingProPublisher:
+    def __init__(self, url, username, password):
+        self.url = f"{url}/wp-json/wp/v2"
+        self.auth = (username, password)
 
-    def publish(self, listing):
-        existing_id = self._find_by_place_id(listing['place_id'])
-
+    def publish(self, data):
+        # HARDCODED VERIFIED IDs
+        CAT_ID = 22      # From your screenshot (Plumber)
+        LOC_ID = 26842   # From your search (Glasgow)
+        
         payload = {
-            "title": listing['name'],
+            "title": data['name'],
+            "content": f"Professional {data.get('category')} services in Glasgow.",
             "status": "publish",
-            "post_category": [315],
-            "street": listing.get('address', ''),
-            "city": "Glasgow",
-            "region": "Scotland",
-            "country": "United Kingdom",
-            "zip": listing.get('postcode', ''),
-            "latitude": str(listing['latitude']),
-            "longitude": str(listing['longitude']),
-            "phone": listing.get('phone_e164', ''),
-            "website": listing.get('website', ''),
-            "google_place_id": listing['place_id']
+            "type": "listing",
+            # We send these twice: once in the standard taxonomies, once in meta
+            "listing-category": [CAT_ID],
+            "listing-location": [LOC_ID],
+            "meta": {
+                "lp_listingpro_options": "on",
+                "phone": data.get('phone_number', ''),
+                "website": data.get('website', ''),
+                "gAddress": data.get('formatted_address', ''), # REQUIRED FOR MAP
+                "latitude": data.get('lat', ''),               # REQUIRED FOR MAP
+                "longitude": data.get('lng', ''),              # REQUIRED FOR MAP
+                "cp_city": "Glasgow",                          # TRiggers the Breadcrumb
+                "claimed": "1"
+            }
         }
 
-        if existing_id:
-            resp = self.session.post(
-                f"{self.base}/wp-json/geodir/v2/places/{existing_id}",
-                json=payload
-            )
+        # IMPORTANT: ListingPro sometimes requires the /listing endpoint
+        # rather than the generic /posts endpoint.
+        response = requests.post(f"{self.url}/listing", json=payload, auth=self.auth)
+        
+        if response.status_code in [200, 201]:
+            resp = response.json()
+            # Handle list vs dict return
+            final = resp[0] if isinstance(resp, list) else resp
+            print(f"✅ Design Synced! Link: {final.get('link')}")
+            return True
         else:
-            resp = self.session.post(
-                f"{self.base}/wp-json/geodir/v2/places",
-                json=payload
-            )
-
-        if not resp.ok:
-            print(f"❌ WP API Error ({resp.status_code}): {resp.text}")
-            
-        resp.raise_for_status()
-        return resp.json()['id']
-
-    def _find_by_place_id(self, place_id):
-        resp = self.session.get(
-            f"{self.base}/wp-json/geodir/v2/places",
-            params={"meta_key": "google_place_id", "meta_value": place_id, "per_page": 1}
-        )
-        if not resp.ok:
-            return None
-        results = resp.json()
-        if isinstance(results, list) and results:
-            for r in results:
-                if r.get('google_place_id') == place_id:
-                    return r['id']
-        return None
+            print(f"❌ Failed: {response.text}")
+            return False

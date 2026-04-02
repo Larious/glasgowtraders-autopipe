@@ -45,7 +45,7 @@ def discover_plumber():
     print("\n=== STEP 1: Searching Google Places ===")
     resp = requests.get(
         "https://maps.googleapis.com/maps/api/place/textsearch/json",
-        params={"query": "plumber in Glasgow Scotland", "key": GOOGLE_API_KEY},
+        params={"query": "electrician in Glasgow Scotland", "key": GOOGLE_API_KEY},
         timeout=15,
     )
     resp.raise_for_status()
