@@ -1,6 +1,12 @@
 .env
 __pycache__/
 *.pyc
-.env
-__pycache__/
-*.pyc
+*.pyo
+*.bak
+dbt/target/
+dbt/logs/
+dbt/.user.yml
+dbt/dbt_packages/
+.DS_Store
+.vscode/
+.idea/
