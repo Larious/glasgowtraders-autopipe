@@ -1,0 +1,13 @@
+glasgow_traders:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: your-account-id
+      user: your-username
+      password: your-password
+      role: ACCOUNTADMIN
+      warehouse: AUTOPIPE_WH
+      database: GLASGOW_TRADERS
+      schema: INTERMEDIATE
+      threads: 1

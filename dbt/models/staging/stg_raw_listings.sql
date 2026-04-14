@@ -6,5 +6,5 @@ SELECT
     opening_hours, rating, review_count,
     business_status, pipeline_status,
     content_hash, wp_post_id, scraped_at
-FROM staging.raw_listings
+FROM GLASGOW_TRADERS.STAGING.RAW_LISTINGS
 WHERE pipeline_status IN ('STAGED', 'TRANSFORMED')
