@@ -1,12 +1,21 @@
+# Credentials
+dbt/profiles.yml
 .env
+
+# Virtual environment
+dbt-env/
+
+# Data files
+*.csv
+
+# Duplicate/backup files
+*.backup
+*\ (1).*
+*\ (2).*
+
+# Python
 __pycache__/
 *.pyc
-*.pyo
-*.bak
-dbt/target/
-dbt/logs/
-dbt/.user.yml
-dbt/dbt_packages/
+
+# OS
 .DS_Store
-.vscode/
-.idea/

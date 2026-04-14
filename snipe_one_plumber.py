@@ -1,24 +1,20 @@
+import os
 """
-Glasgow Traders - Single Listing Sniper v5
-Full gallery support + lp_listingpro_options serialized array
-Reads credentials from .env file - NEVER hardcode secrets.
+Glasgow Traders - Single Listing Sniper v7
+- Proper business description (no duplicate sidebar data)
+- Fixed hours parsing (24/7 + normal + closed days)
+- Fixed 12-hour time format
+- Gallery writes to gallery_image_ids
 """
 
 import requests
 import sys
-import os
 from requests.auth import HTTPBasicAuth
-from dotenv import load_dotenv
 
-load_dotenv()
-
-GOOGLE_API_KEY  = os.getenv("GOOGLE_PLACES_API_KEY")
-WP_BASE_URL     = os.getenv("WP_BASE_URL")
-WP_USER         = os.getenv("WP_USERNAME")
-WP_APP_PASSWORD = os.getenv("WP_APP_PASSWORD")
-
-if not all([GOOGLE_API_KEY, WP_BASE_URL, WP_USER, WP_APP_PASSWORD]):
-    sys.exit("ERROR: Missing credentials in .env file.")
+GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "")
+WP_BASE_URL = "https://www.glasgowtrader.co.uk"
+WP_USER = "Dev"
+WP_APP_PASSWORD = os.environ.get("WP_APP_PASSWORD", "")
 
 AUTH = HTTPBasicAuth(WP_USER, WP_APP_PASSWORD)
 CAT_ID_PLUMBER = 22
@@ -37,15 +33,16 @@ def find_glasgow_location_id():
             if "glasgow" in term["name"].lower():
                 print(f"  Found: ID={term['id']} name={term['name']}")
                 return term["id"]
-    print("  Glasgow not found.")
+    print("  Glasgow location not found in taxonomy.")
     return None
 
 
-def discover_plumber():
-    print("\n=== STEP 1: Searching Google Places ===")
+def discover_plumber(query="plumber in Glasgow Scotland"):
+    print(f"\n=== STEP 1: Searching Google Places ===")
+    print(f"  Query: {query}")
     resp = requests.get(
         "https://maps.googleapis.com/maps/api/place/textsearch/json",
-        params={"query": "electrician in Glasgow Scotland", "key": GOOGLE_API_KEY},
+        params={"query": query, "key": GOOGLE_API_KEY},
         timeout=15,
     )
     resp.raise_for_status()
@@ -55,11 +52,25 @@ def discover_plumber():
         return None
     first = data["results"][0]
     print(f"  Found: {first['name']}")
+    print(f"  Place ID: {first['place_id']}")
     return first["place_id"]
 
 
+def to_12h(t):
+    h = int(t[:2])
+    m = t[2:]
+    if h == 0:
+        return f"12:{m}am"
+    elif h < 12:
+        return f"{h}:{m}am"
+    elif h == 12:
+        return f"12:{m}pm"
+    else:
+        return f"{h - 12}:{m}pm"
+
+
 def enrich_place(place_id):
-    print("\n=== STEP 2: Enriching from Google ===")
+    print("\n=== STEP 2: Enriching from Google Places ===")
     resp = requests.get(
         "https://maps.googleapis.com/maps/api/place/details/json",
         params={
@@ -75,6 +86,7 @@ def enrich_place(place_id):
     resp.raise_for_status()
     r = resp.json().get("result", {})
     if not r:
+        print("  No result returned.")
         return None
 
     photo_refs = []
@@ -83,57 +95,61 @@ def enrich_place(place_id):
             photo_refs.append(p["photo_reference"])
 
     lp_hours = {}
-    if r.get("opening_hours", {}).get("periods"):
-        day_names = ["Sunday", "Monday", "Tuesday", "Wednesday",
-                     "Thursday", "Friday", "Saturday"]
-        for period in r["opening_hours"]["periods"]:
-            day_idx = period.get("open", {}).get("day", 0)
-            day_name = day_names[day_idx]
-            open_time = period.get("open", {}).get("time", "0900")
-            close_time = period.get("close", {}).get("time", "1700")
-            oh = int(open_time[:2])
-            om = open_time[2:]
-            ch = int(close_time[:2])
-            cm = close_time[2:]
-            open_fmt = f"{oh if oh <= 12 else oh-12:02d}:{om}{'am' if oh < 12 else 'pm'}"
-            close_fmt = f"{ch if ch <= 12 else ch-12:02d}:{cm}{'am' if ch < 12 else 'pm'}"
-            lp_hours[day_name] = {"open": open_fmt, "close": close_fmt}
-
-    hours_text = ""
-    if r.get("opening_hours", {}).get("weekday_text"):
-        hours_text = "\n".join(r["opening_hours"]["weekday_text"])
+    all_days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+    periods = r.get("opening_hours", {}).get("periods", [])
+    if periods:
+        day_names = [
+            "Sunday", "Monday", "Tuesday", "Wednesday",
+            "Thursday", "Friday", "Saturday",
+        ]
+        is_24_7 = (
+            len(periods) == 1
+            and periods[0].get("open", {}).get("time") == "0000"
+            and "close" not in periods[0]
+        )
+        if is_24_7:
+            for day in all_days:
+                lp_hours[day] = {"open": "12:00am", "close": "11:59pm"}
+        else:
+            for period in periods:
+                day_idx = period.get("open", {}).get("day", 0)
+                day_name = day_names[day_idx]
+                open_time = period.get("open", {}).get("time", "0900")
+                close_time = period.get("close", {}).get("time", "1700")
+                lp_hours[day_name] = {"open": to_12h(open_time), "close": to_12h(close_time)}
+            for day in all_days:
+                if day not in lp_hours:
+                    lp_hours[day] = {"open": "closed", "close": "closed"}
 
     enriched = {
-        "name":              r.get("name", "Unknown"),
+        "name": r.get("name", "Unknown"),
         "formatted_address": r.get("formatted_address", ""),
-        "phone":             r.get("formatted_phone_number", ""),
-        "phone_intl":        r.get("international_phone_number", ""),
-        "website":           r.get("website", ""),
-        "lat":               r.get("geometry", {}).get("location", {}).get("lat"),
-        "lng":               r.get("geometry", {}).get("location", {}).get("lng"),
-        "rating":            r.get("rating"),
-        "review_count":      r.get("user_ratings_total"),
-        "hours_text":        hours_text,
-        "lp_hours":          lp_hours,
-        "about":             r.get("editorial_summary", {}).get("overview", ""),
-        "photo_refs":        photo_refs,
-        "place_id":          place_id,
+        "phone": r.get("formatted_phone_number", ""),
+        "intl_phone": r.get("international_phone_number", ""),
+        "website": r.get("website", ""),
+        "lat": r.get("geometry", {}).get("location", {}).get("lat", 0),
+        "lng": r.get("geometry", {}).get("location", {}).get("lng", 0),
+        "rating": r.get("rating", 0),
+        "review_count": r.get("user_ratings_total", 0),
+        "photo_refs": photo_refs,
+        "lp_hours": lp_hours,
+        "place_id": place_id,
+        "summary": r.get("editorial_summary", {}).get("overview", ""),
     }
 
     print(f"  Name:    {enriched['name']}")
     print(f"  Address: {enriched['formatted_address']}")
     print(f"  Phone:   {enriched['phone']}")
     print(f"  Website: {enriched['website']}")
-    print(f"  Coords:  {enriched['lat']}, {enriched['lng']}")
     print(f"  Rating:  {enriched['rating']} ({enriched['review_count']} reviews)")
+    print(f"  Photos:  {len(photo_refs)} available")
     print(f"  Hours:   {len(lp_hours)} days")
-    print(f"  Photos:  {len(photo_refs)}")
     return enriched
 
 
 def upload_images(photo_refs, name):
     if not photo_refs:
-        print("\n=== STEP 3: No photos, skipping ===")
+        print("\n=== STEP 3: No photos available, skipping ===")
         return []
     print(f"\n=== STEP 3: Uploading {len(photo_refs)} images ===")
     media_ids = []
@@ -142,7 +158,7 @@ def upload_images(photo_refs, name):
             f"https://maps.googleapis.com/maps/api/place/photo"
             f"?maxwidth=1200&photoreference={ref}&key={GOOGLE_API_KEY}"
         )
-        print(f"  Downloading photo {i+1}/{len(photo_refs)}...")
+        print(f"  Downloading photo {i + 1}/{len(photo_refs)}...")
         img = requests.get(photo_url, timeout=30)
         if img.status_code != 200:
             print(f"  Download failed: {img.status_code}")
@@ -152,120 +168,185 @@ def upload_images(photo_refs, name):
             f"{WP_BASE_URL}/wp-json/wp/v2/media",
             data=img.content,
             headers={
-                "Content-Disposition": f'attachment; filename="{safe}-{i+1}.jpg"',
+                "Content-Disposition": f'attachment; filename="{safe}-{i + 1}.jpg"',
                 "Content-Type": img.headers.get("Content-Type", "image/jpeg"),
             },
-            auth=AUTH, timeout=30,
+            auth=AUTH,
+            timeout=30,
         )
         if wp.status_code == 201:
             mid = wp.json()["id"]
             media_ids.append(mid)
             print(f"  Uploaded! Media ID: {mid}")
         else:
-            print(f"  Failed: {wp.status_code}")
+            print(f"  Upload failed: {wp.status_code} {wp.text[:200]}")
+    print(f"  Total uploaded: {len(media_ids)}")
     return media_ids
 
 
-def create_listing(enriched, first_media_id, loc_id):
-    print("\n=== STEP 4: Creating listing ===")
-    about = enriched.get("about") or (
-        f"{enriched['name']} is a professional plumber serving "
-        f"Glasgow and the surrounding areas."
+def create_listing(enriched, first_media_id, location_id):
+    print("\n=== STEP 4: Creating WordPress listing ===")
+
+    name = enriched["name"]
+    address = enriched["formatted_address"]
+    rating = enriched["rating"]
+    reviews = enriched["review_count"]
+    summary = enriched.get("summary", "")
+
+    parts = []
+    if summary:
+        parts.append(f"<p>{summary}</p>")
+
+    parts.append(
+        f"<p>{name} is a trusted plumbing service located in Glasgow. "
+        f"Based at {address}, they provide professional plumbing solutions "
+        f"for both residential and commercial customers in the Glasgow area.</p>"
     )
-    content = f"<p>{about}</p>"
-    if enriched.get("hours_text"):
-        content += "\n<h3>Opening Hours</h3>\n<p>"
-        content += enriched["hours_text"].replace("\n", "<br>")
-        content += "</p>"
+
+    if rating and reviews:
+        parts.append(
+            f"<p>With a {rating}/5 star rating from {reviews} customer reviews, "
+            f"{name} is one of Glasgow's highest-rated plumbing services.</p>"
+        )
+
+    parts.append(
+        f"<p>Contact {name} today for expert plumbing assistance. "
+        f"You can find their phone number, opening hours, and location "
+        f"on this page.</p>"
+    )
+
+    content = "\n".join(parts)
 
     payload = {
-        "title":            enriched["name"],
-        "content":          content,
-        "status":           "publish",
-        "featured_media":   first_media_id or 0,
+        "title": enriched["name"],
+        "content": content,
+        "status": "publish",
         "listing-category": [CAT_ID_PLUMBER],
     }
-    if loc_id:
-        payload["location"] = [loc_id]
+    if location_id:
+        payload["location"] = [location_id]
+    if first_media_id:
+        payload["featured_media"] = first_media_id
 
     resp = requests.post(
         f"{WP_BASE_URL}/wp-json/wp/v2/listing",
-        json=payload, auth=AUTH, timeout=30,
+        json=payload,
+        auth=AUTH,
+        timeout=30,
     )
-    if resp.status_code in [200, 201]:
-        d = resp.json()
-        if isinstance(d, list):
-            d = d[0]
-        pid = d.get("id")
-        link = d.get("link", "")
-        print(f"  Created! Post ID: {pid}")
-        print(f"  Link: {link}")
-        return pid, link
-    print(f"  FAILED ({resp.status_code}): {resp.text[:300]}")
-    return None, None
+    if resp.status_code == 201:
+        data = resp.json()
+        post_id = data["id"]
+        link = data.get("link", "")
+        print(f"  Created! Post ID: {post_id}")
+        print(f"  URL: {link}")
+        return post_id, link
+    else:
+        print(f"  FAILED: {resp.status_code}")
+        print(f"  {resp.text[:300]}")
+        return None, None
 
 
 def inject_listingpro_options(post_id, enriched):
-    print("\n=== STEP 5: Writing to lp_listingpro_options ===")
-    options_data = {
-        "phone":            enriched.get("phone", ""),
-        "website":          enriched.get("website", ""),
-        "gAddress":         enriched.get("formatted_address", ""),
-        "latitude":         str(enriched.get("lat", "")),
-        "longitude":        str(enriched.get("lng", "")),
-        "tagline_text":     "Plumber in Glasgow",
-        "email":            "",
-        "claimed_section":  "not_claimed",
-        "price_status":     "notsay",
+    print("\n=== STEP 5: Injecting lp_listingpro_options ===")
+    options = {
+        "tagline_text": "Plumber in Glasgow",
+        "gAddress": enriched["formatted_address"],
+        "latitude": str(enriched["lat"]),
+        "longitude": str(enriched["lng"]),
+        "phone": enriched["phone"],
+        "website": enriched["website"],
+        "email": "",
+        "twitter": "",
+        "facebook": "",
+        "linkedin": "",
+        "youtube": "",
+        "instagram": "",
+        "video": "",
+        "gallery": "",
+        "price_status": "notsay",
+        "list_price": "",
+        "list_price_to": "",
+        "Plan_id": "0",
+        "lp_purchase_days": "",
+        "reviews_ids": "",
+        "claimed_section": "not_claimed",
+        "business_hours": enriched.get("lp_hours", {}),
     }
-    if enriched.get("lp_hours"):
-        options_data["business_hours"] = enriched["lp_hours"]
-
     resp = requests.post(
         f"{WP_BASE_URL}/wp-json/glasgow-traders/v1/listing-options/{post_id}",
-        json=options_data, auth=AUTH, timeout=15,
+        json=options,
+        auth=AUTH,
+        timeout=15,
     )
     if resp.status_code == 200:
-        data = resp.json()
-        print(f"  {data.get('message', '')}")
-        verified = data.get("verified", {})
-        for k, v in verified.items():
-            preview = str(v)[:50] if v else "(empty)"
-            print(f"    {k:<20} {preview}")
-        return data.get("success", False)
-    print(f"  Failed: {resp.status_code}")
-    return False
+        print("  lp_listingpro_options saved successfully.")
+        result = resp.json()
+        for field in ["phone", "gAddress", "latitude", "longitude", "website"]:
+            val = result.get("verified", {}).get(field, "?")
+            print(f"    {field}: {val}")
+    else:
+        print(f"  FAILED: {resp.status_code} {resp.text[:200]}")
 
 
 def set_gallery(post_id, media_ids):
     if not media_ids:
+        print("\n=== STEP 5b: No images to set as gallery ===")
         return
     print(f"\n=== STEP 5b: Setting gallery ({len(media_ids)} images) ===")
     gallery_str = ",".join(str(m) for m in media_ids)
+
     resp = requests.post(
         f"{WP_BASE_URL}/wp-json/wp/v2/listing/{post_id}",
         json={"meta": {"gallery_image_ids": gallery_str}},
-        auth=AUTH, timeout=15,
+        auth=AUTH,
+        timeout=15,
     )
     print(f"  gallery_image_ids = {gallery_str}")
-    print(f"  Status: {resp.status_code}")
+    print(f"  REST API status: {resp.status_code}")
+
+    resp2 = requests.post(
+        f"{WP_BASE_URL}/wp-json/glasgow-traders/v1/listing-options/{post_id}",
+        json={"gallery": gallery_str},
+        auth=AUTH,
+        timeout=15,
+    )
+    print(f"  lp_options.gallery status: {resp2.status_code}")
+
+    check = requests.get(
+        f"{WP_BASE_URL}/wp-json/glasgow-traders/v1/listing-meta/{post_id}",
+        auth=AUTH,
+        timeout=15,
+    )
+    if check.status_code == 200:
+        meta = check.json().get("meta", {})
+        gid = meta.get("gallery_image_ids", {}).get("value", "")
+        if gid:
+            count = len(gid.split(","))
+            print(f"  Verified: {count} images in gallery_image_ids")
+        else:
+            print("  WARNING: gallery_image_ids is empty after save!")
 
 
 def verify_listing(post_id):
-    print("\n=== STEP 6: Verifying ===")
+    print(f"\n=== STEP 6: Verifying listing {post_id} ===")
     resp = requests.get(
         f"{WP_BASE_URL}/wp-json/glasgow-traders/v1/listing-meta/{post_id}",
-        auth=AUTH, timeout=15,
+        auth=AUTH,
+        timeout=15,
     )
     if resp.status_code != 200:
-        print(f"  Could not verify: {resp.status_code}")
+        print("  Could not fetch listing meta for verification.")
         return False
+
     meta = resp.json().get("meta", {})
     lp = meta.get("lp_listingpro_options", {}).get("value", {})
     gal = meta.get("gallery_image_ids", {}).get("value", "")
+
     if not isinstance(lp, dict):
-        print("  lp_listingpro_options not a dict.")
+        print("  lp_listingpro_options is not a dict.")
         return False
+
     fields = ["phone", "website", "gAddress", "latitude", "longitude"]
     all_ok = True
     for f in fields:
@@ -274,8 +355,9 @@ def verify_listing(post_id):
         if not val:
             all_ok = False
         print(f"  {f:<20} {status:<8} {str(val)[:50]}")
+
     img_count = len(gal.split(",")) if gal else 0
-    print(f"  gallery_images     {'OK' if img_count > 0 else 'MISSING':<8} {img_count} images")
+    print(f"  {'gallery_images':<20} {'OK' if img_count > 0 else 'MISSING':<8} {img_count} images")
     if not gal:
         all_ok = False
     return all_ok
@@ -283,8 +365,8 @@ def verify_listing(post_id):
 
 def main():
     print("=" * 60)
-    print("  GLASGOW TRADERS - Sniper v5")
-    print("  Full gallery + lp_listingpro_options")
+    print("  GLASGOW TRADERS - Sniper v7")
+    print("  Description + hours fix + gallery")
     print("=" * 60)
 
     global GLASGOW_LOC_ID
@@ -324,7 +406,7 @@ def main():
     print(f"  Photos:    {len(media_ids)} uploaded")
     print(f"  WP Post:   {post_id}")
     print(f"  Live URL:  {link}")
-    print(f"  Verified:  {'YES' if verified else 'NO'}")
+    print(f"  Verified:  {'YES' if verified else 'NO - check warnings above'}")
     print("=" * 60)
 
 
