@@ -4,6 +4,16 @@ import time
 import requests
 from requests.auth import HTTPBasicAuth
 
+# Load .env
+_envpath = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".env")
+if os.path.exists(_envpath):
+    with open(_envpath) as _f:
+        for _line in _f:
+            if "=" in _line and not _line.startswith("#"):
+                _k, _v = _line.strip().split("=", 1)
+                os.environ[_k] = _v
+
+
 WPBASEURL     = "https://www.glasgowtrader.co.uk"
 WPUSER        = "Dev"
 WPAPPPASSWORD = "vMKQMNmn7OQ0 MzkVqalj 6aZv"
