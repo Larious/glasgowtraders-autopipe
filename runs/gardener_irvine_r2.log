@@ -1,0 +1,152 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Irvine
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Irvine'...
+  Found: ID=230 name=Irvine
+
+[DEDUP] Fetching existing listings...
+  1470 existing listings on site
+  Ledger: 1452 place_ids
+
+[SEARCH] Finding gardeners in Irvine...
+  Found 23 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/23] Jds Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34500 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [2/23] Ayrshire Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34032 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [3/23] PRESTIGE LANDSCAPING & PAVING AYRSHIRE
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34050 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [4/23] Toms Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34520 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [5/23] BBS Landscaping ️ ️ ️ ️ ️
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34504 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [6/23] S & C Driveways, Landscapes Tarmac & Block Paving Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34522 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [7/23] Central Paving & Landscaping Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34496 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [8/23] Core Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34024 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [9/23] Allan Rowan Landscape Gardening Contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34558 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [10/23] Creative Landscapes Scotland LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34474 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [11/23] McDonald Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34538 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [12/23] Garden Grooming Troon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34034 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [13/23] Caledonia Groundworks and Landscapes LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Marathon House, Olympic Business park, Drybridge, Kilmarnock KA2 9AE, UK
+    Phone:   07857 992727
+    Website: https://www.cglscotland.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34690
+    URL: https://glasgowtrader.co.uk/listing/caledonia-groundworks-and-landscapes-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/23] K A Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34060 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [15/23] Ayrshire Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34052 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [16/23] Ayrshire Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34056 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [17/23] West Coast Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34054 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [18/23] The Tree Business
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34072 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [19/23] McIntosh Tree Care Experts Tree Surgeon Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34058 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [20/23] Maple Tree & Gardening Services Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34038 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [21/23] John Baird Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34062 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [22/23] Wallace Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33912 — attached location 'Irvine' instead
+
+────────────────────────────────────────────────────────────
+  [23/23] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Irvine' instead
+
+============================================================
+  BATCH COMPLETE — Irvine
+============================================================
+  Found:   23
+  Created: 1
+  Skipped: 22 (already existed)
+  Failed:  0
+============================================================

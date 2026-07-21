@@ -1,0 +1,218 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Livingston
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Livingston'...
+  Found: ID=246 name=Livingston
+
+[DEDUP] Fetching existing listings...
+  1471 existing listings on site
+  Ledger: 1453 place_ids
+
+[SEARCH] Finding gardeners in Livingston...
+  Found 29 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/29] Brad's Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34206 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [2/29] Robson Garden Maintenance (East Calder branch)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34586 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [3/29] DM Garden Services - (West Lothian)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34212 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [4/29] H Goodman Groundworks & Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34214 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [5/29] AGB Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34224 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [6/29] Greenhart Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34230 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [7/29] LAWN LEGEND LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34588 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [8/29] landscape Zoolutions - Landscape West Lothian
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34208 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [9/29] Stewart Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34590 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [10/29] All Seasons Grounds + Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34594 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [11/29] DJM Landscaping Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34194 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [12/29] Urban Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34598 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [13/29] West Lothian Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34196 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [14/29] Gardens R Us Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34596 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [15/29] Robson Garden Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Sherwood Industrial Estate, Bonnyrigg EH19 3LW, UK
+    Phone:   07891 794809
+    Website: http://www.robsongardenmaintenance.com/
+    Rating:  4.9 (60 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34692
+    URL: https://glasgowtrader.co.uk/listing/robson-garden-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/29] K R Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34604 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [17/29] RS Landscaping & Construction
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34202 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [18/29] Prestige Paving & landscaping ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34606 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [19/29] Roberts Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34146 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [20/29] Artificial Turf Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Tartraven Pl, Broxburn EH52 5LT, UK
+    Phone:   07391 423285
+    Website: https://www.artificialturfscotland.co.uk/
+    Rating:  4.9 (157 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34694
+    URL: https://glasgowtrader.co.uk/listing/artificial-turf-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/29] Alba Property & Landscaping Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 72 Chuckethall Rd, Livingston EH54 8FB, UK
+    Phone:   07854 989994
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34696
+    URL: https://glasgowtrader.co.uk/listing/alba-property-landscaping-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/29] BmTreeSurgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34232 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [23/29] Trees in West Lothian
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34234 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [24/29] Blaikie Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34238 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [25/29] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [26/29] LP Tree And Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34240 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [27/29] TreeTonic
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34608 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [28/29] DT tree surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33866 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [29/29] Thomson Trees Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Kaimes House, West Linton EH46 7BX, UK
+    Phone:   0131 356 0428
+    Website: https://www.thomsontrees.com/
+    Rating:  5 (113 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34698
+    URL: https://glasgowtrader.co.uk/listing/thomson-trees-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Livingston
+============================================================
+  Found:   29
+  Created: 4
+  Skipped: 25 (already existed)
+  Failed:  0
+============================================================

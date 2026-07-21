@@ -1,0 +1,237 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  1476 existing listings on site
+  Ledger: 1458 place_ids
+
+[SEARCH] Finding gardeners in Hamilton...
+  Found 40 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/40] Mckay Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33858 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/40] CD Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33886 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/40] Garden Machinery Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33884 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [4/40] CM Gardens LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33856 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [5/40] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [6/40] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/40] TreeTmenT Specialist Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33872 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [8/40] Cedar Garden Rooms Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33900 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [9/40] Briarlea Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34254 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [10/40] Bancroft Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33888 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [11/40] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [12/40] Graham's Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33898 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [13/40] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [14/40] Garden Holme Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33896 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [15/40] Murray Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33836 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [16/40] HSC Builders | Landscape Gardeners | Property Renovators | Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31396 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [17/40] LCL Landscaping & Groundcare
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33854 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [18/40] McBride Landscaping & Groundworks
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 32 Laburnum Lea, Hamilton ML3 7LZ, UK
+    Phone:   07946 817566
+    Website: https://www.facebook.com/share/1bGkW3rhRd/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34702
+    URL: https://glasgowtrader.co.uk/listing/mcbride-landscaping-groundworks/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/40] JR Tree & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33864 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [20/40] D C Landscape Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33904 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [21/40] JMF DRIVEWAYS AND LANDSCAPING
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33844 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [22/40] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [23/40] GSB Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34428 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [24/40] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [25/40] DT tree surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33866 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [26/40] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [27/40] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [28/40] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [29/40] Arbatross Tree Care & Roofing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33906 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [30/40] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [31/40] Specialist Tree Care Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34272 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [32/40] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [33/40] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [34/40] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [35/40] North Lanarkshire Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33852 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [36/40] R Williams Tree Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33802 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [37/40] Central Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33876 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [38/40] JL Tree Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33880 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [39/40] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [40/40] CH Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34274 — attached location 'Hamilton' instead
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   40
+  Created: 1
+  Skipped: 39 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,199 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Houston
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Houston'...
+  Found: ID=228 name=Houston
+
+[DEDUP] Fetching existing listings...
+  1466 existing listings on site
+  Ledger: 1448 place_ids
+
+[SEARCH] Finding gardeners in Houston...
+  Found 30 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/30] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [2/30] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [3/30] Paisley Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33768 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [4/30] Alexander Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Spey Pl, Johnstone PA5 0PT, UK
+    Phone:   07955 225788
+    Website: https://www.lanarkshiregardener.co.uk/gardener-in-johnstone/
+    Rating:  5 (1 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34682
+    URL: https://glasgowtrader.co.uk/listing/alexander-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/30] Ortus Garden Design & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34096 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [6/30] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [7/30] Gryffe valley landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34094 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [8/30] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [9/30] DMC Groundworks Civils & Landscape Design Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33792 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [10/30] Blairs Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33920 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [11/30] R Williams Tree Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33802 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [12/30] APS Landscaping and Building
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Kintyre Ave, Johnstone, Paisley PA3 3JA, UK
+    Phone:   07551 459493
+    Website: https://m.facebook.com/APS.LandscapingAndBuilding/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34684
+    URL: https://glasgowtrader.co.uk/listing/aps-landscaping-and-building/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/30] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [14/30] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [15/30] Digby Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33794 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [16/30] Home Enhanced Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34618 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [17/30] Glenbrae Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33772 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [18/30] MK Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33998 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [19/30] KDC Landscape
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33952 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [20/30] Elmar Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34370 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [21/30] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [22/30] Albar Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34366 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [23/30] Matrix Gardens & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33770 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [24/30] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [25/30] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [26/30] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [27/30] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [28/30] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [29/30] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [30/30] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+============================================================
+  BATCH COMPLETE — Houston
+============================================================
+  Found:   30
+  Created: 2
+  Skipped: 28 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,142 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  1475 existing listings on site
+  Ledger: 1457 place_ids
+
+[SEARCH] Finding gardeners in Airdrie...
+  Found 21 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/21] Premier Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33806 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [2/21] Higgins garden maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33808 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [3/21] CUT N BLO LANDSCAPING
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33810 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [4/21] Garden Man - Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33624 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [5/21] MGS Mark's Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33812 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [6/21] Blairs Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33920 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [7/21] Coatbridge Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33814 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [8/21] 1st Class Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33816 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [9/21] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [10/21] Airdrie Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33826 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [11/21] Cambus Fencing & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33820 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [12/21] Gardens by Ross (GBR Landscaping)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33824 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [13/21] Briarlea Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34254 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [14/21] Apex Garden Rooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 248 Greengairs Rd, Airdrie ML6 7TA, UK
+    Phone:   0141 345 2936
+    Website: https://www.apexgardenrooms.com/
+    Rating:  4.7 (23 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34700
+    URL: https://glasgowtrader.co.uk/listing/apex-garden-rooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/21] All NU Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33822 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [16/21] Murray Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33836 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [17/21] Skill Build Brickwork & Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32092 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [18/21] JR Tree & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33864 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [19/21] North Lanarkshire Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33852 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [20/21] DT tree surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33866 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [21/21] Apex Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33846 — attached location 'Airdrie' instead
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   21
+  Created: 1
+  Skipped: 20 (already existed)
+  Failed:  0
+============================================================

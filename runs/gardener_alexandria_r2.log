@@ -1,0 +1,224 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Alexandria
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Alexandria'...
+  Found: ID=174 name=Alexandria
+
+[DEDUP] Fetching existing listings...
+  1468 existing listings on site
+  Ledger: 1450 place_ids
+
+[SEARCH] Finding gardeners in Alexandria...
+  Found 35 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/35] West Coast Property & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34004 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [2/35] CB Garden & Property Domestic & Commercial
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34076 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [3/35] MK Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33998 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [4/35] Saltire landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34012 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [5/35] A G Landscapes - Garden Design & Build
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34010 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [6/35] HGS Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34430 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [7/35] D Halligan Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34018 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [8/35] Abbey Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34020 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [9/35] The Gardeners Cottages
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34432 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [10/35] Alexander Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34682 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [11/35] Geilston Garden (National Trust for Scotland)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Geilston Garden, Main Road, Cardross, Dumbarton G82 5HD, UK
+    Phone:   01389 849187
+    Website: http://www.nts.org.uk/GeilstonGarden
+    Rating:  4.6 (459 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34686
+    URL: https://glasgowtrader.co.uk/listing/geilston-garden-national-trust-for-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/35] Walled Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Balloch, Alexandria G83 8JN, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34688
+    URL: https://glasgowtrader.co.uk/listing/walled-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/35] Oakburn Gardens & Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34434 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [14/35] PR Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34006 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [15/35] JWR landscaping&gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34002 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [16/35] Impero Gardens, Zanone Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34000 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [17/35] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [18/35] Dunbartonshire Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34008 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [19/35] Lorimer Tree & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34014 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [20/35] Antonia Boyle Landscape Architect
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34458 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [21/35] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34022 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [22/35] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [23/35] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [24/35] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [25/35] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [26/35] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [27/35] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [28/35] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [29/35] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [30/35] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [31/35] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [32/35] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [33/35] Scottish Pine Tree Works & Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33994 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [34/35] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [35/35] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Alexandria' instead
+
+============================================================
+  BATCH COMPLETE — Alexandria
+============================================================
+  Found:   35
+  Created: 2
+  Skipped: 33 (already existed)
+  Failed:  0
+============================================================
