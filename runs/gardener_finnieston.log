@@ -1,0 +1,240 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Finnieston
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Finnieston'...
+  Found: ID=216 name=Finnieston
+
+[DEDUP] Fetching existing listings...
+  1543 existing listings on site
+  Ledger: 1525 place_ids
+
+[SEARCH] Finding gardeners in Finnieston...
+  Found 43 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/43] Green Wheels Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33623 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [2/43] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [3/43] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [4/43] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [5/43] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [6/43] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [7/43] Belmont Landscaping & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34348 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [8/43] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34298 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [9/43] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [10/43] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [11/43] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [12/43] WEST END GARDEN SERVICES
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34746 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [13/43] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [14/43] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [15/43] The West End Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33782 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [16/43] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [17/43] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [18/43] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [19/43] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [20/43] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [21/43] Essenjay Tree & Grass Care Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34346 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [22/43] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [23/43] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [24/43] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [25/43] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [26/43] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [27/43] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [28/43] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [29/43] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [30/43] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [31/43] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [32/43] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [33/43] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [34/43] Aurea Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34402 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [35/43] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [36/43] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [37/43] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [38/43] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [39/43] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [40/43] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [41/43] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [42/43] Glasgow Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34824 — attached location 'Finnieston' instead
+
+────────────────────────────────────────────────────────────
+  [43/43] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Finnieston' instead
+
+============================================================
+  BATCH COMPLETE — Finnieston
+============================================================
+  Found:   43
+  Created: 0
+  Skipped: 43 (already existed)
+  Failed:  0
+============================================================

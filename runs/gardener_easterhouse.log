@@ -1,0 +1,230 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Easterhouse
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Easterhouse'...
+  Found: ID=213 name=Easterhouse
+
+[DEDUP] Fetching existing listings...
+  1543 existing listings on site
+  Ledger: 1525 place_ids
+
+[SEARCH] Finding gardeners in Easterhouse...
+  Found 41 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/41] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [2/41] Garden Man - Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33624 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [3/41] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [4/41] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [5/41] M80 Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34324 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [6/41] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [7/41] Stepps Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33976 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [8/41] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [9/41] Lawn Ranger Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34764 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [10/41] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [11/41] Premier Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33806 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [12/41] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [13/41] Glen Rosa Garden Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33974 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [14/41] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [15/41] Neil Walker Landscaping & Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33982 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [16/41] Magical Gardens - Glasgow Garden & Landscaping Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34352 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [17/41] Juniper Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33860 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [18/41] Bespoke Landscape Designs Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34392 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [19/41] Murray's Landscaping and Property Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34772 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [20/41] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [21/41] Thistle Landscapes & Builders
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34770 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [22/41] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [23/41] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [24/41] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [25/41] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [26/41] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [27/41] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [28/41] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [29/41] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [30/41] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [31/41] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [32/41] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [33/41] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [34/41] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [35/41] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [36/41] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [37/41] Treefellas Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33878 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [38/41] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [39/41] KTS Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34336 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [40/41] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Easterhouse' instead
+
+────────────────────────────────────────────────────────────
+  [41/41] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Easterhouse' instead
+
+============================================================
+  BATCH COMPLETE — Easterhouse
+============================================================
+  Found:   41
+  Created: 0
+  Skipped: 41 (already existed)
+  Failed:  0
+============================================================

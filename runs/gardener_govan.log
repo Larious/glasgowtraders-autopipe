@@ -1,0 +1,293 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Govan
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Govan'...
+  Found: ID=221 name=Govan
+
+[DEDUP] Fetching existing listings...
+  1544 existing listings on site
+  Ledger: 1526 place_ids
+
+[SEARCH] Finding gardeners in Govan...
+  Found 44 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/44] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [2/44] P Douglas Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34802 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [3/44] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [4/44] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [5/44] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [6/44] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [7/44] Gowanlea Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33950 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [8/44] The Bee Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ferry Rd, Glasgow G3 8QX, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  4 (23 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34838
+    URL: https://glasgowtrader.co.uk/listing/the-bee-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/44] Sustainable Urban Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34816 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [10/44] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [11/44] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34298 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [12/44] Blossom Tree Specialist
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1/2, 1 Elder St, Glasgow G51 3EE, UK
+    Phone:   07454 624600
+    Website: https://www.blossomtreespecialist.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34840
+    URL: https://glasgowtrader.co.uk/listing/blossom-tree-specialist/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/44] Riverside Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 650 Govan Rd, Glasgow G51 2AQ, UK
+    Phone:   N/A
+    Website: https://www.govanha.org.uk/new-mural-marks-govan-housing-associations-50th-anniversary/
+    Rating:  4 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34842
+    URL: https://glasgowtrader.co.uk/listing/riverside-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/44] Moogety Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 77 Uist St, Glasgow G51 3XN, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  4.8 (10 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34844
+    URL: https://glasgowtrader.co.uk/listing/moogety-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/44] Hapsscotland /landscaping. Painting decorating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34804 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [16/44] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [17/44] Luma Building and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34778 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [18/44] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [19/44] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [20/44] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [21/44] Say1 Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34750 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [22/44] BB Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34776 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [23/44] Green Wheels Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33623 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [24/44] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [25/44] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [26/44] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [27/44] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [28/44] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [29/44] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [30/44] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [31/44] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [32/44] STUMP GRIND GUY Tree Stump Removal Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34628 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [33/44] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [34/44] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [35/44] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [36/44] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [37/44] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [38/44] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [39/44] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [40/44] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [41/44] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [42/44] LV Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34378 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [43/44] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Govan' instead
+
+────────────────────────────────────────────────────────────
+  [44/44] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Govan' instead
+
+============================================================
+  BATCH COMPLETE — Govan
+============================================================
+  Found:   44
+  Created: 4
+  Skipped: 40 (already existed)
+  Failed:  0
+============================================================

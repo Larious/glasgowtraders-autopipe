@@ -1,0 +1,257 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Garrowhill
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Garrowhill'...
+  Found: ID=218 name=Garrowhill
+
+[DEDUP] Fetching existing listings...
+  1543 existing listings on site
+  Ledger: 1525 place_ids
+
+[SEARCH] Finding gardeners in Garrowhill...
+  Found 44 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/44] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [2/44] Garden Man - Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33624 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [3/44] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [4/44] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [5/44] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [6/44] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [7/44] Bespoke Landscape Designs Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34392 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [8/44] Thistle Landscapes & Builders
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34770 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [9/44] Juniper Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33860 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [10/44] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [11/44] Premier Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33806 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [12/44] Garden Maintenance Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33924 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [13/44] Murray's Landscaping and Property Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34772 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [14/44] Grass Roots Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 104b E Kilbride Rd, Busby, Glasgow G76 8JF, UK
+    Phone:   07817 508409
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34836
+    URL: https://glasgowtrader.co.uk/listing/grass-roots-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/44] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [16/44] Neil Walker Landscaping & Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33982 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [17/44] CM Gardens LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33856 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [18/44] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34384 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [19/44] Paradigm Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34342 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [20/44] Magical Gardens - Glasgow Garden & Landscaping Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34352 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [21/44] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [22/44] I S Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33984 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [23/44] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [24/44] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [25/44] HSC Builders | Landscape Gardeners | Property Renovators | Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31396 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [26/44] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [27/44] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [28/44] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [29/44] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [30/44] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [31/44] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [32/44] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [33/44] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [34/44] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [35/44] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [36/44] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [37/44] Treefellas Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33878 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [38/44] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [39/44] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [40/44] Scottish Pine Tree Works & Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33994 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [41/44] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [42/44] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [43/44] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Garrowhill' instead
+
+────────────────────────────────────────────────────────────
+  [44/44] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Garrowhill' instead
+
+============================================================
+  BATCH COMPLETE — Garrowhill
+============================================================
+  Found:   44
+  Created: 1
+  Skipped: 43 (already existed)
+  Failed:  0
+============================================================

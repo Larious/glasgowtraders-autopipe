@@ -1,0 +1,257 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dennistoun
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dennistoun'...
+  Found: ID=208 name=Dennistoun
+
+[DEDUP] Fetching existing listings...
+  1540 existing listings on site
+  Ledger: 1522 place_ids
+
+[SEARCH] Finding gardeners in Dennistoun...
+  Found 44 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/44] Garden Man - Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33624 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [2/44] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [3/44] Thistle Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33621 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [4/44] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [5/44] MoriGardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Dennistoun, Glasgow G31 2RF, UK
+    Phone:   07473 205602
+    Website: https://morigardening.com/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34830
+    URL: https://glasgowtrader.co.uk/listing/morigardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/44] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [7/44] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [8/44] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [9/44] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [10/44] Magical Gardens - Glasgow Garden & Landscaping Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34352 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [11/44] The Wash House Garden, C.I.C.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34768 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [12/44] Garden Makeovers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34358 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [13/44] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [14/44] Belmont Landscaping & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34348 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [15/44] Killoch Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33960 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [16/44] Glasgow tree care and fencing ( landscape gardener )
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34760 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [17/44] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [18/44] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [19/44] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [20/44] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [21/44] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [22/44] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [23/44] Neil Walker Landscaping & Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33982 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [24/44] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [25/44] Essenjay Tree & Grass Care Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34346 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [26/44] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [27/44] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [28/44] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [29/44] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [30/44] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [31/44] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [32/44] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [33/44] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [34/44] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [35/44] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [36/44] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [37/44] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [38/44] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [39/44] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [40/44] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [41/44] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [42/44] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [43/44] Aurea Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34402 — attached location 'Dennistoun' instead
+
+────────────────────────────────────────────────────────────
+  [44/44] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Dennistoun' instead
+
+============================================================
+  BATCH COMPLETE — Dennistoun
+============================================================
+  Found:   44
+  Created: 1
+  Skipped: 43 (already existed)
+  Failed:  0
+============================================================

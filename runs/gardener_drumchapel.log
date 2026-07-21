@@ -1,0 +1,257 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Drumchapel
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Drumchapel'...
+  Found: ID=209 name=Drumchapel
+
+[DEDUP] Fetching existing listings...
+  1541 existing listings on site
+  Ledger: 1523 place_ids
+
+[SEARCH] Finding gardeners in Drumchapel...
+  Found 44 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/44] Rake it in gardening services ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33946 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [2/44] Handy gardening and fences
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33948 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [3/44] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [4/44] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [5/44] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [6/44] Dino's Gardening & Pressure Washing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33954 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [7/44] Gowanlea Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33950 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [8/44] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [9/44] Killoch Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33960 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [10/44] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [11/44] Growchapel Allotment Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Halgreen Ave, Glasgow G15 8AL, UK
+    Phone:   N/A
+    Website: https://www.growchapel.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34832
+    URL: https://glasgowtrader.co.uk/listing/growchapel-allotment-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/44] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [13/44] R.A.M Garden & Grounds Maintenance Contractor
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34316 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [14/44] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34298 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [15/44] Outside In Garden Rooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34748 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [16/44] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [17/44] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [18/44] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [19/44] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [20/44] Callander Landscapes Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33962 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [21/44] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [22/44] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [23/44] MK Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33998 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [24/44] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34384 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [25/44] Barclays Landscaping of Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34296 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [26/44] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [27/44] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [28/44] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [29/44] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [30/44] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [31/44] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [32/44] The Tree Fella
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33964 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [33/44] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [34/44] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [35/44] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [36/44] STUMP GRIND GUY Tree Stump Removal Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34628 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [37/44] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [38/44] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [39/44] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [40/44] G Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33966 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [41/44] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [42/44] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [43/44] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Drumchapel' instead
+
+────────────────────────────────────────────────────────────
+  [44/44] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Drumchapel' instead
+
+============================================================
+  BATCH COMPLETE — Drumchapel
+============================================================
+  Found:   44
+  Created: 1
+  Skipped: 43 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,272 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbreck
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbreck'...
+  Found: ID=211 name=Dumbreck
+
+[DEDUP] Fetching existing listings...
+  1542 existing listings on site
+  Ledger: 1524 place_ids
+
+[SEARCH] Finding gardeners in Dumbreck...
+  Found 47 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/47] Rake it in gardening services ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33946 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [2/47] Garden Force - Giffnock, Pollokshields & Newlands,
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33634 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [3/47] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [4/47] C&C Premium Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33635 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [5/47] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [6/47] Richard Birch Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34820 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [7/47] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [8/47] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [9/47] P Douglas Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34802 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [10/47] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [11/47] Cuthbert Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34614 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [12/47] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [13/47] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [14/47] Alexander Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34682 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [15/47] The Hidden Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: via Tramway, 25A Albert Dr, access, Glasgow G41 2PE, UK
+    Phone:   0141 433 2722
+    Website: http://thehiddengardens.org.uk/
+    Rating:  4.6 (255 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34834
+    URL: https://glasgowtrader.co.uk/listing/the-hidden-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/47] SPK Building & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34822 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [17/47] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [18/47] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [19/47] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [20/47] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [21/47] Luma Building and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34778 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [22/47] BB Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34776 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [23/47] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [24/47] Glasgow southide garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34376 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [25/47] Hapsscotland /landscaping. Painting decorating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34804 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [26/47] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [27/47] Cruickshank Landscape Gardening and Design Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34318 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [28/47] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [29/47] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [30/47] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [31/47] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [32/47] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [33/47] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [34/47] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [35/47] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [36/47] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [37/47] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [38/47] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [39/47] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [40/47] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [41/47] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [42/47] STUMP GRIND GUY Tree Stump Removal Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34628 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [43/47] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [44/47] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [45/47] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [46/47] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Dumbreck' instead
+
+────────────────────────────────────────────────────────────
+  [47/47] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Dumbreck' instead
+
+============================================================
+  BATCH COMPLETE — Dumbreck
+============================================================
+  Found:   47
+  Created: 1
+  Skipped: 46 (already existed)
+  Failed:  0
+============================================================
