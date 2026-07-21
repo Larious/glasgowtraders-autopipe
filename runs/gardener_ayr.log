@@ -1,0 +1,472 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  1186 existing listings on site
+  Ledger: 1168 place_ids
+
+[SEARCH] Finding gardeners in Ayr...
+  Found 30 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/30] Core Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Union Ave, Ayr KA8 9AS, UK
+    Phone:   07736 931373
+    Website: http://corelandscapes.com/
+    Rating:  4.9 (61 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34024
+    URL: https://glasgowtrader.co.uk/listing/core-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/30] Shields Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 72 Seaforth Rd, Ayr KA8 9JB, UK
+    Phone:   07547 891311
+    Website: https://shieldsgardening.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34026
+    URL: https://glasgowtrader.co.uk/listing/shields-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/30] Greenan Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Alloway Pl, Ayr KA7 2AA, UK
+    Phone:   01292 623018
+    Website: http://www.greenanlandscapes.co.uk/
+    Rating:  5 (17 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34028
+    URL: https://glasgowtrader.co.uk/listing/greenan-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/30] Garden Grooming Ayr
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Alloway Pl, Ayr KA7 2AA, UK
+    Phone:   01292 861462
+    Website: https://www.gardengrooming.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34030
+    URL: https://glasgowtrader.co.uk/listing/garden-grooming-ayr/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/30] Ayrshire Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Union St, Newmilns KA16 9AZ, UK
+    Phone:   01560 428113
+    Website: https://ayrshiregardeningservices.co.uk/
+    Rating:  5 (15 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34032
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/30] Garden Grooming Troon
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Firth Gardens, Troon KA10 6TQ, UK
+    Phone:   07740 493331
+    Website: https://www.gardengrooming.co.uk/
+    Rating:  5 (39 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34034
+    URL: https://glasgowtrader.co.uk/listing/garden-grooming-troon/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/30] MCD Garden Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Gadgirth Ct, Coylton, Joppa, Ayr KA6 6NU, UK
+    Phone:   07702 052142
+    Website: http://mcdgardendesign.com/
+    Rating:  5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34036
+    URL: https://glasgowtrader.co.uk/listing/mcd-garden-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/30] Maple Tree & Gardening Services Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 71 Dundonald Rd, Troon KA10 6PG, UK
+    Phone:   07853 224528
+    Website: https://mapletreegardenservices.com/
+    Rating:  5 (18 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34038
+    URL: https://glasgowtrader.co.uk/listing/maple-tree-gardening-services-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/30] Bluegrass garden care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 44 Sunningdale Ave, Ayr KA7 4RQ, UK
+    Phone:   07345 556514
+    Website: https://bluegrassgardencare.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34040
+    URL: https://glasgowtrader.co.uk/listing/bluegrass-garden-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/30] Bluegrass garden care
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [11/30] Stonefield Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16c Beresford Terrace, Ayr KA7 2EG, UK
+    Phone:   07487 869681
+    Website: https://stonefieldlandscapes.com/
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34042
+    URL: https://glasgowtrader.co.uk/listing/stonefield-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/30] Driveway & Landscape Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 60 Pemberton Valley, Ayr KA7 4UB, UK
+    Phone:   01292 800062
+    Website: https://www.driveway-design.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34044
+    URL: https://glasgowtrader.co.uk/listing/driveway-landscape-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/30] Unlimited Landscapes Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2A Arran Park, Prestwick KA9 2BF, UK
+    Phone:   07414 538438
+    Website: http://www.unlimitedlandscapes.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34046
+    URL: https://glasgowtrader.co.uk/listing/unlimited-landscapes-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/30] MCD landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 49 Kerse Terrace, Rankinston, Ayr KA6 7HF, UK
+    Phone:   07821 910171
+    Website: https://www.facebook.com/MCDlandscaping/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34048
+    URL: https://glasgowtrader.co.uk/listing/mcd-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/30] PRESTIGE LANDSCAPING & PAVING AYRSHIRE
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Turnberry Wynd, Irvine KA11 4DP, UK
+    Phone:   07867 812531
+    Website: http://free-4570116.webadorsite.com/
+    Rating:  4.9 (42 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34050
+    URL: https://glasgowtrader.co.uk/listing/prestige-landscaping-paving-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/30] Ayrshire Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: North Hourat Farm, Largs Rd, Kilbirnie KA25 7LJ, UK
+    Phone:   01505 681898
+    Website: http://www.ayrshiretreesurgeons.co.uk/
+    Rating:  4.5 (18 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34052
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-tree-surgeons-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/30] West Coast Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 99 Briarhill Rd, Prestwick KA9 1HZ, UK
+    Phone:   01292 371035
+    Website: https://westcoasttreesurgeons.com/
+    Rating:  5 (157 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34054
+    URL: https://glasgowtrader.co.uk/listing/west-coast-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/30] Ayrshire Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 62 Galston Rd, Hurlford, Kilmarnock KA1 5HY, UK
+    Phone:   07500 151197
+    Website: N/A
+    Rating:  4.8 (19 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34056
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/30] McIntosh Tree Care Experts Tree Surgeon Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 101 Briarhill Rd, Prestwick KA9 1HZ, UK
+    Phone:   07962 222945
+    Website: http://www.mcintoshtreecare.com/
+    Rating:  5 (145 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34058
+    URL: https://glasgowtrader.co.uk/listing/mcintosh-tree-care-experts-tree-surgeon-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/30] K A Tree Surgery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 139 Sillars Mdw, Irvine KA12 0LZ, UK
+    Phone:   07739 497593
+    Website: https://www.ka-treesurgery.co.uk/
+    Rating:  4.7 (14 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34060
+    URL: https://glasgowtrader.co.uk/listing/k-a-tree-surgery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/30] Wallace Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33912 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [22/30] John Baird Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hill St, Kilmarnock KA3 1JD, UK
+    Phone:   07788 851497
+    Website: http://www.johnbairdcontractors.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34062
+    URL: https://glasgowtrader.co.uk/listing/john-baird-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [23/30] The Chestnuts tree works
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52 Racecourse Rd, Ayr KA7 2UZ, UK
+    Phone:   07415 389708
+    Website: https://www.thechestnutstreeworks.com/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34064
+    URL: https://glasgowtrader.co.uk/listing/the-chestnuts-tree-works/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/30] Prestige Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36 Samson Ave, Kilmarnock KA1 3EB, UK
+    Phone:   07896 787141
+    Website: https://prestigetrees.co.uk/
+    Rating:  4.8 (32 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34066
+    URL: https://glasgowtrader.co.uk/listing/prestige-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [25/30] Gilchrist Tree Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Mossbank Pl, Mossblown, Ayr KA6 5DJ, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34068
+    URL: https://glasgowtrader.co.uk/listing/gilchrist-tree-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [26/30] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [27/30] K Imrie Treecare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Roadend Farm, Mauchline Rd, Mossblown, Ayr KA6 5AR, UK
+    Phone:   01292 521068
+    Website: http://www.imrietreecareltd.com/
+    Rating:  4.3 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34070
+    URL: https://glasgowtrader.co.uk/listing/k-imrie-treecare/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [28/30] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [29/30] The Tree Business
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Boyd Orr Rd, Saltcoats KA21 6EW, UK
+    Phone:   07961 351300
+    Website: N/A
+    Rating:  5 (45 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34072
+    URL: https://glasgowtrader.co.uk/listing/the-tree-business/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+  Batch cap reached (25 creates). Re-run (new token) to continue — the ledger skips everything published so far.
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   30
+  Created: 25
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

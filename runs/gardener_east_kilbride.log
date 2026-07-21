@@ -1,0 +1,356 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  1134 existing listings on site
+  Ledger: 1116 place_ids
+
+[SEARCH] Finding gardeners in East Kilbride...
+  Found 35 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/35] Blairs Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Mull, East Kilbride, Glasgow G74 2DT, UK
+    Phone:   07715 657264
+    Website: http://www.blairsgardenservices.com/
+    Rating:  5 (29 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33920
+    URL: https://glasgowtrader.co.uk/listing/blairs-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/35] Mr & Mrs Gardens Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33890 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [3/35] Cleancut Garden & Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 194 Sandpiper Dr, East Kilbride, Glasgow G75 8UN, UK
+    Phone:   07398 850023
+    Website: http://www.cleancutltd.com/
+    Rating:  5 (10 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33922
+    URL: https://glasgowtrader.co.uk/listing/cleancut-garden-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/35] Garden Maintenance Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Sherman Dr, East Kilbride, Glasgow G74 5QH, UK
+    Phone:   07368 950608
+    Website: http://www.gardenmaintenancescotland.co.uk/
+    Rating:  4.1 (16 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33924
+    URL: https://glasgowtrader.co.uk/listing/garden-maintenance-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/35] Green & Tidy Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33894 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [6/35] Shear Perfection Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Ramsay Hill, East Kilbride, Glasgow G74 3EJ, UK
+    Phone:   07735 410320
+    Website: http://www.shearperfectiongardens.com/
+    Rating:  5 (18 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33926
+    URL: https://glasgowtrader.co.uk/listing/shear-perfection-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/35] Lawns and Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: East Kilbride, Glasgow G75 0SH, UK
+    Phone:   07799 702674
+    Website: N/A
+    Rating:  4.5 (6 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33928
+    URL: https://glasgowtrader.co.uk/listing/lawns-and-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/35] Robertson garden & property maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33902 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [9/35] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [10/35] The Lawn Advocates
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Tantallon Park, East Kilbride, Glasgow G74 1DU, UK
+    Phone:   07752 390042
+    Website: https://www.thelawnadvocates.co.uk/
+    Rating:  5 (30 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33930
+    URL: https://glasgowtrader.co.uk/listing/the-lawn-advocates/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/35] S L C Garden & Tree
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 59 Polden Ave, East Kilbride, Glasgow G75 9GX, UK
+    Phone:   07917 877038
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33932
+    URL: https://glasgowtrader.co.uk/listing/s-l-c-garden-tree/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/35] Last Lawns Plus
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Colvilles Rd, East Kilbride, Glasgow G75 0RS, UK
+    Phone:   0141 844 0042
+    Website: https://lastlawnsplus.co.uk/
+    Rating:  4.5 (56 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33934
+    URL: https://glasgowtrader.co.uk/listing/last-lawns-plus/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/35] Stevies Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Thorndyke, East Kilbride, Glasgow G74 3QX, UK
+    Phone:   07889 517244
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33936
+    URL: https://glasgowtrader.co.uk/listing/stevies-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/35] Wonderlawn
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Tennant Complex, 19 Tennant Ave, East Kilbride, Glasgow G74 5NA, UK
+    Phone:   0333 700 6000
+    Website: https://wonderlawn.com/franchise/glasgow/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33938
+    URL: https://glasgowtrader.co.uk/listing/wonderlawn/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/35] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [16/35] Alba Landscapes Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Glasgow Rd, Eaglesham, Glasgow G76 0LZ, UK
+    Phone:   07967 408148
+    Website: http://www.alba-landscapes.co.uk/
+    Rating:  4.4 (15 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33940
+    URL: https://glasgowtrader.co.uk/listing/alba-landscapes-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/35] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [18/35] CM Gardens LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33856 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [19/35] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [20/35] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [21/35] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [22/35] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [23/35] TreeTmenT Specialist Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33872 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [24/35] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [25/35] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [26/35] Busby Saws Tree Surgery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Bon Accord Rd, Busby, Glasgow G76 8EG, UK
+    Phone:   07572 431798
+    Website: http://busbysaws.com/?utm_source=gmb&utm_medium=referral
+    Rating:  5 (8 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33942
+    URL: https://glasgowtrader.co.uk/listing/busby-saws-tree-surgery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [27/35] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [28/35] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [29/35] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [30/35] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [31/35] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [32/35] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [33/35] TreeCycle Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Whyte Ave, Cambuslang, Glasgow G72 7AT, UK
+    Phone:   07519 765042
+    Website: http://www.treecyclescotland.com/
+    Rating:  5 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33944
+    URL: https://glasgowtrader.co.uk/listing/treecycle-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [34/35] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [35/35] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'East Kilbride' instead
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   35
+  Created: 13
+  Skipped: 22 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,401 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  1211 existing listings on site
+  Ledger: 1193 place_ids
+
+[SEARCH] Finding gardeners in Greenock...
+  Found 32 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/32] RM Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lynedoch St, Greenock PA15 4AE, UK
+    Phone:   07990 675364
+    Website: https://rmlandscapesscotland.co.uk/
+    Rating:  5 (19 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34074
+    URL: https://glasgowtrader.co.uk/listing/rm-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/32] CB Garden & Property Domestic & Commercial
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Helensburgh G84 7BW, UK
+    Phone:   07748 341385
+    Website: N/A
+    Rating:  4.9 (40 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34076
+    URL: https://glasgowtrader.co.uk/listing/cb-garden-property-domestic-commercial/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/32] Ecogarden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Kelly St, Greenock PA16 8NF, UK
+    Phone:   07423 355670
+    Website: https://www.facebook.com/Ecogarden2019/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34078
+    URL: https://glasgowtrader.co.uk/listing/ecogarden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/32] gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Buchanan St, Greenock PA16 7DT, UK
+    Phone:   07979 311988
+    Website: N/A
+    Rating:  3 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34080
+    URL: https://glasgowtrader.co.uk/listing/gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/32] Rake it in gardening services ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33946 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [6/32] West Coast Property & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34004 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [7/32] Do It All Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 31A Margaret St, Greenock PA16 8BU, UK
+    Phone:   07375 029596
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34082
+    URL: https://glasgowtrader.co.uk/listing/do-it-all-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/32] Clearveiw landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Poplar St, Greenock, Inverclyde PA15 2RA, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34084
+    URL: https://glasgowtrader.co.uk/listing/clearveiw-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/32] S&K Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Skye Cres, Gourock PA19 1ST, UK
+    Phone:   07852 947248
+    Website: N/A
+    Rating:  5 (9 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34086
+    URL: https://glasgowtrader.co.uk/listing/sk-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/32] A G Landscapes - Garden Design & Build
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34010 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [11/32] P mccann landscaping and driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30Hillfoot St, Dunoon PA23 7DT, UK
+    Phone:   01369 704023
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34088
+    URL: https://glasgowtrader.co.uk/listing/p-mccann-landscaping-and-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/32] Greencare Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 John Clark St, Largs KA30 9AH, UK
+    Phone:   01475 675591
+    Website: http://www.greencarelandscapes.co.uk/
+    Rating:  4.5 (24 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34090
+    URL: https://glasgowtrader.co.uk/listing/greencare-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/32] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [14/32] The Gardeners - Caddlehill Community Green Space
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Caddlehill St, Greenock PA16 8TU, UK
+    Phone:   N/A
+    Website: https://www.facebook.com/p/The-Gardeners-Caddlehill-Community-Green-Space-100091071818720/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34092
+    URL: https://glasgowtrader.co.uk/listing/the-gardeners-caddlehill-community-green-space/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/32] Gryffe valley landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 43 Hazelwood Rd, Bridge of Weir PA11 3DX, UK
+    Phone:   07983 000322
+    Website: N/A
+    Rating:  4.5 (8 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34094
+    URL: https://glasgowtrader.co.uk/listing/gryffe-valley-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/32] Ortus Garden Design & Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: First Floor, 80 High St, Johnstone PA5 8SP, UK
+    Phone:   07557 904856
+    Website: http://www.ortusdesign.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34096
+    URL: https://glasgowtrader.co.uk/listing/ortus-garden-design-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/32] Treeline Tree Surgery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Earnhill industrial estate, Greenock PA16 0EQ, UK
+    Phone:   07976 607388
+    Website: N/A
+    Rating:  4.7 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34098
+    URL: https://glasgowtrader.co.uk/listing/treeline-tree-surgery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/32] McCabe Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lynedoch Industrial Estate, Greenock PA15 4AY, UK
+    Phone:   07960 487712
+    Website: https://www.mccabetreeservices.com/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34100
+    URL: https://glasgowtrader.co.uk/listing/mccabe-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/32] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: South Craigmarloch, Kilmacolm, Port Glasgow PA13 4SG, UK
+    Phone:   01505 872929
+    Website: http://caledoniantreeservices.com/
+    Rating:  4.6 (9 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34102
+    URL: https://glasgowtrader.co.uk/listing/caledonian-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/32] LJX Ltd - Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Mid-Glen Farm, W Glen Rd, Langbank, Port Glasgow PA14 6YL, UK
+    Phone:   01505 873347
+    Website: http://ljxtreesurgeons.com/
+    Rating:  5 (7 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34104
+    URL: https://glasgowtrader.co.uk/listing/ljx-ltd-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/32] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [22/32] Lorimer Tree & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34014 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [23/32] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [24/32] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [25/32] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [26/32] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34022 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [27/32] Erskine Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Brownsfield Holdings, Barnsford Road, Inchinnan, Renfrew PA4 9LZ, UK
+    Phone:   0141 812 1791
+    Website: http://www.erskinetreesurgeons.com/
+    Rating:  4 (15 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34106
+    URL: https://glasgowtrader.co.uk/listing/erskine-tree-surgeons-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [28/32] R Williams Tree Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33802 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [29/32] Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33804 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [30/32] Cairns Tree Surgery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 42 Sandielands Ave, Inchinnan, Erskine PA8 7BS, UK
+    Phone:   0141 812 7770
+    Website: http://www.cairnstreesurgery.co.uk/
+    Rating:  4.3 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34108
+    URL: https://glasgowtrader.co.uk/listing/cairns-tree-surgery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [31/32] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [32/32] Ayrshire Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34052 — attached location 'Greenock' instead
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   32
+  Created: 18
+  Skipped: 14 (already existed)
+  Failed:  0
+============================================================

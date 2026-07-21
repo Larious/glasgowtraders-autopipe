@@ -1,0 +1,315 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  1158 existing listings on site
+  Ledger: 1140 place_ids
+
+[SEARCH] Finding gardeners in Cumbernauld...
+  Found 22 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/22] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [2/22] RS Bespoke Gardens Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 97 Grampian Way, Cumbernauld, Glasgow G68 9NN, UK
+    Phone:   01236 728098
+    Website: http://rsbespokegardens.com/
+    Rating:  5 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33968
+    URL: https://glasgowtrader.co.uk/listing/rs-bespoke-gardens-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/22] S&T Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Gartshore Cres, Twechar, Glasgow G65 9SZ, UK
+    Phone:   07377 912483
+    Website: N/A
+    Rating:  5 (26 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33970
+    URL: https://glasgowtrader.co.uk/listing/st-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/22] MGS Mark's Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33812 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [5/22] Brady's Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Parkfoot St, Kilsyth, Glasgow G65 9AB, UK
+    Phone:   07952 982667
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33972
+    URL: https://glasgowtrader.co.uk/listing/bradys-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/22] Glen Rosa Garden Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glen Rosa Gardens, Cumbernauld, Glasgow G68 0ES, UK
+    Phone:   07986 157282
+    Website: https://www.glenrosagardendesign.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33974
+    URL: https://glasgowtrader.co.uk/listing/glen-rosa-garden-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/22] 1st Class Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33816 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [8/22] Forrest Walk Land & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33818 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [9/22] Stepps Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 152 Cumbernauld Rd, Stepps, Glasgow G33 6HA, UK
+    Phone:   0141 374 2201
+    Website: http://www.steppsgardenservices.co.uk/
+    Rating:  4.7 (19 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33976
+    URL: https://glasgowtrader.co.uk/listing/stepps-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/22] Premier Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33806 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [11/22] Mg Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 449 Greenrigg Rd, Cumbernauld, Glasgow G67 2PP, UK
+    Phone:   07988 896887
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33978
+    URL: https://glasgowtrader.co.uk/listing/mg-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/22] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [13/22] ARM Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Kilsyth, Glasgow G65 9DQ, UK
+    Phone:   07931 835143
+    Website: http://armlandscapes.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33980
+    URL: https://glasgowtrader.co.uk/listing/arm-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/22] All NU Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33822 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [15/22] Neil Walker Landscaping & Driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Burnbrae Stables, Chryston, Glasgow G69 9HR, UK
+    Phone:   07908 004635
+    Website: https://www.neilwalkerdriveways.co.uk/?utm_source=gmb&utm_medium=gmb&utm_campaign=localmaps
+    Rating:  5 (64 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33982
+    URL: https://glasgowtrader.co.uk/listing/neil-walker-landscaping-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/22] I S Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Taig Rd, Waterside, Glasgow G66 3LT, UK
+    Phone:   07542 797279
+    Website: http://landscaperglasgow.co.uk/
+    Rating:  5 (8 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33984
+    URL: https://glasgowtrader.co.uk/listing/i-s-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/22] Mitchell Turf Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Cherrybank Nursery Palacerigg Rd, Cumbernauld, Glasgow G67 3HU, UK
+    Phone:   01236 452269
+    Website: https://www.mitchellturf.co.uk/
+    Rating:  4.3 (259 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33986
+    URL: https://glasgowtrader.co.uk/listing/mitchell-turf-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/22] Cumbernauld landscapes decking
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Cardowan Dr, Cumbernauld, Glasgow G68 9PA, UK
+    Phone:   07368 871367
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33988
+    URL: https://glasgowtrader.co.uk/listing/cumbernauld-landscapes-decking/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/22] BD Tree Services & Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Cliffvale Rd, Chryston, Glasgow G69 9DB, UK
+    Phone:   01236 735820
+    Website: https://www.bdtreesandlandscaping.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33990
+    URL: https://glasgowtrader.co.uk/listing/bd-tree-services-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/22] R & S Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Strathord Pl, Moodiesburn, Glasgow G69 0NA, UK
+    Phone:   01236 870652
+    Website: N/A
+    Rating:  3 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33992
+    URL: https://glasgowtrader.co.uk/listing/r-s-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/22] Scottish Pine Tree Works & Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 David Gray Dr, Kirkintilloch, Glasgow G66 3SG, UK
+    Phone:   07426 516220
+    Website: https://gbmscotlandltd.co.uk/
+    Rating:  5 (16 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33994
+    URL: https://glasgowtrader.co.uk/listing/scottish-pine-tree-works-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/22] Sitka Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 65 Constarry Rd, Croy, Kilsyth, Glasgow G65 9HT, UK
+    Phone:   07886 604010
+    Website: http://www.sitkatreeservices.com/
+    Rating:  5 (32 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33996
+    URL: https://glasgowtrader.co.uk/listing/sitka-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   22
+  Created: 15
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

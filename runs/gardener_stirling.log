@@ -1,0 +1,334 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  1254 existing listings on site
+  Ledger: 1236 place_ids
+
+[SEARCH] Finding gardeners in Stirling...
+  Found 21 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/21] K.B. Trees and Hedges Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47 Churchill Dr, Bridge of Allan, Stirling FK9 4TJ, UK
+    Phone:   01786 832882
+    Website: http://kbtreesandhedges.co.uk/
+    Rating:  5 (37 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34160
+    URL: https://glasgowtrader.co.uk/listing/k-b-trees-and-hedges-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/21] Smith landscapes of Stirling Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Laurelhill Pl, Stirling FK8 2JH, UK
+    Phone:   07780 563954
+    Website: https://stirlinglandscapes.com/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34162
+    URL: https://glasgowtrader.co.uk/listing/smith-landscapes-of-stirling-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/21] Martin’s Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34138 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [4/21] Vialii Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 57 Churchill Dr, Bridge of Allan, Stirling FK9 4TJ, UK
+    Phone:   01786 834621
+    Website: http://www.vialiigardens.co.uk/
+    Rating:  5 (13 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34164
+    URL: https://glasgowtrader.co.uk/listing/vialii-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/21] Inverallan Landscapes Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4 Block 2, Manor Farm Business Park, Manor Loan, Stirling FK9 5QD, UK
+    Phone:   01786 472053
+    Website: https://www.inverallanlandscapes.co.uk/
+    Rating:  3.5 (10 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34166
+    URL: https://glasgowtrader.co.uk/listing/inverallan-landscapes-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/21] Bracken Lane: Wildlife Gardening and Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Fernbank, Stirling FK9 5AD, UK
+    Phone:   07843 489570
+    Website: http://www.brackenlane.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34168
+    URL: https://glasgowtrader.co.uk/listing/bracken-lane-wildlife-gardening-and-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/21] Heritage landscaping and driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Castle House, 1 Baker St, Stirling FK8 1AL, UK
+    Phone:   01786 289105
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34170
+    URL: https://glasgowtrader.co.uk/listing/heritage-landscaping-and-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/21] Greenlands Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34148 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [9/21] Brucefield Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Northend, Cambusbarron, Stirling FK7 9LJ, UK
+    Phone:   01786 465499
+    Website: http://www.brucefieldgardening.co.uk/
+    Rating:  4.7 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34172
+    URL: https://glasgowtrader.co.uk/listing/brucefield-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/21] Total Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 97 Grampian Rd, Stirling FK7 9JN, UK
+    Phone:   07941 790622
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34174
+    URL: https://glasgowtrader.co.uk/listing/total-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/21] Garradh Landscape & Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Low Town, Thornhill, Stirling FK8 3PX, UK
+    Phone:   07903 347907
+    Website: https://www.garradh.com/
+    Rating:  5 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34176
+    URL: https://glasgowtrader.co.uk/listing/garradh-landscape-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/21] Gary Hedges Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Paton St, Alloa FK10 2DY, UK
+    Phone:   07984 076806
+    Website: http://www.garyhedgesgardening.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34178
+    URL: https://glasgowtrader.co.uk/listing/gary-hedges-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/21] Acorn Landscape Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Manor Farm Business Park, Stirling FK9 5QD, UK
+    Phone:   01786 450111
+    Website: http://www.acornds.co.uk/
+    Rating:  3 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34180
+    URL: https://glasgowtrader.co.uk/listing/acorn-landscape-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/21] Rgd Landscaping & Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Dr Porter Garden, Fallin, Stirling FK7 7GZ, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34182
+    URL: https://glasgowtrader.co.uk/listing/rgd-landscaping-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/21] Inverallan Grounds Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bandeath Industrial Est, Throsk, Stirling FK7 7NP, UK
+    Phone:   01786 472053
+    Website: http://www.inverallanlandscapes.co.uk/
+    Rating:  3.7 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34184
+    URL: https://glasgowtrader.co.uk/listing/inverallan-grounds-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/21] Cuthelton Landscaping, Resin + Building
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34118 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [17/21] AMAC Landscaping Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 32 Park St, Alva FK12 5LL, UK
+    Phone:   07310 147132
+    Website: https://www.amaclandscapingscotland.co.uk/
+    Rating:  5 (46 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34186
+    URL: https://glasgowtrader.co.uk/listing/amac-landscaping-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/21] Thistle Landscaping & Paving contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34126 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [19/21] Kare Gardens Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: East Deanston, Perth Road, Dunblane FK15 0BU, UK
+    Phone:   01786 825442
+    Website: http://www.karegardens.com/
+    Rating:  5 (26 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34188
+    URL: https://glasgowtrader.co.uk/listing/kare-gardens-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/21] Heartwood Trees Scotland ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Church Ln, Old Plean, Stirling FK7 8BL, UK
+    Phone:   01786 478126
+    Website: http://www.heartwoodtreesscotland.com/
+    Rating:  5 (26 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34190
+    URL: https://glasgowtrader.co.uk/listing/heartwood-trees-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/21] Treescapes Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1, The Steading Drypow, Fallin, Stirling FK7 7HN, UK
+    Phone:   07595 021702
+    Website: http://www.treescapesscotland.co.uk/
+    Rating:  4.8 (23 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34192
+    URL: https://glasgowtrader.co.uk/listing/treescapes-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   21
+  Created: 17
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

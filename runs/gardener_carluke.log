@@ -1,0 +1,416 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  1296 existing listings on site
+  Ledger: 1278 place_ids
+
+[SEARCH] Finding gardeners in Carluke...
+  Found 35 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/35] Greens Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Pegasus Ave, Carluke ML8 5TN, UK
+    Phone:   07983 556622
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34244
+    URL: https://glasgowtrader.co.uk/listing/greens-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/35] Longstaff Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Wildman Rd, Law, Carluke ML8 5ET, UK
+    Phone:   07856 555600
+    Website: http://www.longstaffgardening.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34246
+    URL: https://glasgowtrader.co.uk/listing/longstaff-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/35] The Dutch Gardener
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Forestlea Rd, Carluke ML8 4JB, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  4.2 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34248
+    URL: https://glasgowtrader.co.uk/listing/the-dutch-gardener/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/35] MCN Landscaping and Groundworks Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Larkspur Way, Carluke ML8 5TD, UK
+    Phone:   07450 956868
+    Website: N/A
+    Rating:  4.5 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34250
+    URL: https://glasgowtrader.co.uk/listing/mcn-landscaping-and-groundworks-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/35] Lanark Garden Maintenance & Gardener Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hyndford Rd, Lanark ML11 9AU, UK
+    Phone:   07776 710004
+    Website: https://lanarkgardenmaintenance.co.uk/
+    Rating:  4.6 (19 reviews)
+    Hours:   3 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34252
+    URL: https://glasgowtrader.co.uk/listing/lanark-garden-maintenance-gardener-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/35] Lawn Stars Scotland LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34210 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [7/35] Briarlea Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: BRIARLEA DISPLAY CENTRE, Larkhall ML9 2UE, UK
+    Phone:   01555 861200
+    Website: http://www.briarlealandscapes.co.uk/
+    Rating:  4.3 (136 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34254
+    URL: https://glasgowtrader.co.uk/listing/briarlea-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/35] Ace of Spades Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Hyndshaw View, Law, Carluke ML8 5JL, UK
+    Phone:   07949 262866
+    Website: https://www.aceofspadeslandscapes.org/
+    Rating:  3.7 (12 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34256
+    URL: https://glasgowtrader.co.uk/listing/ace-of-spades-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/35] JR Tree & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33864 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [10/35] F & S Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Beltane St, Wishaw ML2 0HD, UK
+    Phone:   07771 358380
+    Website: https://fandslandscapes.co.uk/
+    Rating:  4.5 (6 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34258
+    URL: https://glasgowtrader.co.uk/listing/f-s-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/35] Jacaranda Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 50 Lanark Rd, Crossford, Carluke ML8 5RE, UK
+    Phone:   01555 860696
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34260
+    URL: https://glasgowtrader.co.uk/listing/jacaranda-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/35] Baillie's Landscaping Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Main St, Wishaw ML2 7RS, UK
+    Phone:   07547 605759
+    Website: http://www.baillieslandscapingservices.com/
+    Rating:  5 (46 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34262
+    URL: https://glasgowtrader.co.uk/listing/baillies-landscaping-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/35] DWA Landscape Architects Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Braidwood, 83 Braidwood Rd, Braidwood, Carluke ML8 5NU, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34264
+    URL: https://glasgowtrader.co.uk/listing/dwa-landscape-architects-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/35] Priory Bridge Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Byrewood Orchard, Hazelbank, Lanark ML11 9XL, UK
+    Phone:   01555 860535
+    Website: https://www.priorybridgelandscaping.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34266
+    URL: https://glasgowtrader.co.uk/listing/priory-bridge-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/35] Central Garden Makeovers Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Wood Vw, Allanton, Shotts ML7 5AU, UK
+    Phone:   07368 223431
+    Website: https://www.centralgardenmakeoversscotland.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34268
+    URL: https://glasgowtrader.co.uk/listing/central-garden-makeovers-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/35] J.E.C. Landscapes Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Netherton Ind Est, 10 Canyon Rd, Wishaw ML2 0EG, UK
+    Phone:   07895 818987
+    Website: http://www.jeclandscapes.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34270
+    URL: https://glasgowtrader.co.uk/listing/j-e-c-landscapes-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/35] TreeTmenT Specialist Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33872 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [18/35] DT tree surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33866 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [19/35] Specialist Tree Care Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glenavon St, Strathaven ML10 6BS, UK
+    Phone:   07833 087675
+    Website: https://specialisttreecarescotland.com/
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34272
+    URL: https://glasgowtrader.co.uk/listing/specialist-tree-care-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/35] JL Tree Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33880 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [21/35] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [22/35] Central Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33876 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [23/35] North Lanarkshire Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33852 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [24/35] CH Tree Works
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Galaview, Lanark ML11 9UA, UK
+    Phone:   07802 444973
+    Website: https://m.facebook.com/chtreeworks
+    Rating:  5 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34274
+    URL: https://glasgowtrader.co.uk/listing/ch-tree-works/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [25/35] Top Notch Trees
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15B Station Rd, Biggar ML12 6BW, UK
+    Phone:   07931 033047
+    Website: N/A
+    Rating:  5 (40 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34276
+    URL: https://glasgowtrader.co.uk/listing/top-notch-trees/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [26/35] CF TREE SURGEONS
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Neidpath Rd, Peebles EH45 8NN, UK
+    Phone:   07985 935205
+    Website: https://www.cftreesurgeons.co.uk/
+    Rating:  5 (81 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34278
+    URL: https://glasgowtrader.co.uk/listing/cf-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [27/35] Central Tree Service & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33882 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [28/35] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [29/35] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [30/35] BmTreeSurgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34232 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [31/35] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [32/35] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [33/35] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [34/35] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [35/35] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Carluke' instead
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   35
+  Created: 18
+  Skipped: 17 (already existed)
+  Failed:  0
+============================================================

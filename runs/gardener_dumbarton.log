@@ -1,0 +1,251 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  1173 existing listings on site
+  Ledger: 1155 place_ids
+
+[SEARCH] Finding gardeners in Dumbarton...
+  Found 14 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] MK Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17F Townend Rd, Dumbarton G82 2BA, UK
+    Phone:   07305 030854
+    Website: https://www.mklandscapingservices.com/
+    Rating:  5 (14 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33998
+    URL: https://glasgowtrader.co.uk/listing/mk-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] Impero Gardens, Zanone Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Victoria St, Dumbarton G82 1HT, UK
+    Phone:   07523 053758
+    Website: http://www.imperogardens.wordpress.com/
+    Rating:  4.9 (10 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34000
+    URL: https://glasgowtrader.co.uk/listing/impero-gardens-zanone-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/14] JWR landscaping&gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glasgow Rd, Dumbarton G82 1JW, UK
+    Phone:   07835 028714
+    Website: https://www.facebook.com/share/1B8A16xSvd/?mibextid=wwXIfr
+    Rating:  5 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34002
+    URL: https://glasgowtrader.co.uk/listing/jwr-landscapinggardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/14] West Coast Property & Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Pappert, Alexandria G83 9LH, UK
+    Phone:   07415 824133
+    Website: https://westcoastpg.co.uk/
+    Rating:  5 (49 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34004
+    URL: https://glasgowtrader.co.uk/listing/west-coast-property-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] PR Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 65 Main Rd, Cardross, Dumbarton G82 5PU, UK
+    Phone:   07367 127125
+    Website: N/A
+    Rating:  4.1 (9 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34006
+    URL: https://glasgowtrader.co.uk/listing/pr-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] Dunbartonshire Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Murroch Ave, Dumbarton G82 3DP, UK
+    Phone:   07827 978501
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34008
+    URL: https://glasgowtrader.co.uk/listing/dunbartonshire-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/14] A G Landscapes - Garden Design & Build
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 St Michael Dr, Helensburgh G84 7SF, UK
+    Phone:   07543 455079
+    Website: https://argyllgardens.co.uk/
+    Rating:  4.9 (75 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34010
+    URL: https://glasgowtrader.co.uk/listing/a-g-landscapes-garden-design-build/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] Saltire landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: First Ave, Bonhill, Alexandria G83 9BB, UK
+    Phone:   07555 656084
+    Website: N/A
+    Rating:  4 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34012
+    URL: https://glasgowtrader.co.uk/listing/saltire-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [10/14] Lorimer Tree & Landscape Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ardoch Garden Cottage, Cardross, Dumbarton G82 5EW, UK
+    Phone:   01436 677711
+    Website: http://www.treesurgeonglasgow.com/
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34014
+    URL: https://glasgowtrader.co.uk/listing/lorimer-tree-landscape-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/14] Down2Earth Landscaping Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2, Porton Place, Bishopton PA7 5LT, UK
+    Phone:   07984 951888
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34016
+    URL: https://glasgowtrader.co.uk/listing/down2earth-landscaping-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/14] D Halligan Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5 Levenbank Rd, Jamestown, Alexandria G83, UK
+    Phone:   N/A
+    Website: https://www.lanarkshirelandscaping.co.uk/garden-landscaping-in-balloch/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34018
+    URL: https://glasgowtrader.co.uk/listing/d-halligan-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] Abbey Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Davies Dr, Alexandria G83, UK
+    Phone:   07751 992761
+    Website: http://abbeylandscapes.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34020
+    URL: https://glasgowtrader.co.uk/listing/abbey-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Glenfinnan Ln, Dumbarton G82 2EW, UK
+    Phone:   N/A
+    Website: http://monkeypuzzletreesurgery.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34022
+    URL: https://glasgowtrader.co.uk/listing/monkey-puzzle-tree-surgery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   14
+  Created: 13
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,416 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  1116 existing listings on site
+  Ledger: 1098 place_ids
+
+[SEARCH] Finding gardeners in Hamilton...
+  Found 35 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/35] Mckay Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33858 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/35] Garden Machinery Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Pollock Ave, Hamilton ML3 9SZ, UK
+    Phone:   01698 283818
+    Website: http://www.gms.scot/
+    Rating:  4.8 (127 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33884
+    URL: https://glasgowtrader.co.uk/listing/garden-machinery-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/35] CD Landscapes Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5A S Park Rd, Hamilton ML3 6PH, UK
+    Phone:   0844 870 7972
+    Website: https://www.lanarkshiregardener.co.uk/gardener-in-hamilton/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33886
+    URL: https://glasgowtrader.co.uk/listing/cd-landscapes-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/35] Bancroft Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Douglas Cres, Hamilton ML3 7SQ, UK
+    Phone:   01698 307718
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33888
+    URL: https://glasgowtrader.co.uk/listing/bancroft-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/35] Mr & Mrs Gardens Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Tantallon Park, East Kilbride, Glasgow G74 1DU, UK
+    Phone:   07599 840404
+    Website: https://www.mrmrsgardens.co.uk/
+    Rating:  4.7 (45 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33890
+    URL: https://glasgowtrader.co.uk/listing/mr-mrs-gardens-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/35] CM Gardens LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33856 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/35] TreeTmenT Specialist Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33872 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [8/35] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [9/35] Forrest Walk Land & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33818 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [10/35] Murray Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33836 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [11/35] Juniper Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33860 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [12/35] Kennedy Landscaping Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Weavers Ct, Glassford, Strathaven ML10 6FQ, UK
+    Phone:   07950 698608
+    Website: http://www.kennedylandscaping.co.uk/
+    Rating:  5 (37 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33892
+    URL: https://glasgowtrader.co.uk/listing/kennedy-landscaping-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/35] Green & Tidy Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Balmoral Pl, East Kilbride, Glasgow G74 1EP, UK
+    Phone:   07954 153010
+    Website: N/A
+    Rating:  4.8 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33894
+    URL: https://glasgowtrader.co.uk/listing/green-tidy-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/35] Garden Holme Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 Milton St, Hamilton ML3 9JW, UK
+    Phone:   07786 874121
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33896
+    URL: https://glasgowtrader.co.uk/listing/garden-holme-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/35] MGS Mark's Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33812 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [16/35] Graham's Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Brora Cres, Hamilton ML3 8LF, UK
+    Phone:   07717 231528
+    Website: N/A
+    Rating:  1 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33898
+    URL: https://glasgowtrader.co.uk/listing/grahams-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/35] Cedar Garden Rooms Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 165 Townhill Rd, Hamilton ML3 9RW, UK
+    Phone:   07788 928329
+    Website: https://www.cedargardenroomsscotland.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33900
+    URL: https://glasgowtrader.co.uk/listing/cedar-garden-rooms-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/35] Robertson garden & property maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 107 Warwick, East Kilbride, Glasgow G74 3PZ, UK
+    Phone:   07858 211911
+    Website: http://www.robertsongardenpropertymaintenance.co.uk/
+    Rating:  3 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33902
+    URL: https://glasgowtrader.co.uk/listing/robertson-garden-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/35] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [20/35] D C Landscape Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Muttonhole Rd, Hamilton ML3 8RU, UK
+    Phone:   01698 305935
+    Website: N/A
+    Rating:  3.7 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33904
+    URL: https://glasgowtrader.co.uk/listing/d-c-landscape-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/35] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [22/35] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [23/35] Arbatross Tree Care & Roofing Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 93 Skye Wynd, Hamilton ML3 8BF, UK
+    Phone:   07715 366034
+    Website: N/A
+    Rating:  5 (13 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33906
+    URL: https://glasgowtrader.co.uk/listing/arbatross-tree-care-roofing-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/35] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [25/35] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [26/35] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [27/35] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [28/35] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [29/35] MT Trees
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 84 Roslea Dr, Glasgow G31 2RP, UK
+    Phone:   07823 550986
+    Website: https://www.mt-trees.co.uk/
+    Rating:  5 (44 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33908
+    URL: https://glasgowtrader.co.uk/listing/mt-trees/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [30/35] Beswick Tree Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 418A Whitney Ave Unit C2, Hamilton, ON L8S 2H7, Canada
+    Phone:   (905) 529-5612
+    Website: http://www.beswicktreeservice.com/?utm_campaign=gmb
+    Rating:  4.8 (824 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33910
+    URL: https://glasgowtrader.co.uk/listing/beswick-tree-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [31/35] Wallace Tree Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 S Hamilton St, Kilmarnock KA1 2DW, UK
+    Phone:   01563 531232
+    Website: https://wallacetreecare.co.uk/
+    Rating:  5 (32 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33912
+    URL: https://glasgowtrader.co.uk/listing/wallace-tree-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [32/35] Davey Tree Expert Co. of Canada, Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 182 Chatham St, Hamilton, ON L8P 2B6, Canada
+    Phone:   (866) 828-5007
+    Website: https://www.daveytree.ca/hamilton
+    Rating:  4.8 (320 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33914
+    URL: https://glasgowtrader.co.uk/listing/davey-tree-expert-co-of-canada-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [33/35] Central Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33876 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [34/35] Scottish Tree Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Peacock Cross Industrial Estate, 32 Burnbank Rd, Hamilton ML3 9AQ, UK
+    Phone:   0141 243 2870
+    Website: https://scottishtreecompany.co.uk/
+    Rating:  4.2 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33916
+    URL: https://glasgowtrader.co.uk/listing/scottish-tree-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [35/35] DeVos Tree Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1429 Main St E, Hamilton, ON L8K 1C2, Canada
+    Phone:   (289) 768-7860
+    Website: https://devostree.ca/
+    Rating:  4.9 (208 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33918
+    URL: https://glasgowtrader.co.uk/listing/devos-tree-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   35
+  Created: 18
+  Skipped: 17 (already existed)
+  Failed:  0
+============================================================

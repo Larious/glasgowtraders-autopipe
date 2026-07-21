@@ -1,0 +1,400 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  1101 existing listings on site
+  Ledger: 1083 place_ids
+
+[SEARCH] Finding gardeners in Bellshill...
+  Found 39 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/39] JMF DRIVEWAYS AND LANDSCAPING
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33844 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [2/39] Forrest Walk Land & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33818 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [3/39] Green Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33830 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [4/39] CUT N BLO LANDSCAPING
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33810 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [5/39] MGS Mark's Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33812 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [6/39] Murray Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33836 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [7/39] LCL Landscaping & Groundcare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 179 Orbiston St, Motherwell ML1 1PX, UK
+    Phone:   01698 446753
+    Website: http://www.lclscotland.co.uk/
+    Rating:  4.7 (55 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33854
+    URL: https://glasgowtrader.co.uk/listing/lcl-landscaping-groundcare/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/39] Premier Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33806 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [9/39] 1st Class Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33816 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [10/39] Coatbridge Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33814 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [11/39] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [12/39] CM Gardens LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 8/9, Flemington industrial estate, 420 Hamilton Rd, Cambuslang, Glasgow G72 7TN, UK
+    Phone:   0141 553 5766
+    Website: http://www.cmgardens.co.uk/
+    Rating:  4.7 (65 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33856
+    URL: https://glasgowtrader.co.uk/listing/cm-gardens-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/39] Mckay Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 82 Muir St, Hamilton ML3 6BJ, UK
+    Phone:   07538 370988
+    Website: https://mckaylandscapesscotland.com/?utm_campaign=gmb
+    Rating:  3.4 (10 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33858
+    URL: https://glasgowtrader.co.uk/listing/mckay-landscapes-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/39] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [15/39] All NU Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33822 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [16/39] Juniper Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 315 Hamilton Rd, Glasgow G71 7SL, UK
+    Phone:   07446 041758
+    Website: https://www.juniper-landscapes.com/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33860
+    URL: https://glasgowtrader.co.uk/listing/juniper-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/39] Cambus Fencing & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33820 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [18/39] low cost landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Coniston Dr, Bellshill ML4 2JZ, UK
+    Phone:   07481 837305
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33862
+    URL: https://glasgowtrader.co.uk/listing/low-cost-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/39] Skill Build Brickwork & Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32092 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [20/39] JR Tree & Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Main St, Wishaw ML2 7LU, UK
+    Phone:   07542 430004
+    Website: http://jr-treecare.co.uk/
+    Rating:  4.8 (44 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33864
+    URL: https://glasgowtrader.co.uk/listing/jr-tree-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/39] DT tree surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 32 Pavilion Ct, Motherwell ML1 4FU, UK
+    Phone:   0141 530 5880
+    Website: https://dttreesurgeonsltd.co.uk/
+    Rating:  4.9 (42 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33866
+    URL: https://glasgowtrader.co.uk/listing/dt-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/39] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Bowmore Gardens, Uddingston, Glasgow G71 6DX, UK
+    Phone:   07769 355005
+    Website: http://excelsiortreesurgery.co.uk/
+    Rating:  5 (101 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33868
+    URL: https://glasgowtrader.co.uk/listing/excelsior-tree-surgery-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [23/39] Wid Men Tree Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 Shawstonfoot Rd, Cleland, Motherwell ML1 5NY, UK
+    Phone:   07500 044028
+    Website: N/A
+    Rating:  5 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33870
+    URL: https://glasgowtrader.co.uk/listing/wid-men-tree-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/39] TreeTmenT Specialist Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 82 Redwood Cres, Hamilton ML3 8SZ, UK
+    Phone:   01698 477761
+    Website: http://www.treetment.co.uk/
+    Rating:  4.8 (67 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33872
+    URL: https://glasgowtrader.co.uk/listing/treetment-specialist-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [25/39] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [26/39] North Lanarkshire Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33852 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [27/39] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 6, 8 Lower Mill Rd, Busby, Glasgow G76 6BJ, UK
+    Phone:   0141 473 4705
+    Website: https://premiertreesurgeons.com/
+    Rating:  5 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33874
+    URL: https://glasgowtrader.co.uk/listing/premier-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [28/39] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [29/39] Central Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: East Lodge, Cambusnethan Priory, Wishaw ML2 0RW, UK
+    Phone:   01698 510458
+    Website: https://www.ctstreesurgeons-scotland.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33876
+    URL: https://glasgowtrader.co.uk/listing/central-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [30/39] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [31/39] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [32/39] Treefellas Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36 Greens Ave, Kirkintilloch, Glasgow G66 4AA, UK
+    Phone:   07546 769861
+    Website: https://www.treefellasscotland.co.uk/
+    Rating:  4.8 (27 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33878
+    URL: https://glasgowtrader.co.uk/listing/treefellas-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [33/39] JL Tree Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Broompark Dr, Lesmahagow, Lanark ML11 0DH, UK
+    Phone:   07783 139041
+    Website: https://www.jltreeservices.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33880
+    URL: https://glasgowtrader.co.uk/listing/jl-tree-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [34/39] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [35/39] Central Tree Service & Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Cherrytree Cres, Larkhall ML9 2AP, UK
+    Phone:   0141 530 9888
+    Website: http://centraltreeservices.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33882
+    URL: https://glasgowtrader.co.uk/listing/central-tree-service-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [36/39] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [37/39] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [38/39] Apex Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33846 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [39/39] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Bellshill' instead
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   39
+  Created: 15
+  Skipped: 24 (already existed)
+  Failed:  0
+============================================================

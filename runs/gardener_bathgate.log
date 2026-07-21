@@ -1,0 +1,482 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  1271 existing listings on site
+  Ledger: 1253 place_ids
+
+[SEARCH] Finding gardeners in Bathgate...
+  Found 36 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/36] DJM Landscaping Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Anne St, Bathgate EH48 1SQ, UK
+    Phone:   01506 248062
+    Website: https://www.djmgardenmaintenance.co.uk/
+    Rating:  4.4 (42 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34194
+    URL: https://glasgowtrader.co.uk/listing/djm-landscaping-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/36] West Lothian Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Burnside Rd, Bathgate EH48 4PT, UK
+    Phone:   07598 107025
+    Website: https://www.westlothiangardeningservices.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34196
+    URL: https://glasgowtrader.co.uk/listing/west-lothian-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/36] BM Landscaping bathgate
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 90 Hillhouse Ave, Bathgate EH48 4BB, UK
+    Phone:   07922 899912
+    Website: http://bmlandscaping.uk/
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34198
+    URL: https://glasgowtrader.co.uk/listing/bm-landscaping-bathgate/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/36] Tree & Ground Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Easton Rd, Bathgate EH48 2QG, UK
+    Phone:   07525 808565
+    Website: http://tgmaintenance.co.uk/?utm_source=gmb&utm_medium=referral
+    Rating:  4.9 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34200
+    URL: https://glasgowtrader.co.uk/listing/tree-ground-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/36] RS Landscaping & Construction
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 72 Park View, Fauldhouse, Bathgate EH47 9JZ, UK
+    Phone:   07786 370214
+    Website: https://westlothianlandscaping.co.uk/
+    Rating:  4.6 (57 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34202
+    URL: https://glasgowtrader.co.uk/listing/rs-landscaping-construction/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/36] S M Garden Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: E Main St, Harthill, Shotts ML7 5RQ, UK
+    Phone:   07492 486951
+    Website: https://www.facebook.com/SMGARDENMAINTENANCE
+    Rating:  5 (5 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34204
+    URL: https://glasgowtrader.co.uk/listing/s-m-garden-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/36] Brad's Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 81 Kenmore Ave, Livingston EH54 8NF, UK
+    Phone:   07913 131338
+    Website: http://www.bradsgardenservices.co.uk/
+    Rating:  4.7 (24 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34206
+    URL: https://glasgowtrader.co.uk/listing/brads-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/36] landscape Zoolutions - Landscape West Lothian
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Gavieside, Polbeth, West Calder EH55 8PT, UK
+    Phone:   07584 324920
+    Website: https://landscapezoolutions.co.uk/
+    Rating:  4.9 (35 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34208
+    URL: https://glasgowtrader.co.uk/listing/landscape-zoolutions-landscape-west-lothian/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/36] Lawn Stars Scotland LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Currieside Pl, Shotts ML7 4AL, UK
+    Phone:   07745 504042
+    Website: http://lawnstarsscotland.co.uk/
+    Rating:  4.8 (23 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34210
+    URL: https://glasgowtrader.co.uk/listing/lawn-stars-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/36] DM Garden Services - (West Lothian)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Highfield, Livingston Village, Livingston EH54 7BQ, UK
+    Phone:   07752 107209
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34212
+    URL: https://glasgowtrader.co.uk/listing/dm-garden-services-west-lothian/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/36] H Goodman Groundworks & Landscaping Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 91 Lenzie Ave, Livingston EH54 8NR, UK
+    Phone:   01506 412047
+    Website: https://www.hgoodmanlandscaping.co.uk/
+    Rating:  4.7 (38 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34214
+    URL: https://glasgowtrader.co.uk/listing/h-goodman-groundworks-landscaping-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/36] The Turf Warehouse
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Block 12, Unit 1, Whiteside Industrial Estate, Bathgate EH48 2RX, UK
+    Phone:   07391 423285
+    Website: http://www.theturfwarehouse.co.uk/
+    Rating:  4.6 (37 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34216
+    URL: https://glasgowtrader.co.uk/listing/the-turf-warehouse/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/36] Fleming Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 89 Seafield Rows, Seafield, Bathgate EH47 7AL, UK
+    Phone:   07592 872246
+    Website: https://fleming-landscaping.square.site/
+    Rating:  4.3 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34218
+    URL: https://glasgowtrader.co.uk/listing/fleming-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/36] Af Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 203 Mallace Ave, Armadale, Bathgate EH48 2GE, UK
+    Phone:   07958 332315
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34220
+    URL: https://glasgowtrader.co.uk/listing/af-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/36] SNL landscaping & Fencing contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 67 Empire St, Whitburn, Bathgate EH47 0DY, UK
+    Phone:   07446 036242
+    Website: https://www.snltreesurgeons.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34222
+    URL: https://glasgowtrader.co.uk/listing/snl-landscaping-fencing-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/36] JJ Landscape Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34142 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [17/36] AGB Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Maukeshill Ct, Livingston Village, Livingston EH54 7AX, UK
+    Phone:   07450 228869
+    Website: https://www.agblandscapes.com/
+    Rating:  5 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34224
+    URL: https://glasgowtrader.co.uk/listing/agb-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/36] AT Fencing and Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Cemetery Rd, Fauldhouse, Bathgate EH47 9BN, UK
+    Phone:   07718 299405
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34226
+    URL: https://glasgowtrader.co.uk/listing/at-fencing-and-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/36] Northfield Landscaping and Construction
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Northfield House, Longridge, Bathgate EH47 9AA, UK
+    Phone:   07463 745622
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34228
+    URL: https://glasgowtrader.co.uk/listing/northfield-landscaping-and-construction/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/36] Greenhart Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Swallow Brae, Livingston EH54 6GZ, UK
+    Phone:   01506 463632
+    Website: http://www.greenhartlandscaping.co.uk/
+    Rating:  4.9 (13 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34230
+    URL: https://glasgowtrader.co.uk/listing/greenhart-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/36] BmTreeSurgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Crofters Gate, East Whitburn, Bathgate EH47 8EP, UK
+    Phone:   N/A
+    Website: http://www.bmtreesurgeons.co.uk/
+    Rating:  5 (34 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34232
+    URL: https://glasgowtrader.co.uk/listing/bmtreesurgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/36] Trees in West Lothian
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Woodlands Grove, Armadale, Bathgate EH48 2UH, UK
+    Phone:   07887 541336
+    Website: https://west-lothian.tree-servicing.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34234
+    URL: https://glasgowtrader.co.uk/listing/trees-in-west-lothian/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [23/36] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [24/36] Ace Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 49 Avonmill View, Linlithgow Bridge, Linlithgow EH49 7SH, UK
+    Phone:   01506 248717
+    Website: http://www.acetreesurgeons.co.uk/
+    Rating:  4.4 (9 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34236
+    URL: https://glasgowtrader.co.uk/listing/ace-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [25/36] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [26/36] Tree Arborist Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34150 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [27/36] Blaikie Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Rose Cottage, Peniel Pl, Broxburn EH52 5PZ, UK
+    Phone:   07554 014524
+    Website: http://blaikietreeservices.co.uk/
+    Rating:  5 (18 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34238
+    URL: https://glasgowtrader.co.uk/listing/blaikie-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [28/36] LP Tree And Garden Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Burngrange Farm, West Calder, Livingston EH55 8HG, UK
+    Phone:   07480 522173
+    Website: http://lptreeandgardencare.co.uk/
+    Rating:  4.2 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34240
+    URL: https://glasgowtrader.co.uk/listing/lp-tree-and-garden-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [29/36] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [30/36] All Seasons Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34156 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [31/36] Claymore Tree Surgery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Crossford, Dunfermline KY12 8NP, UK
+    Phone:   07870 652982
+    Website: https://claymoretreesurgery.com/
+    Rating:  5 (102 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34242
+    URL: https://glasgowtrader.co.uk/listing/claymore-tree-surgery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+  Batch cap reached (25 creates). Re-run (new token) to continue — the ledger skips everything published so far.
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   36
+  Created: 25
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

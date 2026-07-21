@@ -1,0 +1,237 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  1147 existing listings on site
+  Ledger: 1129 place_ids
+
+[SEARCH] Finding gardeners in Clydebank...
+  Found 16 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] Rake it in gardening services ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Alexander St, Clydebank G81 1SQ, UK
+    Phone:   07856 578555
+    Website: http://rakeitin.co.uk/
+    Rating:  5 (113 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33946
+    URL: https://glasgowtrader.co.uk/listing/rake-it-in-gardening-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/16] Handy gardening and fences
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2121 Dumbarton Rd, Glasgow G14 0HU, UK
+    Phone:   07927 181257
+    Website: http://handygardening.co.uk/
+    Rating:  5 (13 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33948
+    URL: https://glasgowtrader.co.uk/listing/handy-gardening-and-fences/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/16] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [4/16] Gowanlea Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Golf Dr, Glasgow G15 6TA, UK
+    Phone:   0141 944 5051
+    Website: N/A
+    Rating:  3 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33950
+    URL: https://glasgowtrader.co.uk/listing/gowanlea-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] KDC Landscape
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Barra Cres, Old Kilpatrick, Glasgow G60 5HP, UK
+    Phone:   07875 948722
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33952
+    URL: https://glasgowtrader.co.uk/listing/kdc-landscape/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] Dino's Gardening & Pressure Washing Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Knightswood Rd, Glasgow G13 2JE, UK
+    Phone:   07943 805810
+    Website: https://www.gumtree.com/p/business-services/dinos-gardening-and-pressure-washing-services/1485210006?&utm_source=Gmail&utm_campaign=socialbuttons&utm_content=app_android&utm_medium=Social
+    Rating:  5 (19 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33954
+    URL: https://glasgowtrader.co.uk/listing/dinos-gardening-pressure-washing-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] Garden Forces
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 26 Thorn Rd, Bearsden, Glasgow G61 4BS, UK
+    Phone:   07341 410763
+    Website: http://www.gardenforces.co.uk/
+    Rating:  4.8 (35 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33956
+    URL: https://glasgowtrader.co.uk/listing/garden-forces/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/16] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [9/16] T.W.C Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Davidson Quadrant, Clydebank G81 6JL, UK
+    Phone:   07717 772634
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33958
+    URL: https://glasgowtrader.co.uk/listing/t-w-c-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/16] Killoch Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 164 Killoch Dr, Glasgow G13 3SU, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33960
+    URL: https://glasgowtrader.co.uk/listing/killoch-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] Digby Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33794 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [12/16] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [13/16] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [14/16] Callander Landscapes Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Westend, Bearsden, Glasgow G61 1DN, UK
+    Phone:   07851 068127
+    Website: http://www.callanderlandscapes.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33962
+    URL: https://glasgowtrader.co.uk/listing/callander-landscapes-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] The Tree Fella
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Cochno Rd, Clydebank G81 5QR, UK
+    Phone:   01389 800000
+    Website: http://www.treefella-clydebank.co.uk/
+    Rating:  4.9 (10 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33964
+    URL: https://glasgowtrader.co.uk/listing/the-tree-fella/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/16] G Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 80 Dumbarton Rd, Duntocher, Clydebank G81 6DN, UK
+    Phone:   07862 139288
+    Website: https://glasgowtreesurgeons.co.uk/locations/clydebank/
+    Rating:  5 (8 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33966
+    URL: https://glasgowtrader.co.uk/listing/g-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   16
+  Created: 11
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

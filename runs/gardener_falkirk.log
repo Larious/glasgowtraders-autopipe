@@ -1,0 +1,452 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  1229 existing listings on site
+  Ledger: 1211 place_ids
+
+[SEARCH] Finding gardeners in Falkirk...
+  Found 28 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/28] McCann Garden Solutions Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Cauldhame Farm Rd, Falkirk FK2 7FQ, UK
+    Phone:   07429 733341
+    Website: http://mccanngardensolutions.com/
+    Rating:  5 (12 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34110
+    URL: https://glasgowtrader.co.uk/listing/mccann-garden-solutions-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/28] BM Garden & Landscaping Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 43 York St, Falkirk FK2 9EW, UK
+    Phone:   07511 259875
+    Website: https://www.bmgardenlandscaping.co.uk/
+    Rating:  3.9 (25 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34112
+    URL: https://glasgowtrader.co.uk/listing/bm-garden-landscaping-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/28] Greenheart Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Bridgehill, Falkirk Rd, Avonbridge, Falkirk FK1 2LT, UK
+    Phone:   07922 859356
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34114
+    URL: https://glasgowtrader.co.uk/listing/greenheart-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/28] BIZY BEE LANDSCAPES
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Tamfourhill Industrial Estate, 15 Tamfourhill Ave, Falkirk FK1 4AQ, UK
+    Phone:   07852 557892
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34116
+    URL: https://glasgowtrader.co.uk/listing/bizy-bee-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/28] Cuthelton Landscaping, Resin + Building
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Winchester Ave, Denny FK6 6QE, UK
+    Phone:   07393 728476
+    Website: https://cutheltongardens.co.uk/
+    Rating:  4.8 (39 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34118
+    URL: https://glasgowtrader.co.uk/listing/cuthelton-landscaping-resin-building/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/28] Tom's gardening Falkirk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Pembroke St, Larbert FK5 4RW, UK
+    Phone:   07587 969118
+    Website: http://facebook.com/tomsgardeningfalkirk
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34120
+    URL: https://glasgowtrader.co.uk/listing/toms-gardening-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/28] GreenCutts Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: S Craigs Rd, Rumford, Falkirk FK2 0EU, UK
+    Phone:   07495 604803
+    Website: http://www.stevengray110493.wixsite.com/greencuttsgardenings
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34122
+    URL: https://glasgowtrader.co.uk/listing/greencutts-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/28] Linda’s gardening & landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 muirpark ct, Bo'ness EH51 9HH, UK
+    Phone:   07988 760988
+    Website: N/A
+    Rating:  4.6 (9 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34124
+    URL: https://glasgowtrader.co.uk/listing/lindas-gardening-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/28] Thistle Landscaping & Paving contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Ladeside Cres, Stenhousemuir, Falkirk FK5 3DG, UK
+    Phone:   01324 808214
+    Website: N/A
+    Rating:  5 (32 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34126
+    URL: https://glasgowtrader.co.uk/listing/thistle-landscaping-paving-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/28] Stewarts Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Old, Northfield Rd, Denny FK6 6QY, UK
+    Phone:   07831 115810
+    Website: http://www.stewartslandscapingandpaving.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34128
+    URL: https://glasgowtrader.co.uk/listing/stewarts-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/28] Aces Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 62 Mavisbank Ave, Shieldhill, Falkirk FK1 2EX, UK
+    Phone:   07445 804281
+    Website: https://newmapiuk.top/details/aces-gardening-ChIJb3H
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34130
+    URL: https://glasgowtrader.co.uk/listing/aces-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/28] Lawn Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47 Waggon Rd, Brightons, Falkirk FK2 0EL, UK
+    Phone:   07918 080633
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34132
+    URL: https://glasgowtrader.co.uk/listing/lawn-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/28] Forth Dimension Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Shanks Ave, Denny FK6 5ED, UK
+    Phone:   01324 822940
+    Website: https://www.forthdimensiongardens.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34134
+    URL: https://glasgowtrader.co.uk/listing/forth-dimension-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/28] Glenmoir Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37 Carronview, Stenhousemuir, Larbert FK5 3HU, UK
+    Phone:   07962 320065
+    Website: http://glenmoirlandscaping.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34136
+    URL: https://glasgowtrader.co.uk/listing/glenmoir-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/28] Martin’s Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 75 Craigleith View, Tullibody, Alloa FK10 2TX, UK
+    Phone:   07710 196959
+    Website: http://martinsgardenservices.co.uk/?utm_source=gmb&utm_medium=referral
+    Rating:  4.9 (61 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34138
+    URL: https://glasgowtrader.co.uk/listing/martins-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/28] MUSA Landscape Architecture
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Slamannan Rd, Falkirk FK1 5LE, UK
+    Phone:   07932 455391
+    Website: http://www.musalandscape.com/
+    Rating:  5 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34140
+    URL: https://glasgowtrader.co.uk/listing/musa-landscape-architecture/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/28] JJ Landscape Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Mannerston Holdings, Linlithgow EH49 7ND, UK
+    Phone:   07538 006868
+    Website: https://jakejenson.co.uk/
+    Rating:  4.9 (59 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34142
+    URL: https://glasgowtrader.co.uk/listing/jj-landscape-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/28] Cut 'N' Edge Landscapers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Poplar St, Grangemouth FK3 8NE, UK
+    Phone:   07739 759940
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34144
+    URL: https://glasgowtrader.co.uk/listing/cut-n-edge-landscapers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/28] Roberts Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Herkimer House, Enterprise Park, Mill Rd, Linlithgow Bridge, Linlithgow EH49 7SF, UK
+    Phone:   07380 113636
+    Website: https://robertslandscapes.co.uk/
+    Rating:  4.6 (30 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34146
+    URL: https://glasgowtrader.co.uk/listing/roberts-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/28] Greenlands Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Main St, Thornhill, Stirling FK8 3PN, UK
+    Phone:   01786 850345
+    Website: https://greenlands-gardens.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34148
+    URL: https://glasgowtrader.co.uk/listing/greenlands-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/28] Tree Arborist Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, Lec Court, Bog Rd, Laurieston, Falkirk FK2 9PH, UK
+    Phone:   07841 047941
+    Website: https://treearboristfk.co.uk/
+    Rating:  5 (40 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34150
+    URL: https://glasgowtrader.co.uk/listing/tree-arborist-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/28] Lowland Trees
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16-18 Weir St, Falkirk FK1 1RA, UK
+    Phone:   07982 719713
+    Website: https://www.lowlandtrees.co.uk/
+    Rating:  5 (76 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34152
+    URL: https://glasgowtrader.co.uk/listing/lowland-trees/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [23/28] O'Neill Trees & Timber Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Slamannan Rd, Falkirk FK1 5LE, UK
+    Phone:   01324 309789
+    Website: http://www.treesandtimber.ltd/
+    Rating:  5 (38 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34154
+    URL: https://glasgowtrader.co.uk/listing/oneill-trees-timber-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/28] All Seasons Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 132 Ure Cres, Bonnybridge, Falkirk FK4 1NR, UK
+    Phone:   07799 865350
+    Website: http://free-4204337.webador.co.uk/
+    Rating:  4.9 (78 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34156
+    URL: https://glasgowtrader.co.uk/listing/all-seasons-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [25/28] Taylor Trees
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Little Overton, Denny FK6 5JE, UK
+    Phone:   07803 591153
+    Website: https://www.taylortrees.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34158
+    URL: https://glasgowtrader.co.uk/listing/taylor-trees/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+  Batch cap reached (25 creates). Re-run (new token) to continue — the ledger skips everything published so far.
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   28
+  Created: 25
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================
