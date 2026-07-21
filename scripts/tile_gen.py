@@ -23,6 +23,8 @@ CATEGORY_STYLE = {
     161: ("Landscaper", (0, 105, 92), (0, 77, 64), "hills"),
     166: ("Tree Surgeon", (51, 105, 30), (33, 66, 20), "tree"),
     22:  ("Plumber", (21, 101, 192), (13, 71, 161), "drop"),
+    26:  ("Electrician", (40, 53, 147), (26, 35, 126), "bolt"),
+    82:  ("Builder", (191, 101, 21), (130, 66, 12), "bricks"),
 }
 DEFAULT_STYLE = ("Listing", (55, 71, 79), (38, 50, 56), "leaf")
 
@@ -98,6 +100,21 @@ def _icon(img, d, name, cx, cy, s, bg):
         col = (255, 255, 255, 235)
         d.ellipse([cx - s * 0.7, cy - s * 0.2, cx + s * 0.7, cy + s], fill=col)
         d.polygon([(cx, cy - s), (cx - s * 0.7, cy + s * 0.2), (cx + s * 0.7, cy + s * 0.2)], fill=col)
+    elif name == "bolt":
+        col = (255, 255, 255, 235)
+        d.polygon([(cx + s * 0.35, cy - s), (cx - s * 0.55, cy + s * 0.15),
+                   (cx - s * 0.05, cy + s * 0.15), (cx - s * 0.35, cy + s),
+                   (cx + s * 0.55, cy - s * 0.15), (cx + s * 0.05, cy - s * 0.15)],
+                  fill=col)
+    elif name == "bricks":
+        col = (255, 255, 255, 235)
+        bw, bh, gap = s * 0.62, s * 0.34, s * 0.08
+        for row in range(3):
+            y0 = cy - s * 0.55 + row * (bh + gap)
+            off = 0 if row % 2 == 0 else -(bw + gap) / 2
+            for i in (-1, 0, 1):
+                x0 = cx + off + i * (bw + gap) - bw / 2
+                d.rectangle([x0, y0, x0 + bw, y0 + bh], fill=col)
 
 
 def make_business_tile(name, cat_id, location, out_path):

@@ -26,6 +26,10 @@ def _pick(name, options):
     return options[h % len(options)]
 
 
+def _article(word):
+    return "an" if word[:1].lower() in "aeiou" else "a"
+
+
 def meta_description(name, trade, town, area="", rating=0, reviews=0):
     name = html.unescape(name or "").strip()
     trade_l = (trade or "tradesperson").lower()
@@ -36,24 +40,25 @@ def meta_description(name, trade, town, area="", rating=0, reviews=0):
         where = f"{area}, {town}"
 
     has_rating = rating and reviews
+    art = _article(trade_l)
 
     if has_rating:
         rating_str = f"{rating:g}"
         templates = [
-            f"{name} is a {trade_l} in {where}, rated {rating_str}/5 from "
+            f"{name} is {art} {trade_l} in {where}, rated {rating_str}/5 from "
             f"{reviews} Google reviews. See phone, opening hours and location.",
             f"{name} — {trade_l} covering {where}. {rating_str}/5 across "
             f"{reviews} reviews. Find contact details, hours and service area.",
-            f"Contact {name}, a {trade_l} in {where} rated {rating_str}/5 by "
+            f"Contact {name}, {art} {trade_l} in {where} rated {rating_str}/5 by "
             f"{reviews} customers. Phone number, hours and website inside.",
         ]
     else:
         templates = [
-            f"{name} is a {trade_l} serving {where} and nearby areas of "
+            f"{name} is {art} {trade_l} serving {where} and nearby areas of "
             f"Glasgow. Find phone number, opening hours and location.",
             f"{name} — {trade_l} in {where}. See their phone number, website, "
             f"opening hours and service area on Glasgow Trader.",
-            f"Looking for a {trade_l} in {where}? {name} lists phone number, "
+            f"Looking for {art} {trade_l} in {where}? {name} lists phone number, "
             f"opening hours, website and service area here.",
         ]
 

@@ -59,6 +59,20 @@ class TestMetaDescription(unittest.TestCase):
         self.assertEqual(seo.meta_description(**BIZ),
                          seo.meta_description(**BIZ))
 
+    def test_correct_article_before_vowel_trade(self):
+        md = seo.meta_description("Clyde Valley Electrical", "Electrician",
+                                  "Hamilton", rating=0, reviews=0)
+        self.assertNotIn(" a electrician", md.lower())
+        # whichever template is chosen, an article+electrician must be correct
+        if "electrician" in md.lower() and (" a " in f" {md.lower()} "
+                                            or "an electrician" in md.lower()):
+            self.assertNotIn(" a electrician", md.lower())
+
+    def test_article_helper(self):
+        self.assertEqual(seo._article("electrician"), "an")
+        self.assertEqual(seo._article("plumber"), "a")
+        self.assertEqual(seo._article("Electrician"), "an")
+
     def test_no_ai_tell_words(self):
         tells = ["nestled", "look no further", "trusted partner",
                  "one-stop", "top-notch", "boasts", "when it comes to",

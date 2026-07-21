@@ -1,0 +1,507 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  1037 existing listings on site
+  Ledger: 1019 place_ids
+
+[SEARCH] Finding gardeners in Glasgow...
+  Found 46 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/46] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [2/46] Thistle Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33621 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [3/46] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [4/46] Green Wheels Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33623 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [5/46] Garden Man - Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33624 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [6/46] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [7/46] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [8/46] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [9/46] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [10/46] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [11/46] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [12/46] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [13/46] Garden Grooming Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33632 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [14/46] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [15/46] Garden Force - Giffnock, Pollokshields & Newlands,
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33634 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [16/46] C&C Premium Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33635 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [17/46] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [18/46] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [19/46] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [20/46] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [21/46] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [22/46] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [23/46] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [24/46] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [25/46] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [26/46] Premium Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 26 Thorn Rd, Bearsden, Glasgow G61 4BS, UK
+    Phone:   0141 561 7511
+    Website: http://www.premium-landscaping.co.uk/
+    Rating:  4.9 (7 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33672
+    URL: https://glasgowtrader.co.uk/listing/premium-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [27/46] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Queensborough Gardens, Glasgow G12 9PW, UK
+    Phone:   07789 811469
+    Website: https://www.theglasgowtreesurgeon.co.uk/
+    Rating:  4.8 (49 reviews)
+    Hours:   2 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33674
+    URL: https://glasgowtrader.co.uk/listing/the-glasgow-tree-surgeon/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [28/46] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 248 Crofthill Rd, Glasgow G44 5NN, UK
+    Phone:   07496 879066
+    Website: https://www.glasgrowtreesurgeons.com/
+    Rating:  5 (142 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33676
+    URL: https://glasgowtrader.co.uk/listing/glasgrow-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [29/46] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Sutherland Ave, Bellahouston, Glasgow G41 4JH, UK
+    Phone:   07801 947419
+    Website: https://threeleaftrees.com/
+    Rating:  5 (161 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33678
+    URL: https://glasgowtrader.co.uk/listing/three-leaf-trees/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [30/46] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Craighill Dr, Clarkston, Glasgow G76 7TD, UK
+    Phone:   07587 106303
+    Website: https://southsidetreesurgeons.com/
+    Rating:  5 (57 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33680
+    URL: https://glasgowtrader.co.uk/listing/southside-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [31/46] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Fernleigh Rd, Glasgow G43 2TY, UK
+    Phone:   07437 437123
+    Website: http://www.newlandstreesurgeons.co.uk/
+    Rating:  4.7 (39 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33682
+    URL: https://glasgowtrader.co.uk/listing/newlands-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [32/46] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2/1B, 71 Wilverton Rd, Glasgow G13 2NW, UK
+    Phone:   0141 483 7474
+    Website: https://clydetreesurgeonsglasgow.com/
+    Rating:  5 (25 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33684
+    URL: https://glasgowtrader.co.uk/listing/clyde-tree-surgeons-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [33/46] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 57 Carnwath Ave, Glasgow G43 2HJ, UK
+    Phone:   07888 731807
+    Website: https://treesurgeonsglasgow.co.uk/
+    Rating:  4.9 (37 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33686
+    URL: https://glasgowtrader.co.uk/listing/aspen-tree-surgeons-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [34/46] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 92 Camphill Ave, Shawlands, Glasgow G41 3DU, UK
+    Phone:   07762 621400
+    Website: https://stevensontreecare.co.uk/
+    Rating:  5 (86 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33688
+    URL: https://glasgowtrader.co.uk/listing/stevenson-tree-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [35/46] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glasgow G2 5JF, UK
+    Phone:   07404 150870
+    Website: N/A
+    Rating:  5 (56 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33690
+    URL: https://glasgowtrader.co.uk/listing/cathcart-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [36/46] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Top left, 99 Greenock Rd, Paisley PA3 2LF, UK
+    Phone:   07969 306387
+    Website: https://www.treewisetreesurgeons.co.uk/
+    Rating:  5 (185 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33692
+    URL: https://glasgowtrader.co.uk/listing/tree-wise-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [37/46] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Barn Grn, Kilbarchan, Johnstone PA10 2HG, UK
+    Phone:   07522 083472
+    Website: https://tmtrees.com/
+    Rating:  5 (53 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33694
+    URL: https://glasgowtrader.co.uk/listing/tm-trees-tree-surgeon-renfrewshire-and-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [38/46] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: The Tree Doctor Scotland, 3 Craigburn Ave, Houston, Scotland PA6 7ND, UK
+    Phone:   07738 094780
+    Website: http://www.scottishtreedoctor.co.uk/
+    Rating:  4.9 (34 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33696
+    URL: https://glasgowtrader.co.uk/listing/the-tree-doctor-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [39/46] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ste 2/3 2nd Floor, 48 W George St, Glasgow G2 1BP, UK
+    Phone:   0141 375 7088
+    Website: https://www.trstreesurgeonglasgow.co.uk/
+    Rating:  4.9 (82 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33698
+    URL: https://glasgowtrader.co.uk/listing/trs-tree-removal-specialists/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [40/46] Glasgow Arborists
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glenlora Dr, Glasgow G53 6JS, UK
+    Phone:   07780 200111
+    Website: http://www.glasgow-arborists.co.uk/
+    Rating:  4.4 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33700
+    URL: https://glasgowtrader.co.uk/listing/glasgow-arborists/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [41/46] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Alyth Cres, Clarkston, Glasgow G76 8PF, UK
+    Phone:   07525 177680
+    Website: https://www.clarkstontreesurgeon.co.uk/
+    Rating:  4.9 (64 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33702
+    URL: https://glasgowtrader.co.uk/listing/clarkston-tree-surgeon/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [42/46] Casey Tree Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 81 Nitshill Rd, Glasgow G53 7AF, UK
+    Phone:   07961 020988
+    Website: https://www.caseytreecare.co.uk/
+    Rating:  5 (14 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33704
+    URL: https://glasgowtrader.co.uk/listing/casey-tree-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [43/46] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6C Barnes St, Barrhead, Glasgow G78 1QN, UK
+    Phone:   07828 767315
+    Website: https://www.laurencekeenantreeworks.co.uk/
+    Rating:  5 (38 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33706
+    URL: https://glasgowtrader.co.uk/listing/laurence-keenan-tree-works/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [44/46] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Menzies Pl, Glasgow G21 3NA, UK
+    Phone:   07841 905145
+    Website: https://bensonstreesurgery.uk/
+    Rating:  5 (33 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33708
+    URL: https://glasgowtrader.co.uk/listing/bensons-tree-surgery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [45/46] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Riverford Gdns, Glasgow G43 1ET, UK
+    Phone:   07591 761176
+    Website: https://www.campbelltreeservices.co.uk/
+    Rating:  5 (17 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33710
+    URL: https://glasgowtrader.co.uk/listing/campbell-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [46/46] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Office 1, 9 Newton Pl, Glasgow G3 7PR, UK
+    Phone:   0141 340 9722
+    Website: http://www.cnjtreeservices.co.uk/
+    Rating:  4.7 (29 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33712
+    URL: https://glasgowtrader.co.uk/listing/cnj-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   46
+  Created: 21
+  Skipped: 25 (already existed)
+  Failed:  0
+============================================================
