@@ -1,0 +1,167 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cardross
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cardross'...
+  Found: ID=197 name=Cardross
+
+[DEDUP] Fetching existing listings...
+  1485 existing listings on site
+  Ledger: 1467 place_ids
+
+[SEARCH] Finding gardeners in Cardross...
+  Found 26 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/26] PR Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34006 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [2/26] CB Garden & Property Domestic & Commercial
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34076 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [3/26] JWR landscaping&gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34002 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [4/26] Impero Gardens, Zanone Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34000 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [5/26] MK Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33998 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [6/26] West Coast Property & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34004 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [7/26] Lorimer Tree & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34014 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [8/26] A G Landscapes - Garden Design & Build
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34010 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [9/26] C S S Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34456 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [10/26] Geilston Garden (National Trust for Scotland)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34686 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [11/26] Robert Johnstone Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34454 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [12/26] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34022 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [13/26] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [14/26] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [15/26] Lochside Tree Care & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34460 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [16/26] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [17/26] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [18/26] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [19/26] Greyoaks tree services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: farm, Grey Oaks, Cardross, Dumbarton G82 5HL, UK
+    Phone:   07307 934946
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34720
+    URL: https://glasgowtrader.co.uk/listing/greyoaks-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/26] LJX Ltd - Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34104 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [21/26] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [22/26] Treeline Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34098 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [23/26] SLR Maintenance and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34462 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [24/26] McCabe Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34100 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [25/26] Cairns Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34108 — attached location 'Cardross' instead
+
+────────────────────────────────────────────────────────────
+  [26/26] Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33804 — attached location 'Cardross' instead
+
+============================================================
+  BATCH COMPLETE — Cardross
+============================================================
+  Found:   26
+  Created: 1
+  Skipped: 25 (already existed)
+  Failed:  0
+============================================================

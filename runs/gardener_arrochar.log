@@ -1,0 +1,105 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Arrochar
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Arrochar'...
+  Found: ID=177 name=Arrochar
+
+[DEDUP] Fetching existing listings...
+  1492 existing listings on site
+  Ledger: 1474 place_ids
+
+[SEARCH] Finding gardeners in Arrochar...
+  Found 16 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] Robert Johnstone Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34454 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [2/16] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [3/16] Lochside Tree Care & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34460 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [4/16] Lorimer Tree & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34014 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [5/16] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [6/16] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34022 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [7/16] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [8/16] Cairns Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34108 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [9/16] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [10/16] LJX Ltd - Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34104 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [11/16] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [12/16] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [13/16] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [14/16] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [15/16] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Arrochar' instead
+
+────────────────────────────────────────────────────────────
+  [16/16] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Arrochar' instead
+
+============================================================
+  BATCH COMPLETE — Arrochar
+============================================================
+  Found:   16
+  Created: 0
+  Skipped: 16 (already existed)
+  Failed:  0
+============================================================

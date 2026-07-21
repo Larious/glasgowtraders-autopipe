@@ -1,0 +1,252 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Langbank
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Langbank'...
+  Found: ID=243 name=Langbank
+
+[DEDUP] Fetching existing listings...
+  1486 existing listings on site
+  Ledger: 1468 place_ids
+
+[SEARCH] Finding gardeners in Langbank...
+  Found 43 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/43] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [2/43] Rake it in gardening services ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33946 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [3/43] Alexander Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34682 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [4/43] JWR landscaping&gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34002 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [5/43] Paisley Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33768 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [6/43] MK Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33998 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [7/43] Impero Gardens, Zanone Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34000 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [8/43] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [9/43] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [10/43] Clydeside Garden Sheds
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34466 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [11/43] Ortus Garden Design & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34096 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [12/43] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [13/43] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [14/43] PR Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34006 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [15/43] A G Landscapes - Garden Design & Build
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34010 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [16/43] Glenbrae Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33772 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [17/43] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [18/43] DMC Groundworks Civils & Landscape Design Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33792 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [19/43] Barclays Landscaping of Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34296 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [20/43] Gryffe valley landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34094 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [21/43] J M Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34714 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [22/43] Matrix Gardens & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33770 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [23/43] Mundell Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34616 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [24/43] A.Peebles Landscape contractor.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47 Talla Rd, Glasgow G52 2SH, UK
+    Phone:   0141 882 4191
+    Website: https://www.lanarkshiregardener.co.uk/gardener-in-cardonald/
+    Rating:  3 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34722
+    URL: https://glasgowtrader.co.uk/listing/a-peebles-landscape-contractor/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [25/43] LJX Ltd - Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34104 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [26/43] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [27/43] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [28/43] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [29/43] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [30/43] Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33804 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [31/43] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [32/43] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [33/43] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [34/43] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [35/43] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [36/43] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [37/43] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34022 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [38/43] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [39/43] The Tree Fella
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33964 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [40/43] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [41/43] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [42/43] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Langbank' instead
+
+────────────────────────────────────────────────────────────
+  [43/43] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Langbank' instead
+
+============================================================
+  BATCH COMPLETE — Langbank
+============================================================
+  Found:   43
+  Created: 1
+  Skipped: 42 (already existed)
+  Failed:  0
+============================================================

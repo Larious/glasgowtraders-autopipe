@@ -1,0 +1,265 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Luss
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Luss'...
+  Found: ID=248 name=Luss
+
+[DEDUP] Fetching existing listings...
+  1487 existing listings on site
+  Ledger: 1469 place_ids
+
+[SEARCH] Finding gardeners in Luss...
+  Found 36 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/36] Robert Johnstone Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34454 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [2/36] The Gardeners Cottages
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34432 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [3/36] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [4/36] Mackie - Luxury Garden Rooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32939 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [5/36] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [6/36] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [7/36] Gardeners Cottage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Alexandria G83 8NZ, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34724
+    URL: https://glasgowtrader.co.uk/listing/gardeners-cottage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/36] Stylish Garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33774 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [9/36] Glenview Luss - One-Bedroom Apartment with Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Luss, Alexandria G83 8PA, UK
+    Phone:   N/A
+    Website: https://www.bluepillow.com/search/5943978f7c00cb0e643c3a93/60713403?dest=bkng&cat=House&lat=56.10161&lng=-4.63942&language=en
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34726
+    URL: https://glasgowtrader.co.uk/listing/glenview-luss-one-bedroom-apartment-with-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/36] Alexander Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34682 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [11/36] Paisley Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33768 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [12/36] The Spa in the Walled Garden - Loch Lomond Golf Club
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Luss, Alexandria G83 8NT, UK
+    Phone:   01436 655315
+    Website: http://www.lochlomond.com/
+    Rating:  4.7 (13 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34728
+    URL: https://glasgowtrader.co.uk/listing/the-spa-in-the-walled-garden-loch-lomond-golf-club/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/36] Dan Frazer Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34320 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [14/36] Hardie Fencing & Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Main Street, Balmaha, Glasgow G63 0JQ, UK
+    Phone:   01360 238442
+    Website: http://www.hardiefencing.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34730
+    URL: https://glasgowtrader.co.uk/listing/hardie-fencing-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/36] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [16/36] M3 Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: East, Fulwood Farm Cottage, Renfrew PA4 9LX, UK
+    Phone:   0141 849 6111
+    Website: N/A
+    Rating:  2.3 (23 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34732
+    URL: https://glasgowtrader.co.uk/listing/m3-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/36] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [18/36] Elmar Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34370 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [19/36] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [20/36] Lorimer Tree & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34014 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [21/36] Lochside Tree Care & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34460 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [22/36] LJX Ltd - Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34104 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [23/36] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34022 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [24/36] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [25/36] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [26/36] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [27/36] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [28/36] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [29/36] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [30/36] Treefellas Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33878 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [31/36] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [32/36] KTS Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34336 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [33/36] Cairns Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34108 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [34/36] Erskine Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34106 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [35/36] Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33804 — attached location 'Luss' instead
+
+────────────────────────────────────────────────────────────
+  [36/36] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Luss' instead
+
+============================================================
+  BATCH COMPLETE — Luss
+============================================================
+  Found:   36
+  Created: 5
+  Skipped: 31 (already existed)
+  Failed:  0
+============================================================

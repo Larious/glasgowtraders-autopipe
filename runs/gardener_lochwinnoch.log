@@ -1,0 +1,255 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Lochwinnoch
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Lochwinnoch'...
+  Found: ID=247 name=Lochwinnoch
+
+[DEDUP] Fetching existing listings...
+  1480 existing listings on site
+  Ledger: 1462 place_ids
+
+[SEARCH] Finding gardeners in Lochwinnoch...
+  Found 34 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/34] Lochhead Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lochhead Ave, Lochwinnoch PA12 4AW, UK
+    Phone:   N/A
+    Website: https://lochwinnochtrust.org.uk/
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34710
+    URL: https://glasgowtrader.co.uk/listing/lochhead-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/34] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [3/34] Crawford W Landscape Contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34560 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [4/34] Greig's Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34706 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [5/34] S&S landscape & property services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 Central Ave, Kilbirnie KA25 6JP, UK
+    Phone:   07729 600857
+    Website: http://sslandscapepropertyservices.com/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34712
+    URL: https://glasgowtrader.co.uk/listing/ss-landscape-property-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/34] Alexander Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34682 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [7/34] Gryffe valley landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34094 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [8/34] Raw landscaping specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34704 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [9/34] Elmar Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34370 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [10/34] J M Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Fulbar St, Renfrew PA4 8PB, UK
+    Phone:   07769 876196
+    Website: https://www.lanarkshiregardener.co.uk/gardener-in-renfrew/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34714
+    URL: https://glasgowtrader.co.uk/listing/j-m-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/34] DMC Groundworks Civils & Landscape Design Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33792 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [12/34] Wild Country Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Midton Rd, Howwood, Johnstone PA9 1AJ, UK
+    Phone:   0808 225 2006
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34716
+    URL: https://glasgowtrader.co.uk/listing/wild-country-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/34] Ortus Garden Design & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34096 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [14/34] Creative Landscapes Scotland LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34474 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [15/34] Digby Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33794 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [16/34] Glenbrae Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33772 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [17/34] Stylish Garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33774 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [18/34] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [19/34] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [20/34] R Williams Tree Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33802 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [21/34] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [22/34] Ayrshire Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34052 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [23/34] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [24/34] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [25/34] MCDs Tree Surgeons & Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34524 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [26/34] Erskine Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34106 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [27/34] Arborcare Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33798 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [28/34] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [29/34] Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33804 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [30/34] WB Smith Trees & Turf Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Laigh Auchencloich Farm, Kilbarchan, Johnstone PA10 2PZ, UK
+    Phone:   01505 613234
+    Website: http://wbsmithtreesandturf.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34718
+    URL: https://glasgowtrader.co.uk/listing/wb-smith-trees-turf-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [31/34] The Tree Business
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34072 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [32/34] K A Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34060 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [33/34] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Lochwinnoch' instead
+
+────────────────────────────────────────────────────────────
+  [34/34] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Lochwinnoch' instead
+
+============================================================
+  BATCH COMPLETE — Lochwinnoch
+============================================================
+  Found:   34
+  Created: 5
+  Skipped: 29 (already existed)
+  Failed:  0
+============================================================

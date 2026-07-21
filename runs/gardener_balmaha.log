@@ -1,0 +1,50 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Balmaha
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Balmaha'...
+  Found: ID=182 name=Balmaha
+
+[DEDUP] Fetching existing listings...
+  1497 existing listings on site
+  Ledger: 1479 place_ids
+
+[SEARCH] Finding gardeners in Balmaha...
+  Found 5 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/5] Robert Johnstone Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34454 — attached location 'Balmaha' instead
+
+────────────────────────────────────────────────────────────
+  [2/5] Hardie Fencing & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34730 — attached location 'Balmaha' instead
+
+────────────────────────────────────────────────────────────
+  [3/5] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Balmaha' instead
+
+────────────────────────────────────────────────────────────
+  [4/5] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Balmaha' instead
+
+────────────────────────────────────────────────────────────
+  [5/5] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34022 — attached location 'Balmaha' instead
+
+============================================================
+  BATCH COMPLETE — Balmaha
+============================================================
+  Found:   5
+  Created: 0
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,276 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bardowie
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bardowie'...
+  Found: ID=184 name=Bardowie
+
+[DEDUP] Fetching existing listings...
+  1497 existing listings on site
+  Ledger: 1479 place_ids
+
+[SEARCH] Finding gardeners in Bardowie...
+  Found 43 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/43] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [2/43] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [3/43] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [4/43] Blairs Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33920 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [5/43] DRD Garden Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Westerton, Lennoxtown, Glasgow G66 7LR, UK
+    Phone:   07548 909445
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34744
+    URL: https://glasgowtrader.co.uk/listing/drd-garden-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/43] 'BEDS and BORDERS' garden maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34290 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [7/43] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [8/43] Barclays Landscaping of Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34296 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [9/43] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [10/43] G. Roger Landscapes Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34292 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [11/43] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [12/43] WEST END GARDEN SERVICES
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Kelvindale, Glasgow G12 0JF, UK
+    Phone:   07595 944270
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34746
+    URL: https://glasgowtrader.co.uk/listing/west-end-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/43] Garden Maintenance Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33924 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [14/43] Outside In Garden Rooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: *NOT SHOWROOM*, 25A, Anniesland Business park, Glasgow G13 1EU, UK
+    Phone:   0141 370 6102
+    Website: https://www.outsideingardenrooms.co.uk/?utm_source=gbp&utm_medium=organic&utm_campaign=gpb-listing
+    Rating:  5 (111 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34748
+    URL: https://glasgowtrader.co.uk/listing/outside-in-garden-rooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/43] Gr Landscapes Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34294 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [16/43] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [17/43] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [18/43] Bespoke Landscape Designs Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34392 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [19/43] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [20/43] Callander Landscapes Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33962 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [21/43] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [22/43] Paradigm Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34342 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [23/43] B.P.M Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34350 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [24/43] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [25/43] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [26/43] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [27/43] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [28/43] Scottish Pine Tree Works & Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33994 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [29/43] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [30/43] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [31/43] Treefellas Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33878 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [32/43] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [33/43] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [34/43] The Tree Fella
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33964 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [35/43] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [36/43] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [37/43] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [38/43] KTS Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34336 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [39/43] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [40/43] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [41/43] AMC tree service
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34340 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [42/43] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Bardowie' instead
+
+────────────────────────────────────────────────────────────
+  [43/43] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Bardowie' instead
+
+============================================================
+  BATCH COMPLETE — Bardowie
+============================================================
+  Found:   43
+  Created: 3
+  Skipped: 40 (already existed)
+  Failed:  0
+============================================================

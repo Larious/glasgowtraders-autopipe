@@ -1,0 +1,175 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Tarbet
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Tarbet'...
+  Found: ID=274 name=Tarbet
+
+[DEDUP] Fetching existing listings...
+  1492 existing listings on site
+  Ledger: 1474 place_ids
+
+[SEARCH] Finding gardeners in Tarbet...
+  Found 18 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/18] Robert Johnstone Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34454 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [2/18] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [3/18] West Coast Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4A Colonsay Terrace, Oban PA34 4YL, UK
+    Phone:   07495 098850
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34734
+    URL: https://glasgowtrader.co.uk/listing/west-coast-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/18] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [5/18] Lochside Tree Care & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34460 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [6/18] Lorimer Tree & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34014 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [7/18] Cairns Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34108 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [8/18] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [9/18] AF Tree Care & Woodland Management
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ardnahua, Oban PA34 4RB, UK
+    Phone:   07703 830920
+    Website: http://aftreecare.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34736
+    URL: https://glasgowtrader.co.uk/listing/af-tree-care-woodland-management/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/18] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [11/18] LJX Ltd - Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34104 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [12/18] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [13/18] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [14/18] Ayrshire Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34052 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [15/18] Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33804 — attached location 'Tarbet' instead
+
+────────────────────────────────────────────────────────────
+  [16/18] Ard Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: The Boat House, Camas Inas, Acharacle PH36 4JQ, UK
+    Phone:   07944 868921
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34738
+    URL: https://glasgowtrader.co.uk/listing/ard-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/18] Tree Works
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 51 Catalina Ave, Oban PA34 4GD, UK
+    Phone:   07732 510502
+    Website: http://www.treeworksoban.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34740
+    URL: https://glasgowtrader.co.uk/listing/tree-works/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/18] Lochaber Tree Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Glenmallie Terrace, Caol, Fort William PH33 7BU, UK
+    Phone:   07584 764299
+    Website: https://www.lochabertreesolutions.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34742
+    URL: https://glasgowtrader.co.uk/listing/lochaber-tree-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Tarbet
+============================================================
+  Found:   18
+  Created: 5
+  Skipped: 13 (already existed)
+  Failed:  0
+============================================================

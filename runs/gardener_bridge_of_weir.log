@@ -1,0 +1,206 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bridge of Weir
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bridge of Weir'...
+  Found: ID=193 name=Bridge of Weir
+
+[DEDUP] Fetching existing listings...
+  1477 existing listings on site
+  Ledger: 1459 place_ids
+
+[SEARCH] Finding gardeners in Bridge of Weir...
+  Found 29 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/29] Gryffe valley landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34094 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [2/29] Alexander Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34682 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [3/29] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [4/29] Ortus Garden Design & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34096 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [5/29] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [6/29] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [7/29] Raw landscaping specialists
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Kilbarchan Rd, Johnstone PA5 8RJ, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34704
+    URL: https://glasgowtrader.co.uk/listing/raw-landscaping-specialists/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/29] Matrix Gardens & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33770 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [9/29] Paisley Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33768 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [10/29] Digby Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33794 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [11/29] Glenbrae Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33772 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [12/29] Greig's Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Crummock Gardens, Beith KA15 2HD, UK
+    Phone:   07715 135122
+    Website: https://www.ayrshirelandscaping.co.uk/garden-landscaping-in-beith/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34706
+    URL: https://glasgowtrader.co.uk/listing/greigs-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/29] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [14/29] Sky Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17, Bridge of Weir PA11 3NN, UK
+    Phone:   01505 610988
+    Website: https://www.skygardentakeaway.co.uk/
+    Rating:  4.6 (19 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34708
+    URL: https://glasgowtrader.co.uk/listing/sky-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/29] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [16/29] Elmar Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34370 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [17/29] DMC Groundworks Civils & Landscape Design Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33792 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [18/29] APS Landscaping and Building
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34684 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [19/29] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [20/29] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [21/29] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [22/29] R Williams Tree Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33802 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [23/29] Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33804 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [24/29] Erskine Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34106 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [25/29] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [26/29] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [27/29] Arborcare Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33798 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [28/29] LJX Ltd - Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34104 — attached location 'Bridge of Weir' instead
+
+────────────────────────────────────────────────────────────
+  [29/29] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+============================================================
+  BATCH COMPLETE — Bridge of Weir
+============================================================
+  Found:   29
+  Created: 3
+  Skipped: 26 (already existed)
+  Failed:  0
+============================================================
