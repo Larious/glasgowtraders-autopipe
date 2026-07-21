@@ -1,0 +1,427 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  1012 existing listings on site
+  Ledger: 994 place_ids
+
+[SEARCH] Finding gardeners in Glasgow...
+  Found 46 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/46] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1722 Paisley Rd W, Cardonald, Glasgow G52 3TP, UK
+    Phone:   07596 032247
+    Website: https://jorgeslandscapeandgardeningservices.co.uk/
+    Rating:  4.9 (136 reviews)
+    Hours:   6 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33620
+    URL: https://glasgowtrader.co.uk/listing/jorges-landscaping-and-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/46] Thistle Garden Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Etive Dr, Giffnock, Glasgow G46 6PN, UK
+    Phone:   07538 276929
+    Website: http://thistlegardenmaintenance.co.uk/
+    Rating:  4.9 (123 reviews)
+    Hours:   7 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33621
+    URL: https://glasgowtrader.co.uk/listing/thistle-garden-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/46] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Lochearnhead Rd, Millerston, Glasgow G33 6LQ, UK
+    Phone:   0141 556 4053
+    Website: http://www.glesgagardenguy.co.uk/
+    Rating:  4.9 (153 reviews)
+    Hours:   6 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33622
+    URL: https://glasgowtrader.co.uk/listing/glesga-garden-guy-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/46] Green Wheels Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 759 Argyle St, Glasgow G3 8DS, UK
+    Phone:   07557 796770
+    Website: http://www.greenwheelsglasgow.com/
+    Rating:  4.9 (29 reviews)
+    Hours:   5 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33623
+    URL: https://glasgowtrader.co.uk/listing/green-wheels-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/46] Garden Man - Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 881 Carntyne Rd, Glasgow G32 6LU, UK
+    Phone:   07432 680603
+    Website: N/A
+    Rating:  4.9 (18 reviews)
+    Hours:   6 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33624
+    URL: https://glasgowtrader.co.uk/listing/garden-man-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/46] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Stonelaw Rd, Rutherglen, Glasgow G73 3TW, UK
+    Phone:   07946 322717
+    Website: https://www.glasgowgm.co.uk/
+    Rating:  4.8 (84 reviews)
+    Hours:   1 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33625
+    URL: https://glasgowtrader.co.uk/listing/ggm-tree-surgery-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/46] Riverside landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 46 W George St, Glasgow G2 4LL, UK
+    Phone:   07507 604713
+    Website: https://riverside-landscaping.co.uk/
+    Rating:  4.9 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33626
+    URL: https://glasgowtrader.co.uk/listing/riverside-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/46] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 50 Wellmeadow Rd, Glasgow G43 1JZ, UK
+    Phone:   07936 927357
+    Website: https://www.yell.com/biz/jonsen-gardening-and-grounds-maintenance-glasgow-8610757/
+    Rating:  5 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33627
+    URL: https://glasgowtrader.co.uk/listing/jonsen-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/46] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Barnes St, Barrhead, Glasgow G78 1QN, UK
+    Phone:   0141 881 5997
+    Website: https://www.andersonlandscaping.co.uk/
+    Rating:  4.5 (57 reviews)
+    Hours:   0 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33628
+    URL: https://glasgowtrader.co.uk/listing/anderson-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/46] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hillington Business Centre, 15 Nasmyth Rd S, Hillington, Glasgow G52 4RE, UK
+    Phone:   0141 332 5533
+    Website: https://northhillgardens.co.uk/
+    Rating:  4.6 (40 reviews)
+    Hours:   5 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33629
+    URL: https://glasgowtrader.co.uk/listing/north-hill-gardens-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/46] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: clyde offices, 48 West George Street, Glasgow G2 1BP, UK
+    Phone:   0141 280 2035
+    Website: http://glasgowlandscapegardener.co.uk/
+    Rating:  4.7 (12 reviews)
+    Hours:   7 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33630
+    URL: https://glasgowtrader.co.uk/listing/glasgow-landscape-gardener/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/46] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 100 Glenacre Dr, Glasgow G45 9EF, UK
+    Phone:   0141 280 2585
+    Website: https://www.landscapegardenersglasgow.xyz/
+    Rating:  4.8 (27 reviews)
+    Hours:   5 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33631
+    URL: https://glasgowtrader.co.uk/listing/landscape-gardeners-glasgow-decking-driveways-fencing-patios/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/46] Garden Grooming Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 81 Broom Rd E, Newton Mearns, Glasgow G77 5LL, UK
+    Phone:   0141 639 6238
+    Website: https://www.gardengrooming.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33632
+    URL: https://glasgowtrader.co.uk/listing/garden-grooming-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/46] MIG Garden Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 E Greenlees Gardens, Cambuslang, Glasgow G72 8DB, UK
+    Phone:   0141 266 0532
+    Website: https://www.miggardencare.co.uk/
+    Rating:  4.8 (52 reviews)
+    Hours:   7 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33633
+    URL: https://glasgowtrader.co.uk/listing/mig-garden-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/46] Garden Force - Giffnock, Pollokshields & Newlands,
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Roland Cres, Newton Mearns, Glasgow G77 5JT, UK
+    Phone:   07341 410763
+    Website: http://www.gardenforce-glasgow-southside.co.uk/
+    Rating:  4.4 (7 reviews)
+    Hours:   7 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33634
+    URL: https://glasgowtrader.co.uk/listing/garden-force-giffnock-pollokshields-newlands/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/46] C&C Premium Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Westwood Rd, Glasgow G43 1DS, UK
+    Phone:   07868 304882
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33635
+    URL: https://glasgowtrader.co.uk/listing/cc-premium-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/46] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 65 Greenhill Cres, Linwood, Paisley PA3 3BY, UK
+    Phone:   07414 055551
+    Website: https://www.themgl.co.uk/
+    Rating:  5 (79 reviews)
+    Hours:   6 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33636
+    URL: https://glasgowtrader.co.uk/listing/mgl-groundworks-and-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/46] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Holmhead Pl, Cathcart, Glasgow G4 4HD, UK
+    Phone:   07470 362007
+    Website: http://amac-landscaping-and-maintenance.co.uk/
+    Rating:  5 (14 reviews)
+    Hours:   7 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33637
+    URL: https://glasgowtrader.co.uk/listing/amac-landscaping-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/46] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 Kilmarnock Rd, Shawlands, Glasgow G41 3YN, UK
+    Phone:   07964 041328
+    Website: https://www.sslandscapingprojects.co.uk/
+    Rating:  4.2 (26 reviews)
+    Hours:   0 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33638
+    URL: https://glasgowtrader.co.uk/listing/southside-landscaping-projects/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/46] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 122 Strathmore Rd, Glasgow G22 7DW, UK
+    Phone:   0141 942 4603
+    Website: http://www.exterialandscapes.co.uk/
+    Rating:  4.8 (29 reviews)
+    Hours:   5 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33639
+    URL: https://glasgowtrader.co.uk/listing/exteria-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/46] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40 Thorn Rd, Bearsden, Glasgow G61 4BS, UK
+    Phone:   07537 804238
+    Website: http://glasgowlandscaping.com/
+    Rating:  5 (9 reviews)
+    Hours:   0 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33640
+    URL: https://glasgowtrader.co.uk/listing/glasgow-landscaping-group/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/46] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1-5 Rigby St, Glasgow G32 6DS, UK
+    Phone:   07482 775744
+    Website: http://www.hepburnlandscaping.co.uk/
+    Rating:  4.6 (19 reviews)
+    Hours:   7 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33641
+    URL: https://glasgowtrader.co.uk/listing/hepburn-landscaping-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [23/46] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 N Gardner St, Glasgow G11 5NG, UK
+    Phone:   07795 161893
+    Website: https://squarecirclelandscapes.co.uk/
+    Rating:  5 (15 reviews)
+    Hours:   6 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33642
+    URL: https://glasgowtrader.co.uk/listing/square-circle-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/46] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Stockiemuir Road, Carbeth Fishery, Blanefield, Glasgow G63 9AY, UK
+    Phone:   01360 622855
+    Website: http://maccollandstokeslandscaping.co.uk/
+    Rating:  4.9 (48 reviews)
+    Hours:   6 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33643
+    URL: https://glasgowtrader.co.uk/listing/maccoll-stokes-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [25/46] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1, 9 Newton Pl, Glasgow G3 7PR, UK
+    Phone:   0800 774 7135
+    Website: http://www.thelandscapingcompany.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   7 days
+    Photos:  0
+  Creating listing...
+    Post ID: 33644
+    URL: https://glasgowtrader.co.uk/listing/landscaping-company-of-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+  Batch cap reached (25 creates). Re-run (new token) to continue — the ledger skips everything published so far.
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   46
+  Created: 25
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

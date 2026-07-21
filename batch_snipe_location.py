@@ -41,6 +41,57 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)),
                                 "scripts"))
 import ledger_utils
 
+# ── Trade registry ──────────────────────────────────────────
+# Per-run parameters (CLAUDE.md): search queries, category mapping, junk
+# filter and copy per trade. category_rules are (substring, category_id)
+# checked in order against the lowercased business name; first hit wins,
+# otherwise default_category.
+TRADES = {
+    "plumber": {
+        "queries": ["plumbers in {loc}"],
+        "include_kw": ["plumb", "heating", "gas", "pipe", "drain", "boiler"],
+        "exclude_kw": ["supplies", "merchant", "store", "wholesale",
+                       "showroom", "plumb center", "plumb centre"],
+        "category_rules": [],
+        "default_category": PLUMBER_CAT_ID,
+        "label": "Plumber",
+        "service_phrase": "plumbing service",
+    },
+    "gardener": {
+        "queries": ["gardeners in {loc}", "landscapers in {loc}",
+                    "tree surgeons in {loc}"],
+        "include_kw": ["garden", "landscap", "lawn", "tree", "hedge",
+                       "grounds", "horticult", "turf", "arbor"],
+        "exclude_kw": ["centre", "center", "nursery", "supplies", "store",
+                       "shop", "wholesale", "florist", "depot"],
+        "category_rules": [("tree", 166), ("arbor", 166),
+                           ("landscap", 161)],
+        "default_category": 159,
+        "label": "Gardener",
+        "service_phrase": "gardening and landscaping service",
+    },
+}
+
+
+def categorize(name, trade_cfg):
+    """listing-category id for a business name under this trade's rules."""
+    low = (name or "").lower()
+    for substring, cat_id in trade_cfg["category_rules"]:
+        if substring in low:
+            return cat_id
+    return trade_cfg["default_category"]
+
+
+def is_valid_trade_business(name, trade_cfg):
+    """Keep tradespeople; drop merchants/shops and off-trade results."""
+    low = (name or "").lower()
+    for kw in trade_cfg["exclude_kw"]:
+        if kw in low:
+            return False, f"merchant/shop keyword: {kw}"
+    if not any(kw in low for kw in trade_cfg["include_kw"]):
+        return False, "no trade keyword in name"
+    return True, "OK"
+
 AUTH = HTTPBasicAuth(WP_USER, WP_APP_PASSWORD)
 
 # Resilient session with retries
@@ -103,41 +154,44 @@ def get_existing_listings():
     return existing
 
 
-# ── Step 1: Search Google Places for plumbers ───────────────
-def search_plumbers(location_name):
-    """
-    Use Google Places Text Search to find plumbers in the location.
-    Returns a list of place_ids (up to 60 via pagination).
-    """
-    print(f"\n[SEARCH] Finding plumbers in {location_name}...")
-    all_results = []
+# ── Step 1: Search Google Places for the trade ──────────────
+def search_trade(location_name, trade_cfg):
+    """Text Search across the trade's queries; merge by place_id and apply
+    the junk filter. Returns [{place_id, name}]."""
+    print(f"\n[SEARCH] Finding {trade_cfg['label'].lower()}s in {location_name}...")
     url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
-    params = {
-        "query": f"plumbers in {location_name}",
-        "key": GOOGLE_API_KEY,
-    }
+    seen, merged, filtered = set(), [], 0
 
-    while True:
-        resp = requests.get(url, params=params, timeout=15)
-        resp.raise_for_status()
-        data = resp.json()
+    for query_tpl in trade_cfg["queries"]:
+        params = {"query": query_tpl.format(loc=location_name),
+                  "key": GOOGLE_API_KEY}
+        while True:
+            resp = requests.get(url, params=params, timeout=15)
+            resp.raise_for_status()
+            data = resp.json()
 
-        for r in data.get("results", []):
-            all_results.append({
-                "place_id": r["place_id"],
-                "name": r.get("name", "Unknown"),
-            })
+            for r in data.get("results", []):
+                pid = r["place_id"]
+                if pid in seen:
+                    continue
+                seen.add(pid)
+                name = r.get("name", "Unknown")
+                ok, reason = is_valid_trade_business(name, trade_cfg)
+                if not ok:
+                    filtered += 1
+                    continue
+                merged.append({"place_id": pid, "name": name})
 
-        # Check for next page
-        next_token = data.get("next_page_token")
-        if not next_token:
-            break
-        # Google requires a short delay before using next_page_token
-        time.sleep(2)
-        params = {"pagetoken": next_token, "key": GOOGLE_API_KEY}
+            next_token = data.get("next_page_token")
+            if not next_token:
+                break
+            # Google requires a short delay before using next_page_token
+            time.sleep(2)
+            params = {"pagetoken": next_token, "key": GOOGLE_API_KEY}
 
-    print(f"  Found {len(all_results)} plumbers")
-    return all_results
+    print(f"  Found {len(merged)} candidates "
+          f"({filtered} filtered as merchants/off-trade)")
+    return merged
 
 
 # ── Step 2: Enrich a single place ───────────────────────────
@@ -153,7 +207,6 @@ def enrich_place(place_id):
             "international_phone_number",
             "website",
             "geometry",
-            "photo",
             "rating",
             "user_ratings_total",
             "opening_hours",
@@ -233,7 +286,7 @@ def upload_all_images(enriched):
 
 
 # ── Step 4: Build listing description ───────────────────────
-def build_description(enriched, location_name):
+def build_description(enriched, location_name, trade_cfg):
     """Generate a professional business description."""
     name = enriched["name"]
     address = enriched["formatted_address"]
@@ -241,12 +294,13 @@ def build_description(enriched, location_name):
     reviews = enriched.get("review_count")
     website = enriched.get("website", "")
     about = enriched.get("about", "")
+    service = trade_cfg["service_phrase"]
 
     # Start with Google's editorial summary if available
     if about:
         desc = f"{about}\n\n"
     else:
-        desc = f"{name} is a professional plumbing service serving {location_name} and the surrounding Glasgow area. "
+        desc = f"{name} is a professional {service} serving {location_name} and the surrounding Glasgow area. "
 
     # Add rating info
     if rating and reviews:
@@ -254,7 +308,7 @@ def build_description(enriched, location_name):
 
     # Add website mention
     if website:
-        desc += f"Visit their website for more information about their plumbing services."
+        desc += f"Visit their website for more information about their services."
 
     # Add opening hours section
     if enriched.get("hours_text"):
@@ -263,16 +317,25 @@ def build_description(enriched, location_name):
     return desc
 
 
+# Human-facing label per category id (taglines)
+CAT_LABELS = {22: "Plumber", 159: "Gardener", 161: "Landscaper",
+              166: "Tree Surgeon"}
+
+
 # ── Step 5: Create WordPress listing ────────────────────────
-def create_listing(enriched, location_id, featured_media_id, location_name):
+def create_listing(enriched, location_id, featured_media_id, location_name,
+                   trade_cfg):
     """Create the listing post in WordPress."""
-    description = build_description(enriched, location_name)
+    description = build_description(enriched, location_name, trade_cfg)
+    category_id = categorize(enriched["name"], trade_cfg)
 
     payload = {
         "title": enriched["name"],
         "content": description,
         "status": "publish",
-        "listing_category": [PLUMBER_CAT_ID],
+        # taxonomy rest_base is "listing-category" (hyphen); the underscore
+        # form is silently ignored and leaves the listing uncategorized.
+        "listing-category": [category_id],
         "location": [location_id],
     }
 
@@ -293,15 +356,18 @@ def create_listing(enriched, location_id, featured_media_id, location_name):
 
 
 # ── Step 6: Inject ListingPro options ───────────────────────
-def inject_listingpro_options(post_id, enriched, gallery_ids, location_name):
+def inject_listingpro_options(post_id, enriched, gallery_ids, location_name,
+                              trade_cfg):
     """Write all data into lp_listingpro_options serialized array."""
+    label = CAT_LABELS.get(categorize(enriched["name"], trade_cfg),
+                           trade_cfg["label"])
     options_data = {
         "phone":            enriched.get("phone", ""),
         "website":          enriched.get("website", ""),
         "gAddress":         enriched.get("formatted_address", ""),
         "latitude":         str(enriched.get("lat", "")),
         "longitude":        str(enriched.get("lng", "")),
-        "tagline_text":     f"Plumber in {location_name}",
+        "tagline_text":     f"{label} in {location_name}",
         "email":            "",
         "claimed_section":  "not_claimed",
         "price_status":     "notsay",
@@ -328,16 +394,23 @@ def inject_listingpro_options(post_id, enriched, gallery_ids, location_name):
 
 # ── Main ────────────────────────────────────────────────────
 def main():
-    parser = argparse.ArgumentParser(description="Batch snipe plumbers by location")
+    parser = argparse.ArgumentParser(description="Batch snipe a trade by location")
     parser.add_argument("--location", required=True, help="Location name (e.g. Airdrie)")
+    parser.add_argument("--trade", default="plumber", choices=sorted(TRADES),
+                        help="Trade to discover (default: plumber)")
+    parser.add_argument("--placeholder-media", type=int, default=0,
+                        help="WP media ID of a licensed stock image to set as "
+                             "featured image (owners replace via claim flow)")
     parser.add_argument("--dry-run", action="store_true", help="Search only, don't publish")
     args = parser.parse_args()
 
     location_name = args.location
+    trade_cfg = TRADES[args.trade]
 
     print("=" * 60)
     print(f"  Glasgow Traders — Batch Sniper")
     print(f"  Location: {location_name}")
+    print(f"  Trade: {trade_cfg['label']}")
     print(f"  Mode: {'DRY RUN' if args.dry_run else 'PUBLISH'}")
     print("=" * 60)
 
@@ -358,15 +431,17 @@ def main():
     by_post, by_place = ledger_utils.load_ledger()
     print(f"  Ledger: {len(by_place)} place_ids")
 
-    # Search for plumbers in this location
-    results = search_plumbers(location_name)
+    # Search for the trade in this location
+    results = search_trade(location_name, trade_cfg)
 
     if not results:
-        sys.exit(f"No plumbers found in {location_name}")
+        sys.exit(f"No {trade_cfg['label'].lower()}s found in {location_name}")
 
     if args.dry_run:
-        print(f"\n[DRY RUN] Would process {len(results)} plumbers:")
+        print(f"\n[DRY RUN] Would process {len(results)} candidates:")
         for i, r in enumerate(results, 1):
+            cat = CAT_LABELS.get(categorize(r["name"], trade_cfg),
+                                 trade_cfg["label"])
             held_by = ledger_utils.existing_post_for(by_place, r["place_id"])
             if held_by:
                 note = f"(SKIP - ledger post {held_by}; would attach location)"
@@ -374,16 +449,23 @@ def main():
                 note = "(SKIP - title already exists)"
             else:
                 note = ""
-            print(f"  {i}. {r['name']} {note}")
+            print(f"  {i}. [{cat}] {r['name']} {note}")
         print(f"\nRun without --dry-run to publish these listings.")
         return
 
-    # Process each plumber
+    # Process candidates (≤25 creates per run; ledger makes re-runs resume
+    # where the last batch stopped)
+    MAX_CREATES = 25
     created = 0
     skipped = 0
     failed = 0
 
     for i, result in enumerate(results, 1):
+        if created >= MAX_CREATES:
+            print(f"\n  Batch cap reached ({MAX_CREATES} creates). "
+                  f"Re-run (new token) to continue — the ledger skips "
+                  f"everything published so far.")
+            break
         name = result["name"]
         place_id = result["place_id"]
 
@@ -427,14 +509,15 @@ def main():
         print(f"    Hours:   {len(enriched.get('lp_hours', {}))} days")
         print(f"    Photos:  {len(enriched.get('photo_refs', []))}")
 
-        # Upload images
-        print(f"  Uploading images...")
-        featured_id, gallery_ids = upload_all_images(enriched)
-        print(f"    Featured: {featured_id}, Gallery: {gallery_ids}")
+        # Featured image: licensed stock placeholder only (Google photos are
+        # ToS-frozen); owners replace it via the claim flow.
+        featured_id = args.placeholder_media or None
+        gallery_ids = []
 
         # Create listing
         print(f"  Creating listing...")
-        post_id, link = create_listing(enriched, location_id, featured_id, location_name)
+        post_id, link = create_listing(enriched, location_id, featured_id,
+                                       location_name, trade_cfg)
         if not post_id:
             failed += 1
             continue
@@ -443,7 +526,8 @@ def main():
 
         # Inject ListingPro options
         print(f"  Injecting ListingPro sidebar data...")
-        ok = inject_listingpro_options(post_id, enriched, gallery_ids, location_name)
+        ok = inject_listingpro_options(post_id, enriched, gallery_ids,
+                                       location_name, trade_cfg)
         print(f"    Result: {'OK' if ok else 'FAILED'}")
 
         if ok:
