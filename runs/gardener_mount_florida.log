@@ -1,0 +1,296 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Mount Florida
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Mount Florida'...
+  Found: ID=254 name=Mount Florida
+
+[DEDUP] Fetching existing listings...
+  1563 existing listings on site
+  Ledger: 1545 place_ids
+
+[SEARCH] Finding gardeners in Mount Florida...
+  Found 47 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/47] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [2/47] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [3/47] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [4/47] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [5/47] Gardenwise
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34382 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [6/47] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [7/47] Richard Birch Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34820 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [8/47] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [9/47] Belmont Landscaping & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34348 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [10/47] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [11/47] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34384 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [12/47] Sustainable Urban Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34816 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [13/47] Old Glen Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34796 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [14/47] Steve's Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 174 Kingsbridge Dr, King's Park, Glasgow G44 4JY, UK
+    Phone:   07587 983776
+    Website: N/A
+    Rating:  4.2 (5 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34876
+    URL: https://glasgowtrader.co.uk/listing/steves-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/47] Thistle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34818 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [16/47] The Hidden Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34834 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [17/47] Andrew Daly Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34846 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [18/47] Woodlinn Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 50 Woodlinn Ave, Glasgow G44 5TX, UK
+    Phone:   07816 351252
+    Website: https://www.woodlinngardens.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34878
+    URL: https://glasgowtrader.co.uk/listing/woodlinn-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/47] Locavore - Urban Croft Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Langside Rd, Glasgow G42 8DA, UK
+    Phone:   0141 423 8685
+    Website: http://www.locavore.scot/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34880
+    URL: https://glasgowtrader.co.uk/listing/locavore-urban-croft-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/47] Old Cathcart Community Garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34814 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [21/47] Mcadam Garden and Home Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34360 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [22/47] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [23/47] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [24/47] C&C Premium Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33635 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [25/47] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [26/47] Pearson Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34792 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [27/47] Precise Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34372 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [28/47] PW Building and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34794 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [29/47] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [30/47] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [31/47] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [32/47] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [33/47] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [34/47] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [35/47] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [36/47] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [37/47] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [38/47] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [39/47] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [40/47] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [41/47] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [42/47] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [43/47] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [44/47] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [45/47] Treefellas Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33878 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [46/47] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Mount Florida' instead
+
+────────────────────────────────────────────────────────────
+  [47/47] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Mount Florida' instead
+
+============================================================
+  BATCH COMPLETE — Mount Florida
+============================================================
+  Found:   47
+  Created: 3
+  Skipped: 44 (already existed)
+  Failed:  0
+============================================================

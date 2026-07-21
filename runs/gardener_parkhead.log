@@ -1,0 +1,265 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Parkhead
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Parkhead'...
+  Found: ID=259 name=Parkhead
+
+[DEDUP] Fetching existing listings...
+  1566 existing listings on site
+  Ledger: 1548 place_ids
+
+[SEARCH] Finding gardeners in Parkhead...
+  Found 48 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/48] Garden Man - Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33624 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [2/48] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [3/48] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [4/48] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [5/48] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [6/48] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [7/48] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [8/48] Essenjay Tree & Grass Care Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34346 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [9/48] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [10/48] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [11/48] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [12/48] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [13/48] The Wash House Garden, C.I.C.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34768 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [14/48] MoriGardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34830 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [15/48] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [16/48] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [17/48] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [18/48] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [19/48] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [20/48] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [21/48] Albar Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34366 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [22/48] Mundell Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34616 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [23/48] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [24/48] Garden Makeovers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34358 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [25/48] Bespoke Landscape Designs Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34392 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [26/48] PW Building and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34794 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [27/48] Thistle Landscapes & Builders
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34770 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [28/48] Old Glen Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34796 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [29/48] Murray's Landscaping and Property Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34772 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [30/48] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [31/48] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [32/48] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [33/48] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [34/48] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [35/48] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [36/48] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [37/48] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [38/48] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [39/48] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [40/48] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [41/48] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [42/48] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [43/48] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [44/48] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [45/48] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [46/48] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [47/48] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Parkhead' instead
+
+────────────────────────────────────────────────────────────
+  [48/48] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Parkhead' instead
+
+============================================================
+  BATCH COMPLETE — Parkhead
+============================================================
+  Found:   48
+  Created: 0
+  Skipped: 48 (already existed)
+  Failed:  0
+============================================================

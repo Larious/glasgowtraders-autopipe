@@ -1,0 +1,287 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Milton
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Milton'...
+  Found: ID=252 name=Milton
+
+[DEDUP] Fetching existing listings...
+  1562 existing listings on site
+  Ledger: 1544 place_ids
+
+[SEARCH] Finding gardeners in Milton...
+  Found 50 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/50] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [2/50] Impero Gardens, Zanone Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34000 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [3/50] West Coast Property & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34004 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [4/50] Blairs Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33920 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [5/50] MK Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33998 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [6/50] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [7/50] JWR landscaping&gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34002 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [8/50] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [9/50] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [10/50] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [11/50] WEST END GARDEN SERVICES
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34746 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [12/50] Garden Grooming Troon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34034 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [13/50] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34298 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [14/50] Paisley Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33768 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [15/50] The Garden Maintenance Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Lusset Glen, Old Kilpatrick, Glasgow G60 5DD, UK
+    Phone:   07986 332844
+    Website: N/A
+    Rating:  1 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34874
+    URL: https://glasgowtrader.co.uk/listing/the-garden-maintenance-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/50] Geilston Garden (National Trust for Scotland)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34686 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [17/50] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [18/50] Mundell Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34616 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [19/50] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [20/50] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [21/50] Albar Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34366 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [22/50] KDC Landscape
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33952 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [23/50] Stylish Garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33774 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [24/50] creative garden design ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34362 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [25/50] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [26/50] Cruickshank Landscape Gardening and Design Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34318 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [27/50] Gr Landscapes Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34294 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [28/50] Neil Walker Landscaping & Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33982 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [29/50] Barclays Landscaping of Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34296 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [30/50] Glenbrae Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33772 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [31/50] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [32/50] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [33/50] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [34/50] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [35/50] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [36/50] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [37/50] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [38/50] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [39/50] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34022 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [40/50] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [41/50] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [42/50] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [43/50] LJX Ltd - Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34104 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [44/50] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [45/50] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [46/50] Scottish Pine Tree Works & Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33994 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [47/50] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [48/50] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [49/50] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Milton' instead
+
+────────────────────────────────────────────────────────────
+  [50/50] Lorimer Tree & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34014 — attached location 'Milton' instead
+
+============================================================
+  BATCH COMPLETE — Milton
+============================================================
+  Found:   50
+  Created: 1
+  Skipped: 49 (already existed)
+  Failed:  0
+============================================================

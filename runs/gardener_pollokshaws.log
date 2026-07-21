@@ -1,0 +1,267 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Pollokshaws
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Pollokshaws'...
+  Found: ID=262 name=Pollokshaws
+
+[DEDUP] Fetching existing listings...
+  1568 existing listings on site
+  Ledger: 1550 place_ids
+
+[SEARCH] Finding gardeners in Pollokshaws...
+  Found 46 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/46] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [2/46] Thistle Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33621 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [3/46] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [4/46] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [5/46] Garden Force - Giffnock, Pollokshields & Newlands,
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33634 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [6/46] Glasgow southide garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34376 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [7/46] Garden Grooming Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33632 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [8/46] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [9/46] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [10/46] C&C Premium Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33635 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [11/46] Richard Birch Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34820 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [12/46] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [13/46] Sustainable Urban Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34816 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [14/46] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [15/46] Sir John Stirling Maxwell Allotment gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bankhead, 2060 Pollokshaws Rd, Bellahouston, Glasgow G43 1AT, UK
+    Phone:   N/A
+    Website: http://sjsmallotments.co.uk/
+    Rating:  4.8 (16 reviews)
+    Hours:   2 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34886
+    URL: https://glasgowtrader.co.uk/listing/sir-john-stirling-maxwell-allotment-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/46] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [17/46] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [18/46] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [19/46] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [20/46] Mcadam Garden and Home Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34360 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [21/46] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34384 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [22/46] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [23/46] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [24/46] Essenjay Tree & Grass Care Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34346 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [25/46] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [26/46] Thistle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34818 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [27/46] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [28/46] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [29/46] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [30/46] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [31/46] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [32/46] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [33/46] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [34/46] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [35/46] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [36/46] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [37/46] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [38/46] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [39/46] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [40/46] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [41/46] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [42/46] LV Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34378 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [43/46] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [44/46] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [45/46] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Pollokshaws' instead
+
+────────────────────────────────────────────────────────────
+  [46/46] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Pollokshaws' instead
+
+============================================================
+  BATCH COMPLETE — Pollokshaws
+============================================================
+  Found:   46
+  Created: 1
+  Skipped: 45 (already existed)
+  Failed:  0
+============================================================

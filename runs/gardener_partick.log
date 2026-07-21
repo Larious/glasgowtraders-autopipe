@@ -1,0 +1,282 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Partick
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Partick'...
+  Found: ID=260 name=Partick
+
+[DEDUP] Fetching existing listings...
+  1566 existing listings on site
+  Ledger: 1548 place_ids
+
+[SEARCH] Finding gardeners in Partick...
+  Found 49 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/49] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [2/49] Handy gardening and fences
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33948 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [3/49] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [4/49] Rake it in gardening services ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33946 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [5/49] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [6/49] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [7/49] P Douglas Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34802 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [8/49] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34298 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [9/49] Richard Birch Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34820 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [10/49] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [11/49] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [12/49] R.A.M Garden & Grounds Maintenance Contractor
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34316 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [13/49] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [14/49] Barclays Landscaping of Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34296 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [15/49] The Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34784 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [16/49] Sandy Road Community Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Sandy Rd, Glasgow G11 6RR, UK
+    Phone:   N/A
+    Website: http://thornwoodcommunitygarden.com/
+    Rating:  4.6 (10 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34882
+    URL: https://glasgowtrader.co.uk/listing/sandy-road-community-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/49] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [18/49] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [19/49] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [20/49] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [21/49] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [22/49] Say1 Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34750 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [23/49] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [24/49] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [25/49] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [26/49] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [27/49] Essenjay Tree & Grass Care Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34346 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [28/49] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [29/49] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [30/49] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [31/49] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [32/49] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [33/49] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [34/49] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [35/49] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [36/49] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [37/49] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [38/49] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [39/49] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [40/49] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [41/49] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [42/49] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [43/49] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [44/49] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [45/49] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [46/49] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [47/49] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [48/49] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Partick' instead
+
+────────────────────────────────────────────────────────────
+  [49/49] Red Branch Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34756 — attached location 'Partick' instead
+
+============================================================
+  BATCH COMPLETE — Partick
+============================================================
+  Found:   49
+  Created: 1
+  Skipped: 48 (already existed)
+  Failed:  0
+============================================================

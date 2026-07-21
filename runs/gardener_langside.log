@@ -1,0 +1,240 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Langside
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Langside'...
+  Found: ID=244 name=Langside
+
+[DEDUP] Fetching existing listings...
+  1560 existing listings on site
+  Ledger: 1542 place_ids
+
+[SEARCH] Finding gardeners in Langside...
+  Found 43 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/43] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [2/43] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [3/43] Thistle Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33621 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [4/43] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [5/43] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [6/43] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [7/43] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [8/43] Garden Force - Giffnock, Pollokshields & Newlands,
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33634 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [9/43] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [10/43] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [11/43] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [12/43] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [13/43] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [14/43] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [15/43] Mcadam Garden and Home Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34360 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [16/43] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34384 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [17/43] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [18/43] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [19/43] Bespoke Landscape Designs Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34392 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [20/43] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [21/43] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [22/43] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [23/43] Essenjay Tree & Grass Care Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34346 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [24/43] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [25/43] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [26/43] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [27/43] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [28/43] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [29/43] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [30/43] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [31/43] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [32/43] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [33/43] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [34/43] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [35/43] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [36/43] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [37/43] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [38/43] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [39/43] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [40/43] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [41/43] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [42/43] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Langside' instead
+
+────────────────────────────────────────────────────────────
+  [43/43] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Langside' instead
+
+============================================================
+  BATCH COMPLETE — Langside
+============================================================
+  Found:   43
+  Created: 0
+  Skipped: 43 (already existed)
+  Failed:  0
+============================================================

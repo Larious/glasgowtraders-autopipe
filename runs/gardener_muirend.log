@@ -1,0 +1,235 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Muirend
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Muirend'...
+  Found: ID=255 name=Muirend
+
+[DEDUP] Fetching existing listings...
+  1566 existing listings on site
+  Ledger: 1548 place_ids
+
+[SEARCH] Finding gardeners in Muirend...
+  Found 42 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/42] Thistle Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33621 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [2/42] Mcadam Garden and Home Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34360 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [3/42] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [4/42] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [5/42] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [6/42] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [7/42] Garden Force - Giffnock, Pollokshields & Newlands,
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33634 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [8/42] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [9/42] Garden Makeovers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34358 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [10/42] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [11/42] Gardenwise
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34382 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [12/42] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [13/42] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [14/42] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [15/42] Precise Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34372 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [16/42] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34384 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [17/42] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [18/42] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [19/42] J N Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34354 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [20/42] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [21/42] Garden Care Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34374 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [22/42] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [23/42] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [24/42] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [25/42] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [26/42] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [27/42] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [28/42] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [29/42] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [30/42] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [31/42] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [32/42] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [33/42] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [34/42] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [35/42] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [36/42] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [37/42] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [38/42] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [39/42] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [40/42] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [41/42] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Muirend' instead
+
+────────────────────────────────────────────────────────────
+  [42/42] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Muirend' instead
+
+============================================================
+  BATCH COMPLETE — Muirend
+============================================================
+  Found:   42
+  Created: 0
+  Skipped: 42 (already existed)
+  Failed:  0
+============================================================

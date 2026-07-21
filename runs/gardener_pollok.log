@@ -1,0 +1,247 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Pollok
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Pollok'...
+  Found: ID=261 name=Pollok
+
+[DEDUP] Fetching existing listings...
+  1567 existing listings on site
+  Ledger: 1549 place_ids
+
+[SEARCH] Finding gardeners in Pollok...
+  Found 42 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/42] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [2/42] Glasgow southide garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34376 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [3/42] KS Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34810 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [4/42] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [5/42] Garden Force - Giffnock, Pollokshields & Newlands,
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33634 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [6/42] BB Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34776 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [7/42] Pollok House Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Pollok Park, Bellahouston, Glasgow G43 1AU, UK
+    Phone:   0141 616 6410
+    Website: https://www.nts.org.uk/visit/places/pollok-house
+    Rating:  4.7 (122 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34884
+    URL: https://glasgowtrader.co.uk/listing/pollok-house-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/42] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [9/42] Luma Building and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34778 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [10/42] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [11/42] Albar Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34366 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [12/42] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [13/42] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [14/42] Eastwood garden maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34380 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [15/42] Home Enhanced Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34618 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [16/42] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34384 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [17/42] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [18/42] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [19/42] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [20/42] Mcadam Garden and Home Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34360 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [21/42] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [22/42] A.Peebles Landscape contractor.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34722 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [23/42] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [24/42] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [25/42] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [26/42] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [27/42] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [28/42] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [29/42] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [30/42] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [31/42] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [32/42] LV Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34378 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [33/42] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [34/42] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [35/42] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [36/42] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [37/42] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [38/42] Glasgow Arborists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33700 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [39/42] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [40/42] Renfrew's Affordable Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34620 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [41/42] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Pollok' instead
+
+────────────────────────────────────────────────────────────
+  [42/42] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Pollok' instead
+
+============================================================
+  BATCH COMPLETE — Pollok
+============================================================
+  Found:   42
+  Created: 1
+  Skipped: 41 (already existed)
+  Failed:  0
+============================================================
