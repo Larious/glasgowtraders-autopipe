@@ -1,0 +1,222 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  1317 existing listings on site
+  Ledger: 1299 place_ids
+
+[SEARCH] Finding gardeners in Bathgate...
+  Found 37 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/37] DJM Landscaping Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34194 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [2/37] West Lothian Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34196 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [3/37] BM Landscaping bathgate
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34198 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [4/37] RS Landscaping & Construction
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34202 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [5/37] S M Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34204 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [6/37] Brad's Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34206 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [7/37] Lawn Stars Scotland LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34210 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [8/37] landscape Zoolutions - Landscape West Lothian
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34208 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [9/37] DM Garden Services - (West Lothian)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34212 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [10/37] Tree & Ground Maintenance Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34200 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [11/37] H Goodman Groundworks & Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34214 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [12/37] The Turf Warehouse
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34216 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [13/37] Af Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34220 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [14/37] Fleming Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34218 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [15/37] SNL landscaping & Fencing contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34222 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [16/37] JJ Landscape Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34142 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [17/37] AGB Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34224 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [18/37] AT Fencing and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34226 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [19/37] Northfield Landscaping and Construction
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34228 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [20/37] Greenhart Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34230 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [21/37] BmTreeSurgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34232 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [22/37] Trees in West Lothian
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34234 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [23/37] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [24/37] Tree Arborist Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34150 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [25/37] Ace Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34236 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [26/37] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [27/37] Blaikie Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34238 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [28/37] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [29/37] All Seasons Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34156 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [30/37] Claymore Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34242 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [31/37] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [32/37] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [33/37] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [34/37] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [35/37] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34022 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [36/37] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [37/37] Roots Up Tree Surgery LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Parkland Grove, Comrie, Dunfermline KY12 9XW, UK
+    Phone:   07875 488207
+    Website: http://www.rootsuptreesurgery.com/
+    Rating:  5 (12 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34286
+    URL: https://glasgowtrader.co.uk/listing/roots-up-tree-surgery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   37
+  Created: 1
+  Skipped: 36 (already existed)
+  Failed:  0
+============================================================

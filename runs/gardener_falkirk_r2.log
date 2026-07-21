@@ -1,0 +1,189 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  1315 existing listings on site
+  Ledger: 1297 place_ids
+
+[SEARCH] Finding gardeners in Falkirk...
+  Found 28 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/28] McCann Garden Solutions Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34110 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [2/28] BM Garden & Landscaping Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34112 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [3/28] Greenheart Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34114 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [4/28] BIZY BEE LANDSCAPES
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34116 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [5/28] Tom's gardening Falkirk
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34120 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [6/28] Cuthelton Landscaping, Resin + Building
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34118 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [7/28] GreenCutts Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34122 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [8/28] Linda’s gardening & landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34124 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [9/28] Stewarts Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34128 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [10/28] Thistle Landscaping & Paving contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34126 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [11/28] Forth Dimension Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34134 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [12/28] Lawn Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34132 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [13/28] Glenmoir Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34136 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [14/28] Martin’s Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34138 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [15/28] Cut 'N' Edge Landscapers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34144 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [16/28] N & R Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 116 Dryburgh Ave, Denny FK6 6AF, UK
+    Phone:   01324 823783
+    Website: https://www.nandrgardenservices.co.uk/
+    Rating:  3.3 (17 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34282
+    URL: https://glasgowtrader.co.uk/listing/n-r-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/28] Aces Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34130 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [18/28] MUSA Landscape Architecture
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34140 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [19/28] JJ Landscape Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34142 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [20/28] Roberts Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34146 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [21/28] Tree Arborist Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34150 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [22/28] Lowland Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34152 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [23/28] O'Neill Trees & Timber Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34154 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [24/28] All Seasons Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34156 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [25/28] Ace Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34236 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [26/28] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [27/28] Taylor Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34158 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [28/28] Gillick Tree Surgery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4, greendykes cottage, Airth, Falkirk FK2 8PP, UK
+    Phone:   07706 878134
+    Website: N/A
+    Rating:  5 (9 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34284
+    URL: https://glasgowtrader.co.uk/listing/gillick-tree-surgery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   28
+  Created: 2
+  Skipped: 26 (already existed)
+  Failed:  0
+============================================================

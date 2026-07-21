@@ -1,0 +1,187 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  1314 existing listings on site
+  Ledger: 1296 place_ids
+
+[SEARCH] Finding gardeners in Ayr...
+  Found 30 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/30] Shields Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34026 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [2/30] Core Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34024 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [3/30] Greenan Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34028 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [4/30] Ayrshire Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34032 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [5/30] Garden Grooming Ayr
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34030 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [6/30] Garden Grooming Troon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34034 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [7/30] MCD Garden Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34036 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [8/30] Maple Tree & Gardening Services Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34038 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [9/30] Bluegrass garden care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34040 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [10/30] Bluegrass garden care
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [11/30] Stonefield Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34042 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [12/30] Driveway & Landscape Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34044 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [13/30] Unlimited Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34046 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [14/30] MCD landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34048 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [15/30] PRESTIGE LANDSCAPING & PAVING AYRSHIRE
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34050 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [16/30] Ayrshire Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34052 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [17/30] West Coast Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34054 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [18/30] Ayrshire Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34056 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [19/30] McIntosh Tree Care Experts Tree Surgeon Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34058 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [20/30] K A Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34060 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [21/30] Wallace Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33912 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [22/30] The Chestnuts tree works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34064 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [23/30] Prestige Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34066 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [24/30] John Baird Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34062 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [25/30] Gilchrist Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34068 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [26/30] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [27/30] K Imrie Treecare
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34070 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [28/30] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [29/30] The Tree Business
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34072 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [30/30] Smith's Tree and Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Lanfine Quadrant, Darvel KA17 0EW, UK
+    Phone:   07399 330974
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34280
+    URL: https://glasgowtrader.co.uk/listing/smiths-tree-and-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   30
+  Created: 1
+  Skipped: 29 (already existed)
+  Failed:  0
+============================================================
