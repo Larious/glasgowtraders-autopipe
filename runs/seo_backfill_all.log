@@ -1,0 +1,29 @@
+[LIVE] scanning published listings | 0 already done
+  ...50 processed (yoast 50, tiles 0)
+  ...100 processed (yoast 100, tiles 0)
+  ...150 processed (yoast 150, tiles 0)
+  ...200 processed (yoast 200, tiles 0)
+  ...250 processed (yoast 250, tiles 0)
+  ...300 processed (yoast 300, tiles 0)
+  ...350 processed (yoast 350, tiles 11)
+  ...400 processed (yoast 400, tiles 13)
+  ...450 processed (yoast 450, tiles 25)
+  ...500 processed (yoast 500, tiles 26)
+  ...550 processed (yoast 550, tiles 29)
+  ...600 processed (yoast 600, tiles 30)
+  ...650 processed (yoast 650, tiles 36)
+  ...700 processed (yoast 700, tiles 36)
+  ...750 processed (yoast 750, tiles 49)
+  ...800 processed (yoast 800, tiles 49)
+  ...850 processed (yoast 850, tiles 51)
+  ...900 processed (yoast 900, tiles 52)
+  ...950 processed (yoast 950, tiles 53)
+  ...1000 processed (yoast 1000, tiles 54)
+
+[LIVE] summary
+  scanned              1058
+  yoast_written        1012
+  yoast_skip_existing  46
+  featured_added       54
+  featured_present     958
+  failed               0

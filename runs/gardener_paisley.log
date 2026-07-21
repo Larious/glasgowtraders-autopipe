@@ -1,0 +1,373 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  1058 existing listings on site
+  Ledger: 1040 place_ids
+
+[SEARCH] Finding gardeners in Paisley...
+  Found 24 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/24] Paisley Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 81 Fereneze Dr, Glenburn, Paisley PA2 8NJ, UK
+    Phone:   07771 574811
+    Website: http://gardener-paisley.co.uk/
+    Rating:  4.5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33768
+    URL: https://glasgowtrader.co.uk/listing/paisley-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/24] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [3/24] Matrix Gardens & Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 64 Whites Bridge Ave, Paisley PA3 3BS, UK
+    Phone:   07972 654291
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33770
+    URL: https://glasgowtrader.co.uk/listing/matrix-gardens-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/24] Glenbrae Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Abbey Mill Business Centre, 12 Seedhill Rd, Paisley PA1 1JS, UK
+    Phone:   0141 413 5351
+    Website: https://glenbraelandscaping.co.uk/
+    Rating:  4.1 (9 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33772
+    URL: https://glasgowtrader.co.uk/listing/glenbrae-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/24] Stylish Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 96 Donaldswood Rd, Glenburn, Paisley PA2 8EB, UK
+    Phone:   07427 693230
+    Website: http://stylishgarden.co.uk/
+    Rating:  5 (21 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33774
+    URL: https://glasgowtrader.co.uk/listing/stylish-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/24] Paisley Grasscutting & Gardening Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Lounsdale Way, Paisley PA2 9LX, UK
+    Phone:   07546 335268
+    Website: N/A
+    Rating:  2.3 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33776
+    URL: https://glasgowtrader.co.uk/listing/paisley-grasscutting-gardening-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/24] Paisley Landscaping & Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 99 Blackstoun Rd, Paisley PA3 1EU, UK
+    Phone:   0141 887 3558
+    Website: N/A
+    Rating:  2.3 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33778
+    URL: https://glasgowtrader.co.uk/listing/paisley-landscaping-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/24] The local gardener
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Westburn Ave, Paisley PA3 1NG, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33780
+    URL: https://glasgowtrader.co.uk/listing/the-local-gardener/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/24] The West End Gardener
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 180A George St, Paisley PA1 2UN, UK
+    Phone:   07950 118792
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33782
+    URL: https://glasgowtrader.co.uk/listing/the-west-end-gardener/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/24] Minoc garden maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Neilston Rd, Glenburn, Paisley PA2 6QD, UK
+    Phone:   07879 684942
+    Website: N/A
+    Rating:  3.5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33784
+    URL: https://glasgowtrader.co.uk/listing/minoc-garden-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/24] CT Lawn Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lothian Cres, Glenburn, Paisley PA2 8AJ, UK
+    Phone:   07774 324203
+    Website: https://www.ctlawnandgardenmaintenance.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33786
+    URL: https://glasgowtrader.co.uk/listing/ct-lawn-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/24] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [13/24] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Pioneer Pl, Renfrew PA4 8ZE, UK
+    Phone:   07474 571595
+    Website: http://www.jgmlandscapes.co.uk/
+    Rating:  5 (19 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33788
+    URL: https://glasgowtrader.co.uk/listing/jgm-landscapes-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/24] G Milliken Landscapes & Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 6, Colinslee Estate, 133 Neilston Rd, Paisley PA2 6QL, UK
+    Phone:   07747 331940
+    Website: N/A
+    Rating:  3.7 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33790
+    URL: https://glasgowtrader.co.uk/listing/g-milliken-landscapes-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/24] DMC Groundworks Civils & Landscape Design Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bridgend Industrial Estate, Linwood, Paisley PA3 3HN, UK
+    Phone:   01505 852616
+    Website: http://www.dmcgroundworks.co.uk/
+    Rating:  5 (17 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33792
+    URL: https://glasgowtrader.co.uk/listing/dmc-groundworks-civils-landscape-design-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/24] Digby Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Wallace Rd, Paisley, Renfrew PA4 8AX, UK
+    Phone:   07572 068010
+    Website: http://www.digbylandscaping.co.uk/
+    Rating:  4 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33794
+    URL: https://glasgowtrader.co.uk/listing/digby-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/24] Peacock Turfscape
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: North Arkleston Farm, Arkleston Rd, Paisley PA3 4JA, UK
+    Phone:   0141 889 1455
+    Website: https://peacockturfscape.co.uk/
+    Rating:  4.8 (180 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33796
+    URL: https://glasgowtrader.co.uk/listing/peacock-turfscape/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/24] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [19/24] Arborcare Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Underwood Rd, Paisley PA2 3TH, UK
+    Phone:   07904 715042
+    Website: https://arborcaretreesurgeons.co.uk/
+    Rating:  4.7 (15 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33798
+    URL: https://glasgowtrader.co.uk/listing/arborcare-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/24] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [21/24] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 96 Hazelwood Rd, Bridge of Weir PA11 3DT, UK
+    Phone:   07852 880025
+    Website: http://renfrewshiretreesurgeons.com/?utm_source=gmb&utm_medium=referral
+    Rating:  5 (35 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33800
+    URL: https://glasgowtrader.co.uk/listing/renfrewshire-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/24] R Williams Tree Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Churchill Ave, Johnstone PA5 0RG, UK
+    Phone:   01505 345634
+    Website: http://www.rwilliamstreesurgeon.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33802
+    URL: https://glasgowtrader.co.uk/listing/r-williams-tree-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [23/24] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [24/24] Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 26 Hopeman, Paisley, Erskine PA8 6EU, UK
+    Phone:   07480 536128
+    Website: https://glasgowtreesurgeons.co.uk/tree-services-erskine/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33804
+    URL: https://glasgowtrader.co.uk/listing/tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   24
+  Created: 19
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================
