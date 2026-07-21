@@ -1,0 +1,130 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bankhead
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bankhead'...
+  Found: ID=183 name=Bankhead
+
+[DEDUP] Fetching existing listings...
+  1511 existing listings on site
+  Ledger: 1493 place_ids
+
+[SEARCH] Finding gardeners in Bankhead...
+  Found 21 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/21] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [2/21] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [3/21] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [4/21] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [5/21] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [6/21] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [7/21] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [8/21] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [9/21] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [10/21] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [11/21] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [12/21] Treefellas Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33878 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [13/21] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [14/21] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [15/21] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [16/21] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [17/21] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [18/21] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [19/21] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [20/21] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Bankhead' instead
+
+────────────────────────────────────────────────────────────
+  [21/21] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Bankhead' instead
+
+============================================================
+  BATCH COMPLETE — Bankhead
+============================================================
+  Found:   21
+  Created: 0
+  Skipped: 21 (already existed)
+  Failed:  0
+============================================================

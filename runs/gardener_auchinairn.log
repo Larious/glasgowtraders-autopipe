@@ -1,0 +1,298 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Auchinairn
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Auchinairn'...
+  Found: ID=178 name=Auchinairn
+
+[DEDUP] Fetching existing listings...
+  1505 existing listings on site
+  Ledger: 1487 place_ids
+
+[SEARCH] Finding gardeners in Auchinairn...
+  Found 45 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/45] Paradigm Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34342 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [2/45] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [3/45] Dan Frazer Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34320 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [4/45] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [5/45] CAS LANDSCAPES
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34334 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [6/45] JFK Garden & Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34344 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [7/45] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [8/45] B.P.M Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34350 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [9/45] Blairs Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33920 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [10/45] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [11/45] Magical Gardens - Glasgow Garden & Landscaping Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34352 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [12/45] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [13/45] Glasgow tree care and fencing ( landscape gardener )
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36, Glasgow G33 1HR, UK
+    Phone:   07873 544702
+    Website: http://glasgowtreecareandfencing.com/?utm_source=gmb&utm_medium=referral
+    Rating:  4.5 (23 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34760
+    URL: https://glasgowtrader.co.uk/listing/glasgow-tree-care-and-fencing-landscape-gardener/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/45] The Concrete Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 200 Balmore Rd, Glasgow G22 6LJ, UK
+    Phone:   0141 237 9144
+    Website: http://www.concretegarden.org.uk/
+    Rating:  4.7 (27 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34762
+    URL: https://glasgowtrader.co.uk/listing/the-concrete-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/45] Lawn Ranger Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1557 Cumbernauld Rd, Glasgow G33 1AB, UK
+    Phone:   0800 019 8618
+    Website: N/A
+    Rating:  3.4 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34764
+    URL: https://glasgowtrader.co.uk/listing/lawn-ranger-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/45] Anguri Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bishopbriggs, Glasgow G64 1XY, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34766
+    URL: https://glasgowtrader.co.uk/listing/anguri-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/45] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [18/45] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [19/45] Experience Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34322 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [20/45] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [21/45] JMG Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34326 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [22/45] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [23/45] Cruickshank Landscape Gardening and Design Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34318 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [24/45] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [25/45] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [26/45] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [27/45] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [28/45] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [29/45] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [30/45] Treefellas Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33878 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [31/45] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [32/45] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [33/45] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [34/45] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [35/45] Scottish Pine Tree Works & Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33994 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [36/45] KTS Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34336 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [37/45] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [38/45] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [39/45] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [40/45] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [41/45] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [42/45] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [43/45] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [44/45] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Auchinairn' instead
+
+────────────────────────────────────────────────────────────
+  [45/45] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Auchinairn' instead
+
+============================================================
+  BATCH COMPLETE — Auchinairn
+============================================================
+  Found:   45
+  Created: 4
+  Skipped: 41 (already existed)
+  Failed:  0
+============================================================

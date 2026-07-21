@@ -1,0 +1,206 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellahouston
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellahouston'...
+  Found: ID=189 name=Bellahouston
+
+[DEDUP] Fetching existing listings...
+  1513 existing listings on site
+  Ledger: 1495 place_ids
+
+[SEARCH] Finding gardeners in Bellahouston...
+  Found 29 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/29] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [2/29] BB Garden Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Tannadice Ave., Glasgow G52 3DY, UK
+    Phone:   07899 684295
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34776
+    URL: https://glasgowtrader.co.uk/listing/bb-garden-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/29] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [4/29] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [5/29] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [6/29] Luma Building and Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Cardonald, Glasgow G52 2NE, UK
+    Phone:   07525 249293
+    Website: N/A
+    Rating:  5 (6 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34778
+    URL: https://glasgowtrader.co.uk/listing/luma-building-and-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/29] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [8/29] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [9/29] A.Peebles Landscape contractor.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34722 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [10/29] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [11/29] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [12/29] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [13/29] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [14/29] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [15/29] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [16/29] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [17/29] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [18/29] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Woodville St, Glasgow G51 2RG, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34780
+    URL: https://glasgowtrader.co.uk/listing/thistle-tree-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/29] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [20/29] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [21/29] Glasgow Arborists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33700 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [22/29] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [23/29] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [24/29] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [25/29] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [26/29] LV Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34378 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [27/29] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [28/29] Renfrew's Affordable Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34620 — attached location 'Bellahouston' instead
+
+────────────────────────────────────────────────────────────
+  [29/29] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Bellahouston' instead
+
+============================================================
+  BATCH COMPLETE — Bellahouston
+============================================================
+  Found:   29
+  Created: 3
+  Skipped: 26 (already existed)
+  Failed:  0
+============================================================

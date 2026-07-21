@@ -1,0 +1,247 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Barlanark
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Barlanark'...
+  Found: ID=185 name=Barlanark
+
+[DEDUP] Fetching existing listings...
+  1511 existing listings on site
+  Ledger: 1493 place_ids
+
+[SEARCH] Finding gardeners in Barlanark...
+  Found 42 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/42] Garden Man - Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33624 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [2/42] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [3/42] Blairs Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33920 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [4/42] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [5/42] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [6/42] R.A.M Garden & Grounds Maintenance Contractor
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34316 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [7/42] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [8/42] Lawn Ranger Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34764 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [9/42] Juniper Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33860 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [10/42] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [11/42] Stepps Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33976 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [12/42] Thistle Landscapes & Builders
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34770 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [13/42] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [14/42] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [15/42] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [16/42] Bespoke Landscape Designs Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34392 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [17/42] Albar Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34366 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [18/42] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [19/42] Cruickshank Landscape Gardening and Design Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34318 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [20/42] CM Gardens LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33856 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [21/42] Magical Gardens - Glasgow Garden & Landscaping Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34352 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [22/42] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [23/42] Murray's Landscaping and Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1346 Shettleston road House, Suite 4, Glasgow G32 9AT, UK
+    Phone:   07359 094444
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34772
+    URL: https://glasgowtrader.co.uk/listing/murrays-landscaping-and-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/42] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [25/42] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [26/42] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [27/42] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [28/42] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [29/42] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [30/42] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [31/42] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [32/42] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [33/42] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [34/42] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [35/42] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [36/42] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [37/42] KTS Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34336 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [38/42] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [39/42] Treefellas Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33878 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [40/42] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [41/42] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Barlanark' instead
+
+────────────────────────────────────────────────────────────
+  [42/42] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Barlanark' instead
+
+============================================================
+  BATCH COMPLETE — Barlanark
+============================================================
+  Found:   42
+  Created: 1
+  Skipped: 41 (already existed)
+  Failed:  0
+============================================================

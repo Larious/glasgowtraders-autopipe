@@ -1,0 +1,269 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Baillieston
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Baillieston'...
+  Found: ID=180 name=Baillieston
+
+[DEDUP] Fetching existing listings...
+  1509 existing listings on site
+  Ledger: 1491 place_ids
+
+[SEARCH] Finding gardeners in Baillieston...
+  Found 44 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/44] Garden Man - Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33624 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [2/44] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [3/44] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [4/44] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [5/44] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [6/44] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [7/44] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [8/44] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [9/44] Juniper Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33860 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [10/44] Magical Gardens - Glasgow Garden & Landscaping Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34352 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [11/44] HSC Builders | Landscape Gardeners | Property Renovators | Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31396 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [12/44] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [13/44] The Wash House Garden, C.I.C.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 136 Tollcross Rd, Glasgow G31 4XA, UK
+    Phone:   07495 418080
+    Website: https://www.facebook.com/thewashhousegarden
+    Rating:  4.9 (7 reviews)
+    Hours:   2 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34768
+    URL: https://glasgowtrader.co.uk/listing/the-wash-house-garden-c-i-c/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/44] Robertson garden & property maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33902 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [15/44] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [16/44] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [17/44] CUT N BLO LANDSCAPING
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33810 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [18/44] Bespoke Landscape Designs Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34392 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [19/44] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [20/44] CM Gardens LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33856 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [21/44] Neil Walker Landscaping & Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33982 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [22/44] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [23/44] Thistle Landscapes & Builders
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Grampian Cres, Glasgow G32 9TE, UK
+    Phone:   07496 809214
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34770
+    URL: https://glasgowtrader.co.uk/listing/thistle-landscapes-builders/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/44] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [25/44] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [26/44] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [27/44] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [28/44] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [29/44] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [30/44] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [31/44] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [32/44] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [33/44] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [34/44] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [35/44] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [36/44] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [37/44] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [38/44] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [39/44] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [40/44] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [41/44] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [42/44] KTS Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34336 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [43/44] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Baillieston' instead
+
+────────────────────────────────────────────────────────────
+  [44/44] Aurea Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34402 — attached location 'Baillieston' instead
+
+============================================================
+  BATCH COMPLETE — Baillieston
+============================================================
+  Found:   44
+  Created: 2
+  Skipped: 42 (already existed)
+  Failed:  0
+============================================================

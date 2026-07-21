@@ -1,0 +1,293 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Anniesland
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Anniesland'...
+  Found: ID=175 name=Anniesland
+
+[DEDUP] Fetching existing listings...
+  1500 existing listings on site
+  Ledger: 1482 place_ids
+
+[SEARCH] Finding gardeners in Anniesland...
+  Found 44 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/44] Handy gardening and fences
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33948 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [2/44] Rake it in gardening services ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33946 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [3/44] Dino's Gardening & Pressure Washing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33954 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [4/44] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [5/44] Killoch Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33960 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [6/44] Callander Landscapes Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33962 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [7/44] Outside In Garden Rooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34748 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [8/44] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [9/44] Say1 Landscaping Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 614 Crow Rd, Glasgow G13 1NP, UK
+    Phone:   07411 063595
+    Website: https://say1landscaping.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34750
+    URL: https://glasgowtrader.co.uk/listing/say1-landscaping-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/44] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34298 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [11/44] WEST END GARDEN SERVICES
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34746 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [12/44] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [13/44] Barclays Landscaping of Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34296 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [14/44] McGinley Building & Landscape
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 75 Cowdenhill Circus, Glasgow G13 2RD, UK
+    Phone:   07910 216386
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34752
+    URL: https://glasgowtrader.co.uk/listing/mcginley-building-landscape/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/44] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [16/44] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [17/44] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [18/44] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [19/44] Gr Landscapes Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34294 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [20/44] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [21/44] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 100 Eastvale Pl, Glasgow G3 8QG, UK
+    Phone:   07792 631371
+    Website: http://www.jngardendesigns.co.uk/
+    Rating:  5 (17 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34754
+    URL: https://glasgowtrader.co.uk/listing/jeremy-needham-garden-designs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/44] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [23/44] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [24/44] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [25/44] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [26/44] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [27/44] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [28/44] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [29/44] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [30/44] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [31/44] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [32/44] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [33/44] The Tree Fella
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33964 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [34/44] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [35/44] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [36/44] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [37/44] Red Branch Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Sydenham Ln, Glasgow G12 9EU, UK
+    Phone:   07460 843655
+    Website: http://www.redbranchtrees.com/
+    Rating:  5 (37 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34756
+    URL: https://glasgowtrader.co.uk/listing/red-branch-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [38/44] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [39/44] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [40/44] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [41/44] Arborcare Tree Surgeons Bearsden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34304 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [42/44] Aurea Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34402 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [43/44] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Anniesland' instead
+
+────────────────────────────────────────────────────────────
+  [44/44] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Anniesland' instead
+
+============================================================
+  BATCH COMPLETE — Anniesland
+============================================================
+  Found:   44
+  Created: 4
+  Skipped: 40 (already existed)
+  Failed:  0
+============================================================

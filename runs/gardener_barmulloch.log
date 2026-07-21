@@ -1,0 +1,282 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Barmulloch
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Barmulloch'...
+  Found: ID=186 name=Barmulloch
+
+[DEDUP] Fetching existing listings...
+  1512 existing listings on site
+  Ledger: 1494 place_ids
+
+[SEARCH] Finding gardeners in Barmulloch...
+  Found 49 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/49] Garden Man - Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33624 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [2/49] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [3/49] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [4/49] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [5/49] R.A.M Garden & Grounds Maintenance Contractor
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34316 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [6/49] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [7/49] Killoch Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33960 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [8/49] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [9/49] Magical Gardens - Glasgow Garden & Landscaping Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34352 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [10/49] Lawn Ranger Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34764 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [11/49] Belmont Landscaping & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34348 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [12/49] Paradigm Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34342 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [13/49] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [14/49] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [15/49] Stepps Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33976 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [16/49] Glasgow tree care and fencing ( landscape gardener )
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34760 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [17/49] ace estates grounds maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 357 Edinburgh Rd, Glasgow G33 2PJ, UK
+    Phone:   07901 848655
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34774
+    URL: https://glasgowtrader.co.uk/listing/ace-estates-grounds-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/49] Mundell Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34616 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [19/49] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [20/49] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [21/49] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [22/49] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [23/49] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [24/49] I S Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33984 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [25/49] Experience Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34322 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [26/49] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [27/49] Cruickshank Landscape Gardening and Design Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34318 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [28/49] Albar Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34366 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [29/49] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [30/49] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [31/49] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [32/49] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [33/49] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [34/49] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [35/49] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [36/49] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [37/49] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [38/49] Treefellas Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33878 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [39/49] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [40/49] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [41/49] KTS Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34336 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [42/49] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [43/49] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [44/49] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [45/49] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [46/49] Scottish Pine Tree Works & Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33994 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [47/49] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [48/49] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Barmulloch' instead
+
+────────────────────────────────────────────────────────────
+  [49/49] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Barmulloch' instead
+
+============================================================
+  BATCH COMPLETE — Barmulloch
+============================================================
+  Found:   49
+  Created: 1
+  Skipped: 48 (already existed)
+  Failed:  0
+============================================================

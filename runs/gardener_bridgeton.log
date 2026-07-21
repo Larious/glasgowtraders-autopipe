@@ -1,0 +1,351 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bridgeton
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bridgeton'...
+  Found: ID=194 name=Bridgeton
+
+[DEDUP] Fetching existing listings...
+  1516 existing listings on site
+  Ledger: 1498 place_ids
+
+[SEARCH] Finding gardeners in Bridgeton...
+  Found 46 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/46] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [2/46] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [3/46] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [4/46] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [5/46] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [6/46] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [7/46] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [8/46] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [9/46] Barras Garden Shed Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47 Kent St, Glasgow G40 2SR, UK
+    Phone:   0141 552 6900
+    Website: https://barrasshedcompany.co.uk/
+    Rating:  4.3 (154 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34782
+    URL: https://glasgowtrader.co.uk/listing/barras-garden-shed-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/46] The Gardener
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Ashton Ln, Glasgow G12 8SJ, UK
+    Phone:   0141 341 1230
+    Website: http://thegardenerglasgow.co.uk/
+    Rating:  4.1 (616 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34784
+    URL: https://glasgowtrader.co.uk/listing/the-gardener/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/46] Superior Garden Offices Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Macbeth St., Glasgow G31 4BF, UK
+    Phone:   0141 459 0343
+    Website: https://sgoscotland.co.uk/
+    Rating:  5 (50 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34786
+    URL: https://glasgowtrader.co.uk/listing/superior-garden-offices-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/46] Greyfriars Biophilic Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glasgow G4 0NG, UK
+    Phone:   N/A
+    Website: https://greyfriarsgardenglasgow.co.uk/
+    Rating:  4.1 (17 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34788
+    URL: https://glasgowtrader.co.uk/listing/greyfriars-biophilic-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/46] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [14/46] Saint Nicholas Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glasgow G4 0RA, UK
+    Phone:   0141 287 4350
+    Website: http://www.glasgowlife.org.uk/museums/provands-lordship/Pages/St-Nicholas-Garden.aspx
+    Rating:  4.3 (21 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34790
+    URL: https://glasgowtrader.co.uk/listing/saint-nicholas-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/46] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [16/46] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [17/46] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [18/46] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [19/46] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [20/46] Pearson Landscapes Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 W George St, Glasgow G2 1BP, UK
+    Phone:   0141 459 1071
+    Website: https://www.pearsonlandscapes.co.uk/driveways-glasgow
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34792
+    URL: https://glasgowtrader.co.uk/listing/pearson-landscapes-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/46] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [22/46] Essenjay Tree & Grass Care Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34346 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [23/46] PW Building and Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5. Block F, Glenwood Business Park, Glenwood Pl, Glasgow G45 9UH, UK
+    Phone:   0141 634 8997
+    Website: https://www.pwpaving.co.uk/
+    Rating:  4.1 (38 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34794
+    URL: https://glasgowtrader.co.uk/listing/pw-building-and-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/46] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [25/46] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [26/46] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [27/46] Garden Makeovers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34358 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [28/46] Old Glen Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 53 Kerrycroy Ave, Glasgow G42 0AB, UK
+    Phone:   07394 944600
+    Website: N/A
+    Rating:  4.3 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34796
+    URL: https://glasgowtrader.co.uk/listing/old-glen-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [29/46] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [30/46] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [31/46] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [32/46] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [33/46] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [34/46] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [35/46] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [36/46] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [37/46] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [38/46] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [39/46] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [40/46] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [41/46] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [42/46] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [43/46] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [44/46] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [45/46] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Bridgeton' instead
+
+────────────────────────────────────────────────────────────
+  [46/46] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Bridgeton' instead
+
+============================================================
+  BATCH COMPLETE — Bridgeton
+============================================================
+  Found:   46
+  Created: 8
+  Skipped: 38 (already existed)
+  Failed:  0
+============================================================
