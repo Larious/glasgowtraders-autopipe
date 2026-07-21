@@ -1,0 +1,365 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Kilmarnock
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Kilmarnock'...
+  Found: ID=238 name=Kilmarnock
+
+[DEDUP] Fetching existing listings...
+  1409 existing listings on site
+  Ledger: 1391 place_ids
+
+[SEARCH] Finding gardeners in Kilmarnock...
+  Found 32 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/32] Cutting Edge Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Holmes Park View, Kilmarnock KA1 1RP, UK
+    Phone:   07967 847794
+    Website: N/A
+    Rating:  5 (16 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34470
+    URL: https://glasgowtrader.co.uk/listing/cutting-edge-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/32] Ayrshire Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34032 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [3/32] Oak Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: West House, Riccarton, Earlston KA2 9AD, UK
+    Phone:   07734 888916
+    Website: https://www.oakgardening.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34472
+    URL: https://glasgowtrader.co.uk/listing/oak-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/32] Creative Landscapes Scotland LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Balnakeilly, Halket Road, Kilmarnock KA3 4EE, UK
+    Phone:   01505 850774
+    Website: http://www.creativelandscapes.uk.com/
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34474
+    URL: https://glasgowtrader.co.uk/listing/creative-landscapes-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/32] Primrose garden solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 MacEwan Pl, Kilmarnock KA3 7ER, UK
+    Phone:   07554 639716
+    Website: N/A
+    Rating:  5 (7 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34476
+    URL: https://glasgowtrader.co.uk/listing/primrose-garden-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/32] Rowley & Wilson Garden Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Stane Brae, Stewarton, Kilmarnock KA3 5GZ, UK
+    Phone:   07722 087736
+    Website: https://rowleygardencare.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34478
+    URL: https://glasgowtrader.co.uk/listing/rowley-wilson-garden-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/32] All Weather Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 87 Wallacetown Ave, Kilmarnock KA3 6DS, UK
+    Phone:   07712 610311
+    Website: https://landscapegardenerkilmarnock.co.uk/
+    Rating:  4.7 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34480
+    URL: https://glasgowtrader.co.uk/listing/all-weather-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/32] Krisp Landscapes Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 32 Lindsay Dr, Kilmarnock KA3 7LA, UK
+    Phone:   01563 340380
+    Website: https://www.krisplandscapesayrshire.co.uk/
+    Rating:  5 (16 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34482
+    URL: https://glasgowtrader.co.uk/listing/krisp-landscapes-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/32] Prestige Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34066 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [10/32] Neill Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Millhill Ave, Kilmaurs, Kilmarnock KA3 2TA, UK
+    Phone:   01563 524049
+    Website: https://neills-landscapes.com/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34484
+    URL: https://glasgowtrader.co.uk/listing/neill-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/32] Nether Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Netherland Rd, Stewarton, Kilmarnock KA3 5DN, UK
+    Phone:   01560 485058
+    Website: https://www.nether-landscapes.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34486
+    URL: https://glasgowtrader.co.uk/listing/nether-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/32] Lakeside Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 210 Western Rd, Kilmarnock KA3 1NJ, UK
+    Phone:   01563 523337
+    Website: https://www.lakesidelandscapes.com/
+    Rating:  4.3 (60 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34488
+    URL: https://glasgowtrader.co.uk/listing/lakeside-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/32] Beansburn landscaping services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 MacInnes Pl, Kilmarnock KA3 7NQ, UK
+    Phone:   07496 696184
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34490
+    URL: https://glasgowtrader.co.uk/listing/beansburn-landscaping-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/32] Turf At The Top
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 210 Western Rd, Kilmarnock KA3 1NJ, UK
+    Phone:   01563 523337
+    Website: http://www.turfatthetop.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34492
+    URL: https://glasgowtrader.co.uk/listing/turf-at-the-top/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/32] Prime Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 155 Bonnyton Rd, Kilmarnock KA1 2LG, UK
+    Phone:   07425 700692
+    Website: http://www.primelandscaping.co.uk/
+    Rating:  1 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34494
+    URL: https://glasgowtrader.co.uk/listing/prime-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/32] Central Paving & Landscaping Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Overtoun Rd, Springside, Irvine KA11 3BG, UK
+    Phone:   01294 650643
+    Website: https://centralpaving-landscaping.co.uk/
+    Rating:  4.7 (54 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34496
+    URL: https://glasgowtrader.co.uk/listing/central-paving-landscaping-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/32] Ayrshire Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34056 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [18/32] Wallace Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33912 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [19/32] John Baird Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34062 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [20/32] Ayrshire Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34052 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [21/32] West Coast Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34054 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [22/32] K A Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34060 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [23/32] McIntosh Tree Care Experts Tree Surgeon Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34058 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [24/32] The Tree Business
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34072 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [25/32] SM Tree Work
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 67 Brewlands Cres, Symington, Kilmarnock KA1 5RN, UK
+    Phone:   07587 139972
+    Website: https://www.facebook.com/share/1P14ZB8cJF/?mibextid=wwXIfr
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34498
+    URL: https://glasgowtrader.co.uk/listing/sm-tree-work/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [26/32] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [27/32] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [28/32] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [29/32] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [30/32] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [31/32] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Kilmarnock' instead
+
+────────────────────────────────────────────────────────────
+  [32/32] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Kilmarnock' instead
+
+============================================================
+  BATCH COMPLETE — Kilmarnock
+============================================================
+  Found:   32
+  Created: 15
+  Skipped: 17 (already existed)
+  Failed:  0
+============================================================

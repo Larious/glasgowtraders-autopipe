@@ -1,0 +1,184 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Helensburgh
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Helensburgh'...
+  Found: ID=225 name=Helensburgh
+
+[DEDUP] Fetching existing listings...
+  1405 existing listings on site
+  Ledger: 1387 place_ids
+
+[SEARCH] Finding gardeners in Helensburgh...
+  Found 27 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/27] CB Garden & Property Domestic & Commercial
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34076 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [2/27] A G Landscapes - Garden Design & Build
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34010 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [3/27] SLR Maintenance and Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Garrawy Rd, Helensburgh G84 7LT, UK
+    Phone:   07553 272915
+    Website: https://www.facebook.com/profile.php?id=100067334047301
+    Rating:  5 (18 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34462
+    URL: https://glasgowtrader.co.uk/listing/slr-maintenance-and-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/27] C S S Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34456 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [5/27] West Coast Property & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34004 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [6/27] PR Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34006 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [7/27] C S S Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [8/27] Evergreen Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 E Princes St, Helensburgh G84 7DE, UK
+    Phone:   07368 997835
+    Website: http://www.evergreengardening.co.uk/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34464
+    URL: https://glasgowtrader.co.uk/listing/evergreen-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/27] Lochside Tree Care & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34460 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [10/27] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [11/27] RM Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34074 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [12/27] Lorimer Tree & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34014 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [13/27] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [14/27] LJX Ltd - Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34104 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [15/27] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34022 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [16/27] Erskine Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34106 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [17/27] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [18/27] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [19/27] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [20/27] R Williams Tree Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33802 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [21/27] Cairns Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34108 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [22/27] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [23/27] Treeline Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34098 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [24/27] Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33804 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [25/27] The Tree Fella
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33964 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [26/27] Arborcare Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33798 — attached location 'Helensburgh' instead
+
+────────────────────────────────────────────────────────────
+  [27/27] McCabe Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34100 — attached location 'Helensburgh' instead
+
+============================================================
+  BATCH COMPLETE — Helensburgh
+============================================================
+  Found:   27
+  Created: 2
+  Skipped: 25 (already existed)
+  Failed:  0
+============================================================

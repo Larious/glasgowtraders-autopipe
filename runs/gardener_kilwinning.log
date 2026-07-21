@@ -1,0 +1,313 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Kilwinning
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Kilwinning'...
+  Found: ID=237 name=Kilwinning
+
+[DEDUP] Fetching existing listings...
+  1424 existing listings on site
+  Ledger: 1406 place_ids
+
+[SEARCH] Finding gardeners in Kilwinning...
+  Found 24 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/24] Jds Garden Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 Earlswood Ave, Lawthorn, Irvine KA11 2FE, UK
+    Phone:   07842 487926
+    Website: https://www.jdsgardenmaintenance.co.uk/
+    Rating:  5 (13 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34500
+    URL: https://glasgowtrader.co.uk/listing/jds-garden-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/24] Kilwinning Garden Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Dalgarven Wynd, Kilwinning KA13 6DD, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34502
+    URL: https://glasgowtrader.co.uk/listing/kilwinning-garden-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/24] BBS Landscaping ️ ️ ️ ️ ️
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Lochwood Gdns, Saltcoats KA21 6BP, UK
+    Phone:   07853 301483
+    Website: https://www.facebook.com/BrianBlacklandscaping
+    Rating:  5 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34504
+    URL: https://glasgowtrader.co.uk/listing/bbs-landscaping-%ef%b8%8f-%ef%b8%8f-%ef%b8%8f-%ef%b8%8f-%ef%b8%8f/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/24] SWJ Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 McKillop Pl, Saltcoats KA21 6BB, UK
+    Phone:   07789 713989
+    Website: N/A
+    Rating:  4.4 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34506
+    URL: https://glasgowtrader.co.uk/listing/swj-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/24] Emma Nelson Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40 Mayfield Rd, Saltcoats KA21 5RQ, UK
+    Phone:   07920 013484
+    Website: http://emmanelsongardens.com/
+    Rating:  5 (14 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34508
+    URL: https://glasgowtrader.co.uk/listing/emma-nelson-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/24] CB Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Lynn Ave, Dalry KA24 4AP, UK
+    Phone:   07733 539284
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34510
+    URL: https://glasgowtrader.co.uk/listing/cb-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/24] Greenway’s Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 94 A Raise St, Saltcoats KA21 5JY, UK
+    Phone:   07929 396688
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34512
+    URL: https://glasgowtrader.co.uk/listing/greenways-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/24] Cmlandscapingltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Longford Ave, Kilwinning KA13 6EX, UK
+    Phone:   07396 213330
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34514
+    URL: https://glasgowtrader.co.uk/listing/cmlandscapingltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/24] Town & Country Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Evelyn Terrace, Kilwinning KA13 6JH, UK
+    Phone:   N/A
+    Website: https://www.ayrshirelandscaping.co.uk/garden-landscaping-in-kilwinning/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34516
+    URL: https://glasgowtrader.co.uk/listing/town-country-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/24] Alba Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Knock Jargon Ct, Saltcoats KA21 6HG, UK
+    Phone:   07851 547960
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34518
+    URL: https://glasgowtrader.co.uk/listing/alba-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/24] Toms Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 Stewart Dr, Irvine KA12 0RJ, UK
+    Phone:   01294 311624
+    Website: N/A
+    Rating:  3 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34520
+    URL: https://glasgowtrader.co.uk/listing/toms-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/24] PRESTIGE LANDSCAPING & PAVING AYRSHIRE
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34050 — attached location 'Kilwinning' instead
+
+────────────────────────────────────────────────────────────
+  [13/24] Central Paving & Landscaping Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34496 — attached location 'Kilwinning' instead
+
+────────────────────────────────────────────────────────────
+  [14/24] S & C Driveways, Landscapes Tarmac & Block Paving Specialists
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 95c High St, Irvine KA12 0AL, UK
+    Phone:   07855 549356
+    Website: https://ayrshiredrivewaysandlandscaping.co.uk/
+    Rating:  4.6 (9 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34522
+    URL: https://glasgowtrader.co.uk/listing/s-c-driveways-landscapes-tarmac-block-paving-specialists/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/24] Ayrshire Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34052 — attached location 'Kilwinning' instead
+
+────────────────────────────────────────────────────────────
+  [16/24] The Tree Business
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34072 — attached location 'Kilwinning' instead
+
+────────────────────────────────────────────────────────────
+  [17/24] Ayrshire Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34056 — attached location 'Kilwinning' instead
+
+────────────────────────────────────────────────────────────
+  [18/24] K A Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34060 — attached location 'Kilwinning' instead
+
+────────────────────────────────────────────────────────────
+  [19/24] West Coast Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34054 — attached location 'Kilwinning' instead
+
+────────────────────────────────────────────────────────────
+  [20/24] MCDs Tree Surgeons & Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37, Dalry KA24 4JR, UK
+    Phone:   07944 244759
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34524
+    URL: https://glasgowtrader.co.uk/listing/mcds-tree-surgeons-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/24] RB Tree Surgeon, Dalry
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Wilson Wynd, Dalry KA24 4JR, UK
+    Phone:   07984 077545
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34526
+    URL: https://glasgowtrader.co.uk/listing/rb-tree-surgeon-dalry/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/24] Prestige Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34066 — attached location 'Kilwinning' instead
+
+────────────────────────────────────────────────────────────
+  [23/24] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Kilwinning' instead
+
+────────────────────────────────────────────────────────────
+  [24/24] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Kilwinning' instead
+
+============================================================
+  BATCH COMPLETE — Kilwinning
+============================================================
+  Found:   24
+  Created: 14
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

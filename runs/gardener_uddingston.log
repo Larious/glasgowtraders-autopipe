@@ -1,0 +1,127 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Uddingston
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Uddingston'...
+  Found: ID=278 name=Uddingston
+
+[DEDUP] Fetching existing listings...
+  1388 existing listings on site
+  Ledger: 1370 place_ids
+
+[SEARCH] Finding gardeners in Uddingston...
+  Found 18 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/18] CUT N BLO LANDSCAPING
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33810 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [2/18] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [3/18] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [4/18] CM Gardens LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33856 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [5/18] MGS Mark's Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33812 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [6/18] Juniper Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33860 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [7/18] JMF DRIVEWAYS AND LANDSCAPING
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33844 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [8/18] Forrest Walk Land & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33818 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [9/18] HSC Builders | Landscape Gardeners | Property Renovators | Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31396 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [10/18] 1st Class Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33816 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [11/18] Briarlea Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34254 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [12/18] Cambus Fencing & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33820 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [13/18] Murray Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33836 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [14/18] All NU Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33822 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [15/18] Bespoke Landscape Designs Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34392 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [16/18] Mckay Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33858 — attached location 'Uddingston' instead
+
+────────────────────────────────────────────────────────────
+  [17/18] GSB Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: John St, Blantyre, Glasgow G72 0JG, UK
+    Phone:   01698 829950
+    Website: http://www.gsblandscapes.co.uk/
+    Rating:  2.4 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34428
+    URL: https://glasgowtrader.co.uk/listing/gsb-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/18] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Uddingston' instead
+
+============================================================
+  BATCH COMPLETE — Uddingston
+============================================================
+  Found:   18
+  Created: 1
+  Skipped: 17 (already existed)
+  Failed:  0
+============================================================

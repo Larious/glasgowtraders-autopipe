@@ -1,0 +1,244 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Lanark
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Lanark'...
+  Found: ID=242 name=Lanark
+
+[DEDUP] Fetching existing listings...
+  1381 existing listings on site
+  Ledger: 1363 place_ids
+
+[SEARCH] Finding gardeners in Lanark...
+  Found 27 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/27] Lanark Garden Maintenance & Gardener Service
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34252 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [2/27] MCN Landscaping and Groundworks Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34250 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [3/27] Longstaff Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34246 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [4/27] Your Local Gardener
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Steel Way, Lesmahagow, Lanark ML11 0NA, UK
+    Phone:   01555 668375
+    Website: http://www.ylgs.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34414
+    URL: https://glasgowtrader.co.uk/listing/your-local-gardener/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/27] Greens Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34244 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [6/27] The Dutch Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34248 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [7/27] Lanarkshire Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Priory Ln, Lesmahagow, Lanark ML11 0BX, UK
+    Phone:   01555 892565
+    Website: https://www.lanarkshiregardener.co.uk/gardener-in-lesmahagow/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34416
+    URL: https://glasgowtrader.co.uk/listing/lanarkshire-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/27] MM Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 55 Couthally Gardens, Carnwath, Lanark ML11 8JE, UK
+    Phone:   07823 380234
+    Website: http://mmlandscaping.co.uk/
+    Rating:  3.6 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34418
+    URL: https://glasgowtrader.co.uk/listing/mm-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/27] Priory Bridge Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34266 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [10/27] P and M The Gardening Men
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Fraser Dr, Kirkmuirhill, Lanark ML11 9YP, UK
+    Phone:   07414 710717
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34420
+    URL: https://glasgowtrader.co.uk/listing/p-and-m-the-gardening-men/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/27] WP Landscapes and Groundworks LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47 Hope Rd, Kirkmuirhill, Lanark ML11 9QY, UK
+    Phone:   07766 721464
+    Website: https://wplandscapesandgroundworks.com/
+    Rating:  3.8 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34422
+    URL: https://glasgowtrader.co.uk/listing/wp-landscapes-and-groundworks-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/27] Baillie's Landscaping Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34262 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [13/27] JR Tree & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33864 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [14/27] F & S Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34258 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [15/27] Ace of Spades Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34256 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [16/27] AB Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Holding, Lanark ML11 9UW, UK
+    Phone:   01555 678123
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34424
+    URL: https://glasgowtrader.co.uk/listing/ab-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/27] JMC Landscaping & Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Ardgowan Cres, Carstairs Junction, Lanark ML11 8PN, UK
+    Phone:   07464 230097
+    Website: N/A
+    Rating:  3 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34426
+    URL: https://glasgowtrader.co.uk/listing/jmc-landscaping-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/27] CH Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34274 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [19/27] TreeTmenT Specialist Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33872 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [20/27] JL Tree Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33880 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [21/27] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [22/27] DT tree surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33866 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [23/27] North Lanarkshire Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33852 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [24/27] Specialist Tree Care Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34272 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [25/27] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [26/27] Wid Men Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33870 — attached location 'Lanark' instead
+
+────────────────────────────────────────────────────────────
+  [27/27] Top Notch Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34276 — attached location 'Lanark' instead
+
+============================================================
+  BATCH COMPLETE — Lanark
+============================================================
+  Found:   27
+  Created: 7
+  Skipped: 20 (already existed)
+  Failed:  0
+============================================================

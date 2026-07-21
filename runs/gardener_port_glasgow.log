@@ -1,0 +1,119 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Port Glasgow
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Port Glasgow'...
+  Found: ID=264 name=Port Glasgow
+
+[DEDUP] Fetching existing listings...
+  1407 existing listings on site
+  Ledger: 1389 place_ids
+
+[SEARCH] Finding gardeners in Port Glasgow...
+  Found 14 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] RM Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34074 — attached location 'Port Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [2/14] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Port Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [3/14] PR Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34006 — attached location 'Port Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [4/14] Paisley Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33768 — attached location 'Port Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [5/14] Clearveiw landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34084 — attached location 'Port Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [6/14] Clydeside Garden Sheds
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Finlaystone East Lodge, Greenock Rd, Port Glasgow PA14 6TH, UK
+    Phone:   01505 394237
+    Website: https://www.clydesidegardensheds.co.uk/
+    Rating:  4.3 (66 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34466
+    URL: https://glasgowtrader.co.uk/listing/clydeside-garden-sheds/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/14] LJX Ltd - Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34104 — attached location 'Port Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [8/14] Lorimer Tree & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34014 — attached location 'Port Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [9/14] Heather Landscapes Groundworks
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Clydeview Rd, Port Glasgow PA14 5SF, UK
+    Phone:   07783 315100
+    Website: https://heather-landscapes-groundworks.ueniweb.com/?utm_campaign=gmb
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34468
+    URL: https://glasgowtrader.co.uk/listing/heather-landscapes-groundworks/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Port Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [11/14] Ecogarden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34078 — attached location 'Port Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [12/14] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Port Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [13/14] Matrix Gardens & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33770 — attached location 'Port Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [14/14] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Port Glasgow' instead
+
+============================================================
+  BATCH COMPLETE — Port Glasgow
+============================================================
+  Found:   14
+  Created: 2
+  Skipped: 12 (already existed)
+  Failed:  0
+============================================================

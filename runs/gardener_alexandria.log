@@ -1,0 +1,279 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Alexandria
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Alexandria'...
+  Found: ID=174 name=Alexandria
+
+[DEDUP] Fetching existing listings...
+  1389 existing listings on site
+  Ledger: 1371 place_ids
+
+[SEARCH] Finding gardeners in Alexandria...
+  Found 22 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/22] West Coast Property & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34004 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [2/22] Saltire landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34012 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [3/22] HGS Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Lavender Gdns, Alexandria G83 9HP, UK
+    Phone:   07449 007002
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34430
+    URL: https://glasgowtrader.co.uk/listing/hgs-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/22] D Halligan Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34018 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [5/22] Abbey Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34020 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [6/22] The Gardeners Cottages
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Loch Lomond, Arden, Alexandria G83 8RD, UK
+    Phone:   01389 850601
+    Website: http://www.gardeners-cottages.com/
+    Rating:  4.8 (17 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34432
+    URL: https://glasgowtrader.co.uk/listing/the-gardeners-cottages/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/22] Oakburn Gardens & Trees
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Oakburn Gardens, Alexandria G83 9NN, UK
+    Phone:   07855 132836
+    Website: N/A
+    Rating:  2.3 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34434
+    URL: https://glasgowtrader.co.uk/listing/oakburn-gardens-trees/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/22] Kingstowne Lawn & Landscape
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6461 Stephenson Way, Alexandria, VA 22312, USA
+    Phone:   (703) 921-9200
+    Website: https://www.kingstownelawn.com/
+    Rating:  4.7 (315 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34436
+    URL: https://glasgowtrader.co.uk/listing/kingstowne-lawn-landscape/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/22] Rosemont Landscaping and Lawncare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3308 Mt Vernon Ave, Alexandria, VA 22305, USA
+    Phone:   (571) 215-1275
+    Website: https://www.rosemontlc.com/
+    Rating:  4.6 (69 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34438
+    URL: https://glasgowtrader.co.uk/listing/rosemont-landscaping-and-lawncare/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/22] AP Landscapers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4005 Arcadia Rd, Alexandria, VA 22312, USA
+    Phone:   (571) 421-0223
+    Website: https://ap-landscapers.com/
+    Rating:  4.7 (36 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34440
+    URL: https://glasgowtrader.co.uk/listing/ap-landscapers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/22] Blue Ridge Lawn Care Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8850 Richmond Hwy, Alexandria, VA 22309, USA
+    Phone:   (703) 544-9750
+    Website: http://blueridgelawncareservices.com/
+    Rating:  4.9 (113 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34442
+    URL: https://glasgowtrader.co.uk/listing/blue-ridge-lawn-care-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/22] P&P Landscaping and Lawn Care Inc.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5408 Ives Pl, Springfield, VA 22151, USA
+    Phone:   (703) 400-1036
+    Website: https://www.pplandscapingservices.com/
+    Rating:  5 (159 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34444
+    URL: https://glasgowtrader.co.uk/listing/pp-landscaping-and-lawn-care-inc/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/22] GreenCity Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 170 Wyndham St, Alexandria NSW 2015, Australia
+    Phone:   (02) 5563 8012
+    Website: http://www.greencitylandscapes.com.au/
+    Rating:  5 (26 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34446
+    URL: https://glasgowtrader.co.uk/listing/greencity-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/22] J&J Landscape Management
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8415 Terminal Rd F, Lorton, VA 22079, USA
+    Phone:   (703) 686-5578
+    Website: https://www.jandjlandscapemgt.com/?utm_campaign=gmb&utm_medium=gbp&utm_source=google
+    Rating:  4.9 (182 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34448
+    URL: https://glasgowtrader.co.uk/listing/jj-landscape-management/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/22] Independence Landscape
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9910 Richmond Hwy, Lorton, VA 22079, USA
+    Phone:   (703) 887-1834
+    Website: https://independencelandscape.com/
+    Rating:  4.8 (232 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34450
+    URL: https://glasgowtrader.co.uk/listing/independence-landscape/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/22] Creative Environments Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5533 County Hwy 82, Alexandria, MN 56308, USA
+    Phone:   (320) 834-2800
+    Website: http://creativeenvironmentslandscapingmn.com/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34452
+    URL: https://glasgowtrader.co.uk/listing/creative-environments-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/22] Peacock Turfscape
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33796 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [18/22] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [19/22] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [20/22] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [21/22] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Alexandria' instead
+
+────────────────────────────────────────────────────────────
+  [22/22] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Alexandria' instead
+
+============================================================
+  BATCH COMPLETE — Alexandria
+============================================================
+  Found:   22
+  Created: 12
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,193 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Balloch
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Balloch'...
+  Found: ID=181 name=Balloch
+
+[DEDUP] Fetching existing listings...
+  1401 existing listings on site
+  Ledger: 1383 place_ids
+
+[SEARCH] Finding gardeners in Balloch...
+  Found 24 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/24] CB Garden & Property Domestic & Commercial
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34076 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [2/24] West Coast Property & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34004 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [3/24] PR Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34006 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [4/24] Impero Gardens, Zanone Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34000 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [5/24] Robert Johnstone Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Beechwood, Church Rd, Arrochar G83 7BE, UK
+    Phone:   07783 854292
+    Website: N/A
+    Rating:  5 (25 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34454
+    URL: https://glasgowtrader.co.uk/listing/robert-johnstone-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/24] Saltire landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34012 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [7/24] MK Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33998 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [8/24] HGS Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34430 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [9/24] D Halligan Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34018 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [10/24] C S S Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Beech Grove Pl, Helensburgh G84 7TU, UK
+    Phone:   07704 088800
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34456
+    URL: https://glasgowtrader.co.uk/listing/c-s-s-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/24] Dunbartonshire Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34008 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [12/24] A G Landscapes - Garden Design & Build
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34010 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [13/24] Antonia Boyle Landscape Architect
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Main Street, Gartocharn, Alexandria G83 8RX, UK
+    Phone:   07764 800122
+    Website: http://www.antoniaboyledesign.com/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34458
+    URL: https://glasgowtrader.co.uk/listing/antonia-boyle-landscape-architect/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/24] Lorimer Tree & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34014 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [15/24] Abbey Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34020 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [16/24] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [17/24] Oakburn Gardens & Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34434 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [18/24] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34022 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [19/24] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [20/24] Lochside Tree Care & Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Stuckenduff, Helensburgh G84 8NW, UK
+    Phone:   07916 241339
+    Website: http://www.lochsidetreecare.com/
+    Rating:  5 (22 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34460
+    URL: https://glasgowtrader.co.uk/listing/lochside-tree-care-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/24] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [22/24] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [23/24] LJX Ltd - Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34104 — attached location 'Balloch' instead
+
+────────────────────────────────────────────────────────────
+  [24/24] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Balloch' instead
+
+============================================================
+  BATCH COMPLETE — Balloch
+============================================================
+  Found:   24
+  Created: 4
+  Skipped: 20 (already existed)
+  Failed:  0
+============================================================

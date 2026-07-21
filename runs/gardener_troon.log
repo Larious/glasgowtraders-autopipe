@@ -1,0 +1,169 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Troon
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Troon'...
+  Found: ID=277 name=Troon
+
+[DEDUP] Fetching existing listings...
+  1446 existing listings on site
+  Ledger: 1428 place_ids
+
+[SEARCH] Finding gardeners in Troon...
+  Found 24 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/24] Garden Grooming Troon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34034 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [2/24] Maple Tree & Gardening Services Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34038 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [3/24] Ayrshire Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34032 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [4/24] West Coast Home and Garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33231 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [5/24] LTP Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34528 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [6/24] McDonald Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34538 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [7/24] Designer Garden Rooms & Landscapes Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: The Tattie Shack, Farm, Monktonhill Rd, Monkton, Troon KA9 1UL, UK
+    Phone:   07984 540016
+    Website: https://www.designergardenrooms.co.uk/
+    Rating:  5 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34544
+    URL: https://glasgowtrader.co.uk/listing/designer-garden-rooms-landscapes-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/24] Oak Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34472 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [9/24] PRESTIGE LANDSCAPING & PAVING AYRSHIRE
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34050 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [10/24] Unlimited Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34046 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [11/24] A. DUNLOP LANDSCAPES
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Underwood Rd, Ayrshire, Prestwick KA9 2EX, UK
+    Phone:   01292 471076
+    Website: N/A
+    Rating:  4.3 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34546
+    URL: https://glasgowtrader.co.uk/listing/a-dunlop-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/24] Core Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34024 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [13/24] Greenan Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34028 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [14/24] Central Paving & Landscaping Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34496 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [15/24] S & C Driveways, Landscapes Tarmac & Block Paving Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34522 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [16/24] Creative Landscapes Scotland LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34474 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [17/24] West Coast Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34054 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [18/24] Ayrshire Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34056 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [19/24] McIntosh Tree Care Experts Tree Surgeon Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34058 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [20/24] K A Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34060 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [21/24] The Tree Business
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34072 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [22/24] Prestige Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34066 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [23/24] John Baird Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34062 — attached location 'Troon' instead
+
+────────────────────────────────────────────────────────────
+  [24/24] Ayrshire Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34052 — attached location 'Troon' instead
+
+============================================================
+  BATCH COMPLETE — Troon
+============================================================
+  Found:   24
+  Created: 2
+  Skipped: 22 (already existed)
+  Failed:  0
+============================================================
