@@ -80,7 +80,7 @@ def build_and_upload_tile(enriched, cat_id, location_name):
 # otherwise default_category.
 TRADES = {
     "plumber": {
-        "queries": ["plumbers in {loc}"],
+        "queries": ["plumbers in {loc}, Scotland, UK"],
         "include_kw": ["plumb", "heating", "gas", "pipe", "drain", "boiler"],
         "exclude_kw": ["supplies", "merchant", "store", "wholesale",
                        "showroom", "plumb center", "plumb centre"],
@@ -90,8 +90,9 @@ TRADES = {
         "service_phrase": "plumbing service",
     },
     "gardener": {
-        "queries": ["gardeners in {loc}", "landscapers in {loc}",
-                    "tree surgeons in {loc}"],
+        "queries": ["gardeners in {loc}, Scotland, UK",
+                    "landscapers in {loc}, Scotland, UK",
+                    "tree surgeons in {loc}, Scotland, UK"],
         "include_kw": ["garden", "landscap", "lawn", "tree", "hedge",
                        "grounds", "horticult", "turf", "arbor"],
         "exclude_kw": ["centre", "center", "nursery", "supplies", "store",
@@ -103,6 +104,14 @@ TRADES = {
         "service_phrase": "gardening and landscaping service",
     },
 }
+
+
+def is_uk_address(addr):
+    """Google formats UK addresses ending in ', UK'. Ambiguous town names
+    (Houston, Hamilton, Airdrie, Alexandria, Irvine...) match large non-UK
+    places, so this guards against publishing foreign businesses."""
+    a = addr or ""
+    return ("UK" in a) or ("United Kingdom" in a)
 
 
 def categorize(name, trade_cfg):
@@ -544,6 +553,15 @@ def main():
         if not enriched:
             print(f"  FAILED: Could not enrich")
             failed += 1
+            continue
+
+        # Hard UK guard: ambiguous town names (Houston, Hamilton, Airdrie,
+        # Alexandria, Irvine, Livingston...) match large non-UK places, so
+        # never publish a business whose address isn't in the UK.
+        if not is_uk_address(enriched.get("formatted_address", "")):
+            print(f"  SKIP: non-UK address — "
+                  f"{enriched.get('formatted_address', '')[:50]}")
+            skipped += 1
             continue
 
         print(f"    Address: {enriched['formatted_address']}")

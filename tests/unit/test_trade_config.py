@@ -70,5 +70,26 @@ class TestJunkFilter(unittest.TestCase):
         self.assertFalse(ok)
 
 
+
+
+class TestUKAddressGuard(unittest.TestCase):
+    def test_rejects_foreign_addresses(self):
+        for addr in ("Houston, TX 77007, USA",
+                     "173 Canals Cir SW, Airdrie, AB T4B 3E8, Canada",
+                     "170 Wyndham St, Alexandria NSW 2015, Australia",
+                     "1307 Musselburgh Ct, Missouri City, TX 77459, USA"):
+            self.assertFalse(bs.is_uk_address(addr), addr)
+
+    def test_accepts_uk_addresses(self):
+        for addr in ("Fleming Rd, Bishopton, Renfrewshire PA7 5HW, UK",
+                     "251 Dundyvan Rd, Coatbridge ML5 4AU, UK",
+                     "Some Rd, London, United Kingdom"):
+            self.assertTrue(bs.is_uk_address(addr), addr)
+
+    def test_empty_address_is_not_uk(self):
+        self.assertFalse(bs.is_uk_address(""))
+        self.assertFalse(bs.is_uk_address(None))
+
+
 if __name__ == "__main__":
     unittest.main(verbosity=2)
