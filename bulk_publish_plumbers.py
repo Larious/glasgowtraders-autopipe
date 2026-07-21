@@ -11,13 +11,27 @@ import math
 import re
 from requests.auth import HTTPBasicAuth
 
-GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "")
-WP_BASE_URL = "https://www.glasgowtrader.co.uk"
-WP_USER = "Dev"
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
+GOOGLE_API_KEY = (os.environ.get("GOOGLE_PLACES_API_KEY")
+                  or os.environ.get("GOOGLE_API_KEY", ""))
+WP_BASE_URL = os.environ.get("WP_BASE_URL", "https://www.glasgowtrader.co.uk")
+WP_USER = os.environ.get("WP_USERNAME") or os.environ.get("WP_USER", "Dev")
 WP_APP_PASSWORD = os.environ.get("WP_APP_PASSWORD", "")
 
 AUTH = HTTPBasicAuth(WP_USER, WP_APP_PASSWORD)
 CAT_ID_PLUMBER = 22
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                "scripts"))
+import ledger_utils
+
+_ledger_session = requests.Session()
+_ledger_session.auth = AUTH
 
 LOCATIONS = {
     "Anniesland": {"id": 175, "lat": 55.8893, "lng": -4.3392},
@@ -313,31 +327,10 @@ def enrich_place(place_id):
 
 
 def upload_images(photo_refs, name):
-    media_ids = []
-    safe = safe_filename(name)
-    for i, ref in enumerate(photo_refs):
-        photo_url = (
-            f"https://maps.googleapis.com/maps/api/place/photo"
-            f"?maxwidth=1200&photoreference={ref}&key={GOOGLE_API_KEY}"
-        )
-        try:
-            img = requests.get(photo_url, timeout=30)
-            if img.status_code != 200:
-                continue
-            wp = requests.post(
-                f"{WP_BASE_URL}/wp-json/wp/v2/media",
-                data=img.content,
-                headers={
-                    "Content-Disposition": f'attachment; filename="{safe}-{i + 1}.jpg"',
-                    "Content-Type": img.headers.get("Content-Type", "image/jpeg"),
-                },
-                auth=AUTH, timeout=30,
-            )
-            if wp.status_code == 201:
-                media_ids.append(wp.json()["id"])
-        except Exception as e:
-            print(f"      Photo {i + 1} error: {e}")
-    return media_ids
+    """Google ToS: downloading Places photos is a prohibited use for this
+    directory (CLAUDE.md rule 5). Listings go up without Google photos;
+    images come later via the ListingPro claim flow."""
+    return []
 
 
 def create_listing(enriched, first_media_id, location_id, location_name):
@@ -411,6 +404,8 @@ def inject_listingpro_options(post_id, enriched, location_name):
         "reviews_ids": "",
         "claimed_section": "not_claimed",
         "business_hours": enriched.get("lp_hours", {}),
+        # Dedup key (rule 3); bridge v2.2 mirrors this to standalone meta.
+        "google_place_id": enriched.get("place_id", ""),
     }
     requests.post(
         f"{WP_BASE_URL}/wp-json/glasgow-traders/v1/listing-options/{post_id}",
@@ -434,9 +429,22 @@ def set_gallery(post_id, media_ids):
     )
 
 
-def publish_one(place, location_name, location_id, existing_titles):
+def publish_one(place, location_name, location_id, existing_titles, by_place):
     place_id = place["place_id"]
     name = place.get("name", "Unknown")
+
+    # Ledger check first (rule 3): existing business gets this location term
+    # attached to its one post — never a clone.
+    held_by = ledger_utils.existing_post_for(by_place, place_id)
+    if held_by:
+        if ledger_utils.attach_location(_ledger_session, WP_BASE_URL,
+                                        held_by, location_id):
+            print(f"    ~ {name} | in ledger as post {held_by} — "
+                  f"attached '{location_name}'")
+        else:
+            print(f"    ~ {name} | in ledger as post {held_by} — "
+                  f"location attach FAILED, review manually")
+        return "skipped"
 
     if name.lower() in existing_titles:
         return "skipped"
@@ -455,6 +463,11 @@ def publish_one(place, location_name, location_id, existing_titles):
 
         inject_listingpro_options(post_id, enriched, location_name)
         set_gallery(post_id, media_ids)
+
+        # Record in the ledger in the same run (rule 3)
+        by_place[place_id] = ledger_utils.record(
+            ledger_utils.DEFAULT_LEDGER, place_id, post_id,
+            enriched["name"], enriched.get("phone", ""), "findplace")
 
         existing_titles.add(name.lower())
 
@@ -477,6 +490,8 @@ def main():
     print("=" * 60)
 
     existing_titles = fetch_existing_titles()
+    _, by_place = ledger_utils.load_ledger()
+    print(f"  Ledger: {len(by_place)} place_ids")
 
     stats = {"discovered": 0, "published": 0, "skipped": 0, "failed": 0}
     location_summary = []
@@ -500,7 +515,8 @@ def main():
 
         loc_published = 0
         for place in valid:
-            result = publish_one(place, location_name, location_id, existing_titles)
+            result = publish_one(place, location_name, location_id,
+                                 existing_titles, by_place)
             stats[result] += 1
             if result == "published":
                 loc_published += 1
