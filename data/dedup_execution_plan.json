@@ -1,0 +1,50 @@
+{
+  "comment": "Dedup execution config 2026-07-21. Reviewed groups from data/dedup_trash_plan.csv + pass-2 plan. FastFix(29505/29082) and CBY(29268/26785) kept both - insufficient evidence.",
+  "review_accepts_csv": "data/place_backfill_review_resolved.csv",
+  "keeper_moves": {
+    "ChIJwbdPB5Z3ZCQRXx22nf4vLbU": {
+      "from_post": 29800,
+      "to_post": 28726,
+      "name": "Noble Service and Maintenance"
+    },
+    "ChIJc4wxN25TiEgRE5N1SBPiPwQ": {
+      "from_post": 31479,
+      "to_post": 27970,
+      "name": "Cowal Building & Plumbing Supplies Ltd"
+    },
+    "ChIJe76Y46JviEgRj7DHfk2npp4": {
+      "from_post": 29805,
+      "to_post": 29759,
+      "name": "PR Electrics (Scotland) Ltd"
+    },
+    "ChIJ4cXs4dZviEgRdAXR94MLYIE": {
+      "from_post": 29795,
+      "to_post": 29717,
+      "name": "SW Auto Electrics, MOT & Service Centre"
+    },
+    "ChIJ7Xgc0m1siEgR6jjXXnmGEIc": {
+      "from_post": 29790,
+      "to_post": 29677,
+      "name": "Fusion Electrical & Civils"
+    },
+    "ChIJZTKl_TBriEgRwY5nYcUyl84": {
+      "from_post": 29470,
+      "to_post": 29463,
+      "name": "John Wilkie Plumbing / The Shower Surgeon"
+    }
+  },
+  "location_adds": {
+    "28726": {
+      "term_name": "Airdrie",
+      "term_id": 173
+    },
+    "27970": {
+      "term_name": "Balloch",
+      "term_id": 181
+    },
+    "28392": {
+      "term_name": "Airdrie",
+      "term_id": 173
+    }
+  }
+}
