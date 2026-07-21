@@ -1,0 +1,267 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Knightswood
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Knightswood'...
+  Found: ID=241 name=Knightswood
+
+[DEDUP] Fetching existing listings...
+  1559 existing listings on site
+  Ledger: 1541 place_ids
+
+[SEARCH] Finding gardeners in Knightswood...
+  Found 46 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/46] Handy gardening and fences
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33948 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [2/46] Dino's Gardening & Pressure Washing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33954 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [3/46] Killoch Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33960 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [4/46] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [5/46] Gowanlea Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33950 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [6/46] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34298 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [7/46] Blairs Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33920 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [8/46] Outside In Garden Rooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34748 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [9/46] R.A.M Garden & Grounds Maintenance Contractor
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34316 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [10/46] Say1 Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34750 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [11/46] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [12/46] Alexander Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34682 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [13/46] McGinley Building & Landscape
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34752 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [14/46] Garden Maintenance Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33924 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [15/46] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [16/46] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [17/46] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [18/46] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [19/46] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [20/46] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [21/46] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [22/46] Rake it in gardening services ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33946 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [23/46] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [24/46] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [25/46] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [26/46] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [27/46] Callander Landscapes Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33962 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [28/46] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [29/46] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [30/46] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [31/46] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [32/46] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [33/46] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [34/46] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [35/46] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [36/46] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [37/46] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [38/46] STUMP GRIND GUY Tree Stump Removal Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34628 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [39/46] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [40/46] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [41/46] The Tree Fella
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33964 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [42/46] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [43/46] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [44/46] G Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33966 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [45/46] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Knightswood' instead
+
+────────────────────────────────────────────────────────────
+  [46/46] GC Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 143 Alderman Rd, Glasgow G13 3DA, UK
+    Phone:   07881 783695
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34868
+    URL: https://glasgowtrader.co.uk/listing/gc-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Knightswood
+============================================================
+  Found:   46
+  Created: 1
+  Skipped: 45 (already existed)
+  Failed:  0
+============================================================

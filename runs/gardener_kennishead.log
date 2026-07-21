@@ -1,0 +1,277 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Kennishead
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Kennishead'...
+  Found: ID=235 name=Kennishead
+
+[DEDUP] Fetching existing listings...
+  1556 existing listings on site
+  Ledger: 1538 place_ids
+
+[SEARCH] Finding gardeners in Kennishead...
+  Found 48 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/48] KS Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34810 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [2/48] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [3/48] Glasgow southide garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34376 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [4/48] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [5/48] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [6/48] C&C Premium Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33635 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [7/48] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [8/48] Eastwood garden maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34380 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [9/48] Paisley Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33768 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [10/48] S Kennedy Landscapers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34860 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [11/48] Kennedy Garden Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Castle Cir, Lennoxtown, Glasgow G66 7BD, UK
+    Phone:   07935 938722
+    Website: http://kennedygardencare.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34862
+    URL: https://glasgowtrader.co.uk/listing/kennedy-garden-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/48] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [13/48] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [14/48] Albar Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34366 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [15/48] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [16/48] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [17/48] Mcadam Garden and Home Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34360 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [18/48] Home Enhanced Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34618 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [19/48] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [20/48] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [21/48] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [22/48] KDC Landscape
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33952 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [23/48] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [24/48] Thistle Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33621 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [25/48] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [26/48] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [27/48] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [28/48] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [29/48] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [30/48] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [31/48] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [32/48] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [33/48] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [34/48] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [35/48] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [36/48] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [37/48] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [38/48] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [39/48] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [40/48] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [41/48] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [42/48] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [43/48] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [44/48] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [45/48] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [46/48] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [47/48] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Kennishead' instead
+
+────────────────────────────────────────────────────────────
+  [48/48] Renfrew's Affordable Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34620 — attached location 'Kennishead' instead
+
+============================================================
+  BATCH COMPLETE — Kennishead
+============================================================
+  Found:   48
+  Created: 1
+  Skipped: 47 (already existed)
+  Failed:  0
+============================================================

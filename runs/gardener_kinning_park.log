@@ -1,0 +1,264 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Kinning Park
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Kinning Park'...
+  Found: ID=239 name=Kinning Park
+
+[DEDUP] Fetching existing listings...
+  1557 existing listings on site
+  Ledger: 1539 place_ids
+
+[SEARCH] Finding gardeners in Kinning Park...
+  Found 43 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/43] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [2/43] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [3/43] Green Wheels Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33623 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [4/43] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [5/43] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [6/43] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [7/43] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [8/43] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [9/43] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [10/43] The Hidden Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34834 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [11/43] Woodlands Community Garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34854 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [12/43] Oakspan Garden Rooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Gordon St, Glasgow G1 3PU, UK
+    Phone:   0141 730 0215
+    Website: http://www.oakspan.co.uk/
+    Rating:  5 (35 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34864
+    URL: https://glasgowtrader.co.uk/listing/oakspan-garden-rooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/43] Pacitti Community Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Stanley St, Kinning Park, Glasgow G51 1LG, UK
+    Phone:   N/A
+    Website: https://www.instagram.com/pacitticommunitygarden/
+    Rating:  4.7 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34866
+    URL: https://glasgowtrader.co.uk/listing/pacitti-community-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/43] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [15/43] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [16/43] Essenjay Tree & Grass Care Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34346 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [17/43] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [18/43] SPK Building & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34822 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [19/43] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [20/43] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34384 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [21/43] Belmont Landscaping & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34348 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [22/43] Paradigm Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34342 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [23/43] Richard Birch Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34820 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [24/43] Pearson Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34792 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [25/43] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [26/43] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [27/43] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [28/43] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [29/43] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [30/43] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [31/43] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [32/43] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [33/43] Aurea Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34402 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [34/43] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [35/43] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [36/43] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [37/43] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [38/43] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [39/43] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [40/43] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [41/43] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [42/43] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Kinning Park' instead
+
+────────────────────────────────────────────────────────────
+  [43/43] Glasgow Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34824 — attached location 'Kinning Park' instead
+
+============================================================
+  BATCH COMPLETE — Kinning Park
+============================================================
+  Found:   43
+  Created: 2
+  Skipped: 41 (already existed)
+  Failed:  0
+============================================================

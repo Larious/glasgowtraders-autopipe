@@ -1,0 +1,254 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hillhead
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hillhead'...
+  Found: ID=226 name=Hillhead
+
+[DEDUP] Fetching existing listings...
+  1552 existing listings on site
+  Ledger: 1534 place_ids
+
+[SEARCH] Finding gardeners in Hillhead...
+  Found 41 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/41] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [2/41] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [3/41] Handy gardening and fences
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33948 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [4/41] The Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34784 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [5/41] Belmont Landscaping & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34348 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [6/41] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [7/41] WEST END GARDEN SERVICES
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34746 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [8/41] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [9/41] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [10/41] Garden Makeovers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34358 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [11/41] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [12/41] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [13/41] Woodlands Community Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Prince's, 117 W Prince's St, Glasgow G4 9BY, UK
+    Phone:   N/A
+    Website: http://www.woodlandscommunity.org.uk/
+    Rating:  4.9 (69 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34854
+    URL: https://glasgowtrader.co.uk/listing/woodlands-community-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/41] The Bee Garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34838 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [15/41] Aroha Garden Rooms Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Office 1, 9 Newton Pl, Glasgow G3 7PR, UK
+    Phone:   01294 601954
+    Website: https://arohaescapes.co.uk/garden-rooms-glasgow/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34856
+    URL: https://glasgowtrader.co.uk/listing/aroha-garden-rooms-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/41] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [17/41] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [18/41] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [19/41] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [20/41] Albar Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34366 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [21/41] A.Peebles Landscape contractor.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34722 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [22/41] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [23/41] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [24/41] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [25/41] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [26/41] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [27/41] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [28/41] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [29/41] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [30/41] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [31/41] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [32/41] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [33/41] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [34/41] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [35/41] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [36/41] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [37/41] Red Branch Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34756 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [38/41] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [39/41] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [40/41] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Hillhead' instead
+
+────────────────────────────────────────────────────────────
+  [41/41] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Hillhead' instead
+
+============================================================
+  BATCH COMPLETE — Hillhead
+============================================================
+  Found:   41
+  Created: 2
+  Skipped: 39 (already existed)
+  Failed:  0
+============================================================

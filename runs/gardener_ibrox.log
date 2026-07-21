@@ -1,0 +1,265 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ibrox
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ibrox'...
+  Found: ID=231 name=Ibrox
+
+[DEDUP] Fetching existing listings...
+  1556 existing listings on site
+  Ledger: 1538 place_ids
+
+[SEARCH] Finding gardeners in Ibrox...
+  Found 48 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/48] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [2/48] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [3/48] P Douglas Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34802 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [4/48] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [5/48] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [6/48] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [7/48] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [8/48] Blairs Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33920 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [9/48] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34298 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [10/48] Paisley Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33768 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [11/48] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [12/48] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [13/48] Blossom Tree Specialist
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34840 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [14/48] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [15/48] The Bee Garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34838 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [16/48] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [17/48] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [18/48] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [19/48] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [20/48] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [21/48] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [22/48] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [23/48] Luma Building and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34778 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [24/48] Essenjay Tree & Grass Care Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34346 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [25/48] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [26/48] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [27/48] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [28/48] Green Wheels Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33623 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [29/48] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [30/48] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [31/48] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [32/48] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [33/48] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [34/48] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [35/48] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [36/48] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [37/48] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [38/48] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [39/48] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [40/48] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [41/48] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [42/48] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [43/48] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [44/48] STUMP GRIND GUY Tree Stump Removal Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34628 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [45/48] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [46/48] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [47/48] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Ibrox' instead
+
+────────────────────────────────────────────────────────────
+  [48/48] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Ibrox' instead
+
+============================================================
+  BATCH COMPLETE — Ibrox
+============================================================
+  Found:   48
+  Created: 0
+  Skipped: 48 (already existed)
+  Failed:  0
+============================================================

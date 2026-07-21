@@ -1,0 +1,250 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hyndland
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hyndland'...
+  Found: ID=229 name=Hyndland
+
+[DEDUP] Fetching existing listings...
+  1556 existing listings on site
+  Ledger: 1538 place_ids
+
+[SEARCH] Finding gardeners in Hyndland...
+  Found 45 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/45] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [2/45] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [3/45] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [4/45] WEST END GARDEN SERVICES
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34746 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [5/45] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [6/45] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34298 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [7/45] Belmont Landscaping & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34348 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [8/45] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [9/45] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [10/45] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [11/45] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [12/45] The Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34784 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [13/45] CM Gardens LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33856 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [14/45] Barclays Landscaping of Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34296 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [15/45] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [16/45] Woodlands Community Garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34854 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [17/45] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [18/45] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [19/45] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [20/45] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [21/45] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [22/45] Say1 Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34750 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [23/45] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [24/45] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [25/45] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [26/45] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [27/45] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [28/45] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [29/45] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [30/45] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [31/45] Red Branch Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34756 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [32/45] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [33/45] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [34/45] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [35/45] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [36/45] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [37/45] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [38/45] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [39/45] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [40/45] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [41/45] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [42/45] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [43/45] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [44/45] Aurea Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34402 — attached location 'Hyndland' instead
+
+────────────────────────────────────────────────────────────
+  [45/45] STUMP GRIND GUY Tree Stump Removal Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34628 — attached location 'Hyndland' instead
+
+============================================================
+  BATCH COMPLETE — Hyndland
+============================================================
+  Found:   45
+  Created: 0
+  Skipped: 45 (already existed)
+  Failed:  0
+============================================================

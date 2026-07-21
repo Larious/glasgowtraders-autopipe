@@ -1,0 +1,245 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Jordanhill
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Jordanhill'...
+  Found: ID=232 name=Jordanhill
+
+[DEDUP] Fetching existing listings...
+  1556 existing listings on site
+  Ledger: 1538 place_ids
+
+[SEARCH] Finding gardeners in Jordanhill...
+  Found 44 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/44] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [2/44] Handy gardening and fences
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33948 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [3/44] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [4/44] Dino's Gardening & Pressure Washing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33954 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [5/44] Outside In Garden Rooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34748 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [6/44] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [7/44] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [8/44] Killoch Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33960 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [9/44] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [10/44] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34298 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [11/44] Say1 Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34750 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [12/44] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [13/44] Belmont Landscaping & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34348 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [14/44] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [15/44] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [16/44] WEST END GARDEN SERVICES
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34746 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [17/44] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [18/44] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [19/44] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [20/44] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [21/44] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [22/44] Paradigm Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34342 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [23/44] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [24/44] Callander Landscapes Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33962 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [25/44] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [26/44] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [27/44] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [28/44] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [29/44] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [30/44] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [31/44] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [32/44] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [33/44] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [34/44] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [35/44] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [36/44] STUMP GRIND GUY Tree Stump Removal Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34628 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [37/44] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [38/44] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [39/44] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [40/44] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [41/44] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [42/44] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [43/44] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Jordanhill' instead
+
+────────────────────────────────────────────────────────────
+  [44/44] Red Branch Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34756 — attached location 'Jordanhill' instead
+
+============================================================
+  BATCH COMPLETE — Jordanhill
+============================================================
+  Found:   44
+  Created: 0
+  Skipped: 44 (already existed)
+  Failed:  0
+============================================================

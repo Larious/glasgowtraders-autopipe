@@ -1,0 +1,279 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hillington
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hillington'...
+  Found: ID=227 name=Hillington
+
+[DEDUP] Fetching existing listings...
+  1554 existing listings on site
+  Ledger: 1536 place_ids
+
+[SEARCH] Finding gardeners in Hillington...
+  Found 46 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/46] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [2/46] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [3/46] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [4/46] BB Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34776 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [5/46] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [6/46] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [7/46] Luma Building and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34778 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [8/46] W Morin Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34800 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [9/46] Hapsscotland /landscaping. Painting decorating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34804 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [10/46] The West End Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33782 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [11/46] GW Quality Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34808 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [12/46] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [13/46] CY Turf
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hillington Industrial Estate, 5 Lister Pl, Hillington, Glasgow G52 4HZ, UK
+    Phone:   0141 883 6622
+    Website: https://www.cyartificialgrass.co.uk/
+    Rating:  4.7 (43 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34858
+    URL: https://glasgowtrader.co.uk/listing/cy-turf/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/46] Blairs Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33920 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [15/46] Alexander Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34682 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [16/46] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [17/46] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [18/46] S Kennedy Landscapers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Highgrove Ct, Renfrew PA4 8PX, UK
+    Phone:   07802 461766
+    Website: http://skennedylandscapers.co.uk/
+    Rating:  4.5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34860
+    URL: https://glasgowtrader.co.uk/listing/s-kennedy-landscapers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/46] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [20/46] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [21/46] Landscapes and Contracts Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34806 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [22/46] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [23/46] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [24/46] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [25/46] Glenbrae Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33772 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [26/46] Digby Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33794 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [27/46] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [28/46] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [29/46] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [30/46] STUMP GRIND GUY Tree Stump Removal Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34628 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [31/46] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [32/46] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [33/46] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [34/46] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [35/46] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [36/46] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [37/46] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [38/46] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [39/46] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [40/46] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [41/46] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [42/46] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [43/46] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [44/46] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [45/46] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Hillington' instead
+
+────────────────────────────────────────────────────────────
+  [46/46] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Hillington' instead
+
+============================================================
+  BATCH COMPLETE — Hillington
+============================================================
+  Found:   46
+  Created: 2
+  Skipped: 44 (already existed)
+  Failed:  0
+============================================================

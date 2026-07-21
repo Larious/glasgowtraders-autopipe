@@ -1,0 +1,260 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Kelvindale
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Kelvindale'...
+  Found: ID=233 name=Kelvindale
+
+[DEDUP] Fetching existing listings...
+  1556 existing listings on site
+  Ledger: 1538 place_ids
+
+[SEARCH] Finding gardeners in Kelvindale...
+  Found 47 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/47] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [2/47] Handy gardening and fences
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33948 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [3/47] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [4/47] Green Wheels Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33623 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [5/47] WEST END GARDEN SERVICES
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34746 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [6/47] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [7/47] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [8/47] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [9/47] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [10/47] Killoch Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33960 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [11/47] Dino's Gardening & Pressure Washing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33954 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [12/47] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34308 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [13/47] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34298 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [14/47] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [15/47] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [16/47] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [17/47] Callander Landscapes Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33962 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [18/47] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [19/47] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [20/47] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [21/47] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34384 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [22/47] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [23/47] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [24/47] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [25/47] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [26/47] Say1 Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34750 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [27/47] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [28/47] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [29/47] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [30/47] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [31/47] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [32/47] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [33/47] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [34/47] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [35/47] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [36/47] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [37/47] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [38/47] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [39/47] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [40/47] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [41/47] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [42/47] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [43/47] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [44/47] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [45/47] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [46/47] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Kelvindale' instead
+
+────────────────────────────────────────────────────────────
+  [47/47] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Kelvindale' instead
+
+============================================================
+  BATCH COMPLETE — Kelvindale
+============================================================
+  Found:   47
+  Created: 0
+  Skipped: 47 (already existed)
+  Failed:  0
+============================================================
