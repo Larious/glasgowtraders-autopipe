@@ -40,6 +40,38 @@ if not WP_APP_PASSWORD:
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)),
                                 "scripts"))
 import ledger_utils
+import seo_fields
+import tile_gen
+
+GEN_TILE_DIR = "assets/featured/generated"
+
+
+def build_and_upload_tile(enriched, cat_id, location_name):
+    """Generate a unique branded featured tile for this business and upload it
+    to WP media. Returns the media id, or None. Google photos are ToS-frozen
+    (rule 5); these original tiles give each listing a distinct image."""
+    import re
+    os.makedirs(GEN_TILE_DIR, exist_ok=True)
+    slug = re.sub(r"[^a-z0-9]+", "-", enriched["name"].lower()).strip("-")[:48] or "listing"
+    town = seo_fields.town_from_address(enriched.get("formatted_address", ""),
+                                        location_name)
+    path = os.path.join(GEN_TILE_DIR, f"{slug}.jpg")
+    tile_gen.make_business_tile(enriched["name"], cat_id, town, path)
+    with open(path, "rb") as f:
+        data = f.read()
+    fname = (slug + ".jpg").encode("ascii", "ignore").decode("ascii")
+    r = session.post(f"{WP_BASE_URL}/wp-json/wp/v2/media",
+                     headers={"Content-Disposition": f'attachment; filename="{fname}"',
+                              "Content-Type": "image/jpeg"},
+                     data=data, timeout=60)
+    if r.status_code != 201:
+        print(f"    tile upload failed: {r.status_code}")
+        return None
+    mid = r.json()["id"]
+    session.post(f"{WP_BASE_URL}/wp-json/wp/v2/media/{mid}",
+                 json={"alt_text": f"{enriched['name']} — Glasgow Trader"}, timeout=30)
+    time.sleep(0.3)
+    return mid
 
 # ── Trade registry ──────────────────────────────────────────
 # Per-run parameters (CLAUDE.md): search queries, category mapping, junk
@@ -375,6 +407,17 @@ def inject_listingpro_options(post_id, enriched, gallery_ids, location_name,
         "google_place_id":  enriched.get("place_id", ""),
     }
 
+    # Yoast SEO (bridge v2.3 writes these to protected _yoast_wpseo_* meta).
+    label = CAT_LABELS.get(categorize(enriched["name"], trade_cfg),
+                           trade_cfg["label"])
+    town = seo_fields.town_from_address(enriched.get("formatted_address", ""),
+                                        location_name)
+    options_data["yoast_focuskw"] = seo_fields.focus_keyphrase(enriched["name"])
+    options_data["yoast_metadesc"] = seo_fields.meta_description(
+        enriched["name"], label, town,
+        rating=enriched.get("rating") or 0,
+        reviews=enriched.get("review_count") or 0)
+
     # Add business hours
     if enriched.get("lp_hours"):
         options_data["business_hours"] = enriched["lp_hours"]
@@ -430,6 +473,7 @@ def main():
     # Ledger is the real dedup authority (place_id, not titles)
     by_post, by_place = ledger_utils.load_ledger()
     print(f"  Ledger: {len(by_place)} place_ids")
+
 
     # Search for the trade in this location
     results = search_trade(location_name, trade_cfg)
@@ -509,9 +553,14 @@ def main():
         print(f"    Hours:   {len(enriched.get('lp_hours', {}))} days")
         print(f"    Photos:  {len(enriched.get('photo_refs', []))}")
 
-        # Featured image: licensed stock placeholder only (Google photos are
+        # Featured image: unique branded tile per business (Google photos are
         # ToS-frozen); owners replace it via the claim flow.
-        featured_id = args.placeholder_media or None
+        cat_id = categorize(enriched["name"], trade_cfg)
+        if args.placeholder_media:
+            featured_id = args.placeholder_media
+        else:
+            print(f"  Generating featured tile...")
+            featured_id = build_and_upload_tile(enriched, cat_id, location_name)
         gallery_ids = []
 
         # Create listing

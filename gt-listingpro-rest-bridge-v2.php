@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Glasgow Traders - ListingPro REST API Bridge
  * Description: Writes listing data into ListingPro's serialized lp_listingpro_options array
- * Version: 2.2.0
+ * Version: 2.3.0
  * Author: Glasgow Traders AutoPipe
  */
 
@@ -135,10 +135,26 @@ function gt_update_listing_options($request) {
         add_post_meta($post_id, 'claimed', $v, true);
     }
 
+    // Yoast SEO meta lives in protected (underscore) post meta that the
+    // standard REST API won't write; set it here. focuskw drives the primary
+    // keyphrase; metadesc is the search-result snippet.
+    $yoast_map = array(
+        'yoast_focuskw' => '_yoast_wpseo_focuskw',
+        'yoast_metadesc' => '_yoast_wpseo_metadesc',
+        'yoast_title'    => '_yoast_wpseo_title',
+    );
+    foreach ($yoast_map as $in_key => $meta_key) {
+        if (isset($body[$in_key])) {
+            $val = sanitize_text_field($body[$in_key]);
+            delete_post_meta($post_id, $meta_key);
+            add_post_meta($post_id, $meta_key, $val, true);
+        }
+    }
+
     // Verify - clear cache and re-fetch
     wp_cache_delete($post_id, 'post_meta');
     $saved = get_post_meta($post_id, 'lp_listingpro_options', true);
-    
+
     $verify = array();
     foreach ($updated_fields as $field) {
         $verify[$field] = isset($saved[$field]) ? $saved[$field] : '(not found)';
@@ -146,6 +162,11 @@ function gt_update_listing_options($request) {
     if (isset($body['google_place_id'])) {
         // Echo the standalone copy so clients can require durable persistence.
         $verify['gt_google_place_id'] = get_post_meta($post_id, 'gt_google_place_id', true);
+    }
+    foreach ($yoast_map as $in_key => $meta_key) {
+        if (isset($body[$in_key])) {
+            $verify[$in_key] = get_post_meta($post_id, $meta_key, true);
+        }
     }
 
     return array(
