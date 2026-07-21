@@ -1,0 +1,387 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  1077 existing listings on site
+  Ledger: 1059 place_ids
+
+[SEARCH] Finding gardeners in Airdrie...
+  Found 22 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/22] Premier Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit B, 19 Hogg St, Airdrie ML6 9JH, UK
+    Phone:   07925 262803
+    Website: https://premier-gardenservices.co.uk/
+    Rating:  4.8 (131 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33806
+    URL: https://glasgowtrader.co.uk/listing/premier-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/22] Higgins garden maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hogg St, Airdrie ML6 9JH, UK
+    Phone:   07423 790948
+    Website: http://www.higginsgardenservices.co.uk/
+    Rating:  3.8 (13 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33808
+    URL: https://glasgowtrader.co.uk/listing/higgins-garden-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/22] CUT N BLO LANDSCAPING
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 244A Whifflet St, Shawhead Ave, Coatbridge ML5 4RX, UK
+    Phone:   07557 552427
+    Website: https://cutnblolandscaping.co.uk/
+    Rating:  5 (147 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33810
+    URL: https://glasgowtrader.co.uk/listing/cut-n-blo-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/22] MGS Mark's Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Mossneuk St, Coatbridge ML5 5BA, UK
+    Phone:   01236 807070
+    Website: https://www.marksgardeningservices.co.uk/
+    Rating:  5 (15 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33812
+    URL: https://glasgowtrader.co.uk/listing/mgs-marks-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/22] Coatbridge Garden Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Maybole Pl, Coatbridge ML5 4UB, UK
+    Phone:   07504 281030
+    Website: N/A
+    Rating:  5 (19 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33814
+    URL: https://glasgowtrader.co.uk/listing/coatbridge-garden-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/22] 1st Class Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Souterhouse Rd, Coatbridge ML5 4AA, UK
+    Phone:   07732 373193
+    Website: https://www.1st-classgardenservices.co.uk/
+    Rating:  4.6 (10 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33816
+    URL: https://glasgowtrader.co.uk/listing/1st-class-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/22] Forrest Walk Land & Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6a Wilkie Loan, Bellshill ML4 1NB, UK
+    Phone:   07513 709308
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33818
+    URL: https://glasgowtrader.co.uk/listing/forrest-walk-land-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/22] Cambus Fencing & Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 315 Bank St, Coatbridge ML5 1EJ, UK
+    Phone:   0141 266 0000
+    Website: http://www.cambus-fencing.co.uk/
+    Rating:  4.2 (59 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33820
+    URL: https://glasgowtrader.co.uk/listing/cambus-fencing-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/22] All NU Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, All NU Landscapes, 10 Cameron St, Coatbridge ML5 2EJ, UK
+    Phone:   0141 724 0777
+    Website: http://www.instagram.com/all_nu_landscapes
+    Rating:  5 (51 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33822
+    URL: https://glasgowtrader.co.uk/listing/all-nu-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/22] Gardens by Ross (GBR Landscaping)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Coatbridge Rd, Glenmavis, Airdrie ML6 0NL, UK
+    Phone:   07908 732646
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33824
+    URL: https://glasgowtrader.co.uk/listing/gardens-by-ross-gbr-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/22] Airdrie Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 83 Mavisbank St, Airdrie ML6 0JA, UK
+    Phone:   01236 609596
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33826
+    URL: https://glasgowtrader.co.uk/listing/airdrie-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/22] Complete Lawn and Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Blairhill St, Coatbridge ML5 3AG, UK
+    Phone:   07970 515983
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33828
+    URL: https://glasgowtrader.co.uk/listing/complete-lawn-and-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/22] Green Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 38 Holm Gardens, Mossend, Bellshill ML4 2PB, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  3 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33830
+    URL: https://glasgowtrader.co.uk/listing/green-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/22] AA GARDENING
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Leven Rd, Coatbridge ML5 2LB, UK
+    Phone:   07835 860118
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33832
+    URL: https://glasgowtrader.co.uk/listing/aa-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/22] Skill Build Brickwork & Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32092 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [16/22] Rocky View Yards Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 173 Canals Cir SW, Airdrie, AB T4B 3E8, Canada
+    Phone:   (403) 200-2138
+    Website: https://rockyviewyards.ca/?utm_source=google&utm_medium=organic&utm_campaign=gmb
+    Rating:  4.9 (85 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33834
+    URL: https://glasgowtrader.co.uk/listing/rocky-view-yards-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/22] Murray Landscapes Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Braidhurst Business Centre, Unit 8 Davaar Dr, Motherwell ML1 3TW, UK
+    Phone:   01698 593593
+    Website: http://www.murraylandscapes.com/
+    Rating:  5 (26 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33836
+    URL: https://glasgowtrader.co.uk/listing/murray-landscapes-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/22] Bayview Landscaping Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 184 Bayview St SW, Airdrie, AB T4B 4G1, Canada
+    Phone:   (403) 707-7137
+    Website: http://www.bl-services.ca/
+    Rating:  5 (4 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33838
+    URL: https://glasgowtrader.co.uk/listing/bayview-landscaping-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/22] Earlybird Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 625 Morningside Park SW, Airdrie, AB T4B 0E1, Canada
+    Phone:   (403) 890-7566
+    Website: http://earlybirdlandscaping.ca/
+    Rating:  4.2 (14 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33840
+    URL: https://glasgowtrader.co.uk/listing/earlybird-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/22] Fresh Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 529 Gateway Rd NE, Airdrie, AB T4B 0J6, Canada
+    Phone:   (587) 216-4078
+    Website: https://freshlandscape.ca/
+    Rating:  5 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33842
+    URL: https://glasgowtrader.co.uk/listing/fresh-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/22] JMF DRIVEWAYS AND LANDSCAPING
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 80 Crossgates, Bellshill ML4 2EE, UK
+    Phone:   07963 598885
+    Website: http://www.thejmfteam.co.uk/
+    Rating:  5 (10 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33844
+    URL: https://glasgowtrader.co.uk/listing/jmf-driveways-and-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/22] Apex Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 111 Aitchison St, Airdrie ML6 0DB, UK
+    Phone:   07887 770382
+    Website: http://www.apextreeservices.co.uk/
+    Rating:  None (None reviews)
+    Hours:   3 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 33846
+    URL: https://glasgowtrader.co.uk/listing/apex-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   22
+  Created: 21
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================
