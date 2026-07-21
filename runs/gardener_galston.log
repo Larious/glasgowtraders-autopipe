@@ -1,0 +1,199 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Galston
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Galston'...
+  Found: ID=217 name=Galston
+
+[DEDUP] Fetching existing listings...
+  1465 existing listings on site
+  Ledger: 1447 place_ids
+
+[SEARCH] Finding gardeners in Galston...
+  Found 30 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/30] Ayrshire Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34032 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [2/30] Stuarts Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34556 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [3/30] Oak Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34472 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [4/30] Borebrae Garden Design & Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Mair St, Newmilns KA16 9EN, UK
+    Phone:   N/A
+    Website: https://www.borebrae.com/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34582
+    URL: https://glasgowtrader.co.uk/listing/borebrae-garden-design-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/30] Cutting Edge Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34470 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [6/30] Primrose garden solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34476 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [7/30] MJPAVING&LANDSCAPING
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Catherine Dr, Galston KA4 8BU, UK
+    Phone:   07312 972552
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34584
+    URL: https://glasgowtrader.co.uk/listing/mjpavinglandscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/30] Allan Rowan Landscape Gardening Contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34558 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [9/30] Krisp Landscapes Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34482 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [10/30] Creative Landscapes Scotland LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34474 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [11/30] Lakeside Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34488 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [12/30] Beansburn landscaping services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34490 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [13/30] Ayrshire Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34056 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [14/30] West Coast Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34054 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [15/30] Prestige Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34066 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [16/30] Ayrshire Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34052 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [17/30] K A Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34060 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [18/30] Wallace Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33912 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [19/30] John Baird Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34062 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [20/30] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [21/30] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [22/30] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [23/30] Smith's Tree and Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34280 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [24/30] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [25/30] KTS Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34336 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [26/30] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [27/30] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [28/30] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [29/30] MCDs Tree Surgeons & Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34524 — attached location 'Galston' instead
+
+────────────────────────────────────────────────────────────
+  [30/30] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Galston' instead
+
+============================================================
+  BATCH COMPLETE — Galston
+============================================================
+  Found:   30
+  Created: 2
+  Skipped: 28 (already existed)
+  Failed:  0
+============================================================

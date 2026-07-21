@@ -1,0 +1,233 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Neilston
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Neilston'...
+  Found: ID=256 name=Neilston
+
+[DEDUP] Fetching existing listings...
+  1481 existing listings on site
+  Ledger: 1463 place_ids
+
+[SEARCH] Finding gardeners in Neilston...
+  Found 32 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/32] creative garden design ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34362 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [2/32] Cuthbert Garden Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Watt Pl, Neilston, Glasgow G78 3RH, UK
+    Phone:   07415 703967
+    Website: N/A
+    Rating:  3.7 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34614
+    URL: https://glasgowtrader.co.uk/listing/cuthbert-garden-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/32] Mundell Landscapes Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lochlibo Rd, Neilston, Glasgow G78 3BA, UK
+    Phone:   01505 850406
+    Website: https://mundells.com/
+    Rating:  4.2 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34616
+    URL: https://glasgowtrader.co.uk/listing/mundell-landscapes-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/32] Paisley Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33768 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [5/32] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [6/32] Elmar Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34370 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [7/32] Home Enhanced Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Orchid Wy., Barrhead, Glasgow G78 1FJ, UK
+    Phone:   07823 381219
+    Website: N/A
+    Rating:  5 (9 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34618
+    URL: https://glasgowtrader.co.uk/listing/home-enhanced-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/32] G Milliken Landscapes & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33790 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [9/32] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [10/32] Scott Mackay Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34356 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [11/32] Matrix Gardens & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33770 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [12/32] Minoc garden maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33784 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [13/32] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [14/32] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [15/32] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [16/32] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [17/32] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [18/32] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [19/32] R Williams Tree Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33802 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [20/32] Arborcare Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33798 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [21/32] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [22/32] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [23/32] Erskine Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34106 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [24/32] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [25/32] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [26/32] LV Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34378 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [27/32] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [28/32] Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33804 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [29/32] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [30/32] Glasgow Arborists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33700 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [31/32] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Neilston' instead
+
+────────────────────────────────────────────────────────────
+  [32/32] Renfrew's Affordable Tree Surgeon
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 125 Priesthill Rd, Glasgow G53 6LN, UK
+    Phone:   07701 412517
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34620
+    URL: https://glasgowtrader.co.uk/listing/renfrews-affordable-tree-surgeon/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Neilston
+============================================================
+  Found:   32
+  Created: 4
+  Skipped: 28 (already existed)
+  Failed:  0
+============================================================

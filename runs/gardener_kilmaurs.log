@@ -1,0 +1,226 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Kilmaurs
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Kilmaurs'...
+  Found: ID=236 name=Kilmaurs
+
+[DEDUP] Fetching existing listings...
+  1452 existing listings on site
+  Ledger: 1434 place_ids
+
+[SEARCH] Finding gardeners in Kilmaurs...
+  Found 33 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/33] Ayrshire Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34032 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [2/33] Cutting Edge Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34470 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [3/33] Oak Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34472 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [4/33] Neill Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34484 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [5/33] Rowley & Wilson Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34478 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [6/33] Primrose garden solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34476 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [7/33] Krisp Landscapes Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34482 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [8/33] Creative Landscapes Scotland LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34474 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [9/33] Jds Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34500 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [10/33] Lakeside Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34488 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [11/33] Nether Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34486 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [12/33] Stuarts Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Covenanters Ct, Newmilns KA16 9ET, UK
+    Phone:   01560 329314
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34556
+    URL: https://glasgowtrader.co.uk/listing/stuarts-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/33] Garden Grooming Troon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34034 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [14/33] All Weather Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34480 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [15/33] Turf At The Top
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34492 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [16/33] Beansburn landscaping services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34490 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [17/33] Allan Rowan Landscape Gardening Contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Woodlea, Coldcothill, KA1 5NN, UK
+    Phone:   01563 860256
+    Website: http://www.allanrowan.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34558
+    URL: https://glasgowtrader.co.uk/listing/allan-rowan-landscape-gardening-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/33] Proscape Landscaping and Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34540 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [19/33] Crawford W Landscape Contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Beith Rd, Glengarnock, Beith KA14 3BJ, UK
+    Phone:   01505 683921
+    Website: https://www.ayrshiregardener.co.uk/gardener-in-beith/
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34560
+    URL: https://glasgowtrader.co.uk/listing/crawford-w-landscape-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/33] Ayrshire Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34056 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [21/33] Wallace Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33912 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [22/33] Ayrshire Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34052 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [23/33] John Baird Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34062 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [24/33] McIntosh Tree Care Experts Tree Surgeon Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34058 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [25/33] K A Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34060 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [26/33] Prestige Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34066 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [27/33] West Coast Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34054 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [28/33] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [29/33] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [30/33] Smith's Tree and Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34280 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [31/33] Maple Tree & Gardening Services Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34038 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [32/33] The Tree Business
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34072 — attached location 'Kilmaurs' instead
+
+────────────────────────────────────────────────────────────
+  [33/33] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Kilmaurs' instead
+
+============================================================
+  BATCH COMPLETE — Kilmaurs
+============================================================
+  Found:   33
+  Created: 3
+  Skipped: 30 (already existed)
+  Failed:  0
+============================================================

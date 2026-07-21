@@ -1,0 +1,157 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bishopton
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bishopton'...
+  Found: ID=192 name=Bishopton
+
+[DEDUP] Fetching existing listings...
+  1514 existing listings on site
+  Ledger: 1496 place_ids
+
+[SEARCH] Finding gardeners in Bishopton...
+  Found 24 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/24] Rake it in gardening services ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33946 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [2/24] Down2Earth Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34016 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [3/24] A1 Tree Care & Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Fleming Rd, Bishopton, Renfrewshire PA7 5HW, UK
+    Phone:   07783 363683
+    Website: N/A
+    Rating:  2.5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34680
+    URL: https://glasgowtrader.co.uk/listing/a1-tree-care-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/24] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [5/24] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [6/24] JWR landscaping&gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34002 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [7/24] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [8/24] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [9/24] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [10/24] Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33804 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [11/24] Erskine Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34106 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [12/24] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [13/24] STUMP GRIND GUY Tree Stump Removal Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34628 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [14/24] LJX Ltd - Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34104 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [15/24] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [16/24] Cairns Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34108 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [17/24] G Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33966 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [18/24] Monkey Puzzle tree surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34022 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [19/24] R Williams Tree Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33802 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [20/24] Arborcare Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33798 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [21/24] Lorimer Tree & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34014 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [22/24] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [23/24] The Tree Fella
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33964 — attached location 'Bishopton' instead
+
+────────────────────────────────────────────────────────────
+  [24/24] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Bishopton' instead
+
+============================================================
+  BATCH COMPLETE — Bishopton
+============================================================
+  Found:   24
+  Created: 1
+  Skipped: 23 (already existed)
+  Failed:  0
+============================================================

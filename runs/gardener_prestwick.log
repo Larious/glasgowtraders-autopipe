@@ -1,0 +1,163 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Prestwick
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Prestwick'...
+  Found: ID=266 name=Prestwick
+
+[DEDUP] Fetching existing listings...
+  1448 existing listings on site
+  Ledger: 1430 place_ids
+
+[SEARCH] Finding gardeners in Prestwick...
+  Found 18 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/18] Maple Tree & Gardening Services Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34038 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [2/18] Garden Grooming Troon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34034 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [3/18] Unlimited Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34046 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [4/18] Shields Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34026 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [5/18] A. DUNLOP LANDSCAPES
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34546 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [6/18] Core Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34024 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [7/18] Pro Lawn Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2 Glenburn Rd, Prestwick KA9 2NS, UK
+    Phone:   01292 478833
+    Website: https://www.prolawnltd.co.uk/
+    Rating:  4.3 (77 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34548
+    URL: https://glasgowtrader.co.uk/listing/pro-lawn-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/18] Greenan Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34028 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [9/18] Designer Garden Rooms & Landscapes Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34544 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [10/18] Stonefield Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34042 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [11/18] Garden Grooming Ayr
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34030 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [12/18] Emerald Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 62 Moor Park Cres, Prestwick KA9 2NL, UK
+    Phone:   01292 670468
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34550
+    URL: https://glasgowtrader.co.uk/listing/emerald-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/18] PRESTIGE LANDSCAPING & PAVING AYRSHIRE
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34050 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [14/18] Proscape Landscaping and Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34540 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [15/18] Hose Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 65 Whitehill Cres, Annbank, Ayr KA6 5EL, UK
+    Phone:   07896 053677
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34552
+    URL: https://glasgowtrader.co.uk/listing/hose-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/18] Dirtworks Landscaping LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 Newmarket St, Ayr KA7 1LL, UK
+    Phone:   07403 725998
+    Website: https://dirtworkslandscaping.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34554
+    URL: https://glasgowtrader.co.uk/listing/dirtworks-landscaping-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/18] West Coast Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34054 — attached location 'Prestwick' instead
+
+────────────────────────────────────────────────────────────
+  [18/18] McIntosh Tree Care Experts Tree Surgeon Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34058 — attached location 'Prestwick' instead
+
+============================================================
+  BATCH COMPLETE — Prestwick
+============================================================
+  Found:   18
+  Created: 4
+  Skipped: 14 (already existed)
+  Failed:  0
+============================================================

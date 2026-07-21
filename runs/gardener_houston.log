@@ -1,0 +1,462 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Houston
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Houston'...
+  Found: ID=228 name=Houston
+
+[DEDUP] Fetching existing listings...
+  1489 existing listings on site
+  Ledger: 1471 place_ids
+
+[SEARCH] Finding gardeners in Houston...
+  Found 41 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/41] Hogue Landscape Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2210 W 34th St, Houston, TX 77018, USA
+    Phone:   (713) 360-6924
+    Website: http://www.hoguels.com/
+    Rating:  4.8 (272 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34630
+    URL: https://glasgowtrader.co.uk/listing/hogue-landscape-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/41] Absolute Lawn Care and Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2221 Silver St, Houston, TX 77007, USA
+    Phone:   (281) 713-4600
+    Website: https://www.absolute-landscape.com/
+    Rating:  4.8 (298 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34632
+    URL: https://glasgowtrader.co.uk/listing/absolute-lawn-care-and-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/41] Nature Springs Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Houston, TX 77007, USA
+    Phone:   (832) 455-1383
+    Website: https://www.naturespringslandscaping.com/
+    Rating:  4.9 (53 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34634
+    URL: https://glasgowtrader.co.uk/listing/nature-springs-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/41] Garden Guy
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1307 Musselburgh Ct, Missouri City, TX 77459, USA
+    Phone:   (281) 208-4400
+    Website: https://www.garden-guy.com/
+    Rating:  4.7 (90 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34636
+    URL: https://glasgowtrader.co.uk/listing/garden-guy/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/41] Fernandez Landscape Contractors Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4813 Breen Dr, Houston, TX 77086, USA
+    Phone:   (713) 597-0907
+    Website: http://www.fernandezlandscapes.com/
+    Rating:  4.7 (293 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34638
+    URL: https://glasgowtrader.co.uk/listing/fernandez-landscape-contractors-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/41] Houston Landscape Pros
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9801 Westheimer Rd #300, Houston, TX 77042, USA
+    Phone:   (713) 396-3320
+    Website: https://houstonlandscapepros.com/
+    Rating:  4.7 (115 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34640
+    URL: https://glasgowtrader.co.uk/listing/houston-landscape-pros/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/41] Natural Wonders Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 407 Coronado St, Houston, TX 77009, USA
+    Phone:   (832) 755-1384
+    Website: https://houstonlandscaper.org/?utm_source=google&utm_medium=organic&utm_campaign=gbp
+    Rating:  4.8 (53 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34642
+    URL: https://glasgowtrader.co.uk/listing/natural-wonders-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/41] Lawn Lovin’ Mowers & Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1213 Ruthven St, Houston, TX 77019, USA
+    Phone:   (713) 703-5375
+    Website: https://lawnlovinmowers.com/
+    Rating:  4.8 (21 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34644
+    URL: https://glasgowtrader.co.uk/listing/lawn-lovin-mowers-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/41] Brian Gardens Landscape Design & Irrigation, Inc.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18311 Camellia Ct, Cypress, TX 77429, USA
+    Phone:   (281) 255-9292
+    Website: http://briangardens.com/
+    Rating:  5 (22 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34646
+    URL: https://glasgowtrader.co.uk/listing/brian-gardens-landscape-design-irrigation-inc/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/41] Joshua's Native Plants & Garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 502 W 18th St, Houston, TX 77008, USA
+    Phone:   (713) 862-7444
+    Website: http://www.joshuasnativeplants.com/
+    Rating:  4.8 (372 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34648
+    URL: https://glasgowtrader.co.uk/listing/joshuas-native-plants-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/41] Texan Landscape Group
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2000 Campbell Rd, Houston, TX 77080, USA
+    Phone:   (832) 230-7277
+    Website: https://landscapedesignhouston.com/
+    Rating:  5 (243 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34650
+    URL: https://glasgowtrader.co.uk/listing/texan-landscape-group/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/41] Texas Castro Landscaping LLC
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6658 Thornwall St, Houston, TX 77092, USA
+    Phone:   (832) 889-9786
+    Website: https://www.texascastroslandscapingllc.com/
+    Rating:  4.8 (108 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34652
+    URL: https://glasgowtrader.co.uk/listing/texas-castro-landscaping-llc/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/41] Helms Landscape Design, LLC
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 710 N Post Oak Rd Ste 103, Houston, TX 77024, USA
+    Phone:   (713) 367-4644
+    Website: https://helmslandscapedesignllc.com/
+    Rating:  4.8 (126 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34654
+    URL: https://glasgowtrader.co.uk/listing/helms-landscape-design-llc/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/41] FiveSTAR Landscape
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2425 W Loop S #200, Houston, TX 77027, USA
+    Phone:   (713) 322-9444
+    Website: http://www.houstonfivestar.com/
+    Rating:  4.9 (20 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34656
+    URL: https://glasgowtrader.co.uk/listing/fivestar-landscape/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/41] Danny's Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8619 Daycoach Ln, Houston, TX 77064, USA
+    Phone:   (713) 514-3537
+    Website: http://dannyslandscapingtx.com/
+    Rating:  4.7 (97 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34658
+    URL: https://glasgowtrader.co.uk/listing/dannys-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/41] Blackstar Landscaping Houston
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2429 Bissonnet St #222, Houston, TX 77005, USA
+    Phone:   (832) 464-6669
+    Website: https://www.blackstarlandscaping.com/
+    Rating:  5 (19 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34660
+    URL: https://glasgowtrader.co.uk/listing/blackstar-landscaping-houston/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/41] Exterior Worlds Landscape & Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1721 Oak Tree Dr, Houston, TX 77080, USA
+    Phone:   (713) 827-2255
+    Website: http://www.exteriorworlds.com/
+    Rating:  4.8 (22 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34662
+    URL: https://glasgowtrader.co.uk/listing/exterior-worlds-landscape-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/41] Moss Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4130 Lang Rd, Houston, TX 77092, USA
+    Phone:   (713) 861-5511
+    Website: https://mosslandscaping.com/
+    Rating:  4 (58 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34664
+    URL: https://glasgowtrader.co.uk/listing/moss-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/41] Orion Turf and Landscape
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7026 Old Katy Rd Ste 201 B&C, Houston, TX 77024, USA
+    Phone:   (832) 536-7064
+    Website: https://www.orionturfandlandscape.com/
+    Rating:  5 (168 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34666
+    URL: https://glasgowtrader.co.uk/listing/orion-turf-and-landscape/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/41] Monarch Landscape Management
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1850 Hollister St, Houston, TX 77080, USA
+    Phone:   (713) 849-6600
+    Website: http://www.monarchlm.com/
+    Rating:  4.3 (77 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34668
+    URL: https://glasgowtrader.co.uk/listing/monarch-landscape-management/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/41] Core Landscape Group
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1240 W 25th St, Houston, TX 77008, USA
+    Phone:   (713) 688-2673
+    Website: http://www.corelandscapegroup.com/
+    Rating:  4.3 (40 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34670
+    URL: https://glasgowtrader.co.uk/listing/core-landscape-group/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/41] JMP Landscaping & Tree Care Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3326 Hitchcock St, Houston, TX 77093, USA
+    Phone:   (346) 417-1425
+    Website: http://jmplandscape.com/
+    Rating:  4.9 (21 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34672
+    URL: https://glasgowtrader.co.uk/listing/jmp-landscaping-tree-care-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [23/41] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Houston' instead
+
+────────────────────────────────────────────────────────────
+  [24/41] Houston Tree Surgeons
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2726 Bissonnet St, Houston, TX 77005, USA
+    Phone:   (281) 815-9088
+    Website: https://www.houstontreesurgeons.com/
+    Rating:  4.7 (80 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34674
+    URL: https://glasgowtrader.co.uk/listing/houston-tree-surgeons/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [25/41] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [26/41] OM Tree Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1725 Blalock Rd, Houston, TX 77080, USA
+    Phone:   (832) 873-3766
+    Website: http://omtreeservice.com/
+    Rating:  5 (413 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34676
+    URL: https://glasgowtrader.co.uk/listing/om-tree-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [27/41] RF Tree Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2102 Delery Dr, Houston, TX 77055, USA
+    Phone:   (713) 269-5892
+    Website: https://rftreeservice.com/
+    Rating:  4.9 (431 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34678
+    URL: https://glasgowtrader.co.uk/listing/rf-tree-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+  Batch cap reached (25 creates). Re-run (new token) to continue — the ledger skips everything published so far.
+
+============================================================
+  BATCH COMPLETE — Houston
+============================================================
+  Found:   41
+  Created: 25
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

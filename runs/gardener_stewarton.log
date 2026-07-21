@@ -1,0 +1,202 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stewarton
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stewarton'...
+  Found: ID=271 name=Stewarton
+
+[DEDUP] Fetching existing listings...
+  1455 existing listings on site
+  Ledger: 1437 place_ids
+
+[SEARCH] Finding gardeners in Stewarton...
+  Found 33 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/33] Rowley & Wilson Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34478 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [2/33] Nether Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34486 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [3/33] Ayrshire Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34032 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [4/33] Cutting Edge Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34470 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [5/33] Creative Landscapes Scotland LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34474 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [6/33] Oak Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34472 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [7/33] Jds Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34500 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [8/33] Lakeside Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34488 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [9/33] Neill Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34484 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [10/33] All Weather Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34480 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [11/33] Turf At The Top
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34492 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [12/33] Krisp Landscapes Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34482 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [13/33] PRESTIGE LANDSCAPING & PAVING AYRSHIRE
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34050 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [14/33] Primrose garden solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34476 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [15/33] Beansburn landscaping services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34490 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [16/33] Proscape Landscaping and Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34540 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [17/33] Allan Rowan Landscape Gardening Contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34558 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [18/33] Ayrshire Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34056 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [19/33] Prestige Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34066 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [20/33] Lgtreecare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 B, R, Kirkland Rd, Darvel KA17 0JL, UK
+    Phone:   07748 032073
+    Website: http://lgtreecare.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34562
+    URL: https://glasgowtrader.co.uk/listing/lgtreecare/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/33] Wallace Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33912 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [22/33] John Baird Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34062 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [23/33] Ayrshire Tree Surgeons Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34052 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [24/33] K A Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34060 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [25/33] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [26/33] West Coast Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34054 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [27/33] Smith's Tree and Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34280 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [28/33] Maple Tree & Gardening Services Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34038 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [29/33] The Tree Business
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34072 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [30/33] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [31/33] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [32/33] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Stewarton' instead
+
+────────────────────────────────────────────────────────────
+  [33/33] Caledonian Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34102 — attached location 'Stewarton' instead
+
+============================================================
+  BATCH COMPLETE — Stewarton
+============================================================
+  Found:   33
+  Created: 1
+  Skipped: 32 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,223 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumnock
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumnock'...
+  Found: ID=206 name=Cumnock
+
+[DEDUP] Fetching existing listings...
+  1456 existing listings on site
+  Ledger: 1438 place_ids
+
+[SEARCH] Finding gardeners in Cumnock...
+  Found 18 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/18] Ayrshire Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34032 — attached location 'Cumnock' instead
+
+────────────────────────────────────────────────────────────
+  [2/18] ATC Landscaping and Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hielar Road, Mauchline KA5 6NG, UK
+    Phone:   07740 262054
+    Website: https://atcgardening.co.uk/
+    Rating:  4.8 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34564
+    URL: https://glasgowtrader.co.uk/listing/atc-landscaping-and-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/18] Gemma Rose - Garden Maintenance and House Cleaning
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Mauchline Rd, Catrine, Mauchline KA5 6QL, UK
+    Phone:   07776 268121
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34566
+    URL: https://glasgowtrader.co.uk/listing/gemma-rose-garden-maintenance-and-house-cleaning/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/18] Stuarts Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34556 — attached location 'Cumnock' instead
+
+────────────────────────────────────────────────────────────
+  [5/18] silverbirch landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 12, Highhouse Ind Est, Barony Rd, Auchinleck, Cumnock KA18 2LL, UK
+    Phone:   01290 422218
+    Website: http://www.silverbirchbuildersandlandscapers.co.uk/
+    Rating:  4.3 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34568
+    URL: https://glasgowtrader.co.uk/listing/silverbirch-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/18] Rose Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Mauchline Rd, Catrine, Mauchline KA5 6QL, UK
+    Phone:   07775 948894
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34570
+    URL: https://glasgowtrader.co.uk/listing/rose-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/18] MCD Garden Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34036 — attached location 'Cumnock' instead
+
+────────────────────────────────────────────────────────────
+  [8/18] Queen Elizabeth Walled Garden, Dumfries House
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unnamed Road, Cumnock KA18 2LN, UK
+    Phone:   01290 425959
+    Website: http://www.dumfries-house.org.uk/
+    Rating:  4.8 (479 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34572
+    URL: https://glasgowtrader.co.uk/listing/queen-elizabeth-walled-garden-dumfries-house/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/18] Creative Landscapes Scotland LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34474 — attached location 'Cumnock' instead
+
+────────────────────────────────────────────────────────────
+  [10/18] Skk Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 School Rd, Auchinleck, Cumnock KA18 2HZ, UK
+    Phone:   01290 421726
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34574
+    URL: https://glasgowtrader.co.uk/listing/skk-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/18] Core Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34024 — attached location 'Cumnock' instead
+
+────────────────────────────────────────────────────────────
+  [12/18] MCD landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34048 — attached location 'Cumnock' instead
+
+────────────────────────────────────────────────────────────
+  [13/18] Nether Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34486 — attached location 'Cumnock' instead
+
+────────────────────────────────────────────────────────────
+  [14/18] Crawford W Landscape Contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34560 — attached location 'Cumnock' instead
+
+────────────────────────────────────────────────────────────
+  [15/18] Airlie Garden Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Mosshead Holdings Barskimming Road, Mauchline KA5 5EX, UK
+    Phone:   0800 093 6450
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34576
+    URL: https://glasgowtrader.co.uk/listing/airlie-garden-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/18] Ayrshire Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34056 — attached location 'Cumnock' instead
+
+────────────────────────────────────────────────────────────
+  [17/18] Glenconner Tree Surgery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hazelglen, Cumnock KA18 2RJ, UK
+    Phone:   07886 449577
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34578
+    URL: https://glasgowtrader.co.uk/listing/glenconner-tree-surgery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/18] john baird tree surgery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1, Mansfield Cottage, Mansefield Road, Cumnock KA18 4NS, UK
+    Phone:   07788 851497
+    Website: https://www.johnbairdcontractors.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34580
+    URL: https://glasgowtrader.co.uk/listing/john-baird-tree-surgery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Cumnock
+============================================================
+  Found:   18
+  Created: 9
+  Skipped: 9 (already existed)
+  Failed:  0
+============================================================

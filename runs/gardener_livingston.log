@@ -1,0 +1,358 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Livingston
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Livingston'...
+  Found: ID=246 name=Livingston
+
+[DEDUP] Fetching existing listings...
+  1467 existing listings on site
+  Ledger: 1449 place_ids
+
+[SEARCH] Finding gardeners in Livingston...
+  Found 33 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/33] Robson Garden Maintenance (East Calder branch)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Nethershiel Cres, East Calder, Livingston EH53 0GL, UK
+    Phone:   07891 794809
+    Website: http://www.robsongardenmaintenance.com/
+    Rating:  5 (42 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34586
+    URL: https://glasgowtrader.co.uk/listing/robson-garden-maintenance-east-calder-branch/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/33] H Goodman Groundworks & Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34214 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [3/33] DM Garden Services - (West Lothian)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34212 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [4/33] Brad's Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34206 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [5/33] Greenhart Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34230 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [6/33] LAWN LEGEND LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Geddes House, Business Centre, Kirkton N Rd, Livingston EH54 6GU, UK
+    Phone:   07517 693037
+    Website: https://www.lawnlegend.uk/
+    Rating:  5 (20 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34588
+    URL: https://glasgowtrader.co.uk/listing/lawn-legend-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/33] AGB Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34224 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [8/33] Stewart Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Harburn Water Tank Harburn Road, West Calder EH55 8RX, UK
+    Phone:   01506 870949
+    Website: N/A
+    Rating:  4.4 (13 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34590
+    URL: https://glasgowtrader.co.uk/listing/stewart-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/33] landscape Zoolutions - Landscape West Lothian
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34208 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [10/33] West Lothian Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34196 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [11/33] DJM Landscaping Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34194 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [12/33] Steves Gardening and Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Hallcraigs, Kirknewton EH27 8BF, UK
+    Phone:   07891 029764
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34592
+    URL: https://glasgowtrader.co.uk/listing/steves-gardening-and-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/33] All Seasons Grounds + Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 old school place Uphall Station, Livingston EH54 5BS, UK
+    Phone:   07446 883985
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34594
+    URL: https://glasgowtrader.co.uk/listing/all-seasons-grounds-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/33] Gardens R Us Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Gavieside, Polbeth, West Calder EH55 8PT, UK
+    Phone:   01506 871961
+    Website: http://www.gardens-r-us.scot/
+    Rating:  4.3 (15 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34596
+    URL: https://glasgowtrader.co.uk/listing/gardens-r-us-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/33] Urban Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Argyll House, Quarrywood Ct, Livingston EH54 6AX, UK
+    Phone:   07493 079273
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34598
+    URL: https://glasgowtrader.co.uk/listing/urban-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/33] RS Landscaping & Construction
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34202 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [17/33] Big Heart Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 184 S Livingston Ave #9-129, Livingston, NJ 07039, USA
+    Phone:   (973) 223-5793
+    Website: http://www.bigheartlandscaping.com/
+    Rating:  4.8 (46 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34600
+    URL: https://glasgowtrader.co.uk/listing/big-heart-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/33] JJ Landscape Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34142 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [19/33] Greenway Landscapes & Construction
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 110 Dorsa Ave, Livingston, NJ 07039, USA
+    Phone:   (973) 922-9943
+    Website: https://www.greenwaygroups.com/
+    Rating:  4.9 (29 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34602
+    URL: https://glasgowtrader.co.uk/listing/greenway-landscapes-construction/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/33] K R Landscaping Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Briestonhill House, West Calder EH55 8PU, UK
+    Phone:   01506 873020
+    Website: https://www.krlandscaping.ltd.uk/
+    Rating:  4.4 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34604
+    URL: https://glasgowtrader.co.uk/listing/k-r-landscaping-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/33] Prestige Paving & landscaping ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Deer Park Ave, Livingston EH54 8AF, UK
+    Phone:   01506 332035
+    Website: http://www.prestigepaving.co.uk/
+    Rating:  4.4 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34606
+    URL: https://glasgowtrader.co.uk/listing/prestige-paving-landscaping-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/33] BmTreeSurgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34232 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [23/33] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [24/33] Blaikie Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34238 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [25/33] Trees in West Lothian
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34234 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [26/33] LP Tree And Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34240 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [27/33] TreeTonic
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Crawford Grn, Kirkliston EH29 9LD, UK
+    Phone:   0131 333 4443
+    Website: http://www.treetonic.co.uk/
+    Rating:  5 (31 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34608
+    URL: https://glasgowtrader.co.uk/listing/treetonic/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [28/33] Ace Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34236 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [29/33] T & D Tree Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Elizabeth Ave, Livingston, NJ 07039, USA
+    Phone:   (973) 434-5557
+    Website: https://tanddtree.com/
+    Rating:  4.9 (42 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34610
+    URL: https://glasgowtrader.co.uk/listing/t-d-tree-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [30/33] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [31/33] Tree Wise Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33692 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [32/33] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Livingston' instead
+
+────────────────────────────────────────────────────────────
+  [33/33] Livingston Family Tree Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Ayers Village Rd Bldg 1 Suite 2 & 3, Methuen, MA 01844, USA
+    Phone:   (978) 689-8373
+    Website: https://www.livingstonfamilytreeservice.com/
+    Rating:  4.9 (41 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34612
+    URL: https://glasgowtrader.co.uk/listing/livingston-family-tree-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Livingston
+============================================================
+  Found:   33
+  Created: 14
+  Skipped: 19 (already existed)
+  Failed:  0
+============================================================
