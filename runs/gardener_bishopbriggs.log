@@ -1,0 +1,317 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bishopbriggs
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bishopbriggs'...
+  Found: ID=191 name=Bishopbriggs
+
+[DEDUP] Fetching existing listings...
+  1345 existing listings on site
+  Ledger: 1327 place_ids
+
+[SEARCH] Finding gardeners in Bishopbriggs...
+  Found 44 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/44] Garden Man - Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33624 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [2/44] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [3/44] Paradigm Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4, Huntershill Village, 5 Auchinairn Rd, Bishopbriggs, Glasgow G64 1RX, UK
+    Phone:   0141 771 5200
+    Website: https://paradigmlandscapes.co.uk/
+    Rating:  4.8 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34342
+    URL: https://glasgowtrader.co.uk/listing/paradigm-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/44] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [5/44] R.A.M Garden & Grounds Maintenance Contractor
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34316 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [6/44] Dan Frazer Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34320 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [7/44] Experience Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34322 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [8/44] CAS LANDSCAPES
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34334 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [9/44] Green Wheels Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33623 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [10/44] JFK Garden & Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 67 Ashfield, Bishopbriggs, Glasgow G64 3DR, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34344
+    URL: https://glasgowtrader.co.uk/listing/jfk-garden-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/44] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [12/44] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [13/44] Cruickshank Landscape Gardening and Design Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34318 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [14/44] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [15/44] Essenjay Tree & Grass Care Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1/2, 48 W George St, Glasgow G2 1BP, UK
+    Phone:   07585 741207
+    Website: https://essenjay.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34346
+    URL: https://glasgowtrader.co.uk/listing/essenjay-tree-grass-care-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/44] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [17/44] Belmont Landscaping & Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 42 Belmont St, Glasgow G12 8EY, UK
+    Phone:   07867 632750
+    Website: N/A
+    Rating:  4 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34348
+    URL: https://glasgowtrader.co.uk/listing/belmont-landscaping-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/44] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [19/44] B.P.M Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 144A Crowhill Rd, Bishopbriggs, Glasgow G64 1RS, UK
+    Phone:   N/A
+    Website: https://www.lanarkshirelandscaping.co.uk/garden-landscaping-in-bishopbriggs/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34350
+    URL: https://glasgowtrader.co.uk/listing/b-p-m-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/44] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [21/44] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [22/44] Callander Landscapes Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33962 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [23/44] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [24/44] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [25/44] JMG Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34326 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [26/44] Magical Gardens - Glasgow Garden & Landscaping Specialists
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Lochwood St, Glasgow G33 1BD, UK
+    Phone:   07721 055050
+    Website: https://magicalgardens.co.uk/
+    Rating:  4.4 (14 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34352
+    URL: https://glasgowtrader.co.uk/listing/magical-gardens-glasgow-garden-landscaping-specialists/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [27/44] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [28/44] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [29/44] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [30/44] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [31/44] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [32/44] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [33/44] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [34/44] KTS Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34336 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [35/44] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [36/44] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [37/44] Treefellas Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33878 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [38/44] Scottish Pine Tree Works & Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33994 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [39/44] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [40/44] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [41/44] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [42/44] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [43/44] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Bishopbriggs' instead
+
+────────────────────────────────────────────────────────────
+  [44/44] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Bishopbriggs' instead
+
+============================================================
+  BATCH COMPLETE — Bishopbriggs
+============================================================
+  Found:   44
+  Created: 6
+  Skipped: 38 (already existed)
+  Failed:  0
+============================================================

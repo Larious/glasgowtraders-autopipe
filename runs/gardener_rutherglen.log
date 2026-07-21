@@ -1,0 +1,348 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Rutherglen
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Rutherglen'...
+  Found: ID=267 name=Rutherglen
+
+[DEDUP] Fetching existing listings...
+  1367 existing listings on site
+  Ledger: 1349 place_ids
+
+[SEARCH] Finding gardeners in Rutherglen...
+  Found 43 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/43] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [2/43] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [3/43] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [4/43] Garden Man - Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33624 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [5/43] WLK Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Kenmure Way, Rutherglen, Glasgow G73 4AL, UK
+    Phone:   07798 947475
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34386
+    URL: https://glasgowtrader.co.uk/listing/wlk-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/43] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [7/43] Thistle Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33621 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [8/43] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [9/43] Mcadam Garden and Home Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34360 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [10/43] MastertonGardenServices
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Turnberry Dr, Rutherglen, Glasgow G73 4PZ, UK
+    Phone:   07490 123322
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34388
+    URL: https://glasgowtrader.co.uk/listing/mastertongardenservices/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/43] Rocc Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 44, Rutherglen, Glasgow G73 3QW, UK
+    Phone:   07507 891909
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34390
+    URL: https://glasgowtrader.co.uk/listing/rocc-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/43] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [13/43] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [14/43] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [15/43] Bespoke Landscape Designs Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 87 Westburn Rd, Cambuslang, Glasgow G72 7UD, UK
+    Phone:   0141 266 0000
+    Website: http://www.teambespoke.co.uk/
+    Rating:  5 (31 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34392
+    URL: https://glasgowtrader.co.uk/listing/bespoke-landscape-designs-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/43] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [17/43] CM Gardens LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33856 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [18/43] JRD Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 211 Cambuslang Rd, Cambuslang, Rutherglen, Glasgow G72 7TS, UK
+    Phone:   0141 647 2920
+    Website: https://www.jrdartificiallawns.co.uk/
+    Rating:  4.6 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34394
+    URL: https://glasgowtrader.co.uk/listing/jrd-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/43] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [20/43] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34384 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [21/43] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Yard B, Annick industrial estate, Glasgow G32 7HS, UK
+    Phone:   0141 778 5195
+    Website: http://www.cherrylandscaping.co.uk/
+    Rating:  5 (17 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34396
+    URL: https://glasgowtrader.co.uk/listing/cherry-general-landscaping-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/43] Paveclean Landscaping Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: block 12, 3 Clydesmill Grove, Cambuslang, Glasgow G32 8RG, UK
+    Phone:   0141 354 8917
+    Website: http://www.pavecleanlandscaping.co.uk/
+    Rating:  4.2 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34398
+    URL: https://glasgowtrader.co.uk/listing/paveclean-landscaping-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [23/43] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [24/43] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 17, 39 Durham St, Kinning Park, Glasgow G41 1BS, UK
+    Phone:   07501 803521
+    Website: http://gardenandland.co.uk/
+    Rating:  4.7 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34400
+    URL: https://glasgowtrader.co.uk/listing/garden-landscape-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [25/43] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [26/43] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [27/43] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [28/43] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [29/43] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [30/43] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [31/43] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [32/43] TreeCycle Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33944 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [33/43] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [34/43] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [35/43] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [36/43] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [37/43] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [38/43] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [39/43] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [40/43] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [41/43] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [42/43] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Rutherglen' instead
+
+────────────────────────────────────────────────────────────
+  [43/43] Aurea Tree Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 226 St Vincent St, Glasgow G2 5RQ, UK
+    Phone:   07920 855283
+    Website: http://www.aureatreecare.com/
+    Rating:  5 (28 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34402
+    URL: https://glasgowtrader.co.uk/listing/aurea-tree-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Rutherglen
+============================================================
+  Found:   43
+  Created: 9
+  Skipped: 34 (already existed)
+  Failed:  0
+============================================================

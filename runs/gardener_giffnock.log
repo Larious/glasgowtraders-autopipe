@@ -1,0 +1,266 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Giffnock
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Giffnock'...
+  Found: ID=220 name=Giffnock
+
+[DEDUP] Fetching existing listings...
+  1364 existing listings on site
+  Ledger: 1346 place_ids
+
+[SEARCH] Finding gardeners in Giffnock...
+  Found 41 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/41] Thistle Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33621 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [2/41] Mcadam Garden and Home Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34360 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [3/41] Garden Force - Giffnock, Pollokshields & Newlands,
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33634 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [4/41] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [5/41] Garden Grooming Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33632 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [6/41] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [7/41] J N Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34354 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [8/41] Garden Makeovers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34358 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [9/41] Garden Care Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34374 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [10/41] Glasgow southide garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34376 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [11/41] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [12/41] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [13/41] Eastwood garden maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Boydstone Rd, Glasgow G46 8NB, UK
+    Phone:   07707 270415
+    Website: N/A
+    Rating:  4.3 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34380
+    URL: https://glasgowtrader.co.uk/listing/eastwood-garden-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/41] C&C Premium Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33635 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [15/41] Gardenwise
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Lochinver Dr, Glasgow G44 3NR, UK
+    Phone:   07467 054073
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34382
+    URL: https://glasgowtrader.co.uk/listing/gardenwise/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/41] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [17/41] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [18/41] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47 Glencroft Rd, Glasgow G44 5RA, UK
+    Phone:   07968 830105
+    Website: http://jollielandscapes.co.uk/
+    Rating:  4.7 (13 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34384
+    URL: https://glasgowtrader.co.uk/listing/jollie-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/41] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [20/41] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [21/41] Alba Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33940 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [22/41] Precise Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34372 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [23/41] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [24/41] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [25/41] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [26/41] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [27/41] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [28/41] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [29/41] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [30/41] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [31/41] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [32/41] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [33/41] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [34/41] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [35/41] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [36/41] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [37/41] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [38/41] LV Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34378 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [39/41] Glasgow Arborists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33700 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [40/41] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Giffnock' instead
+
+────────────────────────────────────────────────────────────
+  [41/41] Busby Saws Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33942 — attached location 'Giffnock' instead
+
+============================================================
+  BATCH COMPLETE — Giffnock
+============================================================
+  Found:   41
+  Created: 3
+  Skipped: 38 (already existed)
+  Failed:  0
+============================================================

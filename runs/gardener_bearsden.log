@@ -1,0 +1,350 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bearsden
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bearsden'...
+  Found: ID=188 name=Bearsden
+
+[DEDUP] Fetching existing listings...
+  1318 existing listings on site
+  Ledger: 1300 place_ids
+
+[SEARCH] Finding gardeners in Bearsden...
+  Found 41 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/41] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [2/41] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [3/41] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [4/41] Callander Landscapes Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33962 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [5/41] Rake it in gardening services ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33946 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [6/41] Handy gardening and fences
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33948 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [7/41] Finlay Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37 Dryburgh Rd, Bearsden, Glasgow G61 4DJ, UK
+    Phone:   07791 796302
+    Website: https://www.lanarkshiregardener.co.uk/gardener-in-bearsden/
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34288
+    URL: https://glasgowtrader.co.uk/listing/finlay-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/41] 'BEDS and BORDERS' garden maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 44 MacFarlane Rd, Bearsden, Glasgow G61 2HN, UK
+    Phone:   07967 498694
+    Website: http://www.bedsandborders.org/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34290
+    URL: https://glasgowtrader.co.uk/listing/beds-and-borders-garden-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/41] G. Roger Landscapes Milngavie
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 65 Balvie Rd, Milngavie, Glasgow G62 7AZ, UK
+    Phone:   07720 261882
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34292
+    URL: https://glasgowtrader.co.uk/listing/g-roger-landscapes-milngavie/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/41] Dino's Gardening & Pressure Washing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33954 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [11/41] Gr Landscapes Milngavie
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ellangowan Ct, Milngavie, Glasgow G62 8PH, UK
+    Phone:   0800 052 4731
+    Website: http://www.grlandscapes.org/
+    Rating:  5 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34294
+    URL: https://glasgowtrader.co.uk/listing/gr-landscapes-milngavie/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/41] Killoch Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33960 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [13/41] Gowanlea Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33950 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [14/41] Barclays Landscaping of Milngavie
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 75 Ashburn Gardens, Milngavie, Glasgow G62 7PD, UK
+    Phone:   0141 956 2623
+    Website: https://barclayslandscaping.com/
+    Rating:  4.7 (25 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34296
+    URL: https://glasgowtrader.co.uk/listing/barclays-landscaping-of-milngavie/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/41] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 44 Thornwood Ave, Glasgow G11 7PQ, UK
+    Phone:   07968 332838
+    Website: http://www.greengardenglasgow.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34298
+    URL: https://glasgowtrader.co.uk/listing/tom-swift-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/41] Stuart Martin Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 73 Ashburn Gardens, Milngavie, Glasgow G62 7PD, UK
+    Phone:   07766 515802
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34300
+    URL: https://glasgowtrader.co.uk/listing/stuart-martin-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/41] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [18/41] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [19/41] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [20/41] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [21/41] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [22/41] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [23/41] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Station Rd, Bearsden, Glasgow G61 4AN, UK
+    Phone:   07742 509382
+    Website: https://linktr.ee/oakwoodtreeservices
+    Rating:  4.8 (22 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34302
+    URL: https://glasgowtrader.co.uk/listing/oakwood-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/41] Arborcare Tree Surgeons Bearsden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Thorn Rd, Bearsden, Glasgow G61 4EF, UK
+    Phone:   07904 715042
+    Website: https://arborcaretreesurgeons.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34304
+    URL: https://glasgowtrader.co.uk/listing/arborcare-tree-surgeons-bearsden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [25/41] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [26/41] LK Tree Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 44 Campsie Rd, Torrance, Glasgow G64 4BN, UK
+    Phone:   07902 476223
+    Website: https://lktreeservices.com/
+    Rating:  5 (26 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34306
+    URL: https://glasgowtrader.co.uk/listing/lk-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [27/41] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [28/41] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [29/41] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [30/41] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [31/41] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [32/41] The Tree Fella
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33964 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [33/41] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [34/41] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [35/41] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [36/41] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [37/41] G Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33966 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [38/41] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [39/41] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [40/41] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Bearsden' instead
+
+────────────────────────────────────────────────────────────
+  [41/41] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Bearsden' instead
+
+============================================================
+  BATCH COMPLETE — Bearsden
+============================================================
+  Found:   41
+  Created: 10
+  Skipped: 31 (already existed)
+  Failed:  0
+============================================================

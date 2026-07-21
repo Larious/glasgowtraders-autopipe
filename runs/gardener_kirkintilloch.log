@@ -1,0 +1,361 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Kirkintilloch
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Kirkintilloch'...
+  Found: ID=240 name=Kirkintilloch
+
+[DEDUP] Fetching existing listings...
+  1332 existing listings on site
+  Ledger: 1314 place_ids
+
+[SEARCH] Finding gardeners in Kirkintilloch...
+  Found 36 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/36] R.A.M Garden & Grounds Maintenance Contractor
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 23-24, Ramsay Industrial Estate, 3 Campsie Rd, Kirkintilloch, Glasgow G66 1SL, UK
+    Phone:   0141 737 0660
+    Website: https://www.ramglasgow.com/
+    Rating:  5 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34316
+    URL: https://glasgowtrader.co.uk/listing/r-a-m-garden-grounds-maintenance-contractor/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/36] I S Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33984 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [3/36] Cruickshank Landscape Gardening and Design Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 23/24, 3 Campsie Rd, Kirkintilloch, Glasgow G66 1SH, UK
+    Phone:   0141 321 9352
+    Website: https://ccruickshank.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34318
+    URL: https://glasgowtrader.co.uk/listing/cruickshank-landscape-gardening-and-design-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/36] Dan Frazer Gardening
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lenzie, Glasgow G66 4LB, UK
+    Phone:   07858 888697
+    Website: http://www.danfrazergardening.co.uk/
+    Rating:  4.7 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34320
+    URL: https://glasgowtrader.co.uk/listing/dan-frazer-gardening/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/36] Experience Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Alder Ave, Lenzie, Glasgow G66 4JD, UK
+    Phone:   07713 021674
+    Website: N/A
+    Rating:  5 (16 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34322
+    URL: https://glasgowtrader.co.uk/listing/experience-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/36] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [7/36] S&T Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33970 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [8/36] Stepps Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33976 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [9/36] M80 Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Honeywell Ave, Stepps, Glasgow G33 6HS, UK
+    Phone:   N/A
+    Website: http://www.m80gardenservices.co.uk/
+    Rating:  5 (12 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34324
+    URL: https://glasgowtrader.co.uk/listing/m80-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/36] Scottish Pine Tree Works & Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33994 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [11/36] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [12/36] JMG Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Enterprise House, Strathkelvin Pl, Kirkintilloch, Strathkelvin G66 1XQ, UK
+    Phone:   0141 776 0723
+    Website: http://www.jmgcontractors.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34326
+    URL: https://glasgowtrader.co.uk/listing/jmg-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/36] Juniper Park Garden Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Juniper Ct, Lenzie, Glasgow G66 4BX, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34328
+    URL: https://glasgowtrader.co.uk/listing/juniper-park-garden-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/36] Killoch Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33960 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [15/36] MGS Mark's Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33812 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [16/36] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [17/36] Tom Swift Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34298 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [18/36] Gowanlea Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33950 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [19/36] Treefellas Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33878 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [20/36] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [21/36] Ds Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Doon Rd, Kirkintilloch, Glasgow G66 2SH, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34330
+    URL: https://glasgowtrader.co.uk/listing/ds-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/36] Neil Walker Landscaping & Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33982 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [23/36] Dunskey Landscapes and Driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Gartferry Rd, Chryston, Moodiesburn, Glasgow G69 0JD, UK
+    Phone:   01236 364130
+    Website: https://www.dunskeylandscapes.co.uk/contact-us
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34332
+    URL: https://glasgowtrader.co.uk/listing/dunskey-landscapes-and-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/36] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [25/36] BD Tree Services & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33990 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [26/36] CAS LANDSCAPES
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Park Cres, Bishopbriggs, Glasgow G64 2NS, UK
+    Phone:   07743 283342
+    Website: https://www.caslandscapes.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34334
+    URL: https://glasgowtrader.co.uk/listing/cas-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [27/36] KTS Tree Surgery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1, Wester Boghead, Crosshill Rd, Lenzie, Kirkintilloch, Glasgow G66 4SR, UK
+    Phone:   0141 777 6079
+    Website: http://www.treesurgeonglasgow.co.uk/
+    Rating:  5 (13 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34336
+    URL: https://glasgowtrader.co.uk/listing/kts-tree-surgery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [28/36] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [29/36] BM tree services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Braehead St, Kirkintilloch, Glasgow G66 1PS, UK
+    Phone:   07703 381526
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34338
+    URL: https://glasgowtrader.co.uk/listing/bm-tree-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [30/36] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [31/36] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [32/36] AMC tree service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Argyle Gardens, Lennoxtown, Glasgow G66 7BX, UK
+    Phone:   07462 987271
+    Website: N/A
+    Rating:  5 (21 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34340
+    URL: https://glasgowtrader.co.uk/listing/amc-tree-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [33/36] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [34/36] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [35/36] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Kirkintilloch' instead
+
+────────────────────────────────────────────────────────────
+  [36/36] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Kirkintilloch' instead
+
+============================================================
+  BATCH COMPLETE — Kirkintilloch
+============================================================
+  Found:   36
+  Created: 13
+  Skipped: 23 (already existed)
+  Failed:  0
+============================================================

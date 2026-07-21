@@ -1,0 +1,173 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Milngavie
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Milngavie'...
+  Found: ID=251 name=Milngavie
+
+[DEDUP] Fetching existing listings...
+  1328 existing listings on site
+  Ledger: 1310 place_ids
+
+[SEARCH] Finding gardeners in Milngavie...
+  Found 20 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/20] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [2/20] G. Roger Landscapes Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34292 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [3/20] Gr Landscapes Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34294 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [4/20] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [5/20] Barclays Landscaping of Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34296 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [6/20] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [7/20] Rake it in gardening services ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33946 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [8/20] Callander Landscapes Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33962 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [9/20] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [10/20] Stuart Martin Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34300 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [11/20] DH Gardening Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Woodedge, Kirkhouse Rd, Killearn, Glasgow G63 9NB, UK
+    Phone:   0141 846 5702
+    Website: https://dhgardeningservices.com/
+    Rating:  4.7 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34308
+    URL: https://glasgowtrader.co.uk/listing/dh-gardening-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/20] 'BEDS and BORDERS' garden maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34290 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [13/20] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [14/20] Finlay Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34288 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [15/20] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [16/20] Pearson landscape design Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 50 Clober Rd, Milngavie, Glasgow G62 7SR, UK
+    Phone:   07766 969237
+    Website: https://www.pearsonlandscapesdesign.com/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34310
+    URL: https://glasgowtrader.co.uk/listing/pearson-landscape-design-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/20] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [18/20] MK Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33998 — attached location 'Milngavie' instead
+
+────────────────────────────────────────────────────────────
+  [19/20] Cutting Edge Lawns Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Crossveggate, Milngavie, Glasgow G62 6RA, UK
+    Phone:   0141 266 0398
+    Website: N/A
+    Rating:  1 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34312
+    URL: https://glasgowtrader.co.uk/listing/cutting-edge-lawns-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/20] Scotia Tree Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Wester Blairskaith House, Milngavie, Glasgow G64 4AT, UK
+    Phone:   07732 851861
+    Website: http://scotiatree.com/
+    Rating:  5 (56 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34314
+    URL: https://glasgowtrader.co.uk/listing/scotia-tree-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Milngavie
+============================================================
+  Found:   20
+  Created: 4
+  Skipped: 16 (already existed)
+  Failed:  0
+============================================================

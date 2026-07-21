@@ -1,0 +1,396 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Newton Mearns
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Newton Mearns'...
+  Found: ID=257 name=Newton Mearns
+
+[DEDUP] Fetching existing listings...
+  1351 existing listings on site
+  Ledger: 1333 place_ids
+
+[SEARCH] Finding gardeners in Newton Mearns...
+  Found 43 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/43] Garden Grooming Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33632 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [2/43] J N Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47 Castlehill Dr, Newton Mearns, Glasgow G77 5JZ, UK
+    Phone:   07903 223392
+    Website: https://www.jnlandscapes.co.uk/
+    Rating:  5 (33 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34354
+    URL: https://glasgowtrader.co.uk/listing/j-n-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/43] Scott Mackay Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47 Mallot's View, Newton Mearns, Glasgow G77 6FD, UK
+    Phone:   07725 196199
+    Website: N/A
+    Rating:  5 (18 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34356
+    URL: https://glasgowtrader.co.uk/listing/scott-mackay-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/43] Garden Makeovers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: The Old Fruit Yard, 8 Pilmuir Holdings, Newton Mearns, Glasgow G77 6PS, UK
+    Phone:   0800 085 9078
+    Website: http://www.gardenmakeovers.co.uk/
+    Rating:  4.3 (29 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34358
+    URL: https://glasgowtrader.co.uk/listing/garden-makeovers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/43] Thistle Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33621 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [6/43] Mcadam Garden and Home Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glasgow Maccabi Youth Centre, May Terrace, Giffnock, Glasgow G46 6LD, UK
+    Phone:   07503 818222
+    Website: http://mcadamgarden.com/
+    Rating:  5 (13 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34360
+    URL: https://glasgowtrader.co.uk/listing/mcadam-garden-and-home-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/43] Garden Force - Giffnock, Pollokshields & Newlands,
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33634 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [8/43] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [9/43] Alba Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33940 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [10/43] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [11/43] creative garden design ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 34 Manse Rd, Neilston, Glasgow G78 3EU, UK
+    Phone:   0141 579 2909
+    Website: N/A
+    Rating:  3.7 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34362
+    URL: https://glasgowtrader.co.uk/listing/creative-garden-design-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/43] 4 Season Gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Mearns Rd, Glasgow G77 6RS, UK
+    Phone:   07950 354346
+    Website: N/A
+    Rating:  3 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34364
+    URL: https://glasgowtrader.co.uk/listing/4-season-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/43] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [14/43] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [15/43] Albar Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: North Brae Farm/Aurs Rd, Barrhead, Glasgow G78 2SQ, UK
+    Phone:   N/A
+    Website: https://albarlandscapes.co.uk/
+    Rating:  4.1 (39 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34366
+    URL: https://glasgowtrader.co.uk/listing/albar-landscapes-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/43] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [17/43] mcgown gardens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Mearns Rd, Clarkston, Glasgow G76 7YL, UK
+    Phone:   07968 060630
+    Website: https://www.mcgowngardens.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11251695181135614222
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34368
+    URL: https://glasgowtrader.co.uk/listing/mcgown-gardens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/43] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [19/43] Elmar Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Levernside Ave, Barrhead, Glasgow G78 1LW, UK
+    Phone:   07462 631328
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34370
+    URL: https://glasgowtrader.co.uk/listing/elmar-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/43] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [21/43] Precise Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2, The Mineral Yard, Clarkston Rd, Clarkston, Glasgow G76 8NE, UK
+    Phone:   07857 783396
+    Website: http://www.preciselandscapes.co.uk/
+    Rating:  4.7 (24 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34372
+    URL: https://glasgowtrader.co.uk/listing/precise-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/43] Garden Care Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 61 Braidpark Dr, Giffnock, Glasgow G46 6LY, UK
+    Phone:   0141 633 2852
+    Website: https://www.gardencare-landscapes.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34374
+    URL: https://glasgowtrader.co.uk/listing/garden-care-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [23/43] Glasgow southide garden
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ben Uird Pl, Glasgow G53 7QA, UK
+    Phone:   07796 135403
+    Website: N/A
+    Rating:  5 (10 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34376
+    URL: https://glasgowtrader.co.uk/listing/glasgow-southide-garden/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/43] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [25/43] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [26/43] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [27/43] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [28/43] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [29/43] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [30/43] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [31/43] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [32/43] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [33/43] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [34/43] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [35/43] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [36/43] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [37/43] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [38/43] LV Tree Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 104 Priesthill Rd, Glasgow G53 6QL, UK
+    Phone:   07717 720945
+    Website: https://www.lvtreecare.com/
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34378
+    URL: https://glasgowtrader.co.uk/listing/lv-tree-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [39/43] Busby Saws Tree Surgery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33942 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [40/43] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [41/43] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [42/43] Glasgow Arborists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33700 — attached location 'Newton Mearns' instead
+
+────────────────────────────────────────────────────────────
+  [43/43] Renfrewshire Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33800 — attached location 'Newton Mearns' instead
+
+============================================================
+  BATCH COMPLETE — Newton Mearns
+============================================================
+  Found:   43
+  Created: 13
+  Skipped: 30 (already existed)
+  Failed:  0
+============================================================

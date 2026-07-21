@@ -1,0 +1,196 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Larkhall
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Larkhall'...
+  Found: ID=245 name=Larkhall
+
+[DEDUP] Fetching existing listings...
+  1378 existing listings on site
+  Ledger: 1360 place_ids
+
+[SEARCH] Finding gardeners in Larkhall...
+  Found 27 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/27] Briarlea Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34254 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [2/27] Wells Robert Landscape Gardeners Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 63 Shaw St, Larkhall ML9 1PD, UK
+    Phone:   01698 887279
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34408
+    URL: https://glasgowtrader.co.uk/listing/wells-robert-landscape-gardeners-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/27] Baillie's Landscaping Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34262 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [4/27] Kennedy Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33892 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [5/27] Central Tree Service & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33882 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [6/27] Lanark Garden Maintenance & Gardener Service
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34252 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [7/27] Lincoln Landscaping & Building
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: The Barn Laigh, Netherfield Farm, Stonehouse Rd, Stonehouse, Strathaven ML10 6TA, UK
+    Phone:   01355 640498
+    Website: https://www.lincolnlandscaping.co.uk/
+    Rating:  5 (10 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34410
+    URL: https://glasgowtrader.co.uk/listing/lincoln-landscaping-building/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/27] Mr Landscaper
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Block 4, LARKHALL INDUSTRIAL ESTATE, Unit 7 Dunedin Rd, Larkhall ML9 2PA, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34412
+    URL: https://glasgowtrader.co.uk/listing/mr-landscaper/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/27] Murray Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33836 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [10/27] Mckay Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33858 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [11/27] LCL Landscaping & Groundcare
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33854 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [12/27] Longstaff Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34246 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [13/27] F & S Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34258 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [14/27] CD Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33886 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [15/27] Greens Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34244 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [16/27] JR Tree & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33864 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [17/27] Bancroft Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33888 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [18/27] Q Gardens Lanarkshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34406 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [19/27] Ace of Spades Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34256 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [20/27] TreeTmenT Specialist Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33872 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [21/27] Specialist Tree Care Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34272 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [22/27] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [23/27] DT tree surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33866 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [24/27] JL Tree Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33880 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [25/27] Central Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33876 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [26/27] North Lanarkshire Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33852 — attached location 'Larkhall' instead
+
+────────────────────────────────────────────────────────────
+  [27/27] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Larkhall' instead
+
+============================================================
+  BATCH COMPLETE — Larkhall
+============================================================
+  Found:   27
+  Created: 3
+  Skipped: 24 (already existed)
+  Failed:  0
+============================================================

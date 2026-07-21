@@ -1,0 +1,234 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Motherwell
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Motherwell'...
+  Found: ID=253 name=Motherwell
+
+[DEDUP] Fetching existing listings...
+  1376 existing listings on site
+  Ledger: 1358 place_ids
+
+[SEARCH] Finding gardeners in Motherwell...
+  Found 37 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/37] Murray Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33836 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [2/37] LCL Landscaping & Groundcare
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33854 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [3/37] Baillie's Landscaping Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34262 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [4/37] Forrest Walk Land & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33818 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [5/37] MGS Mark's Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33812 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [6/37] JMF DRIVEWAYS AND LANDSCAPING
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33844 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [7/37] 1st Class Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33816 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [8/37] L R M Landscaping & Groundworks Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 154 Park St, Motherwell ML1 1PF, UK
+    Phone:   01698 451145
+    Website: http://www.lrmlandscaping.co.uk/
+    Rating:  3.4 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34404
+    URL: https://glasgowtrader.co.uk/listing/l-r-m-landscaping-groundworks-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/37] Mckay Landscapes Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33858 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [10/37] JR Tree & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33864 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [11/37] Briarlea Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34254 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [12/37] F & S Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34258 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [13/37] Bancroft Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33888 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [14/37] Q Gardens Lanarkshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 Hillfoot Ave, Wishaw ML2 8TR, UK
+    Phone:   07806 797806
+    Website: N/A
+    Rating:  4 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34406
+    URL: https://glasgowtrader.co.uk/listing/q-gardens-lanarkshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/37] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [16/37] CD Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33886 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [17/37] CUT N BLO LANDSCAPING
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33810 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [18/37] Kennedy Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33892 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [19/37] J.E.C. Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34270 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [20/37] DT tree surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33866 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [21/37] Wid Men Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33870 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [22/37] TreeTmenT Specialist Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33872 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [23/37] Excelsior Tree Surgery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33868 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [24/37] North Lanarkshire Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33852 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [25/37] Central Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33876 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [26/37] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [27/37] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [28/37] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [29/37] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [30/37] Arbatross Tree Care & Roofing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33906 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [31/37] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [32/37] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [33/37] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [34/37] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [35/37] Central Tree Service & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33882 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [36/37] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Motherwell' instead
+
+────────────────────────────────────────────────────────────
+  [37/37] BmTreeSurgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34232 — attached location 'Motherwell' instead
+
+============================================================
+  BATCH COMPLETE — Motherwell
+============================================================
+  Found:   37
+  Created: 2
+  Skipped: 35 (already existed)
+  Failed:  0
+============================================================
