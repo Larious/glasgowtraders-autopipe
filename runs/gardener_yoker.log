@@ -1,0 +1,245 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Yoker
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Yoker'...
+  Found: ID=279 name=Yoker
+
+[DEDUP] Fetching existing listings...
+  1570 existing listings on site
+  Ledger: 1552 place_ids
+
+[SEARCH] Finding gardeners in Yoker...
+  Found 44 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/44] Handy gardening and fences
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33948 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [2/44] Rake it in gardening services ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33946 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [3/44] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [4/44] Jgm Landscapes Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33788 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [5/44] Dino's Gardening & Pressure Washing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33954 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [6/44] Killoch Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33960 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [7/44] Gowanlea Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33950 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [8/44] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [9/44] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [10/44] J M Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34714 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [11/44] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [12/44] Outside In Garden Rooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34748 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [13/44] S Kennedy Landscapers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34860 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [14/44] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [15/44] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [16/44] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [17/44] Premium Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33672 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [18/44] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [19/44] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [20/44] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [21/44] Say1 Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34750 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [22/44] Garden Forces
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33956 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [23/44] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [24/44] Callander Landscapes Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33962 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [25/44] Essenjay Tree & Grass Care Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34346 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [26/44] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [27/44] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [28/44] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [29/44] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [30/44] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [31/44] STUMP GRIND GUY Tree Stump Removal Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34628 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [32/44] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [33/44] TM Trees - Tree Surgeon Renfrewshire and Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33694 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [34/44] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [35/44] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [36/44] The Tree Fella
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33964 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [37/44] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [38/44] The Tree Doctor Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33696 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [39/44] G Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33966 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [40/44] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [41/44] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [42/44] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [43/44] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Yoker' instead
+
+────────────────────────────────────────────────────────────
+  [44/44] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Yoker' instead
+
+============================================================
+  BATCH COMPLETE — Yoker
+============================================================
+  Found:   44
+  Created: 0
+  Skipped: 44 (already existed)
+  Failed:  0
+============================================================

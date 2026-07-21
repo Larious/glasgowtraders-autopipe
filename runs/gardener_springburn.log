@@ -1,0 +1,245 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Springburn
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Springburn'...
+  Found: ID=270 name=Springburn
+
+[DEDUP] Fetching existing listings...
+  1570 existing listings on site
+  Ledger: 1552 place_ids
+
+[SEARCH] Finding gardeners in Springburn...
+  Found 44 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/44] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [2/44] Glesga Garden Guy Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33622 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [3/44] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [4/44] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [5/44] Hepburn Landscaping & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33641 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [6/44] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [7/44] Paradigm Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34342 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [8/44] Mowtown The Gardeners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33848 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [9/44] Belmont Landscaping & Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34348 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [10/44] Glasgow Landscape Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33630 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [11/44] Magical Gardens - Glasgow Garden & Landscaping Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34352 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [12/44] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [13/44] Blairs Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33920 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [14/44] Square Circle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33642 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [15/44] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [16/44] The Wash House Garden, C.I.C.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34768 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [17/44] Riverside landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33626 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [18/44] Glasgow Landscaping Group
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33640 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [19/44] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [20/44] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [21/44] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [22/44] Exteria Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33639 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [23/44] MacColl & Stokes Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33643 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [24/44] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [25/44] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34384 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [26/44] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [27/44] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [28/44] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [29/44] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [30/44] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [31/44] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [32/44] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [33/44] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [34/44] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [35/44] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [36/44] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [37/44] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [38/44] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [39/44] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [40/44] Aurea Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34402 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [41/44] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [42/44] CNJ Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33712 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [43/44] Oakwood Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34302 — attached location 'Springburn' instead
+
+────────────────────────────────────────────────────────────
+  [44/44] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Springburn' instead
+
+============================================================
+  BATCH COMPLETE — Springburn
+============================================================
+  Found:   44
+  Created: 0
+  Skipped: 44 (already existed)
+  Failed:  0
+============================================================

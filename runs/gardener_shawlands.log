@@ -1,0 +1,275 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Shawlands
+  Trade: Gardener
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Shawlands'...
+  Found: ID=268 name=Shawlands
+
+[DEDUP] Fetching existing listings...
+  1569 existing listings on site
+  Ledger: 1551 place_ids
+
+[SEARCH] Finding gardeners in Shawlands...
+  Found 50 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/50] Southside Landscaping Projects
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33638 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [2/50] Jorges landscaping and gardening services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33620 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [3/50] Jonsen Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33627 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [4/50] Amac Landscaping & Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33637 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [5/50] GGM Tree Surgery & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33625 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [6/50] Blairs Garden Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33920 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [7/50] C&C Premium Gardening
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33635 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [8/50] Richard Birch Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34820 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [9/50] Sustainable Urban Gardener
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34816 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [10/50] MIG Garden Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33633 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [11/50] Anderson Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33628 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [12/50] Cherry General Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34396 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [13/50] R.A.M Garden & Grounds Maintenance Contractor
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34316 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [14/50] Garden Maintenance Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33924 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [15/50] Sir John Stirling Maxwell Allotment gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34886 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [16/50] Thistle Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34818 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [17/50] The Hidden Gardens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34834 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [18/50] Barclays Landscaping of Milngavie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34296 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [19/50] Stevenson Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33688 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [20/50] Mcadam Garden and Home Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34360 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [21/50] Jollie Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34384 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [22/50] Thistle Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33621 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [23/50] Garden & Landscape Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34400 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [24/50] MGL Groundworks and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33636 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [25/50] Jeremy Needham Garden Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34754 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [26/50] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [27/50] Landscaping Company Of Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33644 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [28/50] Glasgow southide garden
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34376 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [29/50] North Hill Gardens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33629 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [30/50] Luma Building and Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34778 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [31/50] Old Glen Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34796 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [32/50] GlasGrow Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33676 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [33/50] Newlands Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33682 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [34/50] Three Leaf Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33678 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [35/50] Southside Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33680 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [36/50] Cathcart Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33690 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [37/50] Aspen Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33686 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [38/50] Campbell Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33710 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [39/50] Casey Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33704 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [40/50] The Glasgow Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33674 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [41/50] Clarkston Tree Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33702 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [42/50] LK Tree Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34306 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [43/50] Clyde Tree Surgeons Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33684 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [44/50] Laurence Keenan Tree Works
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33706 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [45/50] TRS Tree Removal Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33698 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [46/50] Thistle Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34780 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [47/50] LV Tree Care
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34378 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [48/50] Premier Tree Surgeons
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33874 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [49/50] Bensons Tree Surgery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33708 — attached location 'Shawlands' instead
+
+────────────────────────────────────────────────────────────
+  [50/50] MT Trees
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33908 — attached location 'Shawlands' instead
+
+============================================================
+  BATCH COMPLETE — Shawlands
+============================================================
+  Found:   50
+  Created: 0
+  Skipped: 50 (already existed)
+  Failed:  0
+============================================================
