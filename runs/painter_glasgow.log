@@ -1,0 +1,212 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  1962 existing listings on site
+  Ledger: 1944 place_ids
+
+[SEARCH] Finding painter & decorators in Glasgow...
+  Found 11 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] Painter and Decorator glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 W George St, Glasgow G2 1BP, UK
+    Phone:   07578 009393
+    Website: http://www.paint-right.co.uk/
+    Rating:  5 (14 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35674
+    URL: https://glasgowtrader.co.uk/listing/painter-and-decorator-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/11] Decor-Wise Painters and Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Streamfield Gate, Glasgow G33 1SJ, UK
+    Phone:   07930 975983
+    Website: http://www.decorwiseglasgow.com/
+    Rating:  5 (187 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35676
+    URL: https://glasgowtrader.co.uk/listing/decor-wise-painters-and-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/11] Splash Of colour painters decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Rotherwood Ave, Glasgow G13 2RJ, UK
+    Phone:   07895 600774
+    Website: https://www.splashofcolour.biz/
+    Rating:  4.8 (30 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35678
+    URL: https://glasgowtrader.co.uk/listing/splash-of-colour-painters-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/11] JD Decorators & Plasterers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Spiersbridge Business Park, 1 Spiersbridge Way, Thornliebank, Glasgow G46 8NG, UK
+    Phone:   0141 428 3131
+    Website: http://www.jddecorsouthside.co.uk/
+    Rating:  5 (12 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35680
+    URL: https://glasgowtrader.co.uk/listing/jd-decorators-plasterers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/11] JD Painters, Decorators & Plasterers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Woodside Pl, Glasgow G3 7QF, UK
+    Phone:   0141 342 5468
+    Website: http://www.jddecor.co.uk/
+    Rating:  4.4 (45 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35682
+    URL: https://glasgowtrader.co.uk/listing/jd-painters-decorators-plasterers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/11] Strathclyde Painters & Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 W George St, Glasgow G2 1BP, UK
+    Phone:   N/A
+    Website: https://www.strathclydedecorators.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35684
+    URL: https://glasgowtrader.co.uk/listing/strathclyde-painters-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/11] Andrew Aitken decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3H Langlands Ct, Glasgow G51 3PZ, UK
+    Phone:   07586 445618
+    Website: https://www.andrewaitkendecorators.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11069607010580504354
+    Rating:  5 (12 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35686
+    URL: https://glasgowtrader.co.uk/listing/andrew-aitken-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/11] K W FERRY DECORATORS LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 537 Castlemilk Rd, Glasgow G44 5LX, UK
+    Phone:   07515 258772
+    Website: N/A
+    Rating:  5 (12 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35688
+    URL: https://glasgowtrader.co.uk/listing/k-w-ferry-decorators-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/11] Muir Decorators Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Eastmuir St, Glasgow G32 0HS, UK
+    Phone:   N/A
+    Website: https://muirdecorators.co.uk/
+    Rating:  5 (12 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35690
+    URL: https://glasgowtrader.co.uk/listing/muir-decorators-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/11] Excell Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 91 Pikeman Rd, Glasgow G13 3QU, UK
+    Phone:   07734 658223
+    Website: N/A
+    Rating:  5 (16 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35692
+    URL: https://glasgowtrader.co.uk/listing/excell-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/11] AGE Decorating
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 86 Ben Nevis Rd, Paisley PA2 7LY, UK
+    Phone:   07539 295966
+    Website: https://tapzo.io/user/6831369166/
+    Rating:  5 (15 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35694
+    URL: https://glasgowtrader.co.uk/listing/age-decorating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   11
+  Created: 11
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

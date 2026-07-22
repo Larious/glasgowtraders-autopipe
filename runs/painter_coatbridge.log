@@ -1,0 +1,84 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  1993 existing listings on site
+  Ledger: 1975 place_ids
+
+[SEARCH] Finding painter & decorators in Coatbridge...
+  Found 7 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] Brian McGuinness Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35726 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/7] Millbank Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Coatbank St, Coatbridge ML5 3SP, UK
+    Phone:   01236 440424
+    Website: https://millbankdecorators.co.uk/
+    Rating:  1.7 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35736
+    URL: https://glasgowtrader.co.uk/listing/millbank-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/7] Ardent Decorating Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35730 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/7] Wg Decor Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 155 W George St, Coatbridge ML5 2DD, UK
+    Phone:   N/A
+    Website: https://www.wgdecors.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35738
+    URL: https://glasgowtrader.co.uk/listing/wg-decor-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/7] Precision painting contractors Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35722 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [6/7] Paint my Home by bell
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35724 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [7/7] Decor-Wise Painters and Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35676 — attached location 'Coatbridge' instead
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   7
+  Created: 2
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

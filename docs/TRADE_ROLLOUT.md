@@ -21,7 +21,7 @@ Stirling, Bathgate, Carluke.
 ### High-demand trades (configured, Phase-1 target)
 - [x] roofer (158) — 16/16 core towns
 - [x] joiner (162) — 16/16 core towns
-- [ ] painter (160)
+- [x] painter (160) — 16/16 core towns
 - [ ] plasterer (163)
 - [ ] kitchen (293)
 - [ ] bathroom (169)

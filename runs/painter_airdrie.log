@@ -1,0 +1,155 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  1986 existing listings on site
+  Ledger: 1968 place_ids
+
+[SEARCH] Finding painter & decorators in Airdrie...
+  Found 9 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] Precision painting contractors Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Stirling Rd, Airdrie ML6 7JA, UK
+    Phone:   07824 768801
+    Website: https://www.precisionpainting-contractors.co.uk/
+    Rating:  5 (21 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35722
+    URL: https://glasgowtrader.co.uk/listing/precision-painting-contractors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/9] Paint my Home by bell
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bell Business Park, Rochsolloch Rd, Airdrie ML6 9BG, UK
+    Phone:   0131 202 0857
+    Website: http://www.paintmyhome.co.uk/
+    Rating:  4.9 (18 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35724
+    URL: https://glasgowtrader.co.uk/listing/paint-my-home-by-bell/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/9] Brian McGuinness Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Seamill Way, Coatbridge ML5 5HD, UK
+    Phone:   07879 054484
+    Website: N/A
+    Rating:  5 (98 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35726
+    URL: https://glasgowtrader.co.uk/listing/brian-mcguinness-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/9] Bell Decorating Group Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Rochsolloch Rd, Airdrie ML6 9BG, UK
+    Phone:   01236 766878
+    Website: https://www.bellgroup.co.uk/
+    Rating:  4 (24 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35728
+    URL: https://glasgowtrader.co.uk/listing/bell-decorating-group-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/9] Ardent Decorating Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Brambling Rd, Coatbridge ML5 4UP, UK
+    Phone:   01236 424804
+    Website: http://www.ardentdecorating.com
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35730
+    URL: https://glasgowtrader.co.uk/listing/ardent-decorating-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/9] Decor-Wise Painters and Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35676 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [7/9] Crown Decorating Centre - Airdrie
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Block 1 Unit 3 Rochsolloch Road Victoria Trading Estate, Airdrie ML6 9BG, UK
+    Phone:   01236 748788
+    Website: https://www.crowndecoratingcentres.co.uk/
+    Rating:  4.7 (46 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35732
+    URL: https://glasgowtrader.co.uk/listing/crown-decorating-centre-airdrie/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/9] Skillen Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Montrose Cres, Hamilton ML3 6LP, UK
+    Phone:   07939 150035
+    Website: N/A
+    Rating:  4.9 (60 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35734
+    URL: https://glasgowtrader.co.uk/listing/skillen-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/9] Sparta Painting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+  SKIP: non-UK address — Stonegate Rd NW, Airdrie, AB T4B 2Z9, Canada
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   9
+  Created: 7
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,166 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  2024 existing listings on site
+  Ledger: 2006 place_ids
+
+[SEARCH] Finding painter & decorators in Falkirk...
+  Found 9 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] Gray & Sons Painters & Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 Park Ave, Laurieston, Falkirk FK2 9LQ, UK
+    Phone:   01324 632418
+    Website: http://www.grayandsonsfalkirk.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35798
+    URL: https://glasgowtrader.co.uk/listing/gray-sons-painters-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/9] James Gordon Painter & Decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 St Laurence Cres, Slamannan, Falkirk FK1 3HW, UK
+    Phone:   01324 850153
+    Website: N/A
+    Rating:  5 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35800
+    URL: https://glasgowtrader.co.uk/listing/james-gordon-painter-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/9] Iain Rae Painter & Decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Kirkton Pl, Carronshore, Falkirk FK2 8AG, UK
+    Phone:   01324 559499
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35802
+    URL: https://glasgowtrader.co.uk/listing/iain-rae-painter-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/9] Robert Campbell Painting & Decorating Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6B Meadowbank St, Redding, Falkirk FK2 9XE, UK
+    Phone:   07759 422020
+    Website: https://robertcampbelldecorating.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35804
+    URL: https://glasgowtrader.co.uk/listing/robert-campbell-painting-decorating-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/9] William Meldrum Painters & Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 83 Linlithgow Rd, Bo'ness EH51 0HU, UK
+    Phone:   07831 378331
+    Website: N/A
+    Rating:  5 (167 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35806
+    URL: https://glasgowtrader.co.uk/listing/william-meldrum-painters-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/9] Top Drawer Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 61 Anderson Cres, Shieldhill, Falkirk FK1 2ED, UK
+    Phone:   07734 358169
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35808
+    URL: https://glasgowtrader.co.uk/listing/top-drawer-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/9] CRS DECORATORS
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Clarinda Pl, Larbert FK5 4FG, UK
+    Phone:   01324 556893
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35810
+    URL: https://glasgowtrader.co.uk/listing/crs-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/9] Decor-Wise Painters and Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35676 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [9/9] John Mcfarlane and son Painters and decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 Craighall St, Stirling FK8 1TA, UK
+    Phone:   07769 568616
+    Website: N/A
+    Rating:  5 (8 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35812
+    URL: https://glasgowtrader.co.uk/listing/john-mcfarlane-and-son-painters-and-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   9
+  Created: 8
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,148 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  1999 existing listings on site
+  Ledger: 1981 place_ids
+
+[SEARCH] Finding painter & decorators in Clydebank...
+  Found 15 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] J W Sharp Painting & Decorating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26922 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [2/15] RJ Russell Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 479-481 Dumbarton Rd, Dalmuir, Clydebank G81 4DT, UK
+    Phone:   0141 951 4577
+    Website: http://www.thepaintshopclydebank.com/
+    Rating:  4.8 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35748
+    URL: https://glasgowtrader.co.uk/listing/rj-russell-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] Cosmix Painting & Decorating
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47 Longden St, Clydebank G81 1AG, UK
+    Phone:   07842 598917
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35750
+    URL: https://glasgowtrader.co.uk/listing/cosmix-painting-decorating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] Alba Decor Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 91 Flures Dr, Erskine PA8 7DQ, UK
+    Phone:   0141 812 0487
+    Website: N/A
+    Rating:  5 (21 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35752
+    URL: https://glasgowtrader.co.uk/listing/alba-decor-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] Decor-Wise Painters and Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35676 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [6/15] Fresh Coat Painting & Decorating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35710 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [7/15] Excell Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35692 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] Splash Of colour painters decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35678 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [9/15] A Wilson decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35708 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [10/15] Fresh look decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35700 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [11/15] Strathclyde Painters & Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35684 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [12/15] K W FERRY DECORATORS LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35688 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [13/15] Optimus Decorating Services Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35702 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [14/15] Andrew Aitken decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35686 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [15/15] The Paint Shop
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 481 Dumbarton Rd, Dalmuir, Clydebank G81 4DT, UK
+    Phone:   0141 562 0201
+    Website: http://www.thepaintshopclydebank.com/
+    Rating:  4.5 (25 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35754
+    URL: https://glasgowtrader.co.uk/listing/the-paint-shop/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   15
+  Created: 4
+  Skipped: 11 (already existed)
+  Failed:  0
+============================================================

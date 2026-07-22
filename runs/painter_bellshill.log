@@ -1,0 +1,72 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  1995 existing listings on site
+  Ledger: 1977 place_ids
+
+[SEARCH] Finding painter & decorators in Bellshill...
+  Found 7 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] Brian McGuinness Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35726 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [2/7] Skillen Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35734 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [3/7] Paint my Home by bell
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35724 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [4/7] Precision painting contractors Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35722 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [5/7] Decor-Wise Painters and Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35676 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [6/7] Muir Decorators Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35690 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [7/7] LS Decorators & Ames Tapers Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4, Braidhurst Business Centre, Davaar Dr, Motherwell ML1 3TW, UK
+    Phone:   01698 598550
+    Website: https://www.lsdecor.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35740
+    URL: https://glasgowtrader.co.uk/listing/ls-decorators-ames-tapers-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   7
+  Created: 1
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

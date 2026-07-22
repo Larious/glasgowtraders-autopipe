@@ -1,0 +1,106 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  2003 existing listings on site
+  Ledger: 1985 place_ids
+
+[SEARCH] Finding painter & decorators in Cumbernauld...
+  Found 9 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] Willowbrook Painters & Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Glen Dochart Dr, Cumbernauld, Glasgow G68 0FJ, UK
+    Phone:   07946 418406
+    Website: http://www.willowbrookdecorators.com/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35756
+    URL: https://glasgowtrader.co.uk/listing/willowbrook-painters-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/9] Universal Decorating Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Telford Pl, Cumbernauld, Glasgow G67 2NH, UK
+    Phone:   07949 022615
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35758
+    URL: https://glasgowtrader.co.uk/listing/universal-decorating-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/9] Decor-Wise Painters and Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35676 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [4/9] Brian McGuinness Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35726 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [5/9] Andrew Aitken decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35686 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [6/9] Paint my Home by bell
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35724 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [7/9] Muir Decorators Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35690 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [8/9] MC Painting & Decorating
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, 9 Hilton Terrace, Bishopbriggs, Glasgow G64 3HB, UK
+    Phone:   0141 737 0359
+    Website: https://www.mcpdltd.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35760
+    URL: https://glasgowtrader.co.uk/listing/mc-painting-decorating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/9] Precision painting contractors Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35722 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   9
+  Created: 3
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

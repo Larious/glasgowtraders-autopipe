@@ -1,0 +1,280 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  2006 existing listings on site
+  Ledger: 1988 place_ids
+
+[SEARCH] Finding painter & decorators in Ayr...
+  Found 15 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Ayr painting and decorating
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10d Woodlands Cres, Ayr KA7 3SG, UK
+    Phone:   07543 154744
+    Website: http://ayrpaintinganddecorating.co.uk/
+    Rating:  4.3 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35762
+    URL: https://glasgowtrader.co.uk/listing/ayr-painting-and-decorating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] Decor Home & Business Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Business Centre, 2 Beresford Terrace, Ayr KA7 2EG, UK
+    Phone:   07765 587226
+    Website: http://www.decorhomebusiness.com/
+    Rating:  5 (26 reviews)
+    Hours:   3 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35764
+    URL: https://glasgowtrader.co.uk/listing/decor-home-business-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] Charles McFadzean Painter and Decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Lochfergus Cres, Coylton, Ayr KA6 6GA, UK
+    Phone:   07843 488848
+    Website: N/A
+    Rating:  5 (41 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35766
+    URL: https://glasgowtrader.co.uk/listing/charles-mcfadzean-painter-and-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] Simpson and Shaw LLP Painters and Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40 Fort St, Ayr KA7 1DE, UK
+    Phone:   01292 286481
+    Website: http://www.simpsonandshawllp.co.uk/
+    Rating:  4 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35768
+    URL: https://glasgowtrader.co.uk/listing/simpson-and-shaw-llp-painters-and-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] Able Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47 Cedar Rd, Ayr KA7 3PG, UK
+    Phone:   01292 261329
+    Website: http://www.decoratorsayrshire.com/
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35770
+    URL: https://glasgowtrader.co.uk/listing/able-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] Robert McFarlane Painter & Decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 38 Finlayson Way, Coylton, Hillhead, Ayr KA6 6GW, UK
+    Phone:   01292 571179
+    Website: http://www.mcfarlanedecorator.co.uk/
+    Rating:  4.6 (18 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35772
+    URL: https://glasgowtrader.co.uk/listing/robert-mcfarlane-painter-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/15] Donnelly Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Robertson Cres, Ayr KA8 0SN, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35774
+    URL: https://glasgowtrader.co.uk/listing/donnelly-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/15] J Tisor Painter & Decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 46 Gould St, Ayr KA8 9PE, UK
+    Phone:   07731 355733
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35776
+    URL: https://glasgowtrader.co.uk/listing/j-tisor-painter-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] Callaghan Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Finlas Ave, Alloway, Ayr KA7 4SG, UK
+    Phone:   07902 683322
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35778
+    URL: https://glasgowtrader.co.uk/listing/callaghan-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/15] Raymond Buchanan Painter & Decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Thornyflat Rd, Ayr KA8 0LT, UK
+    Phone:   07847 950131
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35780
+    URL: https://glasgowtrader.co.uk/listing/raymond-buchanan-painter-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/15] stevie deccor painter decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 31 Seaforth Rd, Ayr KA8 9BX, UK
+    Phone:   07922 132237
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35782
+    URL: https://glasgowtrader.co.uk/listing/stevie-deccor-painter-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] R D Painters
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Robsland Ave, Ayr KA7 2RW, UK
+    Phone:   01292 286526
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35784
+    URL: https://glasgowtrader.co.uk/listing/r-d-painters/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] ian wilson painter & decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 116 James Campbell Rd, Ayr KA8 0SB, UK
+    Phone:   01292 822925
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35786
+    URL: https://glasgowtrader.co.uk/listing/ian-wilson-painter-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] Keith Gurr Painter & Decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Ferguson Ave, Prestwick KA9 1BW, UK
+    Phone:   01292 479756
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35788
+    URL: https://glasgowtrader.co.uk/listing/keith-gurr-painter-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/15] Darius Painter and Decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Gould St, Ayr KA8 9PR, UK
+    Phone:   07402 723938
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35790
+    URL: https://glasgowtrader.co.uk/listing/darius-painter-and-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   15
+  Created: 15
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

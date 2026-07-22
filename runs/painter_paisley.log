@@ -1,0 +1,266 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  1973 existing listings on site
+  Ledger: 1955 place_ids
+
+[SEARCH] Finding painter & decorators in Paisley...
+  Found 17 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] Brown Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Paisley PA1 2PZ, UK
+    Phone:   07910 814988
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35696
+    URL: https://glasgowtrader.co.uk/listing/brown-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/17] AGE Decorating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35694 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [3/17] Fresh Big Licks Interior Decorators Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Kenilworth Wy, Paisley PA2 0LL, UK
+    Phone:   07498 646236
+    Website: N/A
+    Rating:  4.1 (9 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35698
+    URL: https://glasgowtrader.co.uk/listing/fresh-big-licks-interior-decorators-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/17] Fresh look decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Greenhill Cres, Elderslie, Johnstone PA5 9AW, UK
+    Phone:   07787 941320
+    Website: http://freshlookdecorators.co.uk/
+    Rating:  4.2 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35700
+    URL: https://glasgowtrader.co.uk/listing/fresh-look-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/17] Optimus Decorating Services Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 9, Air Link Industrial Estate, Inchinnan Rd, Paisley PA3 2RS, UK
+    Phone:   0141 258 0603
+    Website: https://www.optimusdecorating.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35702
+    URL: https://glasgowtrader.co.uk/listing/optimus-decorating-services-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/17] J. McNally Painting & Decorating Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lomond House, 73 Abercorn St, Paisley PA3 4AS, UK
+    Phone:   0141 889 0847
+    Website: http://jmcnally.net/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35704
+    URL: https://glasgowtrader.co.uk/listing/j-mcnally-painting-decorating-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/17] Wilton Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1A Grahamston Pl, Paisley PA2 7BY, UK
+    Phone:   0141 842 1461
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35706
+    URL: https://glasgowtrader.co.uk/listing/wilton-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/17] A Wilson decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Kilpatrick Dr, Renfrew PA4 0QZ, UK
+    Phone:   07932 985093
+    Website: https://www.wilsondecorators.com/
+    Rating:  5 (5 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35708
+    URL: https://glasgowtrader.co.uk/listing/a-wilson-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/17] Andrew Aitken decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35686 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [10/17] Fresh Coat Painting & Decorating
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Broomfield, Houston, Johnstone PA6 7DH, UK
+    Phone:   07719 970061
+    Website: N/A
+    Rating:  4.9 (12 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35710
+    URL: https://glasgowtrader.co.uk/listing/fresh-coat-painting-decorating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/17] Frankie Henry Painting and Decorating
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Heron Pl, Johnstone PA5 0RW, UK
+    Phone:   07504 554852
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35712
+    URL: https://glasgowtrader.co.uk/listing/frankie-henry-painting-and-decorating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/17] Decor-Wise Painters and Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35676 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [13/17] Robertson Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 62 Glasgow Rd, Paisley PA1 3PW, UK
+    Phone:   07747 384386
+    Website: https://robertsondecorators.com/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35714
+    URL: https://glasgowtrader.co.uk/listing/robertson-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/17] Pioneer Painters & Decorators Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Pioneer Painters & Decorators Ltd, 38 Main Rd, Castlehead, Paisley PA2 6AW, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35716
+    URL: https://glasgowtrader.co.uk/listing/pioneer-painters-decorators-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/17] McDonald Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Floors St, Elderslie, Johnstone PA5 9HR, UK
+    Phone:   07955 032210
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35718
+    URL: https://glasgowtrader.co.uk/listing/mcdonald-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/17] Splash Of colour painters decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35678 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [17/17] Crown Decorating Centre - Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 Underwood Rd, Paisley PA3 1TQ, UK
+    Phone:   0141 887 4242
+    Website: https://www.crowndecoratingcentres.co.uk/
+    Rating:  4.8 (133 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35720
+    URL: https://glasgowtrader.co.uk/listing/crown-decorating-centre-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   17
+  Created: 13
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

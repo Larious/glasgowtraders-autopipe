@@ -1,0 +1,109 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  1996 existing listings on site
+  Ledger: 1978 place_ids
+
+[SEARCH] Finding painter & decorators in Hamilton...
+  Found 12 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] Skillen Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35734 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/12] Brian McGuinness Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35726 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/12] Strathclyde Painters & Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35684 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [4/12] Decor-Wise Painters and Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35676 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [5/12] Finishing Touch Decorating
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 153 Glen More, East Kilbride, Glasgow G74 2AS, UK
+    Phone:   07834 268001
+    Website: https://www.ftdecorating.co.uk/
+    Rating:  5 (22 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35742
+    URL: https://glasgowtrader.co.uk/listing/finishing-touch-decorating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/12] Muir Decorators Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35690 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/12] Precision painting contractors Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35722 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [8/12] Paint my Home by bell
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35724 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [9/12] G.R.M painters and decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 107 Cairnswell Ave, Cambuslang, Glasgow G72 8SP, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (18 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35744
+    URL: https://glasgowtrader.co.uk/listing/g-r-m-painters-and-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/12] Fresh Coat Painting & Decorating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35710 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [11/12] Splash Of colour painters decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35678 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [12/12] K W FERRY DECORATORS LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35688 — attached location 'Hamilton' instead
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   12
+  Created: 2
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

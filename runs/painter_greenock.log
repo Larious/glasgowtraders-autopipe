@@ -1,0 +1,76 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  2021 existing listings on site
+  Ledger: 2003 place_ids
+
+[SEARCH] Finding painter & decorators in Greenock...
+  Found 3 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/3] Pol-Decor Painting and Decorating - Greenock
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Stromness Pl, Greenock PA16 0ZD, UK
+    Phone:   07586 321644
+    Website: https://pol-decor.co.uk/
+    Rating:  4.5 (8 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35792
+    URL: https://glasgowtrader.co.uk/listing/pol-decor-painting-and-decorating-greenock/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/3] Brian Ramsay Traditional Painter & Decorator :Established 2001
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52 Dalriada Rd, Greenock PA16 0RB, UK
+    Phone:   07876 450158
+    Website: http://www.ramsaydecorating.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35794
+    URL: https://glasgowtrader.co.uk/listing/brian-ramsay-traditional-painter-decorator-established-2001/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/3] Paul good decorating
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Earnhill Gardens, Greenock PA16 0PW, UK
+    Phone:   07591 555722
+    Website: https://www.facebook.com/paulgooddecorating/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35796
+    URL: https://glasgowtrader.co.uk/listing/paul-good-decorating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   3
+  Created: 3
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

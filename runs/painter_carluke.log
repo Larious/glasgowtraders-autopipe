@@ -1,0 +1,40 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  2048 existing listings on site
+  Ledger: 2030 place_ids
+
+[SEARCH] Finding painter & decorators in Carluke...
+  Found 3 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/3] Brian McGuinness Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35726 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [2/3] Skillen Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35734 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [3/3] Precision painting contractors Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35722 — attached location 'Carluke' instead
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   3
+  Created: 0
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

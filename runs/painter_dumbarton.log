@@ -1,0 +1,35 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  2006 existing listings on site
+  Ledger: 1988 place_ids
+
+[SEARCH] Finding painter & decorators in Dumbarton...
+  Found 2 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] J W Sharp Painting & Decorating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26922 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [2/2] Fresh Coat Painting & Decorating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35710 — attached location 'Dumbarton' instead
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   2
+  Created: 0
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

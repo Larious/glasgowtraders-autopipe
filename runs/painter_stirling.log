@@ -1,0 +1,188 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  2032 existing listings on site
+  Ledger: 2014 place_ids
+
+[SEARCH] Finding painter & decorators in Stirling...
+  Found 11 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] John Mcfarlane and son Painters and decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35812 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [2/11] Cpjs painter and decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Place, Stirling FK7 8BW, UK
+    Phone:   07708 098913
+    Website: https://www.facebook.com/share/1EExUTgRN6/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35814
+    URL: https://glasgowtrader.co.uk/listing/cpjs-painter-and-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/11] K Park Painters & Decorators Spray Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 40, Stirling Enterprise Park, Springbank Rd, Stirling FK7 7RP, UK
+    Phone:   07787 507298
+    Website: http://www.kparkdecorator.co.uk/
+    Rating:  5 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35816
+    URL: https://glasgowtrader.co.uk/listing/k-park-painters-decorators-spray-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/11] Martin Decorating Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Murrayfield Terrace, Bannockburn, Stirling FK7 8NG, UK
+    Phone:   07784 961978
+    Website: N/A
+    Rating:  4.4 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35818
+    URL: https://glasgowtrader.co.uk/listing/martin-decorating-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/11] Decor 9
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Arnieve Farm, Gargunnock, Stirling FK8 3DF, UK
+    Phone:   01786 860731
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35820
+    URL: https://glasgowtrader.co.uk/listing/decor-9/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/11] Neil Robertson Painter & Decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Melfort Dr, Stirling FK7 0BD, UK
+    Phone:   01786 445324
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35822
+    URL: https://glasgowtrader.co.uk/listing/neil-robertson-painter-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/11] Colin Watson Painter & Decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36 Douglas Terrace, Stirling FK7 9LL, UK
+    Phone:   01786 472446
+    Website: N/A
+    Rating:  2.3 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35824
+    URL: https://glasgowtrader.co.uk/listing/colin-watson-painter-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/11] C.A Decorating Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 New Rd, Bannockburn, Stirling FK7 0AE, UK
+    Phone:   07841 617553
+    Website: https://instagram.com/c.a_decorating_services?utm_medium=copy_link
+    Rating:  4.6 (8 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35826
+    URL: https://glasgowtrader.co.uk/listing/c-a-decorating-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/11] SD Decorating Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 105, John Player Building, Enterprise Park, Stirling FK7 7RP, UK
+    Phone:   07857 434500
+    Website: https://sddecoratingservices.org.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35828
+    URL: https://glasgowtrader.co.uk/listing/sd-decorating-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/11] D Pearson Painters and Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 26 Backwood Ct, Clackmannan FK10 4HS, UK
+    Phone:   07377 573106
+    Website: https://dpearsonpaintingdecorators.myshopify.com/
+    Rating:  4.6 (76 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35830
+    URL: https://glasgowtrader.co.uk/listing/d-pearson-painters-and-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/11] Gray & Sons Painters & Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35798 — attached location 'Stirling' instead
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   11
+  Created: 9
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

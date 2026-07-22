@@ -1,0 +1,154 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  2041 existing listings on site
+  Ledger: 2023 place_ids
+
+[SEARCH] Finding painter & decorators in Bathgate...
+  Found 9 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] BP Painting and Decorating
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 61 Napier Ave, Bathgate EH48 1DF, UK
+    Phone:   07549 666966
+    Website: N/A
+    Rating:  5 (14 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35832
+    URL: https://glasgowtrader.co.uk/listing/bp-painting-and-decorating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/9] Brush & Hammer - Joinery & Decorating Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35628 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [3/9] ALJ Decorators Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Mill Rd, Bathgate EH48 4JJ, UK
+    Phone:   07946 138825
+    Website: N/A
+    Rating:  4.5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35834
+    URL: https://glasgowtrader.co.uk/listing/alj-decorators-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/9] L R F Painters & Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Bruce St, Bathgate EH48 2SZ, UK
+    Phone:   07753 309684
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35836
+    URL: https://glasgowtrader.co.uk/listing/l-r-f-painters-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/9] AB Decorators all trades contractor
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Mowbray Rise, Livingston EH54 6JN, UK
+    Phone:   07904 925633
+    Website: http://ab-decorators.ueniweb.com/
+    Rating:  5 (39 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35838
+    URL: https://glasgowtrader.co.uk/listing/ab-decorators-all-trades-contractor/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/9] HM4AD PAINTING AND DECORATING
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 W Main St, Armadale, Bathgate EH48 3PZ, UK
+    Phone:   07515 272530
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35840
+    URL: https://glasgowtrader.co.uk/listing/hm4ad-painting-and-decorating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/9] EDC Painters & Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 45 Beechbank Cres, East Calder, Livingston EH53 0DX, UK
+    Phone:   07932 647595
+    Website: http://edcpainters.co.uk/
+    Rating:  5 (20 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35842
+    URL: https://glasgowtrader.co.uk/listing/edc-painters-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/9] William Meldrum Painters & Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35806 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [9/9] The Paint Shed - Bathgate
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10, Inchwood park, Bathgate EH48 2FY, UK
+    Phone:   01506 334433
+    Website: https://www.thepaintshed.com/
+    Rating:  4.7 (52 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35844
+    URL: https://glasgowtrader.co.uk/listing/the-paint-shed-bathgate/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   9
+  Created: 7
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

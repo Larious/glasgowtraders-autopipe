@@ -1,0 +1,92 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Painter & Decorator
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  1998 existing listings on site
+  Ledger: 1980 place_ids
+
+[SEARCH] Finding painter & decorators in East Kilbride...
+  Found 11 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] Finishing Touch Decorating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35742 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [2/11] K W FERRY DECORATORS LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35688 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [3/11] Strathclyde Painters & Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35684 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [4/11] G.R.M painters and decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35744 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [5/11] Andrew Aitken decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35686 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [6/11] Muir Decorators Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35690 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [7/11] KMC Decorators
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 58 Bankhead Rd, Rutherglen, Glasgow G73 2NX, UK
+    Phone:   07870 423134
+    Website: http://www.kmcdecorators.com/
+    Rating:  5 (6 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35746
+    URL: https://glasgowtrader.co.uk/listing/kmc-decorators/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/11] Decor-Wise Painters and Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35676 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [9/11] Skillen Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35734 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [10/11] Brian McGuinness Decorators
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35726 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [11/11] JD Decorators & Plasterers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35680 — attached location 'East Kilbride' instead
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   11
+  Created: 1
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================
