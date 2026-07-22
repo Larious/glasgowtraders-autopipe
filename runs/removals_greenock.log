@@ -1,0 +1,171 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  3126 existing listings on site
+  Ledger: 3118 place_ids
+
+[SEARCH] Finding removalss in Greenock...
+  Found 10 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] Wilson Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Jamaica St, Greenock PA15 1XX, UK
+    Phone:   07577 730593
+    Website: https://m.facebook.com/profile.php?id=100063936944413
+    Rating:  4.4 (16 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38022
+    URL: https://glasgowtrader.co.uk/listing/wilson-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/10] RG Removals
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [3/10] DMC Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 83 Berwick Rd, Greenock PA16 0HL, UK
+    Phone:   07557 819461
+    Website: http://dmcremovals.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38024
+    URL: https://glasgowtrader.co.uk/listing/dmc-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/10] Alans Removals & Clearances
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Bridgend Rd, Greenock PA15 2JN, UK
+    Phone:   07586 020325
+    Website: https://alansremovalsinverclyde.me/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38026
+    URL: https://glasgowtrader.co.uk/listing/alans-removals-clearances/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/10] McCroreys Removals of Inverclyde
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 7 Gareloch Rd, Port Glasgow PA14 5BS, UK
+    Phone:   N/A
+    Website: http://www.inverclyderemovals.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38028
+    URL: https://glasgowtrader.co.uk/listing/mccroreys-removals-of-inverclyde/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/10] R & R Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 122 George St, Dunoon PA23 8BS, UK
+    Phone:   01369 705875
+    Website: http://www.rrremovals.co.uk/
+    Rating:  4.6 (29 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38030
+    URL: https://glasgowtrader.co.uk/listing/r-r-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/10] Dunoon Inverclyde Removals Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Charles St, Kirn, Dunoon PA23 8BN, UK
+    Phone:   01475 783048
+    Website: http://www.inverclyderemovals.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38032
+    URL: https://glasgowtrader.co.uk/listing/dunoon-inverclyde-removals-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/10] HJG Removals & Storage Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37926 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [9/10] Moving On
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Kingston House, Jamaica St, Greenock PA15 1XX, UK
+    Phone:   01475 735200
+    Website: https://businewmap.org/details/moving-on-ChIJ_W7
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38034
+    URL: https://glasgowtrader.co.uk/listing/moving-on/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/10] Removalboxesrrus
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Greenock, 21 Earnhill Rd, Greenock PA16 0EQ, UK
+    Phone:   01475 633344
+    Website: http://www.inverclyderemovals.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38036
+    URL: https://glasgowtrader.co.uk/listing/removalboxesrrus/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   10
+  Created: 8
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

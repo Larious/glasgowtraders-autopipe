@@ -1,0 +1,239 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  3114 existing listings on site
+  Ledger: 3106 place_ids
+
+[SEARCH] Finding removalss in Ayr...
+  Found 14 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Curries Removals & Storage Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Whitfield Dr, Ayr KA8 9RX, UK
+    Phone:   01292 618620
+    Website: http://www.curriesremovals.co.uk/
+    Rating:  4.9 (133 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37998
+    URL: https://glasgowtrader.co.uk/listing/curries-removals-storage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] Windrose Removals Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Martnaham Wy, Ayr KA7 4TY, UK
+    Phone:   07938 747400
+    Website: https://windroseremovals.co.uk/
+    Rating:  5 (8 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38000
+    URL: https://glasgowtrader.co.uk/listing/windrose-removals-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/14] Man and van Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: N Harbour St, Ayr KA8 8AA, UK
+    Phone:   07501 808926
+    Website: http://facebook.com/manandvanayrshire
+    Rating:  4.7 (24 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38002
+    URL: https://glasgowtrader.co.uk/listing/man-and-van-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/14] Callan Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: W Netherton St, Kilmarnock KA1 4BU, UK
+    Phone:   01292 431555
+    Website: http://callanremovals.co.uk/
+    Rating:  4.6 (20 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38004
+    URL: https://glasgowtrader.co.uk/listing/callan-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] Regency Removals And Storage Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5a Whitfield Dr, Ayr KA8 9RX, UK
+    Phone:   01292 611655
+    Website: https://www.regencyremovals.com/
+    Rating:  5 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38006
+    URL: https://glasgowtrader.co.uk/listing/regency-removals-and-storage-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] Fast Move Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Burnfoot Ave, Troon KA10 6RF, UK
+    Phone:   07554 259413
+    Website: http://fastmoveremovals.co.uk/
+    Rating:  5 (50 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38008
+    URL: https://glasgowtrader.co.uk/listing/fast-move-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/14] Kilmarnock Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Movements House, 15 W Netherton St, Kilmarnock KA1 4BU, UK
+    Phone:   01563 520001
+    Website: http://www.kilmarnockremovals.co.uk/
+    Rating:  4.6 (113 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38010
+    URL: https://glasgowtrader.co.uk/listing/kilmarnock-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] Thomson Removals & Self Storage Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5, Palmermount Industrial Park, Kilmarnock Rd, Dundonald, Ayrshire, Kilmarnock KA2 9BL, UK
+    Phone:   01563 851947
+    Website: http://www.thomsonremovals.co.uk/
+    Rating:  4.7 (100 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38012
+    URL: https://glasgowtrader.co.uk/listing/thomson-removals-self-storage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] Aable Man and Van Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 109 Sillars Mdw, Irvine KA12 0LD, UK
+    Phone:   07729 006572
+    Website: https://www.ayrshirecleaningservices.co.uk/man-and-van
+    Rating:  4.8 (12 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38014
+    URL: https://glasgowtrader.co.uk/listing/aable-man-and-van-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] Ayrshire House Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Roodland farm, Ayr KA6 6EP, UK
+    Phone:   07710 900811
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38016
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-house-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/14] Strada Environmental - Asbestos Removal Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 64 Boundary Rd, Ayr KA8 9DJ, UK
+    Phone:   01292 822650
+    Website: https://www.stradaenvironmental.co.uk/asbestos-removal-ayrshire/
+    Rating:  4.8 (18 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38018
+    URL: https://glasgowtrader.co.uk/listing/strada-environmental-asbestos-removal-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/14] Ayr Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 Mainholm Rd, Ayr KA8 0QN, UK
+    Phone:   07732 514340
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38020
+    URL: https://glasgowtrader.co.uk/listing/ayr-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] Farden Contracts - Asbestos Removal & Consultancy / Property Maintenance Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36714 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [14/14] Richard Healey Removals & Storage
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37972 — attached location 'Ayr' instead
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   14
+  Created: 12
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,42 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  3146 existing listings on site
+  Ledger: 3138 place_ids
+
+[SEARCH] Finding removalss in Bathgate...
+  Found 1 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/1] Kingdom Removals - West Lothian
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 McLean Pl, Whitburn, Bathgate EH47 0AF, UK
+    Phone:   0131 202 5414
+    Website: https://www.kingdomremovals.co.uk/?utm_source=local&utm_medium=google&utm_campaign=google-local-pack
+    Rating:  5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38062
+    URL: https://glasgowtrader.co.uk/listing/kingdom-removals-west-lothian/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   1
+  Created: 1
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

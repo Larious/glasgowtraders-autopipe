@@ -1,0 +1,184 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  3092 existing listings on site
+  Ledger: 3084 place_ids
+
+[SEARCH] Finding removalss in Bellshill...
+  Found 15 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] SDL Removals & Transport
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bellshill Rd, Motherwell ML1 3SS, UK
+    Phone:   07737 880604
+    Website: https://www.facebook.com/sdlremovalstransport/
+    Rating:  4.7 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37954
+    URL: https://glasgowtrader.co.uk/listing/sdl-removals-transport/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] CR Removals & Storage
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37940 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [3/15] Move8Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 104 Shott Dr, Blantyre, Glasgow G72 9AZ, UK
+    Phone:   07803 783489
+    Website: http://www.move8removals.co.uk/
+    Rating:  5 (167 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37956
+    URL: https://glasgowtrader.co.uk/listing/move8removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] M.B.A Removals Lanarkshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 69 Dornoch Rd, Holytown, Motherwell ML1 4SY, UK
+    Phone:   07306 387277
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   3 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37958
+    URL: https://glasgowtrader.co.uk/listing/m-b-a-removals-lanarkshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] Premier Move Removals and Storage LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37942 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [6/15] W G Removals & Storage
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37944 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [7/15] Dmg Removal Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Cadzow Ave, Hamilton ML3 0FT, UK
+    Phone:   N/A
+    Website: http://www.glasgowremovalsandstorage.co.uk/
+    Rating:  4.8 (18 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37960
+    URL: https://glasgowtrader.co.uk/listing/dmg-removal-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/15] Moving Home Made Easy
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37904 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [9/15] Scot Removals Home and Flat Movers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37888 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [10/15] DS Carriers Removals Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37892 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [11/15] J-Pak Removals & Storage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16, Flemington Industrial Park, Craigneuk St, Wishaw, Motherwell ML1 2NT, UK
+    Phone:   01698 259908
+    Website: http://www.jpakremovals.co.uk/
+    Rating:  3.4 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37962
+    URL: https://glasgowtrader.co.uk/listing/j-pak-removals-storage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] Pickfords Moving & Storage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bothwell Park Industrial Estate, Unit 6 Hornal Rd, Bothwell, Glasgow G71 7EE, UK
+    Phone:   0141 336 5335
+    Website: https://www.pickfords.co.uk/self-storage/self-storage-glasgow
+    Rating:  4.3 (53 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37964
+    URL: https://glasgowtrader.co.uk/listing/pickfords-moving-storage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] East Kilbride Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Calderwood Rd, East Kilbride, Glasgow G74 3BQ, UK
+    Phone:   01355 279001
+    Website: http://www.eastkilbrideremovals.co.uk/
+    Rating:  4 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37966
+    URL: https://glasgowtrader.co.uk/listing/east-kilbride-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] Green Move Removals
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37898 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [15/15] Glasgow Removals Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37896 — attached location 'Bellshill' instead
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   15
+  Created: 7
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

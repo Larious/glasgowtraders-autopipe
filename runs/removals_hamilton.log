@@ -1,0 +1,131 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  3099 existing listings on site
+  Ledger: 3091 place_ids
+
+[SEARCH] Finding removalss in Hamilton...
+  Found 14 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Move8Removals
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37956 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/14] Dmg Removal Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37960 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/14] We Luv Removals
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37890 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [4/14] DS Carriers Removals Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37892 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [5/14] Scot Removals Home and Flat Movers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37888 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [6/14] CR Removals & Storage
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37940 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/14] East Kilbride Removals
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37966 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [8/14] ML3 REMOVALS & STORAGE
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: New, Douglas Park, Cadzow Ave, Hamilton ML3 0FT, UK
+    Phone:   07757 696215
+    Website: https://www.ml3removals.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37968
+    URL: https://glasgowtrader.co.uk/listing/ml3-removals-storage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] SDL Removals & Transport
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37954 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [10/14] Pickfords Moving & Storage
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37964 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [11/14] Rapid Removals Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Station Rd, Cowie, Stirling FK7 7BP, UK
+    Phone:   01786 236626
+    Website: https://www.rapidremovalsscotland.com/
+    Rating:  5 (78 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37970
+    URL: https://glasgowtrader.co.uk/listing/rapid-removals-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/14] Richard Healey Removals & Storage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Willowyard Rd, Beith KA15 1JG, UK
+    Phone:   01505 502220
+    Website: https://www.richardhealeyremovals.co.uk/?utm_source=GMB&utm_medium=Google+my+business&utm_campaign=track+GMB&utm_id=GMB
+    Rating:  4.5 (103 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37972
+    URL: https://glasgowtrader.co.uk/listing/richard-healey-removals-storage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] J-Pak Removals & Storage
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37962 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [14/14] Sterling Sinclair Removals Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37952 — attached location 'Hamilton' instead
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   14
+  Created: 3
+  Skipped: 11 (already existed)
+  Failed:  0
+============================================================

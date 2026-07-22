@@ -1,0 +1,96 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  3111 existing listings on site
+  Ledger: 3103 place_ids
+
+[SEARCH] Finding removalss in Cumbernauld...
+  Found 7 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] MoversFast1 Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 Wallbrae Rd, Cumbernauld, Glasgow G67 2PD, UK
+    Phone:   07446 593039
+    Website: https://www.moversfast1.co.uk/about-us
+    Rating:  5 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37992
+    URL: https://glasgowtrader.co.uk/listing/moversfast1-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/7] Scot Removals Home and Flat Movers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37888 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [3/7] Ceemac Removals And Clearances
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [4/7] Sterling Sinclair Removals Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37952 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [5/7] Letford Removals Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Underwood Cottages, Cambusbarron, Stirling FK7 9NZ, UK
+    Phone:   01786 461244
+    Website: http://www.letfordremovals.com/
+    Rating:  4.8 (23 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37994
+    URL: https://glasgowtrader.co.uk/listing/letford-removals-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/7] HJG Removals & Storage Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37926 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [7/7] JC rubbish removal
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Belleisle Grove, Cumbernauld, Glasgow G68 0FA, UK
+    Phone:   0141 556 1856
+    Website: N/A
+    Rating:  3.7 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37996
+    URL: https://glasgowtrader.co.uk/listing/jc-rubbish-removal/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   7
+  Created: 3
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

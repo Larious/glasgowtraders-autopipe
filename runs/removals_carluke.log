@@ -1,0 +1,17 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  3147 existing listings on site
+  Ledger: 3139 place_ids
+
+[SEARCH] Finding removalss in Carluke...
+  Found 0 candidates (1 filtered as merchants/off-trade)
+No removalss found in Carluke

@@ -1,0 +1,154 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  3077 existing listings on site
+  Ledger: 3069 place_ids
+
+[SEARCH] Finding removalss in Paisley...
+  Found 9 candidates (11 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] Renfrewshire Deliveries and Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 123 Abercorn St, Paisley PA3 4DF, UK
+    Phone:   0141 887 1565
+    Website: http://www.renfrewshiredeliveries.co.uk/
+    Rating:  5 (133 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37924
+    URL: https://glasgowtrader.co.uk/listing/renfrewshire-deliveries-and-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/9] HJG Removals & Storage Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, Victoria Works, Mary St, Johnstone PA5 8BT, UK
+    Phone:   0141 534 6098
+    Website: https://hjgremoval.co.uk/
+    Rating:  5 (187 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37926
+    URL: https://glasgowtrader.co.uk/listing/hjg-removals-storage-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/9] The Removal Co
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Riverpark Industrial Estate Bridge Street, Linwood, Paisley PA3 3DW, UK
+    Phone:   01505 382838
+    Website: http://www.theremoval-company.co.uk/
+    Rating:  3.5 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37928
+    URL: https://glasgowtrader.co.uk/listing/the-removal-co/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/9] Mccall removals Man&van service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Kilbarchan Rd, Johnstone PA5 0LD, UK
+    Phone:   07985 226035
+    Website: N/A
+    Rating:  3.8 (16 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37930
+    URL: https://glasgowtrader.co.uk/listing/mccall-removals-manvan-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/9] Rubbish Removal Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 McGown St, Paisley PA3 1QL, UK
+    Phone:   0141 562 4263
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37932
+    URL: https://glasgowtrader.co.uk/listing/rubbish-removal-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/9] DS Carriers Removals Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37892 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [7/9] Green Move Removals
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37898 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [8/9] Moving Estate Agents - Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 53 Moss St, Paisley PA1 1DR, UK
+    Phone:   0141 231 2151
+    Website: https://www.movingestateagents.co.uk/
+    Rating:  5 (90 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37934
+    URL: https://glasgowtrader.co.uk/listing/moving-estate-agents-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/9] Removals Paisley & Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: South Primary School, 83 Neilston Rd, Paisley PA2 6ES, UK
+    Phone:   0141 237 0057
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37936
+    URL: https://glasgowtrader.co.uk/listing/removals-paisley-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   9
+  Created: 7
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,169 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  3139 existing listings on site
+  Ledger: 3131 place_ids
+
+[SEARCH] Finding removalss in Stirling...
+  Found 12 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] Letford Removals Stirling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37994 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [2/12] Sterling Sinclair Removals Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37952 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [3/12] Go Forth Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Waterfront Way, Stirling FK9 5GH, UK
+    Phone:   01786 232198
+    Website: http://www.goforthremovals.co.uk/
+    Rating:  5 (53 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38048
+    URL: https://glasgowtrader.co.uk/listing/go-forth-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/12] Rapid Removals Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37970 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [5/12] The Shire Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Montgomery Pl, Buchlyvie, Stirling FK8 3NF, UK
+    Phone:   07788 112222
+    Website: https://shireremovals.co.uk/
+    Rating:  5 (25 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38050
+    URL: https://glasgowtrader.co.uk/listing/the-shire-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/12] Stirling City Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Coxpow Farm, Fallin, Stirling FK7 7LU, UK
+    Phone:   01786 814321
+    Website: https://stirlingcityremovals.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38052
+    URL: https://glasgowtrader.co.uk/listing/stirling-city-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/12] Stirling Van Hire & Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Burghmuir Rd, Stirling FK7 7PE, UK
+    Phone:   07522 949838
+    Website: http://www.stirlingvanhire.com/
+    Rating:  4.3 (13 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38054
+    URL: https://glasgowtrader.co.uk/listing/stirling-van-hire-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/12] Clark and Rose (Removals) Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Bandeath Industrial Est, Throsk, Stirling FK7 7NP, UK
+    Phone:   01786 484747
+    Website: https://www.clarkandrose.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=Google%20Business%20Profile&utm_content=Stirling
+    Rating:  3.8 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38056
+    URL: https://glasgowtrader.co.uk/listing/clark-and-rose-removals-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/12] Glen Transport Removals Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Devon Park Mills, Alexandra St, Devonside, Tillicoultry FK13 6HP, UK
+    Phone:   01259 750640
+    Website: http://www.glentrans.co.uk/
+    Rating:  4.7 (23 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38058
+    URL: https://glasgowtrader.co.uk/listing/glen-transport-removals-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/12] Stirling House Clearance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit D, 24 Whitehouse Rd, Stirling FK7 7SP, UK
+    Phone:   01786 608015
+    Website: http://stirlinghouseclearance.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38060
+    URL: https://glasgowtrader.co.uk/listing/stirling-house-clearance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/12] Glasgow Removals Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37896 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [12/12] Stirling House Clearance
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   12
+  Created: 7
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

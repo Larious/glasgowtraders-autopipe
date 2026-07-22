@@ -1,0 +1,331 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  3059 existing listings on site
+  Ledger: 3051 place_ids
+
+[SEARCH] Finding removalss in Glasgow...
+  Found 18 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/18] Scot Removals Home and Flat Movers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Auldbar Rd, Bellahouston, Glasgow G52 1JJ, UK
+    Phone:   07472 212321
+    Website: https://scotremovals.com/
+    Rating:  4.9 (559 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37888
+    URL: https://glasgowtrader.co.uk/listing/scot-removals-home-and-flat-movers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/18] We Luv Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 272 Bath St, Glasgow G2 4JR, UK
+    Phone:   07483 326514
+    Website: N/A
+    Rating:  5 (482 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37890
+    URL: https://glasgowtrader.co.uk/listing/we-luv-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/18] DS Carriers Removals Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Clyde Offices, 48 W George St, Glasgow G2 1BP, UK
+    Phone:   0141 280 2643
+    Website: https://www.dscarriers.co.uk/removals-glasgow/
+    Rating:  5 (116 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37892
+    URL: https://glasgowtrader.co.uk/listing/ds-carriers-removals-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/18] Peachy Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Stoneside Dr, Glasgow G43 1JF, UK
+    Phone:   0141 266 0437
+    Website: https://peachyremovals.com/
+    Rating:  5 (461 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37894
+    URL: https://glasgowtrader.co.uk/listing/peachy-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/18] Glasgow Removals Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 192 Swanston St, Glasgow G40 4HW, UK
+    Phone:   0141 550 8333
+    Website: http://www.aglasgowremovals.co.uk/
+    Rating:  4.8 (38 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37896
+    URL: https://glasgowtrader.co.uk/listing/glasgow-removals-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/18] Green Move Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Westmoreland St, Glasgow G42 8LD, UK
+    Phone:   0333 335 5011
+    Website: https://www.greenmoveuk.com/
+    Rating:  4.9 (474 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37898
+    URL: https://glasgowtrader.co.uk/listing/green-move-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/18] Glasgow Movers Man and Van
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 44 Kiniver Dr, Glasgow G15 6RF, UK
+    Phone:   07399 316388
+    Website: https://www.glasgowmovers.co.uk/
+    Rating:  5 (140 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37900
+    URL: https://glasgowtrader.co.uk/listing/glasgow-movers-man-and-van/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/18] Hart Home Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 201 - 211 Wallace St, Kinning Park, Glasgow G5 8NT, UK
+    Phone:   0141 301 2273
+    Website: http://www.harthomeremovals.com/
+    Rating:  4.8 (101 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37902
+    URL: https://glasgowtrader.co.uk/listing/hart-home-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/18] Moving Home Made Easy
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 140 Causewayside St, Glasgow G32 8LP, UK
+    Phone:   0141 639 3931
+    Website: https://www.movinghomemadeeasy.com/
+    Rating:  4.9 (417 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37904
+    URL: https://glasgowtrader.co.uk/listing/moving-home-made-easy/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/18] Jigsaw Removals Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Dosk Ave, Glasgow G13 4LJ, UK
+    Phone:   0141 459 1051
+    Website: https://www.jigsawremovals.com/
+    Rating:  5 (173 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37906
+    URL: https://glasgowtrader.co.uk/listing/jigsaw-removals-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/18] Chris 5 Star Van Man Removals Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Meadowside Quay Square, Glasgow G11 6BS, UK
+    Phone:   07759 122693
+    Website: N/A
+    Rating:  5 (517 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37908
+    URL: https://glasgowtrader.co.uk/listing/chris-5-star-van-man-removals-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/18] The Removal Kings
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 W George St, Glasgow G2 1BP, UK
+    Phone:   07493 335550
+    Website: http://theremovalkings.com/
+    Rating:  5 (207 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37910
+    URL: https://glasgowtrader.co.uk/listing/the-removal-kings/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/18] Glasgow Man and Van
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Merlin House, 20 Mossland Rd, Glasgow G52 4XZ, UK
+    Phone:   07976 555557
+    Website: https://glasgowvanandman.co.uk/home
+    Rating:  4.9 (609 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37912
+    URL: https://glasgowtrader.co.uk/listing/glasgow-man-and-van/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/18] Glasgow House Removals Man&Van
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 St Mungo Ave, Glasgow G4 0PF, UK
+    Phone:   07501 423050
+    Website: https://www.instagram.com/quickvan24?igsh=ZmwwYjM1bm9ldnAy&utm_source=qr
+    Rating:  5 (35 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37914
+    URL: https://glasgowtrader.co.uk/listing/glasgow-house-removals-manvan/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/18] Glasgow Home Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Hecla Ave, Glasgow G15 8NA, UK
+    Phone:   0141 459 1496
+    Website: https://www.glasgowhomeremovals.com/
+    Rating:  5 (27 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37916
+    URL: https://glasgowtrader.co.uk/listing/glasgow-home-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/18] Moves 4 U Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 130 Toryglen St, Glasgow G5 0BH, UK
+    Phone:   07737 070129
+    Website: https://www.removalsinglasgow.co.uk/?utm_source=google&utm_medium=local&utm_campaign=1&utm_content=primary
+    Rating:  4.8 (82 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37918
+    URL: https://glasgowtrader.co.uk/listing/moves-4-u-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/18] RG Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 89 Seaward St, Kinning Park, Glasgow G41 1HJ, UK
+    Phone:   07904 797211
+    Website: http://www.rgremovals.co.uk/
+    Rating:  4.9 (39 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37920
+    URL: https://glasgowtrader.co.uk/listing/rg-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/18] CARBERRY REMOVALS GLASGOW
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Harfield Dr, Glasgow G33 4QD, UK
+    Phone:   07889 225446
+    Website: https://carberryremovals.com/
+    Rating:  4.9 (77 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37922
+    URL: https://glasgowtrader.co.uk/listing/carberry-removals-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   18
+  Created: 18
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

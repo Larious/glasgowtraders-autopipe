@@ -1,0 +1,45 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  3114 existing listings on site
+  Ledger: 3106 place_ids
+
+[SEARCH] Finding removalss in Dumbarton...
+  Found 4 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] Scot Removals Home and Flat Movers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37888 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [2/4] HJG Removals & Storage Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37926 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [3/4] DS Carriers Removals Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37892 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [4/4] S & B Removals
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37984 — attached location 'Dumbarton' instead
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   4
+  Created: 0
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,120 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  3084 existing listings on site
+  Ledger: 3076 place_ids
+
+[SEARCH] Finding removalss in Airdrie...
+  Found 7 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] Ceemac Removals and Clearances
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 McKenna Dr, Airdrie ML6 0JF, UK
+    Phone:   0141 471 6468
+    Website: http://ceemacremovalsandclearances.co.uk/
+    Rating:  5 (16 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37938
+    URL: https://glasgowtrader.co.uk/listing/ceemac-removals-and-clearances/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/7] CR Removals & Storage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Clifton Pl, Coatbridge ML5 3RL, UK
+    Phone:   01236 628991
+    Website: http://www.cr-removals.co.uk/
+    Rating:  4.9 (105 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37940
+    URL: https://glasgowtrader.co.uk/listing/cr-removals-storage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/7] Premier Move Removals and Storage LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Yard B, 10 Cameron St, Coatbridge ML5 2EJ, UK
+    Phone:   01236 421300
+    Website: http://www.premier-move.co.uk/
+    Rating:  4.6 (38 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37942
+    URL: https://glasgowtrader.co.uk/listing/premier-move-removals-and-storage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/7] W G Removals & Storage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 151 Woodhall Ave, Coatbridge ML5 5DD, UK
+    Phone:   0800 542 2757
+    Website: https://www.wgremovals.co.uk/
+    Rating:  4.3 (40 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37944
+    URL: https://glasgowtrader.co.uk/listing/w-g-removals-storage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/7] Scot Removals Home and Flat Movers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37888 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [6/7] DS Carriers Removals Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37892 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [7/7] Removals Coatbridge - Man and Van Hire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Abbey Court, Bank St, Coatbridge ML5 1ET, UK
+    Phone:   01236 793503
+    Website: http://www.removalscoatbridge.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37946
+    URL: https://glasgowtrader.co.uk/listing/removals-coatbridge-man-and-van-hire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   7
+  Created: 5
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

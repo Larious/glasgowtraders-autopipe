@@ -1,0 +1,116 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  3089 existing listings on site
+  Ledger: 3081 place_ids
+
+[SEARCH] Finding removalss in Coatbridge...
+  Found 11 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] CR Removals & Storage
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37940 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/11] Premier Move Removals and Storage LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37942 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/11] W G Removals & Storage
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37944 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/11] Removals Coatbridge - Man and Van Hire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37946 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [5/11] Wellpacked Removals LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 127 Lomond Rd, Coatbridge ML5 2NH, UK
+    Phone:   07931 849480
+    Website: http://wellpackedremovals.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37948
+    URL: https://glasgowtrader.co.uk/listing/wellpacked-removals-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/11] Glasgow & Lanarkshire removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Summerlee, Coatbridge ML5 1RH, UK
+    Phone:   07539 621175
+    Website: N/A
+    Rating:  3 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37950
+    URL: https://glasgowtrader.co.uk/listing/glasgow-lanarkshire-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/11] Ceemac Removals and Clearances
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37938 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [8/11] Scot Removals Home and Flat Movers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37888 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [9/11] Ceemac Removals and Clearances
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [10/11] DS Carriers Removals Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37892 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [11/11] Sterling Sinclair Removals Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19/20, Back O Hill Road Industrial Estate, Stirling FK8 1SH, UK
+    Phone:   01786 232656
+    Website: https://sterlingsinclairremovals.co.uk/
+    Rating:  4.8 (448 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37952
+    URL: https://glasgowtrader.co.uk/listing/sterling-sinclair-removals-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   11
+  Created: 3
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

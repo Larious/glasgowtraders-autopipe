@@ -1,0 +1,123 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  3107 existing listings on site
+  Ledger: 3099 place_ids
+
+[SEARCH] Finding removalss in Clydebank...
+  Found 10 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] S & B Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 412 Glasgow Rd, Clydebank G81 1PW, UK
+    Phone:   0141 951 3600
+    Website: https://www.sandbremovals.co.uk/
+    Rating:  4.4 (94 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37984
+    URL: https://glasgowtrader.co.uk/listing/s-b-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/10] Jigsaw Removals Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37906 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [3/10] Express Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: International House, 48 Clyde St, Clydebank G81 1NW, UK
+    Phone:   0141 339 6000
+    Website: http://www.expressremovals.co.uk/
+    Rating:  4 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37986
+    URL: https://glasgowtrader.co.uk/listing/express-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/10] HJG Removals & Storage Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37926 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [5/10] Glasgow Movers Man and Van
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37900 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [6/10] Scot Removals Home and Flat Movers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37888 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [7/10] Glasgow Home Removals
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37916 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [8/10] NHS Accredited | Clydebank Ear Wax Removal Specialists | Microsuction & Irrigation
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Dumbarton Rd, Clydebank G81 1TU, UK
+    Phone:   0141 482 7004
+    Website: https://www.earhealthservice.co.uk/
+    Rating:  5 (373 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37988
+    URL: https://glasgowtrader.co.uk/listing/nhs-accredited-clydebank-ear-wax-removal-specialists-microsuction-irrigation/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/10] Glasgow Removals Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37896 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [10/10] Clockwork Removals & Storage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 140 Causewayside St, Glasgow G32 8LP, UK
+    Phone:   0141 846 3022
+    Website: https://www.clockworkremovals.co.uk/locations/glasgow/?utm_source=gmb&utm_medium=organic
+    Rating:  4.9 (34 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37990
+    URL: https://glasgowtrader.co.uk/listing/clockwork-removals-storage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   10
+  Created: 4
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

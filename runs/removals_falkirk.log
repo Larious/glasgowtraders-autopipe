@@ -1,0 +1,125 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Removals
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  3134 existing listings on site
+  Ledger: 3126 place_ids
+
+[SEARCH] Finding removalss in Falkirk...
+  Found 8 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/8] Bulldog Removals Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1 Dock St, Carronshore, Falkirk FK2 8HG, UK
+    Phone:   01324 639291
+    Website: https://www.bulldogremovals-falkirk.co.uk/
+    Rating:  5 (80 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38038
+    URL: https://glasgowtrader.co.uk/listing/bulldog-removals-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/8] Local House Clearance Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Crofthead St, Falkirk FK2 7GG, UK
+    Phone:   07375 073566
+    Website: https://www.localhouseclearanceservice.co.uk/
+    Rating:  5 (230 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38040
+    URL: https://glasgowtrader.co.uk/listing/local-house-clearance-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/8] Larbert Carriers Removals Falkirk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Dollar Industrial Estate, Falkirk FK2 7YF, UK
+    Phone:   01324 231002
+    Website: https://larbertcarriers.com/
+    Rating:  4.5 (22 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38042
+    URL: https://glasgowtrader.co.uk/listing/larbert-carriers-removals-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/8] Rapid Removals Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37970 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [5/8] uMove Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Falkirk Business Hub, 45 Vicar Street, Falkirk FK1 1LL, UK
+    Phone:   07749 186147
+    Website: https://www.umoveremovals-falkirk.co.uk/
+    Rating:  4.4 (7 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38044
+    URL: https://glasgowtrader.co.uk/listing/umove-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/8] Linlithgow Removals
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 326 High St, Linlithgow EH49 7ER, UK
+    Phone:   01506 842753
+    Website: http://www.linlithgowremovals.co.uk/
+    Rating:  5 (35 reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38046
+    URL: https://glasgowtrader.co.uk/listing/linlithgow-removals/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/8] Sterling Sinclair Removals Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37952 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [8/8] Letford Removals Stirling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37994 — attached location 'Falkirk' instead
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   8
+  Created: 5
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================
