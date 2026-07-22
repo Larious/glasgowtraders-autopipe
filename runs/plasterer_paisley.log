@@ -1,0 +1,118 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  2065 existing listings on site
+  Ledger: 2047 place_ids
+
+[SEARCH] Finding plasterers in Paisley...
+  Found 9 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] Completely Plastered
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35864 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [2/9] Kellock Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35856 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [3/9] Gray's Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35862 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [4/9] Elite finish plastering glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35850 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [5/9] SH Plastering Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Killin Dr, Linwood, Paisley PA3 3LN, UK
+    Phone:   07930 478577
+    Website: N/A
+    Rating:  5 (14 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35880
+    URL: https://glasgowtrader.co.uk/listing/sh-plastering-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/9] J K Quigley Plasterers and Builders
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47 Marchfield Ave, Paisley PA3 2QE, UK
+    Phone:   0141 887 0757
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35882
+    URL: https://glasgowtrader.co.uk/listing/j-k-quigley-plasterers-and-builders/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/9] Lets Get Plastered Plastering Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35848 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [8/9] Plastered Lads
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 106 Merton Dr, Glasgow G52 2AS, UK
+    Phone:   07538 542338
+    Website: https://www.plasteredlads.com/
+    Rating:  5 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35884
+    URL: https://glasgowtrader.co.uk/listing/plastered-lads/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/9] Skills Training Group Plastering Courses Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Murray House, 17 Murray St, Paisley PA3 1QG, UK
+    Phone:   0141 889 4516
+    Website: https://www.skillstg.co.uk/category/plastering-courses/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35886
+    URL: https://glasgowtrader.co.uk/listing/skills-training-group-plastering-courses-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   9
+  Created: 4
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

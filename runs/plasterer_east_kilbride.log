@@ -1,0 +1,134 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  2095 existing listings on site
+  Ledger: 2077 place_ids
+
+[SEARCH] Finding plasterers in East Kilbride...
+  Found 17 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] GET PLASTERED
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [2/17] MM Plastering and Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Louis Braille Cres, East Kilbride, Glasgow G75 9LX, UK
+    Phone:   07939 408648
+    Website: https://www.mmplasteringandroughcastingltd.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35940
+    URL: https://glasgowtrader.co.uk/listing/mm-plastering-and-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/17] Kennedy Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35934 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [4/17] B.Seaton Plastering & Wall insulation
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35926 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [5/17] AT Plastering Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35866 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [6/17] Fine Line Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35852 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [7/17] Polish plasterer
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Dunlop tower, East Kilbride, Glasgow G75 0BS, UK
+    Phone:   07854 644074
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35942
+    URL: https://glasgowtrader.co.uk/listing/polish-plasterer/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/17] GET PLASTERED
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35878 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [9/17] Glasgow Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35846 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [10/17] Mark Wightman Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35894 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [11/17] Gibson Plasterers & Roughcasters
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35936 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [12/17] Kellock Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35856 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [13/17] ABH PLASTERING
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35906 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [14/17] PS Plastering Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35932 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [15/17] A.T. Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35914 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [16/17] Rockstar Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35858 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [17/17] Ravenswood Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35860 — attached location 'East Kilbride' instead
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   17
+  Created: 2
+  Skipped: 15 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,106 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  2085 existing listings on site
+  Ledger: 2067 place_ids
+
+[SEARCH] Finding plasterers in Coatbridge...
+  Found 9 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] Render and Roughcasting
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35904 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/9] Connor & Scott Roughcasting & Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35902 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/9] Mark Wightman Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35894 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/9] AT Plastering Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35866 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [5/9] SIB Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35918 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [6/9] PJN Plastering & Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4A Mill Rd, Cambuslang, Glasgow G72 7QG, UK
+    Phone:   07759 722682
+    Website: http://pjnplasteringtiles.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35920
+    URL: https://glasgowtrader.co.uk/listing/pjn-plastering-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/9] Lanarkshire Plastering & Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Avon Pl, Coatbridge ML5 2JE, UK
+    Phone:   07784 816691
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35922
+    URL: https://glasgowtrader.co.uk/listing/lanarkshire-plastering-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/9] A.T. Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35914 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [9/9] Artiso Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Coatbank Way, Coatbridge ML5 3AG, UK
+    Phone:   07565 869375
+    Website: https://www.artisoplastering.co.uk/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35924
+    URL: https://glasgowtrader.co.uk/listing/artiso-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   9
+  Created: 3
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

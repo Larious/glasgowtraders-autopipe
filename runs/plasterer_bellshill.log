@@ -1,0 +1,35 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  2088 existing listings on site
+  Ledger: 2070 place_ids
+
+[SEARCH] Finding plasterers in Bellshill...
+  Found 2 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] Mark Wightman Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35894 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [2/2] AT Plastering Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35866 — attached location 'Bellshill' instead
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   2
+  Created: 0
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

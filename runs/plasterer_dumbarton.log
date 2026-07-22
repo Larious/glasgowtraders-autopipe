@@ -1,0 +1,84 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  2109 existing listings on site
+  Ledger: 2091 place_ids
+
+[SEARCH] Finding plasterers in Dumbarton...
+  Found 7 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] L.Leitch Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Levenbank Terrace, Jamestown, Dumbarton, Alexandria G83 9HB, UK
+    Phone:   07950 105099
+    Website: https://www.leitch-plastering.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35968
+    URL: https://glasgowtrader.co.uk/listing/l-leitch-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/7] D.Mckinnon plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35944 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [3/7] DLPlastering & painting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Westcliff, Dumbarton G82 5DD, UK
+    Phone:   07385 821970
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35970
+    URL: https://glasgowtrader.co.uk/listing/dlplastering-painting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/7] Walter hardie plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35946 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [5/7] David Urquhart Plasterer
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35876 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [6/7] Kellock Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35856 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [7/7] SB Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35954 — attached location 'Dumbarton' instead
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   7
+  Created: 2
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

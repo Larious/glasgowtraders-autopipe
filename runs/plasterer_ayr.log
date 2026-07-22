@@ -1,0 +1,246 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  2111 existing listings on site
+  Ledger: 2093 place_ids
+
+[SEARCH] Finding plasterers in Ayr...
+  Found 13 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] Absolute Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Whitletts Rd, Ayr KA8 0JB, UK
+    Phone:   07738 354593
+    Website: N/A
+    Rating:  5 (48 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35972
+    URL: https://glasgowtrader.co.uk/listing/absolute-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] Ayrshire Plastering Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2A Arran Park, Prestwick KA9 2BF, UK
+    Phone:   01292 475117
+    Website: https://ayrshireplastering.co.uk/
+    Rating:  4.7 (31 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35974
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-plastering-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/13] SS Plastering And Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 70 Dalmellington Rd, Ayr KA7 3PU, UK
+    Phone:   07979 276151
+    Website: http://ssplasteringtiling.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35976
+    URL: https://glasgowtrader.co.uk/listing/ss-plastering-and-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/13] AGH Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Queens Terrace, Ayrshire, Prestwick, Ayr KA9 1AH, UK
+    Phone:   07981 666145
+    Website: N/A
+    Rating:  4.8 (12 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35978
+    URL: https://glasgowtrader.co.uk/listing/agh-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/13] Ram Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 175 Hillfoot Rd, Ayr KA7 3JZ, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35980
+    URL: https://glasgowtrader.co.uk/listing/ram-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/13] SJB Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Cunningham Cres, Ayr KA7 3HY, UK
+    Phone:   07592 627605
+    Website: N/A
+    Rating:  3 (2 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35982
+    URL: https://glasgowtrader.co.uk/listing/sjb-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/13] C W Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 34A Raise St, Saltcoats KA21 5JX, UK
+    Phone:   07786 260612
+    Website: N/A
+    Rating:  5 (29 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35984
+    URL: https://glasgowtrader.co.uk/listing/c-w-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/13] J H Plastering Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Laburnum Rd, Ayr KA7 3JS, UK
+    Phone:   01292 257124
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35986
+    URL: https://glasgowtrader.co.uk/listing/j-h-plastering-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] JM Plasterers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17b S Cres Rd, Ardrossan KA22 8EA, UK
+    Phone:   01294 605516
+    Website: http://www.jmplasterersayrshire.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35988
+    URL: https://glasgowtrader.co.uk/listing/jm-plasterers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/13] Approved Plastering & Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 62 Brewlands Dr, Symington, Kilmarnock KA1 5RH, UK
+    Phone:   01563 831141
+    Website: http://www.approvedplastering.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35990
+    URL: https://glasgowtrader.co.uk/listing/approved-plastering-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/13] J O S Plastering Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Elm Park, Ardrossan KA22 7BZ, UK
+    Phone:   07873 613918
+    Website: http://www.josplasteringayrshire.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35992
+    URL: https://glasgowtrader.co.uk/listing/j-o-s-plastering-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/13] Ian Cuthbert Plasterers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 150 Dalmellington Rd, Ayr KA7 3UB, UK
+    Phone:   01292 287418
+    Website: http://www.cuthbertplasterers.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35994
+    URL: https://glasgowtrader.co.uk/listing/ian-cuthbert-plasterers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] Ayr plastering service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Russell Dr, Ayr KA8 8JJ, UK
+    Phone:   07565 753170
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35996
+    URL: https://glasgowtrader.co.uk/listing/ayr-plastering-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   13
+  Created: 13
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

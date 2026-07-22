@@ -1,0 +1,302 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  2069 existing listings on site
+  Ledger: 2051 place_ids
+
+[SEARCH] Finding plasterers in Airdrie...
+  Found 17 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] AIR External Render & Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 133F Northburn Ave, Airdrie ML6 6PZ, UK
+    Phone:   07418 351303
+    Website: http://externalrenderairdrie.co.uk/
+    Rating:  5 (18 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35888
+    URL: https://glasgowtrader.co.uk/listing/air-external-render-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/17] Prestige Plastering Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 44 Killearn Cres, Plains, Airdrie ML6 7UR, UK
+    Phone:   07949 262262
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35890
+    URL: https://glasgowtrader.co.uk/listing/prestige-plastering-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/17] Alex Ross Plasterers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 60 Sherdale Ave, Chapelhall, Airdrie ML6 8TY, UK
+    Phone:   01236 747186
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35892
+    URL: https://glasgowtrader.co.uk/listing/alex-ross-plasterers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/17] Mark Wightman Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Beechwood Gardens, Mossend, Bellshill ML4 2JF, UK
+    Phone:   07909 773900
+    Website: http://plasteringglasgow.com/
+    Rating:  5 (45 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35894
+    URL: https://glasgowtrader.co.uk/listing/mark-wightman-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/17] Chris Brennan Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Woodburn Ave, Airdrie ML6 9EN, UK
+    Phone:   07533 302326
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35896
+    URL: https://glasgowtrader.co.uk/listing/chris-brennan-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/17] AT Plastering Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35866 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [7/17] GB Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 McKenna Dr, Airdrie ML6 0JF, UK
+    Phone:   07766 153701
+    Website: N/A
+    Rating:  3.3 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35898
+    URL: https://glasgowtrader.co.uk/listing/gb-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/17] D McNally and Son Plasterers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 51 Drumpellier Ave, Cumbernauld, Glasgow G67 4NP, UK
+    Phone:   01236 722271
+    Website: http://www.plastering-glasgow.co.uk/
+    Rating:  4.4 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35900
+    URL: https://glasgowtrader.co.uk/listing/d-mcnally-and-son-plasterers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/17] Connor & Scott Roughcasting & Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 94 Corsewall St, Coatbridge ML5 1RD, UK
+    Phone:   07951 120688
+    Website: N/A
+    Rating:  4.2 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35902
+    URL: https://glasgowtrader.co.uk/listing/connor-scott-roughcasting-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/17] Render and Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, 5 Palacecraig St, Rosehall Industrial Est, Coatbridge ML5 4JW, UK
+    Phone:   01236 802441
+    Website: https://renderandroughcasting.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35904
+    URL: https://glasgowtrader.co.uk/listing/render-and-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/17] ABH PLASTERING
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Pillans Ct, Hamilton ML3 0QD, UK
+    Phone:   07565 242508
+    Website: N/A
+    Rating:  5 (22 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35906
+    URL: https://glasgowtrader.co.uk/listing/abh-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/17] Art Of Italia - Venetian Marble Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 62 Robertson St, Airdrie ML6 0EW, UK
+    Phone:   07949 262262
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35908
+    URL: https://glasgowtrader.co.uk/listing/art-of-italia-venetian-marble-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/17] STS Plastering Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Tollpark Cres, Newmains, Wishaw ML2 9DD, UK
+    Phone:   07713 358538
+    Website: http://www.stsplastering.com/
+    Rating:  5 (26 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35910
+    URL: https://glasgowtrader.co.uk/listing/sts-plastering-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/17] The Plaster Surgeon
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Locksley Rd, Cumbernauld, Glasgow G67 4EW, UK
+    Phone:   07746 727845
+    Website: http://www.theplastersurgeon.co.uk/
+    Rating:  4.8 (22 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35912
+    URL: https://glasgowtrader.co.uk/listing/the-plaster-surgeon/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/17] A.T. Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Langmuir Ave, Kirkintilloch, Glasgow G66 2JQ, UK
+    Phone:   07734 809136
+    Website: https://www.facebook.com/a.t.plastering1
+    Rating:  5 (35 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35914
+    URL: https://glasgowtrader.co.uk/listing/a-t-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/17] Mark Wightman Plastering Training Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, Thankerton Works, 7a Main St, Holytown, Motherwell ML1 4TA, UK
+    Phone:   07909 773900
+    Website: https://markwightmanplasteringtrainingcourses.co.uk/
+    Rating:  5 (45 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35916
+    URL: https://glasgowtrader.co.uk/listing/mark-wightman-plastering-training-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/17] SIB Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 89 Tantallon Dr, Coatbridge ML5 2LU, UK
+    Phone:   07535 282164
+    Website: https://www.sibplastering.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35918
+    URL: https://glasgowtrader.co.uk/listing/sib-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   17
+  Created: 16
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

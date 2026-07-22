@@ -1,0 +1,204 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  2097 existing listings on site
+  Ledger: 2079 place_ids
+
+[SEARCH] Finding plasterers in Clydebank...
+  Found 19 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/19] Kellock Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35856 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [2/19] D.Mckinnon plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Park Winding, Erskine PA8 7AS, UK
+    Phone:   07534 593780
+    Website: https://www.dmckinnonplastering.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35944
+    URL: https://glasgowtrader.co.uk/listing/d-mckinnon-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/19] Walter hardie plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 64 Athelstane Rd, Glasgow G13 3NU, UK
+    Phone:   07921 239730
+    Website: N/A
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35946
+    URL: https://glasgowtrader.co.uk/listing/walter-hardie-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/19] Elite finish plastering glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35850 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [5/19] Lets Get Plastered Plastering Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35848 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [6/19] Completely Plastered
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35864 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [7/19] J Baines Plastering Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Newburgh, Erskine PA8 6EG, UK
+    Phone:   0141 812 4021
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35948
+    URL: https://glasgowtrader.co.uk/listing/j-baines-plastering-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/19] Alan Fleming Plastering Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Parksail Dr, Erskine PA8 7HU, UK
+    Phone:   07753 610712
+    Website: http://www.facebook.com/afplasteringservices
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35950
+    URL: https://glasgowtrader.co.uk/listing/alan-fleming-plastering-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/19] Gray's Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35862 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [10/19] David Urquhart Plasterer
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35876 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [11/19] D.R Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 42 Dalsetter Ave, Glasgow G15 8TE, UK
+    Phone:   07875 390281
+    Website: https://www.instagram.com/d.r_plastering_?igsh=MjVtbTlld3RxdnEx&utm_source=qr
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35952
+    URL: https://glasgowtrader.co.uk/listing/d-r-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/19] Glasgow Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35846 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [13/19] Rockstar Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35858 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [14/19] SB Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 N Dumgoyne Ave, Milngavie, Glasgow G62 7JT, UK
+    Phone:   07500 045076
+    Website: N/A
+    Rating:  5 (16 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35954
+    URL: https://glasgowtrader.co.uk/listing/sb-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/19] Fine Line Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35852 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [16/19] Ravenswood Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35860 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [17/19] Barton G Plastering Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 33/34, Dalsetter Business Centre, 42 Dalsetter Ave, Glasgow G15 8TE, UK
+    Phone:   0141 944 2127
+    Website: http://bartonplastering.co.uk/
+    Rating:  3.4 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35956
+    URL: https://glasgowtrader.co.uk/listing/barton-g-plastering-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/19] J K Quigley Plasterers and Builders
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35882 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [19/19] S.Hutchison Plasterers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35868 — attached location 'Clydebank' instead
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   19
+  Created: 7
+  Skipped: 12 (already existed)
+  Failed:  0
+============================================================

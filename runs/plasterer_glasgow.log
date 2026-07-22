@@ -1,0 +1,314 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  2048 existing listings on site
+  Ledger: 2030 place_ids
+
+[SEARCH] Finding plasterers in Glasgow...
+  Found 17 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] Glasgow Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Lubas Pl, Glasgow G42 0BW, UK
+    Phone:   07766 677411
+    Website: http://www.glasgowplastering.co.uk/
+    Rating:  5 (110 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35846
+    URL: https://glasgowtrader.co.uk/listing/glasgow-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/17] Lets Get Plastered Plastering Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40 Rosshill Ave, Glasgow G52 4AU, UK
+    Phone:   07519 754388
+    Website: http://www.letsgetplasteredplasteringservices.co.uk/
+    Rating:  5 (53 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35848
+    URL: https://glasgowtrader.co.uk/listing/lets-get-plastered-plastering-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/17] Elite finish plastering glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 2, 1360 Paisley Rd W, Glasgow G52 1SS, UK
+    Phone:   07895 177447
+    Website: https://elitefinishplasteringglasgow.com/
+    Rating:  5 (10 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35850
+    URL: https://glasgowtrader.co.uk/listing/elite-finish-plastering-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/17] Fine Line Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Victoria St, Rutherglen, Glasgow G73 1DT, UK
+    Phone:   07751 621144
+    Website: https://www.finelineplaster.co.uk/
+    Rating:  4.8 (67 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35852
+    URL: https://glasgowtrader.co.uk/listing/fine-line-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/17] LW Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Durward Ct, Shawlands, Glasgow G41 3RZ, UK
+    Phone:   07920 027224
+    Website: http://www.lwplastering.co.uk/
+    Rating:  4.8 (29 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35854
+    URL: https://glasgowtrader.co.uk/listing/lw-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/17] Kellock Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit Studio 2001 Mile End Mill, Abbey Mill Business Centre Ltd, 12 Seedhill Rd, Paisley PA1 1JS, UK
+    Phone:   07714 365523
+    Website: http://kellockplastering.co.uk/
+    Rating:  5 (22 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35856
+    URL: https://glasgowtrader.co.uk/listing/kellock-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/17] Rockstar Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: The Royal Thai Consulate, 4 Woodside Pl, Glasgow G3 7QF, UK
+    Phone:   N/A
+    Website: http://www.rockstarplastering.co.uk/
+    Rating:  5 (23 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35858
+    URL: https://glasgowtrader.co.uk/listing/rockstar-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/17] Ravenswood Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 61 Ravenswood Dr, Shawlands, Glasgow G41 3UH, UK
+    Phone:   07867 500810
+    Website: http://www.ravenswoodplastering.co.uk/
+    Rating:  4.7 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35860
+    URL: https://glasgowtrader.co.uk/listing/ravenswood-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/17] Gray's Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Benn Ave, Paisley PA1 1SY, UK
+    Phone:   07584 078240
+    Website: N/A
+    Rating:  4.8 (21 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35862
+    URL: https://glasgowtrader.co.uk/listing/grays-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/17] Completely Plastered
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 71 Stravaig Walk, Paisley PA2 0RX, UK
+    Phone:   07946 649951
+    Website: https://completelyplastere.wixsite.com/mysite
+    Rating:  5 (36 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35864
+    URL: https://glasgowtrader.co.uk/listing/completely-plastered/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/17] AT Plastering Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Kingsley Ct, Uddingston, Glasgow G71 6QH, UK
+    Phone:   07901 522317
+    Website: http://atplasteringservices.co.uk/
+    Rating:  5 (190 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35866
+    URL: https://glasgowtrader.co.uk/listing/at-plastering-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/17] S.Hutchison Plasterers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Linden St, Glasgow G13 1DG, UK
+    Phone:   07506 867971
+    Website: http://www.shutchisonplasterers.com/
+    Rating:  5 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35868
+    URL: https://glasgowtrader.co.uk/listing/s-hutchison-plasterers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/17] Paragon Plasterers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 272 Bath St, Glasgow G2 4JR, UK
+    Phone:   07477 143258
+    Website: http://www.paragon-prl.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35870
+    URL: https://glasgowtrader.co.uk/listing/paragon-plasterers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/17] Plasterer Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29a Rosyth Rd, Glasgow G5 0YD, UK
+    Phone:   N/A
+    Website: https://www.plasterer-glasgow.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35872
+    URL: https://glasgowtrader.co.uk/listing/plasterer-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/17] Pablo Plastering and Renovations
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 510 Shieldhall Rd, Glasgow G51 4HE, UK
+    Phone:   07497 769230
+    Website: https://www.pablorenovationsglasgow.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35874
+    URL: https://glasgowtrader.co.uk/listing/pablo-plastering-and-renovations/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/17] David Urquhart Plasterer
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Larchfield Pl, Scotstounhill, Glasgow G14 9YJ, UK
+    Phone:   07967 511240
+    Website: N/A
+    Rating:  4.4 (7 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35876
+    URL: https://glasgowtrader.co.uk/listing/david-urquhart-plasterer/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/17] GET PLASTERED
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Keith Ave, Giffnock, Glasgow G46 6LG, UK
+    Phone:   07834 456280
+    Website: http://www.getplastered.net/
+    Rating:  5 (13 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35878
+    URL: https://glasgowtrader.co.uk/listing/get-plastered/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   17
+  Created: 17
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

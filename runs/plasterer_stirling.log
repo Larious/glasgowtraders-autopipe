@@ -1,0 +1,135 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  2142 existing listings on site
+  Ledger: 2124 place_ids
+
+[SEARCH] Finding plasterers in Stirling...
+  Found 10 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] J M Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47 Almond Ct, Stirling FK7 7QS, UK
+    Phone:   07841 407877
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36034
+    URL: https://glasgowtrader.co.uk/listing/j-m-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/10] PLASTERER STIRLING
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 49 Lyon Cres, Bridge of Allan, Stirling FK9 4DN, UK
+    Phone:   07543 591655
+    Website: http://www.facebook.com/plastererstirling
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36036
+    URL: https://glasgowtrader.co.uk/listing/plasterer-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/10] Nara plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Stirling Rd, Tullibody, Alloa FK10 2QE, UK
+    Phone:   07376 602044
+    Website: https://www.facebook.com/NARA-Plastering-109786957294469/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36038
+    URL: https://glasgowtrader.co.uk/listing/nara-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/10] C.S plastering & tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35962 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [5/10] Sapphire Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36020 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [6/10] McGrandles Plasterers & Roughcasters
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36022 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [7/10] Distinct Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36018 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [8/10] Grays Rendering Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Clackmannan Rd, Alloa FK10 1RR, UK
+    Phone:   07809 220496
+    Website: https://www.facebook.com/PlasteringandRoughcasting/
+    Rating:  5 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36040
+    URL: https://glasgowtrader.co.uk/listing/grays-rendering-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/10] Central Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 292 Carseview, Tullibody, Alloa FK10 2SU, UK
+    Phone:   07580 142548
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36042
+    URL: https://glasgowtrader.co.uk/listing/central-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/10] B Stewart Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36030 — attached location 'Stirling' instead
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   10
+  Created: 5
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

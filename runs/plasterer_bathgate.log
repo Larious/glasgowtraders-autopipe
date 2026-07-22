@@ -1,0 +1,210 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  2147 existing listings on site
+  Ledger: 2129 place_ids
+
+[SEARCH] Finding plasterers in Bathgate...
+  Found 13 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] A D Property Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36 Jardine Pl, Bathgate EH48 4GU, UK
+    Phone:   07709 742714
+    Website: http://www.adpropertyscotland.co.uk/
+    Rating:  4.8 (20 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36044
+    URL: https://glasgowtrader.co.uk/listing/a-d-property-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] A Smooth Plasterer - Plastering & Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Gareloch Way, Whitburn, Bathgate EH47 0RT, UK
+    Phone:   01501 743590
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36046
+    URL: https://glasgowtrader.co.uk/listing/a-smooth-plasterer-plastering-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/13] Allwalls Plastering Specialist
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 50 Loch Trool Way, Whitburn, Bathgate EH47 0RL, UK
+    Phone:   01501 744632
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36048
+    URL: https://glasgowtrader.co.uk/listing/allwalls-plastering-specialist/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/13] SMOOTHWALLS PLASTERING
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Cadell Pl, Fauldhouse, Bathgate EH47 9AR, UK
+    Phone:   07767 891734
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36050
+    URL: https://glasgowtrader.co.uk/listing/smoothwalls-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/13] CTL Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36026 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [6/13] Traditional plasterers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36016 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [7/13] R.j.s. Plastering & Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 Glenisla Ct, Whitburn, Bathgate EH47 8NX, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36052
+    URL: https://glasgowtrader.co.uk/listing/r-j-s-plastering-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/13] Top 2 Bottom Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 86 Riddochhill Rd, Blackburn, Bathgate EH47 7ET, UK
+    Phone:   07786 005623
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36054
+    URL: https://glasgowtrader.co.uk/listing/top-2-bottom-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] A Craise Plastering & Roofing Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 Marchwood Cres, Bathgate EH48 1DA, UK
+    Phone:   07900 374602
+    Website: N/A
+    Rating:  2.5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36056
+    URL: https://glasgowtrader.co.uk/listing/a-craise-plastering-roofing-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/13] Emerald plastering services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 34 Abercorn Pl, Winchburgh, Broxburn EH52 6RL, UK
+    Phone:   07504 562035
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36058
+    URL: https://glasgowtrader.co.uk/listing/emerald-plastering-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/13] Tony Fowler Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 38 Union Rd, Edinburgh, Broxburn EH52 6HR, UK
+    Phone:   07710 210651
+    Website: http://plasterer-edinburgh.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36060
+    URL: https://glasgowtrader.co.uk/listing/tony-fowler-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/13] R.Blake Plastering Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Eldrick Ave, Fauldhouse, Bathgate EH47 9BG, UK
+    Phone:   07921 850308
+    Website: https://www.facebook.com/share/1Bn5Ayq23U/?mibextid=wwXIfr
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36062
+    URL: https://glasgowtrader.co.uk/listing/r-blake-plastering-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] Lets Get Plastered Plastering Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35848 — attached location 'Bathgate' instead
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   13
+  Created: 10
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

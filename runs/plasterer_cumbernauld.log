@@ -1,0 +1,160 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  2104 existing listings on site
+  Ledger: 2086 place_ids
+
+[SEARCH] Finding plasterers in Cumbernauld...
+  Found 15 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] D McNally and Son Plasterers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35900 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [2/15] The Plaster Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35912 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [3/15] Smooth Finish Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Craigside Ct, Westfield, Cumbernauld, Glasgow G68 9EE, UK
+    Phone:   07577 788779
+    Website: https://www.facebook.com/share/194qdn4Fkr/
+    Rating:  5 (18 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35958
+    URL: https://glasgowtrader.co.uk/listing/smooth-finish-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] A.T. Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35914 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [5/15] AT Plastering Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35866 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [6/15] Mark Wightman Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35894 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [7/15] Elite finish plastering glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35850 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] Reproduction Plaster Co.Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, Period House, 5 Campsie Rd, Kirkintilloch, Glasgow G66 1SL, UK
+    Phone:   0141 776 1112
+    Website: https://www.reproplaster.co.uk/
+    Rating:  4.9 (135 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35960
+    URL: https://glasgowtrader.co.uk/listing/reproduction-plaster-co-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] Glasgow Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35846 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [10/15] Lets Get Plastered Plastering Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35848 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [11/15] C.S plastering & tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 73 Bonnymuir Cres, Bonnybridge, Falkirk FK4 1GD, UK
+    Phone:   07931 220724
+    Website: N/A
+    Rating:  5 (12 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35962
+    URL: https://glasgowtrader.co.uk/listing/c-s-plastering-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] Morton's Plastering & Interiors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Tollcross Rd, Glasgow G32 8TD, UK
+    Phone:   07859 315248
+    Website: https://www.mortonsplastering.com/
+    Rating:  5 (16 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35964
+    URL: https://glasgowtrader.co.uk/listing/mortons-plastering-interiors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] DH plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Hillside, Kilsyth, Glasgow G65 9HJ, UK
+    Phone:   07966 198218
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35966
+    URL: https://glasgowtrader.co.uk/listing/dh-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] GET PLASTERED
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35878 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [15/15] Kellock Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35856 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   15
+  Created: 5
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

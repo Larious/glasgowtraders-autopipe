@@ -1,0 +1,17 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  2157 existing listings on site
+  Ledger: 2139 place_ids
+
+[SEARCH] Finding plasterers in Carluke...
+  Found 0 candidates (0 filtered as merchants/off-trade)
+No plasterers found in Carluke

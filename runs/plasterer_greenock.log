@@ -1,0 +1,188 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  2124 existing listings on site
+  Ledger: 2106 place_ids
+
+[SEARCH] Finding plasterers in Greenock...
+  Found 11 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] Chalmers Plastering and Roughcasting Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Fairrie St, Greenock PA15 2HY, UK
+    Phone:   07534 899320
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35998
+    URL: https://glasgowtrader.co.uk/listing/chalmers-plastering-and-roughcasting-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/11] Spot on Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Forfar Rd, Greenock PA16 0YJ, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36000
+    URL: https://glasgowtrader.co.uk/listing/spot-on-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/11] John Mcmenamin Plastering & Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Greenock PA15 2EY, UK
+    Phone:   07984 023310
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36002
+    URL: https://glasgowtrader.co.uk/listing/john-mcmenamin-plastering-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/11] Scott Cairns Plastering Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Davaar Rd, Greenock PA16 0RE, UK
+    Phone:   07908 566053
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36004
+    URL: https://glasgowtrader.co.uk/listing/scott-cairns-plastering-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/11] Paul Skilling Plastering & Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Teal Dr, Inverkip, Greenock PA16 0LU, UK
+    Phone:   07974 805688
+    Website: http://paulskilling.co.uk/
+    Rating:  1 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36006
+    URL: https://glasgowtrader.co.uk/listing/paul-skilling-plastering-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/11] 5 star plasterers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 95 Arran Ave, Port Glasgow PA14 6NS, UK
+    Phone:   07708 483971
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36008
+    URL: https://glasgowtrader.co.uk/listing/5-star-plasterers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/11] Lets get plastered (scotland)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 167 Grieve Rd, Greenock PA16 7AW, UK
+    Phone:   01475 716752
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36010
+    URL: https://glasgowtrader.co.uk/listing/lets-get-plastered-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/11] Chalmers Plastering & Roughcasting Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Arden Road, Greenock PA15 3AB, UK
+    Phone:   07534 899320
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36012
+    URL: https://glasgowtrader.co.uk/listing/chalmers-plastering-roughcasting-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/11] L.Leitch Plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35968 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [10/11] D.Mckinnon plastering
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35944 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [11/11] McLachlan Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 31, 50 St Lawrence St, Greenock PA15 4ST, UK
+    Phone:   07979 595561
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36014
+    URL: https://glasgowtrader.co.uk/listing/mclachlan-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   11
+  Created: 9
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

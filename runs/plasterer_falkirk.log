@@ -1,0 +1,203 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Plasterer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  2133 existing listings on site
+  Ledger: 2115 place_ids
+
+[SEARCH] Finding plasterers in Falkirk...
+  Found 14 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Traditional plasterers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Rainhill Ave, Maddiston, Falkirk FK2 0NR, UK
+    Phone:   07771 422734
+    Website: N/A
+    Rating:  4.8 (21 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36016
+    URL: https://glasgowtrader.co.uk/listing/traditional-plasterers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] C.S plastering & tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35962 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [3/14] Distinct Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Braeview, Stenhousemuir, Larbert FK5 3DS, UK
+    Phone:   07842 771551
+    Website: https://www.facebook.com/DistinctPlaster/
+    Rating:  5 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36018
+    URL: https://glasgowtrader.co.uk/listing/distinct-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/14] Sapphire Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Ladeside Cres, Stenhousemuir, Larbert FK5 3DG, UK
+    Phone:   07733 226524
+    Website: https://www.facebook.com/Sapphireplastering/
+    Rating:  4.5 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36020
+    URL: https://glasgowtrader.co.uk/listing/sapphire-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] McGrandles Plasterers & Roughcasters
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 84 Chestnut Cres, Denny FK6 6LF, UK
+    Phone:   01324 822671
+    Website: https://www.facebook.com/profile.php?id=61566386671197
+    Rating:  4.5 (8 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36022
+    URL: https://glasgowtrader.co.uk/listing/mcgrandles-plasterers-roughcasters/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] Harry McPeake Plasterers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Campfield St, Falkirk FK2 7DN, UK
+    Phone:   01324 638595
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36024
+    URL: https://glasgowtrader.co.uk/listing/harry-mcpeake-plasterers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/14] CTL Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 38 Pilgrims Hill, Linlithgow EH49 7LW, UK
+    Phone:   07599 220555
+    Website: https://ctlplastering.godaddysites.com/
+    Rating:  5 (46 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36026
+    URL: https://glasgowtrader.co.uk/listing/ctl-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] Central Plastering (Falkirk)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Wellbank, Westquarter, Falkirk FK2 9SF, UK
+    Phone:   07880 761156
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36028
+    URL: https://glasgowtrader.co.uk/listing/central-plastering-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] B Stewart Plastering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Clyde Cres, Larbert FK5 4NL, UK
+    Phone:   01324 563102
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36030
+    URL: https://glasgowtrader.co.uk/listing/b-stewart-plastering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] The Plaster Surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35912 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [11/14] D McNally and Son Plasterers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35900 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [12/14] S Cameron Plastering & roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 83 Strowan Rd, Grangemouth FK3 9HD, UK
+    Phone:   07788 435130
+    Website: https://sitelift.site/scameronplastering/
+    Rating:  5 (9 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36032
+    URL: https://glasgowtrader.co.uk/listing/s-cameron-plastering-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] Sapphire Plastering
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [14/14] Prestige Plastering Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35890 — attached location 'Falkirk' instead
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   14
+  Created: 9
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

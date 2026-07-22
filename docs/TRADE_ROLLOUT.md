@@ -22,7 +22,7 @@ Stirling, Bathgate, Carluke.
 - [x] roofer (158) — 16/16 core towns
 - [x] joiner (162) — 16/16 core towns
 - [x] painter (160) — 16/16 core towns
-- [ ] plasterer (163)
+- [x] plasterer (163) — 16/16 core towns
 - [ ] kitchen (293)
 - [ ] bathroom (169)
 - [ ] tiler (170)
