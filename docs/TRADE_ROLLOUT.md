@@ -35,7 +35,7 @@ Stirling, Bathgate, Carluke.
 
 ### Phase 2 trades (configured 2026-07-22)
 - [x] driveway (164)   - [x] flooring (287)    - [x] removals (308)
-- [x] auto (311)       - [x] scaffolder (300)  - [ ] solar (305)
+- [x] auto (311)       - [x] scaffolder (300)  - [x] solar (305)
 - [ ] cctv (304)       - [ ] damp (284)        - [ ] chimney (282)
 - [ ] loft (294)       - [ ] conservatory (283)- [ ] carpet (281)
 - [ ] bricklayer (280) - [ ] stonemason (306)  - [ ] insulation (292)

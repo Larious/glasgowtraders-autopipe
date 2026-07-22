@@ -1,0 +1,106 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  3430 existing listings on site
+  Ledger: 3426 place_ids
+
+[SEARCH] Finding solar panel installers in East Kilbride...
+  Found 11 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] | Get Alpha Group | Alpha Renewable Wholesale UK Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Brampton, East Kilbride, Glasgow G75 8XL, UK
+    Phone:   07931 104576
+    Website: https://www.getalpha.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 400
+  Creating listing...
+    Post ID: 38616
+    URL: https://glasgowtrader.co.uk/listing/get-alpha-group-alpha-renewable-wholesale-uk-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/11] Solar Panel Team Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38607 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [3/11] ASI Renewables Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38615 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [4/11] Lukas Solar Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38609 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [5/11] 1st Solar Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Rm 6, EK Business Centre, 14 Stroud Rd, East Kilbride, Glasgow G75 0YA, UK
+    Phone:   0800 233 5171
+    Website: https://www.1stsolar.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 400
+  Creating listing...
+    Post ID: 38617
+    URL: https://glasgowtrader.co.uk/listing/1st-solar-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/11] Energy Made Greener Heating, Plumbing & Renewables
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28927 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [7/11] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [8/11] Kingdom Builders & Renewables
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32335 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [9/11] PWS Electrical Services & Solar Installation
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26920 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [10/11] Ceiba Renewables Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38605 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [11/11] Solar PV Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38606 — attached location 'East Kilbride' instead
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   11
+  Created: 2
+  Skipped: 9 (already existed)
+  Failed:  0
+============================================================

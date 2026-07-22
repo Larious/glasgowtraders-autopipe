@@ -1,0 +1,168 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  3437 existing listings on site
+  Ledger: 3433 place_ids
+
+[SEARCH] Finding solar panel installers in Falkirk...
+  Found 13 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] The Local Solar Company.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7, 5 Munro Rd, Stirling FK7 7UU, UK
+    Phone:   01786 595000
+    Website: https://www.localsolarcompany.co.uk/
+    Rating:  5 (27 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38623
+    URL: https://glasgowtrader.co.uk/listing/the-local-solar-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] Solar 4 Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38604 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [3/13] Solar Central Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38613 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [4/13] Solar Panel Edge Protection Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38603 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [5/13] Scotland Solar Panel Installers | Taylor Solar
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38611 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [6/13] Central Renewables Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 Manor Cres, Tullibody, Alloa FK10 2RJ, UK
+    Phone:   07979 157795
+    Website: http://centralrenewables.co.uk/
+    Rating:  5 (41 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38624
+    URL: https://glasgowtrader.co.uk/listing/central-renewables-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/13] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [8/13] Eco T Renewables
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Eco T House, Plean Industrial Estate, Stirling FK7 8BJ, UK
+    Phone:   01324 334535
+    Website: https://ecotrenewables.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38625
+    URL: https://glasgowtrader.co.uk/listing/eco-t-renewables/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] Lukas Solar Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38609 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [10/13] Solar Services Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38610 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [11/13] GreenFox Energy - Solar for the Savvy
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Abercorn School House, Newton, Broxburn EH52 6PZ, UK
+    Phone:   0330 133 8165
+    Website: http://www.greenfoxenergy.co.uk/
+    Rating:  5 (16 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38626
+    URL: https://glasgowtrader.co.uk/listing/greenfox-energy-solar-for-the-savvy/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/13] Nexus Solar Europe
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 7C, Block 1, Whiteside Industrial Estate, Factory Rd, Bathgate EH48 2RX, UK
+    Phone:   0141 255 2426
+    Website: https://www.nexuscontracts.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38627
+    URL: https://glasgowtrader.co.uk/listing/nexus-solar-europe/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] Renewable Heat
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2 Hayfield, Bankside, Falkirk FK2 7ZR, UK
+    Phone:   0330 022 0480
+    Website: https://www.renewableheat.com/
+    Rating:  4.4 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38628
+    URL: https://glasgowtrader.co.uk/listing/renewable-heat/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   13
+  Created: 6
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

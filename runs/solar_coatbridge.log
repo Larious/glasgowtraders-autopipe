@@ -1,0 +1,45 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  3429 existing listings on site
+  Ledger: 3425 place_ids
+
+[SEARCH] Finding solar panel installers in Coatbridge...
+  Found 4 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] Lukas Solar Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38609 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/4] Solar Panel Edge Protection Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38603 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/4] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/4] Solar Services Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38610 — attached location 'Coatbridge' instead
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   4
+  Created: 0
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

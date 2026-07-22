@@ -1,0 +1,138 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  3416 existing listings on site
+  Ledger: 3412 place_ids
+
+[SEARCH] Finding solar panel installers in Glasgow...
+  Found 7 candidates (13 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 205 The, Embroidery Mill, Paisley PA1 1TJ, UK
+    Phone:   0141 378 6760
+    Website: https://www.solarspecialistsscotland.co.uk/
+    Rating:  5 (59 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38602
+    URL: https://glasgowtrader.co.uk/listing/solar-specialists-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/7] Solar Panel Edge Protection Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Balmuildy Rd, Bishopbriggs, Glasgow G23 5HE, UK
+    Phone:   0808 164 9919
+    Website: https://www.solarpanelpigeonproofing.co.uk/
+    Rating:  5 (107 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38603
+    URL: https://glasgowtrader.co.uk/listing/solar-panel-edge-protection-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/7] PWS Electrical Services & Solar Installation
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26920 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [4/7] Solar 4 Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, Westerton Farm, Killearn, Glasgow G63 9LE, UK
+    Phone:   0141 611 5663
+    Website: https://solar4scotland.co.uk/
+    Rating:  5 (21 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38604
+    URL: https://glasgowtrader.co.uk/listing/solar-4-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/7] Ceiba Renewables Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, Wellfield Court, Ibrox Business Park, 46 Broomloan Pl, Ibrox, Glasgow G51 2JR, UK
+    Phone:   0800 009 6285
+    Website: http://www.ceiba-renewables.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38605
+    URL: https://glasgowtrader.co.uk/listing/ceiba-renewables-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/7] Solar PV Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 256 Castlemilk Rd, Glasgow G44 4LB, UK
+    Phone:   07557 116068
+    Website: https://solarpvscotland.com/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38606
+    URL: https://glasgowtrader.co.uk/listing/solar-pv-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/7] Solar Panel Team Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Colvilles Park, East Kilbride, Glasgow G75 0GZ, UK
+    Phone:   07830 316400
+    Website: https://solarpanelinstallationglasgow.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38607
+    URL: https://glasgowtrader.co.uk/listing/solar-panel-team-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   7
+  Created: 6
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

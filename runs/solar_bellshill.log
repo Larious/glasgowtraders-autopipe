@@ -1,0 +1,30 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  3429 existing listings on site
+  Ledger: 3425 place_ids
+
+[SEARCH] Finding solar panel installers in Bellshill...
+  Found 1 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/1] Solar Dynamix UK Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38614 — attached location 'Bellshill' instead
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   1
+  Created: 0
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

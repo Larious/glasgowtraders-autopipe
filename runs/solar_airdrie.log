@@ -1,0 +1,153 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  3423 existing listings on site
+  Ledger: 3419 place_ids
+
+[SEARCH] Finding solar panel installers in Airdrie...
+  Found 10 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] Lukas Solar Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Brankston Ave, Stonehouse, Larkhall ML9 3JF, UK
+    Phone:   07771 179305
+    Website: http://lukassolar.co.uk/
+    Rating:  5 (62 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38609
+    URL: https://glasgowtrader.co.uk/listing/lukas-solar-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/10] Solar Services Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4, Flemington Industrial Park, Craigneuk St, Wishaw, Motherwell ML1 2NT, UK
+    Phone:   01698 239709
+    Website: https://solarservicesscotland.co.uk/
+    Rating:  4.8 (15 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38610
+    URL: https://glasgowtrader.co.uk/listing/solar-services-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/10] Scotland Solar Panel Installers | Taylor Solar
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Standhill Industrial Park, Unit 5 Whitburn Rd, Bathgate EH48 2XJ, UK
+    Phone:   01506 379890
+    Website: https://taylorsolar.co.uk/?utm_source=google-local
+    Rating:  5 (23 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38611
+    URL: https://glasgowtrader.co.uk/listing/scotland-solar-panel-installers-taylor-solar/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/10] Gener8 Solar ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 Young St, Wishaw ML2 8HJ, UK
+    Phone:   0141 465 7134
+    Website: https://www.gener8solar.co.uk/
+    Rating:  5 (20 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38612
+    URL: https://glasgowtrader.co.uk/listing/gener8-solar-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/10] Solar 4 Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38604 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [6/10] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [7/10] Solar Central Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Falside Dr, Bathgate EH48 2DF, UK
+    Phone:   01506 237774
+    Website: https://www.solarcentralscotland.co.uk/
+    Rating:  5 (29 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38613
+    URL: https://glasgowtrader.co.uk/listing/solar-central-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/10] Solar Services Scotland
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [9/10] Solar Dynamix UK Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 9, John Brannan Way, Bellshill ML4 3HD, UK
+    Phone:   01698 225520
+    Website: http://solardynamixuk.co.uk/
+    Rating:  3.8 (21 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38614
+    URL: https://glasgowtrader.co.uk/listing/solar-dynamix-uk-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/10] Solar Panel Team Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38607 — attached location 'Airdrie' instead
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   10
+  Created: 6
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

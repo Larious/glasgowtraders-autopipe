@@ -1,0 +1,48 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  3422 existing listings on site
+  Ledger: 3418 place_ids
+
+[SEARCH] Finding solar panel installers in Paisley...
+  Found 2 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [2/2] Affordable Heating | solar panel installation Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit No 4A 11, 15 Blackhall St, Paisley PA1 1TD, UK
+    Phone:   0141 611 0014
+    Website: https://affordableheating.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38608
+    URL: https://glasgowtrader.co.uk/listing/affordable-heating-solar-panel-installation-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   2
+  Created: 1
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

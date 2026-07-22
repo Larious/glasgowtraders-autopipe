@@ -1,0 +1,71 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  3434 existing listings on site
+  Ledger: 3430 place_ids
+
+[SEARCH] Finding solar panel installers in Ayr...
+  Found 4 candidates (16 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] Solar and Wind Applications Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Trabboch House, By Stair KA5 5HX, UK
+    Phone:   01292 591000
+    Website: https://www.solarwindapplications.com/
+    Rating:  5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38620
+    URL: https://glasgowtrader.co.uk/listing/solar-and-wind-applications-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/4] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [3/4] Solar Panel Edge Protection Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38603 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [4/4] Solar meeting on Saturday
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Dalmilling, Ayr KA8 0PB, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38621
+    URL: https://glasgowtrader.co.uk/listing/solar-meeting-on-saturday/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   4
+  Created: 2
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

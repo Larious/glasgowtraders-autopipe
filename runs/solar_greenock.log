@@ -1,0 +1,68 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  3436 existing listings on site
+  Ledger: 3432 place_ids
+
+[SEARCH] Finding solar panel installers in Greenock...
+  Found 6 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/6] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [2/6] Solar 4 Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38604 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [3/6] Solar Panel Edge Protection Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38603 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [4/6] Ceiba Renewables Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38605 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [5/6] Solar PV Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38606 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [6/6] Watterman Renewable Energy
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: The Watterman Business Centre, 15 Watt St, Greenock PA16 8JN, UK
+    Phone:   01475 787955
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38622
+    URL: https://glasgowtrader.co.uk/listing/watterman-renewable-energy/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   6
+  Created: 1
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

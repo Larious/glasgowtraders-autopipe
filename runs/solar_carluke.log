@@ -1,0 +1,93 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  3448 existing listings on site
+  Ledger: 3444 place_ids
+
+[SEARCH] Finding solar panel installers in Carluke...
+  Found 11 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] Lukas Solar Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38609 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [2/11] Solar Services Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38610 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [3/11] Gener8 Solar ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38612 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [4/11] AEC Solar Energy Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Takamatua, School Rd, Carmichael, Biggar ML12 6PG, UK
+    Phone:   07968 867914
+    Website: https://solarbattery.scot/
+    Rating:  5 (14 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 400
+  Creating listing...
+    Post ID: 38634
+    URL: https://glasgowtrader.co.uk/listing/aec-solar-energy-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/11] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [6/11] Solar Services Scotland
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [7/11] Scotland Solar Panel Installers | Taylor Solar
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38611 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [8/11] Solar Central Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38613 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [9/11] Solar Panel Edge Protection Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38603 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [10/11] Solar 4 Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38604 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [11/11] Solar Panel Team Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38607 — attached location 'Carluke' instead
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   11
+  Created: 1
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

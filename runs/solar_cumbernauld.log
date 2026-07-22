@@ -1,0 +1,35 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  3433 existing listings on site
+  Ledger: 3429 place_ids
+
+[SEARCH] Finding solar panel installers in Cumbernauld...
+  Found 2 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] Solar Panel Edge Protection Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38603 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [2/2] Solar 4 Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38604 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   2
+  Created: 0
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

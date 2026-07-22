@@ -1,0 +1,68 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  3432 existing listings on site
+  Ledger: 3428 place_ids
+
+[SEARCH] Finding solar panel installers in Clydebank...
+  Found 6 candidates (14 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/6] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [2/6] Solar 4 Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38604 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [3/6] Solar Panel Edge Protection Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38603 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [4/6] Ceiba Renewables Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38605 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [5/6] Funding For Solar
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2nd Floor, Spectrum House, Business Park, 1A North Ave, Clydebank G81 2DR, UK
+    Phone:   0800 669 6179
+    Website: https://fundingforsolar.com/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38618
+    URL: https://glasgowtrader.co.uk/listing/funding-for-solar/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/6] PWS Electrical Services & Solar Installation
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26920 — attached location 'Clydebank' instead
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   6
+  Created: 1
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

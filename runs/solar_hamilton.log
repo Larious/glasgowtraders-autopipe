@@ -1,0 +1,88 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  3429 existing listings on site
+  Ledger: 3425 place_ids
+
+[SEARCH] Finding solar panel installers in Hamilton...
+  Found 10 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] Lukas Solar Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38609 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/10] Solar Services Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38610 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/10] Gener8 Solar ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38612 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [4/10] Solar Services Scotland
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [5/10] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [6/10] Solar Panel Team Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38607 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/10] ASI Renewables Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 - 1, 8 Redwood Cres, East Kilbride, Glasgow G74 5PA, UK
+    Phone:   0141 536 0295
+    Website: https://www.asirenewablesltd.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 400
+  Creating listing...
+    Post ID: 38615
+    URL: https://glasgowtrader.co.uk/listing/asi-renewables-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/10] Solar Dynamix UK Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38614 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [9/10] Ceiba Renewables Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38605 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [10/10] Scotland Solar Panel Installers | Taylor Solar
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38611 — attached location 'Hamilton' instead
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   10
+  Created: 1
+  Skipped: 9 (already existed)
+  Failed:  0
+============================================================

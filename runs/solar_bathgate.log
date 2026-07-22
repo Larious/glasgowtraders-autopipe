@@ -1,0 +1,101 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  3446 existing listings on site
+  Ledger: 3442 place_ids
+
+[SEARCH] Finding solar panel installers in Bathgate...
+  Found 10 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] Solar Central Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38613 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [2/10] Scotland Solar Panel Installers | Taylor Solar
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38611 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [3/10] Nexus Solar Europe
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38627 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [4/10] Alba Electrical and Renewable Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 49 Tollbraes Rd, Bathgate EH48 2SH, UK
+    Phone:   07475 123849
+    Website: https://albaelectrical.co.uk/
+    Rating:  5 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 400
+  Creating listing...
+    Post ID: 38632
+    URL: https://glasgowtrader.co.uk/listing/alba-electrical-and-renewable-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/10] GreenFox Energy - Solar for the Savvy
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38626 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [6/10] Lukas Solar Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38609 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [7/10] Solar Services Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38610 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [8/10] Gener8 Solar ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38612 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [9/10] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [10/10] Prestige Solar Energy
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: unit j, Burnhouse industrial estate, Whitburn, Bathgate EH47 0LQ, UK
+    Phone:   07950 339634
+    Website: N/A
+    Rating:  1.8 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 400
+  Creating listing...
+    Post ID: 38633
+    URL: https://glasgowtrader.co.uk/listing/prestige-solar-energy/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   10
+  Created: 2
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

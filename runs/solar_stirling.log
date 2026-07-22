@@ -1,0 +1,119 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  3443 existing listings on site
+  Ledger: 3439 place_ids
+
+[SEARCH] Finding solar panel installers in Stirling...
+  Found 11 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] The Local Solar Company.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38623 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [2/11] Central Renewables Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38624 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [3/11] Solar 4 Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38604 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [4/11] Ledi Renewables Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5, 20 Munro Rd, Stirling FK7 7UU, UK
+    Phone:   N/A
+    Website: http://ledirenewable.co.uk/
+    Rating:  4.8 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38629
+    URL: https://glasgowtrader.co.uk/listing/ledi-renewables-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/11] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [6/11] Eco T Renewables
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38625 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [7/11] Solar Panel Edge Protection Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38603 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [8/11] South Scotland Solar Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Dingleton Rd, Melrose TD6 9QS, UK
+    Phone:   0131 381 6366
+    Website: https://southscotlandsolarltd.co.uk/
+    Rating:  5 (37 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38630
+    URL: https://glasgowtrader.co.uk/listing/south-scotland-solar-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/11] Lukas Solar Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38609 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [10/11] 1314 Renewables
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: UNIT 4, Birchwood Business Park, Station Wynd, Doune FK16 6ER, UK
+    Phone:   01786 842604
+    Website: http://1314renewables.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38631
+    URL: https://glasgowtrader.co.uk/listing/1314-renewables/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/11] Scotland Solar Panel Installers | Taylor Solar
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38611 — attached location 'Stirling' instead
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   11
+  Created: 3
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

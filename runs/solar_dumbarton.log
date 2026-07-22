@@ -1,0 +1,73 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Solar Panel Installer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  3433 existing listings on site
+  Ledger: 3429 place_ids
+
+[SEARCH] Finding solar panel installers in Dumbarton...
+  Found 7 candidates (13 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] Solar 4 Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38604 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [2/7] Solar Specialists Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38602 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [3/7] Solar Panel Edge Protection Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38603 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [4/7] Fusebox Solar Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Campbell St, Helensburgh G84 8BG, UK
+    Phone:   01436 670189
+    Website: https://www.fuseboxelectrical.com/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38619
+    URL: https://glasgowtrader.co.uk/listing/fusebox-solar-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/7] Ceiba Renewables Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38605 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [6/7] Sure Point Plumbing Heating renewables Gas
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27958 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [7/7] PWS Electrical Services & Solar Installation
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26920 — attached location 'Dumbarton' instead
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   7
+  Created: 1
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================
