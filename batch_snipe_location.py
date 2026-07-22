@@ -46,10 +46,14 @@ import tile_gen
 GEN_TILE_DIR = "assets/featured/generated"
 
 
-def build_and_upload_tile(enriched, cat_id, location_name):
+def build_and_upload_tile(enriched, cat_id, location_name, tries=4):
     """Generate a unique branded featured tile for this business and upload it
     to WP media. Returns the media id, or None. Google photos are ToS-frozen
-    (rule 5); these original tiles give each listing a distinct image."""
+    (rule 5); these original tiles give each listing a distinct image.
+
+    The media endpoint returns 500/400 intermittently when the host is under
+    sustained upload load, so retry with backoff before giving up — a single
+    blip previously left the listing permanently without a featured image."""
     import re
     os.makedirs(GEN_TILE_DIR, exist_ok=True)
     slug = re.sub(r"[^a-z0-9]+", "-", enriched["name"].lower()).strip("-")[:48] or "listing"
@@ -60,18 +64,32 @@ def build_and_upload_tile(enriched, cat_id, location_name):
     with open(path, "rb") as f:
         data = f.read()
     fname = (slug + ".jpg").encode("ascii", "ignore").decode("ascii")
-    r = session.post(f"{WP_BASE_URL}/wp-json/wp/v2/media",
-                     headers={"Content-Disposition": f'attachment; filename="{fname}"',
-                              "Content-Type": "image/jpeg"},
-                     data=data, timeout=60)
-    if r.status_code != 201:
-        print(f"    tile upload failed: {r.status_code}")
-        return None
-    mid = r.json()["id"]
-    session.post(f"{WP_BASE_URL}/wp-json/wp/v2/media/{mid}",
-                 json={"alt_text": f"{enriched['name']} — Glasgow Trader"}, timeout=30)
-    time.sleep(0.3)
-    return mid
+
+    for attempt in range(1, tries + 1):
+        try:
+            r = session.post(f"{WP_BASE_URL}/wp-json/wp/v2/media",
+                             headers={"Content-Disposition": f'attachment; filename="{fname}"',
+                                      "Content-Type": "image/jpeg"},
+                             data=data, timeout=60)
+        except requests.exceptions.RequestException as e:
+            if attempt == tries:
+                print(f"    tile upload failed after {tries} tries: {e}")
+                return None
+            time.sleep(2 ** (attempt - 1))
+            continue
+        if r.status_code == 201:
+            mid = r.json()["id"]
+            session.post(f"{WP_BASE_URL}/wp-json/wp/v2/media/{mid}",
+                         json={"alt_text": f"{enriched['name']} — Glasgow Trader"},
+                         timeout=30)
+            time.sleep(0.3)
+            return mid
+        if attempt == tries:
+            print(f"    tile upload failed after {tries} tries: {r.status_code}")
+            return None
+        print(f"    tile upload {r.status_code}, retry {attempt}/{tries - 1}")
+        time.sleep(2 ** (attempt - 1))
+    return None
 
 # ── Trade registry ──────────────────────────────────────────
 # Per-run parameters (CLAUDE.md): search queries, category mapping, junk
