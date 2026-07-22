@@ -1,0 +1,211 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  1856 existing listings on site
+  Ledger: 1838 place_ids
+
+[SEARCH] Finding joiners in Clydebank...
+  Found 18 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/18] Blair Joinery Ltd Clydebank
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32121 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [2/18] COLVI JOINERS
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Block C, N Elgin Pl, Clydebank G81 1LU, UK
+    Phone:   0141 954 6666
+    Website: http://colvi-joiners.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35462
+    URL: https://glasgowtrader.co.uk/listing/colvi-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/18] GCRS Joinery Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Granville St, Clydebank G81 3BN, UK
+    Phone:   07467 843923
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35464
+    URL: https://glasgowtrader.co.uk/listing/gcrs-joinery-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/18] Cf Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35266 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [5/18] O'Rourke Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35274 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [6/18] John Berry Joiner & Tiler
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Shaftesbury St, Dalmuir, Clydebank G81 4DS, UK
+    Phone:   07870 317958
+    Website: https://john-berry-joiner-tiler.ueniweb.com/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35466
+    URL: https://glasgowtrader.co.uk/listing/john-berry-joiner-tiler/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/18] Mcintyre Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35268 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [8/18] F.M Joinery And Building Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35262 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [9/18] J F Joinery & Building
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Brook St, Clydebank G81 3LQ, UK
+    Phone:   07970 787026
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35468
+    URL: https://glasgowtrader.co.uk/listing/j-f-joinery-building/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/18] AJ Joiners Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35280 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [11/18] Ab Joinery & Building Service Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 E Thomson St, Clydebank G81 2BS, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  2 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35470
+    URL: https://glasgowtrader.co.uk/listing/ab-joinery-building-service-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/18] A.Daley Joinery LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35328 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [13/18] D.W. Joiners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35296 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [14/18] Wilson Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Renfield St, Renfrew PA4 8RF, UK
+    Phone:   07836 528810
+    Website: http://www.wilsonjoinery.net/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35472
+    URL: https://glasgowtrader.co.uk/listing/wilson-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/18] Kub Carpentry
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35298 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [16/18] Argyle Joinery And Carpentry
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35260 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [17/18] Mack Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 41 Halgreen Ave, Glasgow G15 8AL, UK
+    Phone:   07898 120480
+    Website: N/A
+    Rating:  4 (4 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35474
+    URL: https://glasgowtrader.co.uk/listing/mack-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/18] G Kerr Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 126 Shakespeare Ave, Clydebank G81 3ET, UK
+    Phone:   0141 952 3830
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35476
+    URL: https://glasgowtrader.co.uk/listing/g-kerr-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   18
+  Created: 8
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

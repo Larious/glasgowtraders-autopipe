@@ -1,0 +1,307 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  1936 existing listings on site
+  Ledger: 1918 place_ids
+
+[SEARCH] Finding joiners in Bathgate...
+  Found 18 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/18] Bathgate Joinery and Building Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31539 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [2/18] PJR JOINERY
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 60 St Paul's Dr, Armadale, Bathgate EH48 2LT, UK
+    Phone:   07368 203819
+    Website: https://www.pjrjoinery.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35622
+    URL: https://glasgowtrader.co.uk/listing/pjr-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/18] A.Bathgate Joiners Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 31 Montrose Terrace, Edinburgh EH7 5DJ, UK
+    Phone:   07855 460006
+    Website: http://www.andrewbathgatejoiners.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35624
+    URL: https://glasgowtrader.co.uk/listing/a-bathgate-joiners-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/18] Elite Joinery Manufacturing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Inchcross, Standhill Rd, Bathgate EH48 2HT, UK
+    Phone:   01506 653252
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35626
+    URL: https://glasgowtrader.co.uk/listing/elite-joinery-manufacturing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/18] Brush & Hammer - Joinery & Decorating Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Leyland Rd, Bathgate EH48 2UA, UK
+    Phone:   07447 199685
+    Website: https://www.brushandhammer.co.uk/
+    Rating:  4.9 (60 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35628
+    URL: https://glasgowtrader.co.uk/listing/brush-hammer-joinery-decorating-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/18] RMC Joinery & Building Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31511 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [7/18] Domestic Joinery & Maintenance Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lawview, Starlaw Rd, Bathgate EH47 7BW, UK
+    Phone:   07917 125498
+    Website: http://www.domesticjoinery.com/
+    Rating:  4 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35630
+    URL: https://glasgowtrader.co.uk/listing/domestic-joinery-maintenance-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/18] Jim Downes Carpentry & Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Lower Bathville, Armadale, Bathgate EH48 2LD, UK
+    Phone:   07711 357818
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35632
+    URL: https://glasgowtrader.co.uk/listing/jim-downes-carpentry-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/18] T&N Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 W Main St, Armadale, Bathgate EH48 3PZ, UK
+    Phone:   01501 470990
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35634
+    URL: https://glasgowtrader.co.uk/listing/tn-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/18] CK Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Hillhouse Ave, Bathgate EH48 4BQ, UK
+    Phone:   01506 652456
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35636
+    URL: https://glasgowtrader.co.uk/listing/ck-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/18] Elite Joinery & Building Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 606 Leyland Rd, Bathgate EH48 2XE, UK
+    Phone:   01506 796074
+    Website: https://www.elitejoineryservices.co.uk/contact-us
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35638
+    URL: https://glasgowtrader.co.uk/listing/elite-joinery-building-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/18] Saltire Joinery Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Graham Ct, Blackburn, Bathgate EH47 7BT, UK
+    Phone:   01506 338171
+    Website: https://www.saltirejoinery.co.uk/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35640
+    URL: https://glasgowtrader.co.uk/listing/saltire-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/18] Brian Glen Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 The Grn, Bathgate EH48 4DA, UK
+    Phone:   01506 654160
+    Website: N/A
+    Rating:  3.7 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35642
+    URL: https://glasgowtrader.co.uk/listing/brian-glen-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/18] Douglas Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40 Easter Inch Rd, Bathgate EH48 2FJ, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35644
+    URL: https://glasgowtrader.co.uk/listing/douglas-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/18] MTG JOINERY
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 61 Gracie's Wynd, Armadale, Bathgate EH48 2LJ, UK
+    Phone:   07397 918213
+    Website: http://mtgjoinery.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35646
+    URL: https://glasgowtrader.co.uk/listing/mtg-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/18] SM Joinery Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 78 Glenwood Dr, Armadale, Bathgate EH48 3TU, UK
+    Phone:   N/A
+    Website: http://www.smjoineryservices.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35648
+    URL: https://glasgowtrader.co.uk/listing/sm-joinery-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/18] Newtown Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Old Golf Course Rd, Armadale, Bathgate EH48 2TA, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35650
+    URL: https://glasgowtrader.co.uk/listing/newtown-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/18] Russell Joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Turnpike Rd., Calderwood Rd., East Calder, Livingston EH53 0GS, UK
+    Phone:   07949 492625
+    Website: http://russelljoinery.com/
+    Rating:  5 (17 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35652
+    URL: https://glasgowtrader.co.uk/listing/russell-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   18
+  Created: 16
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

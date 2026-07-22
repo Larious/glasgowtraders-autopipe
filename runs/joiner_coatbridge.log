@@ -1,0 +1,204 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  1812 existing listings on site
+  Ledger: 1794 place_ids
+
+[SEARCH] Finding joiners in Coatbridge...
+  Found 19 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/19] DLM Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35358 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/19] Direct joinery & Plumbing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28708 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/19] M.c Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52 Nelson Ave, Coatbridge ML5 5LS, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35374
+    URL: https://glasgowtrader.co.uk/listing/m-c-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/19] PNG Joinery LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35340 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [5/19] Brady Joiners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35346 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [6/19] Elite Joinery and Fire Protection Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Block 2 Unit, 4, Dundyvan Industrial Estate, Coatbridge ML5 4AQ, UK
+    Phone:   01236 268429
+    Website: https://elitejoineryandfireprotection.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35376
+    URL: https://glasgowtrader.co.uk/listing/elite-joinery-and-fire-protection-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/19] KesKes Joinery Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35344 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [8/19] SS JOINERY CONSTRUCTION
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35360 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [9/19] ST Joinery and Project Management Contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35352 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [10/19] Stewart Joinery Co.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Millbrae Ave, Chryston, Glasgow G69 9LT, UK
+    Phone:   07342 695604
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35378
+    URL: https://glasgowtrader.co.uk/listing/stewart-joinery-co/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/19] Surma Joinery & Carpentry Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35366 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [12/19] Cedar Lane Woodworks
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Stobcross St, Coatbridge ML5 1BE, UK
+    Phone:   07944 754264
+    Website: https://www.cedarlanewoodworks.co.uk/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35380
+    URL: https://glasgowtrader.co.uk/listing/cedar-lane-woodworks/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/19] G Shanks Joiners & Builders
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32157 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [14/19] RMcK Carpenter / Handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 103 St Brides Way, Bothwell, Glasgow G71 8QG, UK
+    Phone:   07354 784123
+    Website: https://rmck.net/handy
+    Rating:  5 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35382
+    URL: https://glasgowtrader.co.uk/listing/rmck-carpenter-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/19] Decked Out Joinery ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35342 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [16/19] Start 2 Finish Building & Joinery Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35362 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [17/19] Q Fire Protection and Carpentry Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Hollandhurst Rd, Coatbridge ML5 2EG, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35384
+    URL: https://glasgowtrader.co.uk/listing/q-fire-protection-and-carpentry-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/19] Assured joinery & building solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33259 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [19/19] Callan Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Craigswood Cres, Baillieston, Glasgow G69 7FE, UK
+    Phone:   07813 924623
+    Website: http://www.callanjoineryglasgow.co.uk/
+    Rating:  4.3 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35386
+    URL: https://glasgowtrader.co.uk/listing/callan-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   19
+  Created: 7
+  Skipped: 12 (already existed)
+  Failed:  0
+============================================================

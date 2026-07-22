@@ -1,0 +1,305 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  1780 existing listings on site
+  Ledger: 1762 place_ids
+
+[SEARCH] Finding joiners in Paisley...
+  Found 20 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/20] Lynch Joinery and Building
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Highfield Ave, Glenburn, Paisley PA2 8LG, UK
+    Phone:   07376 746468
+    Website: http://lynchjoineryandbuilding.co.uk/
+    Rating:  5 (13 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35310
+    URL: https://glasgowtrader.co.uk/listing/lynch-joinery-and-building/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/20] C4 Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35288 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [3/20] RD Joiners LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33014 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [4/20] Adam Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 143B Braehead Rd, Glenburn, Paisley PA2 8QG, UK
+    Phone:   07740 461268
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35312
+    URL: https://glasgowtrader.co.uk/listing/adam-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/20] Hawkhead Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 90 Glenburn Cres, Glenburn, Paisley PA2 8LU, UK
+    Phone:   07786 176879
+    Website: N/A
+    Rating:  3.7 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35314
+    URL: https://glasgowtrader.co.uk/listing/hawkhead-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/20] DSM Joinery & Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Gallacher Ave, Paisley PA2 9HE, UK
+    Phone:   01505 340098
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35316
+    URL: https://glasgowtrader.co.uk/listing/dsm-joinery-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/20] Glenvale Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Greenlaw Dr, Paisley PA1 3RU, UK
+    Phone:   0141 840 1225
+    Website: N/A
+    Rating:  4.3 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35318
+    URL: https://glasgowtrader.co.uk/listing/glenvale-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/20] Cf Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35266 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [9/20] A McIntyre Joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Macdowall St, Paisley PA3 2NB, UK
+    Phone:   0141 887 5822
+    Website: https://www.mcintyrejoinery.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35320
+    URL: https://glasgowtrader.co.uk/listing/a-mcintyre-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/20] Smith Joiner & Locksmith
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 34 Ivy Gdns, Paisley PA1 2BF, UK
+    Phone:   07549 081554
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35322
+    URL: https://glasgowtrader.co.uk/listing/smith-joiner-locksmith/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/20] Mcintyre Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35268 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [12/20] Miller Joinery And Shopfitting Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 109 Abercorn St, Paisley PA3 4AT, UK
+    Phone:   0141 887 6633
+    Website: http://www.millerjoineryandshopfitting.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35324
+    URL: https://glasgowtrader.co.uk/listing/miller-joinery-and-shopfitting-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/20] GCA Joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Studio 4, Ground Floor, Sir James Clark Building, Paisley PA1 1TJ, UK
+    Phone:   07979 143330
+    Website: http://gcajoinery.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35326
+    URL: https://glasgowtrader.co.uk/listing/gca-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/20] A.Daley Joinery LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Urquhart Cres, Renfrew PA4 0SP, UK
+    Phone:   07544 951505
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35328
+    URL: https://glasgowtrader.co.uk/listing/a-daley-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/20] Simpson's Joinery & Upholstery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3, 60-62 Well St, Paisley PA1 2QE, UK
+    Phone:   07590 580531
+    Website: http://www.simpsonsjandu.co.uk/
+    Rating:  5 (33 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35330
+    URL: https://glasgowtrader.co.uk/listing/simpsons-joinery-upholstery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/20] SJB Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Redhurst Way, Glenburn, Paisley PA2 8PY, UK
+    Phone:   0800 612 4369
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35332
+    URL: https://glasgowtrader.co.uk/listing/sjb-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/20] FT Joinery and Building LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Cumbrae Rd, Glenburn, Paisley PA2 8HA, UK
+    Phone:   0141 459 0484
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35334
+    URL: https://glasgowtrader.co.uk/listing/ft-joinery-and-building-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/20] Clydeview Joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 19, Mossedge Industrial Estate, Moss Rd, Linwood, Paisley PA3 3HR, UK
+    Phone:   07921 850718
+    Website: https://www.clydeviewjoinery.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35336
+    URL: https://glasgowtrader.co.uk/listing/clydeview-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/20] Hillcroft Joiners Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 59 Broomlands St, Paisley PA1 2NH, UK
+    Phone:   0845 459 6106
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35338
+    URL: https://glasgowtrader.co.uk/listing/hillcroft-joiners-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/20] Kub Carpentry
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35298 — attached location 'Paisley' instead
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   20
+  Created: 15
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

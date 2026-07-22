@@ -1,0 +1,230 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  1952 existing listings on site
+  Ledger: 1934 place_ids
+
+[SEARCH] Finding joiners in Carluke...
+  Found 17 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] CLYDE JOINERY LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31941 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [2/17] Jamie Doak Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 St Andrew's Ct, Carluke ML8 5SX, UK
+    Phone:   07813 624692
+    Website: https://www.jamiedoakjoinery.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35654
+    URL: https://glasgowtrader.co.uk/listing/jamie-doak-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/17] Oakdean joiners builders Home extension specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31914 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [4/17] Cleland Joiners & Builders
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 9, Harestanes Industrial Estate, Carluke ML8 5PP, UK
+    Phone:   01555 772175
+    Website: http://www.clelandjoinersandbuilders.co.uk/
+    Rating:  3.4 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35656
+    URL: https://glasgowtrader.co.uk/listing/cleland-joiners-builders/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/17] RT Dickson Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Albert Park, Braidwood, Carluke ML8 4RZ, UK
+    Phone:   07789 692172
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35658
+    URL: https://glasgowtrader.co.uk/listing/rt-dickson-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/17] SS JOINERY CONSTRUCTION
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35360 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [7/17] Nimmo joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Summerlee Rd, Wishaw ML2 7XB, UK
+    Phone:   01698 372018
+    Website: http://www.nimmojoinery.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35660
+    URL: https://glasgowtrader.co.uk/listing/nimmo-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/17] Mason Joinery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35434 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [9/17] Astonish Joiners & Building Contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31665 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [10/17] Lanarkshire Joinery Services Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 72 Lesmahagow Rd, Lesmahagow, Boghead, Lanark ML11 0JA, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35662
+    URL: https://glasgowtrader.co.uk/listing/lanarkshire-joinery-services-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/17] Your Local Joiner
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Wishaw ML2 7BL, UK
+    Phone:   07748 519975
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35664
+    URL: https://glasgowtrader.co.uk/listing/your-local-joiner/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/17] FADS Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Glen Shee Ln, Carluke ML8 4RX, UK
+    Phone:   01555 771310
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35666
+    URL: https://glasgowtrader.co.uk/listing/fads-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/17] A Hepburn Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 53 Braeside Cres, Kirkmuirhill, Lanark ML11 9SE, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35668
+    URL: https://glasgowtrader.co.uk/listing/a-hepburn-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/17] AA Brown Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Martha Pl, Larkhall ML9 2RA, UK
+    Phone:   07717 457115
+    Website: http://www.aabrownjoinery.com/
+    Rating:  4.9 (60 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35670
+    URL: https://glasgowtrader.co.uk/listing/aa-brown-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/17] SkL joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Strathaven Rd, Lesmahagow, ML110DN ML11 0DN, UK
+    Phone:   07947 250661
+    Website: https://www.facebook.com/profile.php?id=100094587337740
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35672
+    URL: https://glasgowtrader.co.uk/listing/skl-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/17] B Smith Joiner & Building Contractors Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31995 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [17/17] Surma Joinery & Carpentry Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35366 — attached location 'Carluke' instead
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   17
+  Created: 10
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

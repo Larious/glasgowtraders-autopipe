@@ -1,0 +1,261 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  1923 existing listings on site
+  Ledger: 1905 place_ids
+
+[SEARCH] Finding joiners in Stirling...
+  Found 16 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] Premier Joiners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33147 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [2/16] Dawson Bespoke Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Abbey Rd, Stirling FK8 1LL, UK
+    Phone:   07825 509461
+    Website: https://dawsonbespokejoinery.com/
+    Rating:  5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35596
+    URL: https://glasgowtrader.co.uk/listing/dawson-bespoke-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/16] Carpenters and Joiners in Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Bobbin Wynd, Cambusbarron, Stirling FK7 9LZ, UK
+    Phone:   01786 469870
+    Website: https://professionalcarpentry.co.uk/stirling/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35598
+    URL: https://glasgowtrader.co.uk/listing/carpenters-and-joiners-in-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/16] RB Joinery and building services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32401 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [5/16] Lomond Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 49, Alloa Business Centre, Whins Rd, Alloa FK10 3SA, UK
+    Phone:   07517 380799
+    Website: https://lomondjoiners.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35600
+    URL: https://glasgowtrader.co.uk/listing/lomond-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] Graham Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Gillies Dr, Stirling FK7 7TY, UK
+    Phone:   01786 815980
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35602
+    URL: https://glasgowtrader.co.uk/listing/graham-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] K R G Joiners & Contractors Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Forsyth Ln, Whins of Milton, Stirling FK7 8FH, UK
+    Phone:   07778 234119
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35604
+    URL: https://glasgowtrader.co.uk/listing/k-r-g-joiners-contractors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/16] Architectural Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36-38 Forth St, Stirling FK8 1UF, UK
+    Phone:   01786 469696
+    Website: https://www.sashandcase.com/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35606
+    URL: https://glasgowtrader.co.uk/listing/architectural-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/16] BB Joinery Blairdrummond ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Blackdub Farm, Stirling FK9 4UJ, UK
+    Phone:   07837 194055
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35608
+    URL: https://glasgowtrader.co.uk/listing/bb-joinery-blairdrummond-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/16] Haven Joiners And Builders Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52b Bandeath Industrial Est, Throsk, Stirling FK7 7NP, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35610
+    URL: https://glasgowtrader.co.uk/listing/haven-joiners-and-builders-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] Allanbridge Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3 Ward Street Complex, 8 Ward St, Alloa FK10 1ER, UK
+    Phone:   01259 729491
+    Website: http://www.allanbridgejoinery.com/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35612
+    URL: https://glasgowtrader.co.uk/listing/allanbridge-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/16] George Bolton & Son Joiners & Builders
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 132 Alexander McLeod Pl, Fallin, Stirling FK7 7HP, UK
+    Phone:   01786 816864
+    Website: http://www.georgeboltonbuilders.co.uk/
+    Rating:  3.7 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35614
+    URL: https://glasgowtrader.co.uk/listing/george-bolton-son-joiners-builders/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] Dunblane Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Mill Court, 9 Springbank Gardens, Dunblane FK15 9JZ, UK
+    Phone:   07843 413728
+    Website: https://hillheadjoiners.co.uk/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35616
+    URL: https://glasgowtrader.co.uk/listing/dunblane-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] P H Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37 Northend, Cambusbarron, Stirling FK7 9LH, UK
+    Phone:   07827 965828
+    Website: https://www.phjoinery.co.uk/
+    Rating:  1 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35618
+    URL: https://glasgowtrader.co.uk/listing/p-h-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] Lewis Joinery & Fitting
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35570 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [16/16] Paul Harris Joiners & Builders
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, 4 Duncarron Pl, estate, Denny FK6 6ED, UK
+    Phone:   07775 805411
+    Website: http://www.paulharrisjoiners.com/
+    Rating:  4.3 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35620
+    URL: https://glasgowtrader.co.uk/listing/paul-harris-joiners-builders/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   16
+  Created: 13
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

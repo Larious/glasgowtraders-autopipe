@@ -1,0 +1,264 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  1819 existing listings on site
+  Ledger: 1801 place_ids
+
+[SEARCH] Finding joiners in Bellshill...
+  Found 19 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/19] Shilliday Joinery Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52 Community Rd, Bellshill ML4 2DE, UK
+    Phone:   07707 850359
+    Website: https://www.facebook.com/share/14fMrDcfjsb/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35388
+    URL: https://glasgowtrader.co.uk/listing/shilliday-joinery-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/19] S G M Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Lynnburn Ave, Bellshill ML4 3EL, UK
+    Phone:   07809 403886
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35390
+    URL: https://glasgowtrader.co.uk/listing/s-g-m-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/19] Surma Joinery & Carpentry Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35366 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [4/19] COM Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35370 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [5/19] SS JOINERY CONSTRUCTION
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35360 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [6/19] IBN Joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 115 Grayling Rd, New Stevenston, Motherwell ML1 4ZD, UK
+    Phone:   07506 177232
+    Website: https://www.ibnjoinery.com/contact
+    Rating:  4.8 (20 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35392
+    URL: https://glasgowtrader.co.uk/listing/ibn-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/19] C Glancey Joiners and Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Duchess Ct, New Stevenston, Motherwell ML1 4ZP, UK
+    Phone:   07917 181597
+    Website: https://www.valuedoubleglazing.co.uk/
+    Rating:  5 (10 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35394
+    URL: https://glasgowtrader.co.uk/listing/c-glancey-joiners-and-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/19] KD Joinery Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Catrine Cres, Motherwell ML1 2BW, UK
+    Phone:   07986 873622
+    Website: https://www.facebook.com/KDJoinery02
+    Rating:  4 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35396
+    URL: https://glasgowtrader.co.uk/listing/kd-joinery-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/19] Stephen Britten Carpentry & Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Wellhall Rd, Hamilton ML3 9BL, UK
+    Phone:   07532 188778
+    Website: http://www.facebook.com/stephenbrittencarpentry
+    Rating:  5 (15 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35398
+    URL: https://glasgowtrader.co.uk/listing/stephen-britten-carpentry-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/19] J&J Joinery Contracts Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5, 640 Merry St, Motherwell ML1 4BP, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35400
+    URL: https://glasgowtrader.co.uk/listing/jj-joinery-contracts-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/19] DLM Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35358 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [12/19] Pro Build Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Gunn Quadrant, Bellshill ML4 2UT, UK
+    Phone:   07852 212419
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35402
+    URL: https://glasgowtrader.co.uk/listing/pro-build-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/19] Made 2 Measure Joiners & Builders Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23, Parkburn Industrial Estate, Park Burn Ct, Hamilton ML3 0QQ, UK
+    Phone:   0800 612 6314
+    Website: N/A
+    Rating:  4.6 (10 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35404
+    URL: https://glasgowtrader.co.uk/listing/made-2-measure-joiners-builders-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/19] RMcK Carpenter / Handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35382 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [15/19] K. Melia Joiners & Building Contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32966 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [16/19] Direct joinery & Plumbing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28708 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [17/19] Glencairn Builders & Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Springbank Cres, Carfin, New Stevenston, Motherwell ML1 4FW, UK
+    Phone:   07506 751512
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35406
+    URL: https://glasgowtrader.co.uk/listing/glencairn-builders-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/19] Willowood Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 38 Lorne Dr, Motherwell ML1 3UN, UK
+    Phone:   07775 424272
+    Website: N/A
+    Rating:  4.6 (9 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35408
+    URL: https://glasgowtrader.co.uk/listing/willowood-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/19] D J Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Strathview Rd, Bellshill, Glasgow G63 0PS, UK
+    Phone:   07739 707336
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35410
+    URL: https://glasgowtrader.co.uk/listing/d-j-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   19
+  Created: 12
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

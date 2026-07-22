@@ -1,0 +1,268 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  1909 existing listings on site
+  Ledger: 1891 place_ids
+
+[SEARCH] Finding joiners in Falkirk...
+  Found 15 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Art of Joinery Falkirk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 89 Woodburn Rd, Falkirk FK2 9BT, UK
+    Phone:   07821 978601
+    Website: http://www.artofjoinery.co.uk/index.html
+    Rating:  4.8 (39 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35568
+    URL: https://glasgowtrader.co.uk/listing/art-of-joinery-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] Lewis Joinery & Fitting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Melville St, Falkirk FK1 1HZ, UK
+    Phone:   07939 919635
+    Website: http://lewisjoinery.co.uk/
+    Rating:  5 (50 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35570
+    URL: https://glasgowtrader.co.uk/listing/lewis-joinery-fitting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] A&B Joinery Falkirk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Skaithmuir Ave, Carronshore, Falkirk FK2 8BJ, UK
+    Phone:   07707 267053
+    Website: http://abjoineryfalkirk.com/
+    Rating:  4.3 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35572
+    URL: https://glasgowtrader.co.uk/listing/ab-joinery-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] C Wizz Joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Melville St, Falkirk FK1 1HZ, UK
+    Phone:   07909 908056
+    Website: http://www.cwizzjoinery.co.uk/
+    Rating:  5 (10 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35574
+    URL: https://glasgowtrader.co.uk/listing/c-wizz-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] Premier Joinery & Plumbing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Hillock Ave, Redding, Falkirk FK2 9UT, UK
+    Phone:   07779 199527
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35576
+    URL: https://glasgowtrader.co.uk/listing/premier-joinery-plumbing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] Star Joiners Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4, Castlelaurie Works, Falkirk FK2 7XF, UK
+    Phone:   01324 228929
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35578
+    URL: https://glasgowtrader.co.uk/listing/star-joiners-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/15] MacIntyre's Building & Joinery Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32363 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] Queensway joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Seafield Farm, Falkirk FK1 3AH, UK
+    Phone:   07784 114747
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35580
+    URL: https://glasgowtrader.co.uk/listing/queensway-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] Ebony Joiners Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Exchange Cottage, 71A Randolph Cres, Brightons, Falkirk FK2 0EZ, UK
+    Phone:   01324 883781
+    Website: http://www.ebony-joiners.co.uk/
+    Rating:  4.4 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35582
+    URL: https://glasgowtrader.co.uk/listing/ebony-joiners-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/15] Derek Mclaren Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Crownest Loan, Stenhousemuir, Larbert FK5, UK
+    Phone:   01324 814949
+    Website: http://www.derekmclarenjoiners.co.uk/
+    Rating:  5 (15 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35584
+    URL: https://glasgowtrader.co.uk/listing/derek-mclaren-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/15] DeepStrength Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Falkirk FK1 1RA, UK
+    Phone:   N/A
+    Website: http://www.facebook.com/deepstrengthjoinery
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35586
+    URL: https://glasgowtrader.co.uk/listing/deepstrength-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] S Sneddon Joiners & Builders
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 Crawford Dr, Wallacestone, Falkirk FK2 0DL, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35588
+    URL: https://glasgowtrader.co.uk/listing/s-sneddon-joiners-builders/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] G.Alexander Carpentry & Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Moss Rd, Falkirk FK2 8RX, UK
+    Phone:   07862 253919
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35590
+    URL: https://glasgowtrader.co.uk/listing/g-alexander-carpentry-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] Paul Burns Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Beech Cres, Larbert FK5 3EX, UK
+    Phone:   07904 077669
+    Website: https://www.paulburnsjoinery.co.uk/
+    Rating:  5 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35592
+    URL: https://glasgowtrader.co.uk/listing/paul-burns-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/15] S & C Joiners Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 58 School Rd, Laurieston, Falkirk FK2 9JA, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35594
+    URL: https://glasgowtrader.co.uk/listing/s-c-joiners-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   15
+  Created: 14
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

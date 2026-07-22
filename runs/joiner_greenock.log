@@ -1,0 +1,266 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  1896 existing listings on site
+  Ledger: 1878 place_ids
+
+[SEARCH] Finding joiners in Greenock...
+  Found 17 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] Going with the grain joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4, 11 Dellingburn St, Greenock PA15 4RN, UK
+    Phone:   07376 605046
+    Website: https://www.facebook.com/share/1KRES3DNcf/?mibextid=wwXIfr
+    Rating:  5 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35542
+    URL: https://glasgowtrader.co.uk/listing/going-with-the-grain-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/17] MacDonald & Stewart Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35516 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [3/17] Dave The Joiner
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Holmscroft Ave, Greenock PA15 4DH, UK
+    Phone:   07444 017825
+    Website: https://www.davethejoiner.scot/
+    Rating:  4.2 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35544
+    URL: https://glasgowtrader.co.uk/listing/dave-the-joiner/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/17] Regency Stairs & Joinery Contractors Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Dellingburn St, Greenock PA15 4RN, UK
+    Phone:   01475 722900
+    Website: N/A
+    Rating:  4.4 (12 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35546
+    URL: https://glasgowtrader.co.uk/listing/regency-stairs-joinery-contractors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/17] DGM Joinery Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 South St, Greenock PA16 8UE, UK
+    Phone:   07399 594522
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35548
+    URL: https://glasgowtrader.co.uk/listing/dgm-joinery-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/17] MC Joinery Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Swallow Brae, Inverkip, Greenock PA16 0LF, UK
+    Phone:   07951 264466
+    Website: http://www.mcjoineryscotland.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35550
+    URL: https://glasgowtrader.co.uk/listing/mc-joinery-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/17] Top Notch Joinery & Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Essex Rd, Greenock PA16 0JJ, UK
+    Phone:   07947 834200
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35552
+    URL: https://glasgowtrader.co.uk/listing/top-notch-joinery-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/17] West End Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Margaret St, Greenock PA16 8BU, UK
+    Phone:   07759 659664
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35554
+    URL: https://glasgowtrader.co.uk/listing/west-end-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/17] Precision joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glen Kinglas Rd, Greenock PA16 9NW, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35556
+    URL: https://glasgowtrader.co.uk/listing/precision-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/17] MCM Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52 Brougham St, Greenock PA16 8AL, UK
+    Phone:   01475 720792
+    Website: N/A
+    Rating:  2 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35558
+    URL: https://glasgowtrader.co.uk/listing/mcm-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/17] K J G Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 The Old Waterhouse Old Largs Road, Greenock PA16 9AR, UK
+    Phone:   07939 564149
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35560
+    URL: https://glasgowtrader.co.uk/listing/k-j-g-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/17] Hamilton Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 7, Greenock PA16 0EQ, UK
+    Phone:   07795 955194
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35562
+    URL: https://glasgowtrader.co.uk/listing/hamilton-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/17] Gage Ecosse Joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 45 Shore St, Gourock PA19 1RG, UK
+    Phone:   01475 631152
+    Website: https://www.ecossejoinery.com/
+    Rating:  3.4 (9 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35564
+    URL: https://glasgowtrader.co.uk/listing/gage-ecosse-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/17] Cunningham builds (joinery)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31888 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [15/17] P&P joinery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35502 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [16/17] Brooks Tadlock Building & Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31434 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [17/17] Morrie's Joinery - Helensburgh & Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 106 W King St, Helensburgh G84 8EQ, UK
+    Phone:   07733 105248
+    Website: https://www.morriesjoinery.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35566
+    URL: https://glasgowtrader.co.uk/listing/morries-joinery-helensburgh-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   17
+  Created: 13
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

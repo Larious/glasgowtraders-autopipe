@@ -1,0 +1,244 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  1884 existing listings on site
+  Ledger: 1866 place_ids
+
+[SEARCH] Finding joiners in Ayr...
+  Found 15 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Adam McLaughlin Joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2A Taylor St, Ayr KA8 8AU, UK
+    Phone:   01292 283234
+    Website: https://adammclaughlinjoinery.co.uk/
+    Rating:  5 (10 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35518
+    URL: https://glasgowtrader.co.uk/listing/adam-mclaughlin-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] MRB Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1A, 42 Waggon Rd, Ayrshire, Ayr KA8 8BA, UK
+    Phone:   01292 442777
+    Website: https://mrbjoineryltd.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35520
+    URL: https://glasgowtrader.co.uk/listing/mrb-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] Billy McGuire Joinery & Building In Ayrshire & Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31305 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [4/15] DC Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Westwood Cres, Ayr KA8 0RB, UK
+    Phone:   07746 709023
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35522
+    URL: https://glasgowtrader.co.uk/listing/dc-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] CPM Joinery & Timber Preservation Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Doonview Wynd, Ayr KA7 4HY, UK
+    Phone:   07825 728036
+    Website: http://cpmjoinerygroup.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35524
+    URL: https://glasgowtrader.co.uk/listing/cpm-joinery-timber-preservation-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] Fulton & Love Joiners Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 Newmarket St, Ayr KA7 1LL, UK
+    Phone:   07523 412866
+    Website: https://fultonlovejoiners.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35526
+    URL: https://glasgowtrader.co.uk/listing/fulton-love-joiners-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/15] Joinayr - Joiners Ayrshire - Builders Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31329 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] CC Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 87 New Rd, Ayr KA8 8DD, UK
+    Phone:   07792 197458
+    Website: N/A
+    Rating:  3.7 (9 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35528
+    URL: https://glasgowtrader.co.uk/listing/cc-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] Cutwood Joinery & Building Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32689 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [10/15] Ian Nimmo Joiner
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Raggithill Ave, Mossblown, Ayr KA6 5BP, UK
+    Phone:   01292 521185
+    Website: http://www.nimmojoiners.com/
+    Rating:  4.3 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35530
+    URL: https://glasgowtrader.co.uk/listing/ian-nimmo-joiner/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/15] The Artisan Woodworking Co.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ind Est, Unit 8 North Harbour, Ayr KA8 8BN, UK
+    Phone:   01292 892280
+    Website: http://theartisanwoodwork.co.uk/
+    Rating:  3.7 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35532
+    URL: https://glasgowtrader.co.uk/listing/the-artisan-woodworking-co/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] Chris Roy Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Old Hillfoot Rd, Ayr KA7 3LW, UK
+    Phone:   07977 247176
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35534
+    URL: https://glasgowtrader.co.uk/listing/chris-roy-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] Inglewood Joiners & Builders
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Main St, Muirkirk, Cumnock KA18 3QS, UK
+    Phone:   07508 667856
+    Website: https://inglewoodjoinery.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35536
+    URL: https://glasgowtrader.co.uk/listing/inglewood-joiners-builders/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] Freedom Joinery and Builders Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Garden St, Dalrymple, Ayr KA6 6DG, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (12 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35538
+    URL: https://glasgowtrader.co.uk/listing/freedom-joinery-and-builders-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/15] D.M. Carpentry & Building Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Lothian Rd, Ayr KA7 3BU, UK
+    Phone:   01292 257772
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35540
+    URL: https://glasgowtrader.co.uk/listing/d-m-carpentry-building-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   15
+  Created: 12
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

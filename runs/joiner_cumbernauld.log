@@ -1,0 +1,254 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  1864 existing listings on site
+  Ledger: 1846 place_ids
+
+[SEARCH] Finding joiners in Cumbernauld...
+  Found 17 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] Allstar Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: lenziemill industrial estate, 36 Telford Rd, Cumbernauld, Glasgow G67 2AX, UK
+    Phone:   0800 270 7779
+    Website: http://www.allstarjoinery.com/
+    Rating:  4.6 (12 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35478
+    URL: https://glasgowtrader.co.uk/listing/allstar-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/17] AJT JOINERY SERVICES LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21E Glencryan Rd, Cumbernauld, Glasgow G67 2UH, UK
+    Phone:   07835 706398
+    Website: N/A
+    Rating:  4.2 (20 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35480
+    URL: https://glasgowtrader.co.uk/listing/ajt-joinery-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/17] DP Building and Joinery Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Hazel Rd, Cumbernauld, Glasgow G67 3BN, UK
+    Phone:   07824 886815
+    Website: http://www.dpbuilders-cumbernauld.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35482
+    URL: https://glasgowtrader.co.uk/listing/dp-building-and-joinery-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/17] Kelvin Joinery & Buiders Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Blantyre Gardens, Cumbernauld, Glasgow G68 9NJ, UK
+    Phone:   0141 255 0197
+    Website: https://kelvinjoinery.com/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35484
+    URL: https://glasgowtrader.co.uk/listing/kelvin-joinery-buiders-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/17] Adams Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Broomlands Rd, Cumbernauld, Glasgow G67 2PU, UK
+    Phone:   07745 984607
+    Website: http://adamsjoinersscotland.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35486
+    URL: https://glasgowtrader.co.uk/listing/adams-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/17] Procraft Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 21c, Carbrain Industrial Estate, Glencryan Rd, Cumbernauld, Glasgow G67 2UH, UK
+    Phone:   07462 780464
+    Website: https://www.procraftjoinery.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35488
+    URL: https://glasgowtrader.co.uk/listing/procraft-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/17] B N T Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 55B Braeface Rd, Cumbernauld, Glasgow G67 1HG, UK
+    Phone:   07909 986266
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35490
+    URL: https://glasgowtrader.co.uk/listing/b-n-t-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/17] SCG JOINERY
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Cairntoul Ct, Cumbernauld, Glasgow G68 9JR, UK
+    Phone:   07756 664647
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35492
+    URL: https://glasgowtrader.co.uk/listing/scg-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/17] Mccann joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4j Barke Rd, Cumbernauld, Glasgow G68 1AL, UK
+    Phone:   07718 650874
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35494
+    URL: https://glasgowtrader.co.uk/listing/mccann-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/17] C A Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Tollpark Rd, Cumbernauld, Glasgow G68 0LW, UK
+    Phone:   07540 128916
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35496
+    URL: https://glasgowtrader.co.uk/listing/c-a-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/17] Mcintyre Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35268 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [12/17] Stewart Joinery Co.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35378 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [13/17] Decked Out Joinery ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35342 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [14/17] Jeb Joinery Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Deerdykes Rd, Westfield, Cumbernauld, Glasgow G68 9HE, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35498
+    URL: https://glasgowtrader.co.uk/listing/jeb-joinery-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/17] Creation Carpentry
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35300 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [16/17] SMJ Joiners and Builders
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Cathkin Cres, Cumbernauld, Glasgow G68 0FD, UK
+    Phone:   01236 378934
+    Website: https://www.smjjoinersandbuilders.co.uk/
+    Rating:  1 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35500
+    URL: https://glasgowtrader.co.uk/listing/smj-joiners-and-builders/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/17] G Shanks Joiners & Builders
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32157 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   17
+  Created: 12
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

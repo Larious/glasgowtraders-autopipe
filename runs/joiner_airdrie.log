@@ -1,0 +1,329 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  1795 existing listings on site
+  Ledger: 1777 place_ids
+
+[SEARCH] Finding joiners in Airdrie...
+  Found 20 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/20] PNG Joinery LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Oakbank St, Airdrie ML6 8LD, UK
+    Phone:   07940 355604
+    Website: https://www.instagram.com/png_joineryltd?igsh=em82dHB6dG9wbmVl&utm_source=qr
+    Rating:  5 (20 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35340
+    URL: https://glasgowtrader.co.uk/listing/png-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/20] Decked Out Joinery ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Fenton Pl, Plains, Airdrie ML6 7ED, UK
+    Phone:   07474 740522
+    Website: https://deckedoutjoinery.com/
+    Rating:  4.7 (27 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35342
+    URL: https://glasgowtrader.co.uk/listing/decked-out-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/20] KesKes Joinery Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 49 Wellside Ave, Airdrie ML6 6PH, UK
+    Phone:   07922 870341
+    Website: http://www.facebook.com/KesKesJoinery
+    Rating:  4.4 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35344
+    URL: https://glasgowtrader.co.uk/listing/keskes-joinery-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/20] Brady Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 113B Aitchison St, Airdrie ML6 0DB, UK
+    Phone:   07973 537365
+    Website: http://www.bradyjoiners.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35346
+    URL: https://glasgowtrader.co.uk/listing/brady-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/20] Mchugh joinery & construction
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ballochnie Dr, Plains, Airdrie ML6 7ND, UK
+    Phone:   07494 710275
+    Website: http://www.mchughjoinery.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35348
+    URL: https://glasgowtrader.co.uk/listing/mchugh-joinery-construction/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/20] Alex's Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Whitehill Ave, Airdrie ML6 6PR, UK
+    Phone:   07502 421484
+    Website: https://alexsjoinery.com/
+    Rating:  5 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35350
+    URL: https://glasgowtrader.co.uk/listing/alexs-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/20] G Shanks Joiners & Builders
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32157 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [8/20] Assured joinery & building solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33259 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [9/20] ST Joinery and Project Management Contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 105 Carlisle Rd, Airdrie ML6 8AG, UK
+    Phone:   07928 132099
+    Website: https://www.facebook.com/STJoineryandProjectManagementContractors/
+    Rating:  3 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35352
+    URL: https://glasgowtrader.co.uk/listing/st-joinery-and-project-management-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/20] John Lawson Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15B Forrest St, Airdrie ML6 7BA, UK
+    Phone:   01236 761200
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35354
+    URL: https://glasgowtrader.co.uk/listing/john-lawson-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/20] PMC Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 Ewart Dr, Airdrie ML6 9HE, UK
+    Phone:   01236 598109
+    Website: https://www.pmcjoinery.com/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35356
+    URL: https://glasgowtrader.co.uk/listing/pmc-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/20] DLM Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 111 Corsewall St, Coatbridge ML5 1NP, UK
+    Phone:   07749 604141
+    Website: http://www.dlmjoineryscotland.co.uk/
+    Rating:  4.9 (72 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35358
+    URL: https://glasgowtrader.co.uk/listing/dlm-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/20] SS JOINERY CONSTRUCTION
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Keir Hardie Ave, Holytown, Motherwell ML1 4SH, UK
+    Phone:   07496 727748
+    Website: https://ssjoineryconstruction.com/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35360
+    URL: https://glasgowtrader.co.uk/listing/ss-joinery-construction/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/20] Start 2 Finish Building & Joinery Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 Glenwell St, Glenmavis, Airdrie ML6 0NH, UK
+    Phone:   07974 573241
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35362
+    URL: https://glasgowtrader.co.uk/listing/start-2-finish-building-joinery-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/20] Direct joinery & Plumbing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28708 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [16/20] Clark Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Braefoot Ct, Caldercruix, Airdrie ML6 7QU, UK
+    Phone:   01236 843653
+    Website: N/A
+    Rating:  3.5 (8 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35364
+    URL: https://glasgowtrader.co.uk/listing/clark-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/20] Surma Joinery & Carpentry Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 101 Cumbrae Dr, Motherwell ML1 3LJ, UK
+    Phone:   01698 602072
+    Website: https://surmajoinery.co.uk/
+    Rating:  4.9 (52 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35366
+    URL: https://glasgowtrader.co.uk/listing/surma-joinery-carpentry-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/20] Efka & Son Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Caldercruix, Airdrie ML6 8UX, UK
+    Phone:   07300 300203
+    Website: https://efkaandsonjoiners.com/
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35368
+    URL: https://glasgowtrader.co.uk/listing/efka-son-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/20] COM Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 53 Bell Quadrant, Carfin, Motherwell ML1 4GR, UK
+    Phone:   07716 977219
+    Website: https://comjoinery.com/
+    Rating:  5 (32 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35370
+    URL: https://glasgowtrader.co.uk/listing/com-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/20] D M Joinery & Builders
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Speyburn Pl, Airdrie ML6 6GF, UK
+    Phone:   07815 731189
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35372
+    URL: https://glasgowtrader.co.uk/listing/d-m-joinery-builders/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   20
+  Created: 17
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

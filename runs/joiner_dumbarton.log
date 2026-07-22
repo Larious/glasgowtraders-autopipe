@@ -1,0 +1,201 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  1876 existing listings on site
+  Ledger: 1858 place_ids
+
+[SEARCH] Finding joiners in Dumbarton...
+  Found 16 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] John Duff Joiners Builders
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32262 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [2/16] P&P joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 26 Riverview Cres, Cardross, Dumbarton G82 5LT, UK
+    Phone:   07717 864648
+    Website: http://pandpjoinery.com/
+    Rating:  5 (26 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35502
+    URL: https://glasgowtrader.co.uk/listing/pp-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/16] James Burns Joiners and Builders
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Strowan's Rd, Dumbarton G82 2PD, UK
+    Phone:   07852 385005
+    Website: http://jamesburnsbuilders.co.uk/
+    Rating:  4 (3 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35504
+    URL: https://glasgowtrader.co.uk/listing/james-burns-joiners-and-builders/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/16] Jake Robb Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3b Bankend Rd, Dumbarton G82 2RB, UK
+    Phone:   07564 768570
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35506
+    URL: https://glasgowtrader.co.uk/listing/jake-robb-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] H M Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 134 Dumbuie Ave, Dumbarton G82 2JP, UK
+    Phone:   01389 764052
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35508
+    URL: https://glasgowtrader.co.uk/listing/h-m-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] Tacal Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Park St, Dumbarton G82 1RF, UK
+    Phone:   01389 734877
+    Website: http://tacaljoineryscotland.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35510
+    URL: https://glasgowtrader.co.uk/listing/tacal-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] O'Rourke Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35274 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [8/16] Mcintyre Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35268 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [9/16] Jake Robb Joinery
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [10/16] F.M Joinery And Building Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35262 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [11/16] AJ Joiners Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35280 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [12/16] D.W. Joiners
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35296 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [13/16] SKW Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 72 Campbell St, Helensburgh G84 9QW, UK
+    Phone:   07542 309760
+    Website: https://skwelsh.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35512
+    URL: https://glasgowtrader.co.uk/listing/skw-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] TJBSI - Taylor Joiners Builders and Stove Installers Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 43 Glenpatrick Rd, Elderslie, Johnstone PA5 9AG, UK
+    Phone:   07739 461675
+    Website: N/A
+    Rating:  5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35514
+    URL: https://glasgowtrader.co.uk/listing/tjbsi-taylor-joiners-builders-and-stove-installers-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] Blair Joinery Ltd Clydebank
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32121 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [16/16] MacDonald & Stewart Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2b Bogston Ln, Greenock PA15 2AX, UK
+    Phone:   07926 561909
+    Website: http://macdonaldandstewartjoinery.co.uk/
+    Rating:  5 (21 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35516
+    URL: https://glasgowtrader.co.uk/listing/macdonald-stewart-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   16
+  Created: 8
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

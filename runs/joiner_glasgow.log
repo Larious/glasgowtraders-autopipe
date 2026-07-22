@@ -1,0 +1,452 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  1755 existing listings on site
+  Ledger: 1737 place_ids
+
+[SEARCH] Finding joiners in Glasgow...
+  Found 28 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/28] Argyle Joinery And Carpentry
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 49 Towerhill Rd, Glasgow G13 2DN, UK
+    Phone:   07446 868284
+    Website: http://argylejoineryglasgow.co.uk/
+    Rating:  4.9 (47 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35260
+    URL: https://glasgowtrader.co.uk/listing/argyle-joinery-and-carpentry/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/28] F.M Joinery And Building Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lanarkshire, Unit 55, Dalsetter Business Centre, 42 Dalsetter Ave, Glasgow G15 8TE, UK
+    Phone:   07852 799388
+    Website: http://www.fmjoinery.co.uk/
+    Rating:  5 (40 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35262
+    URL: https://glasgowtrader.co.uk/listing/f-m-joinery-and-building-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/28] Glasgow Joinery Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 W George St, Glasgow G2 1BP, UK
+    Phone:   0141 266 0080
+    Website: N/A
+    Rating:  5 (13 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35264
+    URL: https://glasgowtrader.co.uk/listing/glasgow-joinery-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/28] Cf Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Renfrew PA4 0RU, UK
+    Phone:   07450 221662
+    Website: http://www.cf-joinery.co.uk/
+    Rating:  4.9 (91 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35266
+    URL: https://glasgowtrader.co.uk/listing/cf-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/28] Mcintyre Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 46 Fairfield Dr, Renfrew PA4 0EG, UK
+    Phone:   07891 022101
+    Website: https://mcintyrejoinery.com/
+    Rating:  5 (50 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35268
+    URL: https://glasgowtrader.co.uk/listing/mcintyre-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/28] Arc Joinery Services LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 80 Cumming Dr, Glasgow G42 9BN, UK
+    Phone:   N/A
+    Website: http://www.arcjoinery.co.uk/
+    Rating:  5 (16 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35270
+    URL: https://glasgowtrader.co.uk/listing/arc-joinery-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/28] QualityJoiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Castlehill Dr, Newton Mearns, Glasgow G77 5HY, UK
+    Phone:   0141 639 0089
+    Website: https://www.qualityjoiners.com/
+    Rating:  5 (57 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35272
+    URL: https://glasgowtrader.co.uk/listing/qualityjoiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/28] O'Rourke Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2029 Dumbarton Rd, Glasgow G14 0HY, UK
+    Phone:   07583 200116
+    Website: https://orourkejoinery.co.uk/contact/
+    Rating:  5 (13 reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35274
+    URL: https://glasgowtrader.co.uk/listing/orourke-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/28] Snooks Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Greenhill, Bishopbriggs, Glasgow G64 1LD, UK
+    Phone:   07712 111646
+    Website: http://snooksjoinery.com/
+    Rating:  5 (20 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35276
+    URL: https://glasgowtrader.co.uk/listing/snooks-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/28] S.Fraser Joiners & Preservation
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 454 Aikenhead Rd, Glasgow G42 0PX, UK
+    Phone:   07833 535819
+    Website: http://www.dryrotglasgow.com/
+    Rating:  4.9 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35278
+    URL: https://glasgowtrader.co.uk/listing/s-fraser-joiners-preservation/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/28] AJ Joiners Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Golf Dr, Glasgow G15 6TD, UK
+    Phone:   07939 458253
+    Website: https://ajjoinersltd.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35280
+    URL: https://glasgowtrader.co.uk/listing/aj-joiners-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/28] Clydebuilt Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Suite 19, 70 W Regent St, Glasgow G2 2QZ, UK
+    Phone:   07826 753422
+    Website: http://www.joinery-glasgow.com/
+    Rating:  4.5 (15 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35282
+    URL: https://glasgowtrader.co.uk/listing/clydebuilt-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/28] G M Joinery (Scotland) Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 132 Boden St, Glasgow G40 3PX, UK
+    Phone:   0141 556 0481
+    Website: https://www.gmjshopfitters.com/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35284
+    URL: https://glasgowtrader.co.uk/listing/g-m-joinery-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/28] GRD Joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Office 1, GRD Joinery Ltd, 9 Newton Pl, Glasgow G3 7PR, UK
+    Phone:   07595 220367
+    Website: https://www.grdjoinery.co.uk/
+    Rating:  5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35286
+    URL: https://glasgowtrader.co.uk/listing/grd-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/28] C4 Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Mossedge Industrial Estate, Linwood, Paisley PA3 3HR, UK
+    Phone:   07483 491710
+    Website: https://www.trustedtrader.scot/Renfrewshire/C4-Joinery-Ltd-0001849.html
+    Rating:  5 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35288
+    URL: https://glasgowtrader.co.uk/listing/c4-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/28] SIGRA Joinery Services Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 505 Great Western Rd, Glasgow G12 8HN, UK
+    Phone:   0141 942 6997
+    Website: http://www.sigra.uk/
+    Rating:  5 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35290
+    URL: https://glasgowtrader.co.uk/listing/sigra-joinery-services-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/28] Netherlee Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Netherlee Joinery, Netherhill Ave, Glasgow G44 3XG, UK
+    Phone:   07810 797377
+    Website: http://www.netherlee-joinery.co.uk/
+    Rating:  4.8 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35292
+    URL: https://glasgowtrader.co.uk/listing/netherlee-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/28] Mac Joiners Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 Queen Elizabeth Ave, Hillington, Glasgow G52 4NQ, UK
+    Phone:   0141 286 5956
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35294
+    URL: https://glasgowtrader.co.uk/listing/mac-joiners-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/28] D.W. Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Monkton Dr, Glasgow G15 6LD, UK
+    Phone:   07973 438295
+    Website: http://bespokejoinersglasgow.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35296
+    URL: https://glasgowtrader.co.uk/listing/d-w-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/28] Kub Carpentry
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Rotherwood Ave, Glasgow G13 2RH, UK
+    Phone:   0141 846 3502
+    Website: N/A
+    Rating:  5 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35298
+    URL: https://glasgowtrader.co.uk/listing/kub-carpentry/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/28] Creation Carpentry
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, 7 Campsie Rd, Kirkintilloch, Glasgow G66 1SL, UK
+    Phone:   0141 737 5832
+    Website: http://www.creationcarpentry.co.uk/
+    Rating:  4.9 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35300
+    URL: https://glasgowtrader.co.uk/listing/creation-carpentry/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/28] AB Carpenters Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2114 Pollokshaws Rd, Bellahouston, Glasgow G43 1AT, UK
+    Phone:   07980 652667
+    Website: http://abcarpentersglasgow.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35302
+    URL: https://glasgowtrader.co.uk/listing/ab-carpenters-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [23/28] Gleniffer Joinery Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Cruachan Dr, Barrhead, Glasgow G78 2DP, UK
+    Phone:   07836 407092
+    Website: http://www.glenifferjoinery.com/
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35304
+    URL: https://glasgowtrader.co.uk/listing/gleniffer-joinery-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/28] Cardonald Joiners & Builders
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 Moulin Rd, Glasgow G52 3PJ, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35306
+    URL: https://glasgowtrader.co.uk/listing/cardonald-joiners-builders/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [25/28] Fika Joinery ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit6, Glenpark Industrial Estate, Glasgow G31 1NU, UK
+    Phone:   0141 378 2403
+    Website: https://fikajoinery.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35308
+    URL: https://glasgowtrader.co.uk/listing/fika-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+  Batch cap reached (25 creates). Re-run (new token) to continue — the ledger skips everything published so far.
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   28
+  Created: 25
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

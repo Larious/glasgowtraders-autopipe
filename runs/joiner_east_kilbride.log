@@ -1,0 +1,264 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  1844 existing listings on site
+  Ledger: 1826 place_ids
+
+[SEARCH] Finding joiners in East Kilbride...
+  Found 19 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/19] East Kilbride Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35424 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [2/19] P & J Joinery Of East Kilbride
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Mount Cameron Dr S, East Kilbride, Glasgow G74 2LN, UK
+    Phone:   07986 097977
+    Website: https://www.pandjjoiners.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35438
+    URL: https://glasgowtrader.co.uk/listing/p-j-joinery-of-east-kilbride/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/19] Andrew Harvie Joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Andrew Harvie Joinery LTD, 25 Tennant Ave, East Kilbride, Glasgow G74 5NA, UK
+    Phone:   07971 843079
+    Website: http://andrewharviejoinery.com/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35440
+    URL: https://glasgowtrader.co.uk/listing/andrew-harvie-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/19] Deluxe Joinery & Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35428 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [5/19] JDM Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Millburn Way, East Kilbride, Glasgow G75 8EB, UK
+    Phone:   07914 114825
+    Website: https://m.facebook.com/jdmjoinery12/
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35442
+    URL: https://glasgowtrader.co.uk/listing/jdm-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/19] JB Woodworks
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Newlandsmuir, Egmont Park, East Kilbride, Glasgow G75 8XD, UK
+    Phone:   07595 441676
+    Website: http://www.jbwoodworks.co.uk/
+    Rating:  5 (136 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35444
+    URL: https://glasgowtrader.co.uk/listing/jb-woodworks/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/19] EK Joiners & Roofers Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35028 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [8/19] DM Specialist Joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 63 Carron Pl, East Kilbride, Glasgow G75 0YL, UK
+    Phone:   01355 235528
+    Website: N/A
+    Rating:  4 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35446
+    URL: https://glasgowtrader.co.uk/listing/dm-specialist-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/19] RJG Joinery & Property Improvements
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35418 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [10/19] Rosha Joiners & Builders
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32322 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [11/19] CP Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Shiel Ave, East Kilbride, Glasgow G74 4AR, UK
+    Phone:   07815 191486
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35448
+    URL: https://glasgowtrader.co.uk/listing/cp-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/19] Robert Lang Joiner
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 49 Glen Doll, East Kilbride, Glasgow G74 3SU, UK
+    Phone:   07787 726005
+    Website: N/A
+    Rating:  3.5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35450
+    URL: https://glasgowtrader.co.uk/listing/robert-lang-joiner/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/19] JC Acosta Joinery Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Busbyside, E Kilbride Rd, Busby, Glasgow G76 8RU, UK
+    Phone:   07771 062714
+    Website: N/A
+    Rating:  5 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35452
+    URL: https://glasgowtrader.co.uk/listing/jc-acosta-joinery-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/19] R M Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Glen Carron, East Kilbride, Glasgow G74 2AJ, UK
+    Phone:   07725 088792
+    Website: N/A
+    Rating:  1 (8 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35454
+    URL: https://glasgowtrader.co.uk/listing/r-m-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/19] William King Joiner & Builder
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Lyell Pl, East Kilbride, Glasgow G74 4RF, UK
+    Phone:   07885 912661
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35456
+    URL: https://glasgowtrader.co.uk/listing/william-king-joiner-builder/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/19] AC MacNee Joinery And Building
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35420 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [17/19] K K G Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 St Bryde St, East Kilbride, Glasgow G74 4HQ, UK
+    Phone:   01355 230390
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35458
+    URL: https://glasgowtrader.co.uk/listing/k-k-g-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/19] Gorman Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35432 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [19/19] Q Fire Protection & Carpentry
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 63 Applegate Dr, East Kilbride, Glasgow G75 9FG, UK
+    Phone:   07713 500056
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35460
+    URL: https://glasgowtrader.co.uk/listing/q-fire-protection-carpentry/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   19
+  Created: 12
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

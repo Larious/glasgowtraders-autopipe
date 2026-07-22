@@ -1,0 +1,286 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Joiner
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  1831 existing listings on site
+  Ledger: 1813 place_ids
+
+[SEARCH] Finding joiners in Hamilton...
+  Found 21 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/21] Stephen Britten Carpentry & Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35398 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/21] Carpenter Hamilton
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Fintrie Terrace, Hamilton ML3 9QT, UK
+    Phone:   07455 055240
+    Website: N/A
+    Rating:  5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35412
+    URL: https://glasgowtrader.co.uk/listing/carpenter-hamilton/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/21] Karrera Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Braemar St, Hamilton ML3 0PF, UK
+    Phone:   07557 659891
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35414
+    URL: https://glasgowtrader.co.uk/listing/karrera-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/21] Made 2 Measure Joiners & Builders Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35404 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [5/21] Surma Joinery & Carpentry Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35366 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [6/21] Melville Joinery & Construction
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 17, Parkburn Industrial Estate, Hamilton ML3 0QQ, UK
+    Phone:   01698 598779
+    Website: http://melvillejoineryandconstruction.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35416
+    URL: https://glasgowtrader.co.uk/listing/melville-joinery-construction/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/21] COM Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35370 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [8/21] RJG Joinery & Property Improvements
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Kiltongue Ln, Cambuslang, Glasgow G72 8XY, UK
+    Phone:   07969 292656
+    Website: http://www.facebook.com/joineryrjg
+    Rating:  5 (65 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35418
+    URL: https://glasgowtrader.co.uk/listing/rjg-joinery-property-improvements/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/21] AC MacNee Joinery And Building
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Moss View, Chapelton, Strathaven ML10 6RX, UK
+    Phone:   0141 846 9090
+    Website: https://www.acmacnee.co.uk/
+    Rating:  5 (22 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35420
+    URL: https://glasgowtrader.co.uk/listing/ac-macnee-joinery-and-building/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/21] Jim Shearer Joiners
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Lendalfoot Gardens, Hamilton ML3 9DW, UK
+    Phone:   01698 823438
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35422
+    URL: https://glasgowtrader.co.uk/listing/jim-shearer-joiners/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/21] East Kilbride Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Pembroke, East Kilbride, Glasgow G74 3QB, UK
+    Phone:   07539 501299
+    Website: N/A
+    Rating:  5 (25 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35424
+    URL: https://glasgowtrader.co.uk/listing/east-kilbride-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/21] IBN Joinery Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35392 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [13/21] McCallum C Joinery Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Castlehill Cres, Hamilton ML3 7TZ, UK
+    Phone:   07894 290962
+    Website: N/A
+    Rating:  4.3 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35426
+    URL: https://glasgowtrader.co.uk/listing/mccallum-c-joinery-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/21] Deluxe Joinery & Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Salisbury, East Kilbride, Glasgow G74 3QE, UK
+    Phone:   07542 842575
+    Website: http://instagram.com/deluxejoinerydesign
+    Rating:  5 (21 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35428
+    URL: https://glasgowtrader.co.uk/listing/deluxe-joinery-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/21] D.Phillips joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Pentland Way, Hamilton ML3 8JE, UK
+    Phone:   07759 110474
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35430
+    URL: https://glasgowtrader.co.uk/listing/d-phillips-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/21] Gorman Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 McKenzie Gate, Cambuslang, Glasgow G72 7TQ, UK
+    Phone:   07595 463531
+    Website: https://www.gormanjoinery.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35432
+    URL: https://glasgowtrader.co.uk/listing/gorman-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/21] Mason Joinery Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Netherdale Rd, Wishaw ML2 0ER, UK
+    Phone:   07983 539015
+    Website: http://masonjoinery.uk/
+    Rating:  5 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35434
+    URL: https://glasgowtrader.co.uk/listing/mason-joinery-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/21] DLM Joinery
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35358 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [19/21] F.M Joinery And Building Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35262 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [20/21] RMcK Carpenter / Handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35382 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [21/21] GWD Joinery
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 171 Limekilnburn Rd, Hamilton ML3 7XB, UK
+    Phone:   01357 300692
+    Website: N/A
+    Rating:  3.9 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35436
+    URL: https://glasgowtrader.co.uk/listing/gwd-joinery/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   21
+  Created: 13
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================
