@@ -1,0 +1,133 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: CCTV & Video Security
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  3449 existing listings on site
+  Ledger: 3445 place_ids
+
+[SEARCH] Finding cctv & video securitys in Glasgow...
+  Found 6 candidates (14 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/6] CCTV Scotand
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Spectrum House, 1A North Ave, Clydebank G81 2DR, UK
+    Phone:   07856 267014
+    Website: https://www.cctvscotland.com/
+    Rating:  5 (12 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 400
+  Creating listing...
+    Post ID: 38635
+    URL: https://glasgowtrader.co.uk/listing/cctv-scotand/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/6] Seguro Security Systems
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: BM07 Mile End Mill, Abbey Mill Business Centre, 12 Seedhill Rd, Paisley PA1 1JS, UK
+    Phone:   0141 374 2822
+    Website: http://www.segurosecurity.co.uk/
+    Rating:  4.9 (68 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 400
+  Creating listing...
+    Post ID: 38636
+    URL: https://glasgowtrader.co.uk/listing/seguro-security-systems/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/6] CCTV Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29a Rosyth Rd, Glasgow G5 0YD, UK
+    Phone:   N/A
+    Website: https://www.cctv-glasgow.com/
+    Rating:  None (None reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 400
+  Creating listing...
+    Post ID: 38637
+    URL: https://glasgowtrader.co.uk/listing/cctv-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/6] Taylor Alarm and CCTV
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Bowerwalls Pl, Barrhead, Glasgow G78 1BF, UK
+    Phone:   0800 316 5620
+    Website: https://tayloralarmandcctv.co.uk/about/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 400
+  Creating listing...
+    Post ID: 38638
+    URL: https://glasgowtrader.co.uk/listing/taylor-alarm-and-cctv/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/6] ESP Security Systems
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ground Floor, Moncrieff House, 10 Moncrieff St, Paisley PA3 2BE, UK
+    Phone:   0141 889 1889
+    Website: http://www.espsecuritysystems.co.uk/
+    Rating:  5 (43 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 400
+  Creating listing...
+    Post ID: 38639
+    URL: https://glasgowtrader.co.uk/listing/esp-security-systems/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/6] Disc Security Systems
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9A Boclair Rd, Bearsden, Glasgow G61 2AD, UK
+    Phone:   0141 942 0121
+    Website: http://www.discsecurity.co.uk/
+    Rating:  4.7 (75 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 400
+  Creating listing...
+    Post ID: 38640
+    URL: https://glasgowtrader.co.uk/listing/disc-security-systems/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   6
+  Created: 6
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================
