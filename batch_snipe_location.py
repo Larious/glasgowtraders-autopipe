@@ -103,7 +103,129 @@ TRADES = {
         "label": "Gardener",
         "service_phrase": "gardening and landscaping service",
     },
+    "roofer": {
+        "queries": ["roofers in {loc}, Scotland, UK"],
+        "include_kw": ["roof", "slater", "slating", "guttering"],
+        "exclude_kw": ["supplies", "merchant", "store", "wholesale", "depot"],
+        "category_rules": [],
+        "default_category": 158,
+        "label": "Roofer",
+        "service_phrase": "roofing service",
+    },
+    "joiner": {
+        "queries": ["joiners in {loc}, Scotland, UK",
+                    "carpenters in {loc}, Scotland, UK"],
+        "include_kw": ["joiner", "joinery", "carpent", "woodwork"],
+        "exclude_kw": ["supplies", "merchant", "timber merchant", "store"],
+        "category_rules": [],
+        "default_category": 162,
+        "label": "Joiner",
+        "service_phrase": "joinery and carpentry service",
+    },
+    "painter": {
+        "queries": ["painters and decorators in {loc}, Scotland, UK"],
+        "include_kw": ["paint", "decorat", "decor "],
+        "exclude_kw": ["supplies", "merchant", "store", "art gallery", "car "],
+        "category_rules": [],
+        "default_category": 160,
+        "label": "Painter & Decorator",
+        "service_phrase": "painting and decorating service",
+    },
+    "plasterer": {
+        "queries": ["plasterers in {loc}, Scotland, UK"],
+        "include_kw": ["plaster", "render", "screed", "harling"],
+        "exclude_kw": ["supplies", "merchant", "store", "wholesale"],
+        "category_rules": [],
+        "default_category": 163,
+        "label": "Plasterer",
+        "service_phrase": "plastering service",
+    },
+    "kitchen": {
+        "queries": ["kitchen fitters in {loc}, Scotland, UK"],
+        "include_kw": ["kitchen", "worktop"],
+        "exclude_kw": ["supplies", "showroom", "store", "restaurant",
+                       "takeaway", "cafe", "wholesale"],
+        "category_rules": [],
+        "default_category": 293,
+        "label": "Kitchen Fitter",
+        "service_phrase": "kitchen fitting service",
+    },
+    "bathroom": {
+        "queries": ["bathroom fitters in {loc}, Scotland, UK"],
+        "include_kw": ["bathroom", "wet room", "wetroom", "shower"],
+        "exclude_kw": ["supplies", "showroom", "store", "wholesale", "depot"],
+        "category_rules": [],
+        "default_category": 169,
+        "label": "Bathroom Fitter",
+        "service_phrase": "bathroom fitting service",
+    },
+    "tiler": {
+        "queries": ["tilers in {loc}, Scotland, UK"],
+        "include_kw": ["tiler", "tiling", "tile"],
+        "exclude_kw": ["supplies", "showroom", "store", "wholesale", "depot"],
+        "category_rules": [],
+        "default_category": 170,
+        "label": "Tiler",
+        "service_phrase": "tiling service",
+    },
+    "handyman": {
+        "queries": ["handyman in {loc}, Scotland, UK",
+                    "property maintenance in {loc}, Scotland, UK"],
+        "include_kw": ["handyman", "handy man", "property maintenance",
+                       "home repair", "odd job", "maintenance"],
+        "exclude_kw": ["supplies", "merchant", "store", "letting", "estate agent"],
+        "category_rules": [],
+        "default_category": 167,
+        "label": "Handyman",
+        "service_phrase": "handyman and property maintenance service",
+    },
+    "heating": {
+        "queries": ["heating engineers in {loc}, Scotland, UK",
+                    "gas boiler service in {loc}, Scotland, UK"],
+        "include_kw": ["heating", "boiler", "gas", "central heating", "radiator"],
+        "exclude_kw": ["supplies", "merchant", "store", "wholesale"],
+        "category_rules": [("boiler", 172), ("central heating", 171)],
+        "default_category": 291,
+        "label": "Heating Engineer",
+        "service_phrase": "heating and boiler service",
+    },
+    "locksmith": {
+        "queries": ["locksmiths in {loc}, Scotland, UK"],
+        "include_kw": ["locksmith", "lock", "key"],
+        "exclude_kw": ["supplies", "store", "car key programming supplies"],
+        "category_rules": [],
+        "default_category": 168,
+        "label": "Locksmith",
+        "service_phrase": "locksmith service",
+    },
+    "window": {
+        "queries": ["window fitters in {loc}, Scotland, UK",
+                    "double glazing in {loc}, Scotland, UK"],
+        "include_kw": ["window", "glazing", "glazier"],
+        "exclude_kw": ["supplies", "merchant", "store", "cleaning", "cleaner",
+                       "tint"],
+        "category_rules": [],
+        "default_category": 297,
+        "label": "Window Fitter",
+        "service_phrase": "window and glazing service",
+    },
+    "fencing": {
+        "queries": ["fencing contractors in {loc}, Scotland, UK"],
+        "include_kw": ["fenc", "gate", "decking", "railing"],
+        "exclude_kw": ["supplies", "merchant", "store", "wholesale", "depot"],
+        "category_rules": [],
+        "default_category": 165,
+        "label": "Fencing & Gates",
+        "service_phrase": "fencing and gates service",
+    },
 }
+
+# Core towns for Phase 1 (Glasgow + substantive towns) — captures ~all of a
+# trade's real businesses; suburb location-pages fill via cross-town attaches.
+CORE_TOWNS = ["Glasgow", "Paisley", "Airdrie", "Coatbridge", "Bellshill",
+              "Hamilton", "East Kilbride", "Clydebank", "Cumbernauld",
+              "Dumbarton", "Ayr", "Greenock", "Falkirk", "Stirling",
+              "Bathgate", "Carluke"]
 
 
 def is_uk_address(addr):
@@ -360,7 +482,12 @@ def build_description(enriched, location_name, trade_cfg):
 
 # Human-facing label per category id (taglines)
 CAT_LABELS = {22: "Plumber", 159: "Gardener", 161: "Landscaper",
-              166: "Tree Surgeon"}
+              166: "Tree Surgeon", 26: "Electrician", 82: "Builder",
+              158: "Roofer", 162: "Joiner", 160: "Painter & Decorator",
+              163: "Plasterer", 293: "Kitchen Fitter", 169: "Bathroom Fitter",
+              170: "Tiler", 167: "Handyman", 291: "Heating Engineer",
+              171: "Central Heating", 172: "Gas Boiler Service",
+              168: "Locksmith", 297: "Window Fitter", 165: "Fencing & Gates"}
 
 
 # ── Step 5: Create WordPress listing ────────────────────────

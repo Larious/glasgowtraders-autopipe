@@ -25,8 +25,22 @@ CATEGORY_STYLE = {
     22:  ("Plumber", (21, 101, 192), (13, 71, 161), "drop"),
     26:  ("Electrician", (40, 53, 147), (26, 35, 126), "bolt"),
     82:  ("Builder", (191, 101, 21), (130, 66, 12), "bricks"),
+    158: ("Roofer", (69, 90, 100), (38, 50, 56), "roof"),
+    162: ("Joiner", (121, 85, 61), (78, 52, 46), "hammer"),
+    160: ("Painter & Decorator", (123, 31, 162), (74, 20, 140), "brush"),
+    163: ("Plasterer", (96, 108, 116), (55, 71, 79), "trowel"),
+    293: ("Kitchen Fitter", (183, 28, 28), (127, 20, 20), "trowel"),
+    169: ("Bathroom Fitter", (0, 131, 143), (0, 96, 100), "drop"),
+    170: ("Tiler", (0, 121, 107), (0, 77, 64), "grid"),
+    167: ("Handyman", (230, 126, 34), (175, 96, 26), "wrench"),
+    291: ("Heating Engineer", (216, 67, 21), (159, 49, 15), "wrench"),
+    171: ("Central Heating", (216, 67, 21), (159, 49, 15), "wrench"),
+    172: ("Gas Boiler Service", (216, 67, 21), (159, 49, 15), "wrench"),
+    168: ("Locksmith", (55, 71, 79), (33, 44, 49), "key"),
+    297: ("Window Fitter", (2, 119, 189), (1, 87, 155), "grid"),
+    165: ("Fencing & Gates", (85, 107, 47), (56, 71, 30), "fence"),
 }
-DEFAULT_STYLE = ("Listing", (55, 71, 79), (38, 50, 56), "leaf")
+DEFAULT_STYLE = ("Tradesperson", (55, 71, 79), (38, 50, 56), "wrench")
 
 
 def _font(path, size):
@@ -115,6 +129,80 @@ def _icon(img, d, name, cx, cy, s, bg):
             for i in (-1, 0, 1):
                 x0 = cx + off + i * (bw + gap) - bw / 2
                 d.rectangle([x0, y0, x0 + bw, y0 + bh], fill=col)
+    elif name == "roof":
+        col = (255, 255, 255, 235)
+        d.polygon([(cx, cy - s), (cx - s * 1.15, cy + s * 0.25),
+                   (cx + s * 1.15, cy + s * 0.25)], fill=col)
+        d.rectangle([cx - s * 0.85, cy + s * 0.25, cx + s * 0.85, cy + s * 0.9],
+                    fill=col)
+        d.rectangle([cx - s * 0.18, cy + s * 0.4, cx + s * 0.18, cy + s * 0.9],
+                    fill=bg + (255,))
+    elif name == "hammer":
+        col = (255, 255, 255, 235)
+        d.rectangle([cx - s * 0.1, cy - s * 0.4, cx + s * 0.1, cy + s],
+                    fill=col)                      # handle
+        d.rectangle([cx - s * 0.7, cy - s, cx + s * 0.7, cy - s * 0.45],
+                    fill=col)                      # head
+    elif name == "brush":
+        col = (255, 255, 255, 235)
+        d.rectangle([cx - s * 0.75, cy - s * 0.8, cx + s * 0.75, cy - s * 0.3],
+                    fill=col)                      # roller
+        d.rectangle([cx - s * 0.1, cy - s * 0.3, cx + s * 0.1, cy + s * 0.4],
+                    fill=col)                      # neck
+        d.rectangle([cx - s * 0.22, cy + s * 0.4, cx + s * 0.22, cy + s],
+                    fill=col)                      # handle
+    elif name == "trowel":
+        col = (255, 255, 255, 235)
+        d.polygon([(cx - s * 0.9, cy - s * 0.3), (cx + s * 0.5, cy - s * 0.3),
+                   (cx - s * 0.2, cy + s * 0.7)], fill=col)   # blade
+        d.rectangle([cx + s * 0.45, cy - s * 0.55, cx + s * 0.7, cy - s * 0.1],
+                    fill=col)                      # tang/handle
+    elif name == "grid":
+        col = (255, 255, 255, 235)
+        q, gap = s * 0.62, s * 0.14
+        for ix in (0, 1):
+            for iy in (0, 1):
+                x0 = cx - q - gap / 2 + ix * (q + gap)
+                y0 = cy - q - gap / 2 + iy * (q + gap)
+                d.rectangle([x0, y0, x0 + q, y0 + q], fill=col)
+    elif name == "wrench":
+        col = (255, 255, 255, 235)
+        # diagonal handle
+        d.line([(cx - s * 0.7, cy + s * 0.7), (cx + s * 0.5, cy - s * 0.5)],
+               fill=col, width=int(s * 0.34))
+        # open head (ring with a notch) at top-right
+        hx, hy = cx + s * 0.55, cy - s * 0.55
+        d.ellipse([hx - s * 0.45, hy - s * 0.45, hx + s * 0.45, hy + s * 0.45],
+                  fill=col)
+        d.ellipse([hx - s * 0.2, hy - s * 0.2, hx + s * 0.2, hy + s * 0.2],
+                  fill=bg + (255,))
+        d.rectangle([hx - s * 0.12, hy - s * 0.55, hx + s * 0.2, hy - s * 0.1],
+                    fill=bg + (255,))
+    elif name == "key":
+        col = (255, 255, 255, 235)
+        d.ellipse([cx - s * 0.9, cy - s * 0.45, cx - s * 0.1, cy + s * 0.35],
+                  fill=col)                        # bow
+        d.ellipse([cx - s * 0.62, cy - s * 0.17, cx - s * 0.38, cy + s * 0.07],
+                  fill=bg + (255,))                # bow hole
+        d.rectangle([cx - s * 0.2, cy - s * 0.12, cx + s * 0.9, cy + s * 0.12],
+                    fill=col)                      # shaft
+        d.rectangle([cx + s * 0.6, cy + s * 0.12, cx + s * 0.72, cy + s * 0.4],
+                    fill=col)                      # tooth
+        d.rectangle([cx + s * 0.8, cy + s * 0.12, cx + s * 0.9, cy + s * 0.34],
+                    fill=col)                      # tooth
+    elif name == "fence":
+        col = (255, 255, 255, 235)
+        for i in (-1, 0, 1):
+            px = cx + i * s * 0.6
+            d.polygon([(px - s * 0.18, cy - s * 0.5),
+                       (px + s * 0.18, cy - s * 0.5),
+                       (px + s * 0.18, cy + s * 0.9),
+                       (px, cy + s * 1.0),
+                       (px - s * 0.18, cy + s * 0.9)], fill=col)  # picket
+        d.rectangle([cx - s * 1.0, cy - s * 0.2, cx + s * 1.0, cy - s * 0.02],
+                    fill=col)                      # rail
+        d.rectangle([cx - s * 1.0, cy + s * 0.45, cx + s * 1.0, cy + s * 0.63],
+                    fill=col)                      # rail
 
 
 def make_business_tile(name, cat_id, location, out_path):
