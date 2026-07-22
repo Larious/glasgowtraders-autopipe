@@ -1,0 +1,251 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  2820 existing listings on site
+  Ledger: 2804 place_ids
+
+[SEARCH] Finding window fitters in Falkirk...
+  Found 14 candidates (11 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Grahamston Glazing Co Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1, Alexander House, Stewart Rd, Falkirk FK2 7AS, UK
+    Phone:   01324 612612
+    Website: http://www.grahamstonglazing.co.uk/
+    Rating:  4.2 (76 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37394
+    URL: https://glasgowtrader.co.uk/listing/grahamston-glazing-co-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] Windowman Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 McCowan Cres, Larbert, Falkirk FK5 4XH, UK
+    Phone:   01324 217747
+    Website: https://www.windowmanscotland.co.uk/
+    Rating:  4.7 (38 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37396
+    URL: https://glasgowtrader.co.uk/listing/windowman-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/14] Airtight Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Hazel Grove, Falkirk FK2 9EB, UK
+    Phone:   07813 703175
+    Website: https://www.airtightwindows.co.uk/
+    Rating:  4.4 (35 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37398
+    URL: https://glasgowtrader.co.uk/listing/airtight-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/14] HOMESEAL WINDOWS
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Main St, Polmont, Falkirk FK2 0PX, UK
+    Phone:   01324 716360
+    Website: http://www.homesealwindows.co.uk/
+    Rating:  4.4 (28 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37400
+    URL: https://glasgowtrader.co.uk/listing/homeseal-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] Glazing Solutions Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 High St, Bonnybridge FK4 1BX, UK
+    Phone:   01324 812919
+    Website: http://www.glazingsolutionsscotland.co.uk/
+    Rating:  4.5 (39 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37402
+    URL: https://glasgowtrader.co.uk/listing/glazing-solutions-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] RONNIE LAING WINDOWS
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 78 Comyn Dr, Wallacestone, Falkirk FK2 0YP, UK
+    Phone:   01324 870765
+    Website: N/A
+    Rating:  4.6 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37404
+    URL: https://glasgowtrader.co.uk/listing/ronnie-laing-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/14] Falkirk Glass & Glazing Co
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 56 Union Rd, Camelon, Falkirk FK1 4PF, UK
+    Phone:   01324 623918
+    Website: N/A
+    Rating:  4.7 (12 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37406
+    URL: https://glasgowtrader.co.uk/listing/falkirk-glass-glazing-co/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] Forth Valley Windows And Doors Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Randyford Rd, Falkirk FK2 9DE, UK
+    Phone:   N/A
+    Website: https://www.falkirkdoubleglazing.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37408
+    URL: https://glasgowtrader.co.uk/listing/forth-valley-windows-and-doors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] A J Glass & Glazing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Middlefield Industrial Estate, Unit 19 Almond Rd, Falkirk, Grangemouth FK2 9FQ, UK
+    Phone:   01324 610610
+    Website: http://www.ajglassandglazing.co.uk/
+    Rating:  4.6 (49 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37410
+    URL: https://glasgowtrader.co.uk/listing/a-j-glass-glazing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] Stirling Glass & glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2, 1 Stewart Rd, Falkirk FK2 7AS, UK
+    Phone:   01786 473017
+    Website: https://www.stirlingglazingltd.co.uk/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=1101176481809039318
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37412
+    URL: https://glasgowtrader.co.uk/listing/stirling-glass-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/14] Caledonia Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37230 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [12/14] Total Seal Double Glazing Reapir
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Hogan Pl, Dennyloanhead, Bonnybridge FK4 1FB, UK
+    Phone:   01324 810408
+    Website: http://www.totalsealrepairs.co.uk/
+    Rating:  4.5 (22 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37414
+    URL: https://glasgowtrader.co.uk/listing/total-seal-double-glazing-reapir/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] SBS Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Greenacre Rd, Bonnybridge, Falkirk FK4 2BE, UK
+    Phone:   0800 879 9247
+    Website: http://www.sbsglazing.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37416
+    URL: https://glasgowtrader.co.uk/listing/sbs-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] Central Double Glazing Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Whiteyetts Cres, Sauchie, Alloa FK10 3GB, UK
+    Phone:   07530 215234
+    Website: http://www.cdgr.uk/
+    Rating:  5 (41 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37418
+    URL: https://glasgowtrader.co.uk/listing/central-double-glazing-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   14
+  Created: 13
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

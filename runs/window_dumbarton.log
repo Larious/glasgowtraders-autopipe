@@ -1,0 +1,169 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  2785 existing listings on site
+  Ledger: 2769 place_ids
+
+[SEARCH] Finding window fitters in Dumbarton...
+  Found 12 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] Premium Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4, Vale Of Leven Ind Est, Dumbarton G82 3PE, UK
+    Phone:   0808 178 0677
+    Website: https://www.premiumwindows.uk/
+    Rating:  4.9 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37324
+    URL: https://glasgowtrader.co.uk/listing/premium-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/12] K Glass & Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Gibson St, Dumbarton G82 2EF, UK
+    Phone:   0800 030 5247
+    Website: http://www.k-glass.co.uk/
+    Rating:  4.2 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37326
+    URL: https://glasgowtrader.co.uk/listing/k-glass-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/12] Amazing Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Gibson Ave, Dumbarton G82, UK
+    Phone:   07765 333486
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37328
+    URL: https://glasgowtrader.co.uk/listing/amazing-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/12] Williams Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37188 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [5/12] SJS Window Repair Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37280 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [6/12] PG GLAZING & REPAIRS
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37278 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [7/12] HT Windows and Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5, Levenside Business Court, Glasgow, Dumbarton G82 3PE, UK
+    Phone:   07838 366051
+    Website: http://htwindowsdoors.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37330
+    URL: https://glasgowtrader.co.uk/listing/ht-windows-and-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/12] Adapt Windows and Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37132 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [9/12] Architectural Glazing Systems Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Birch Rd, Dumbarton G82 2RE, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37332
+    URL: https://glasgowtrader.co.uk/listing/architectural-glazing-systems-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/12] Enviro Windows & Conservatories
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37284 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [11/12] Williams Double Glazing LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2, 17 Pottery St, Greenock PA15 2UH, UK
+    Phone:   01475 791810
+    Website: http://www.williamsdoubleglazing.co.uk/
+    Rating:  4.5 (41 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37334
+    URL: https://glasgowtrader.co.uk/listing/williams-double-glazing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/12] Cloch Double Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Drumfrochar Pl, Greenock PA15 4BJ, UK
+    Phone:   01475 723155
+    Website: http://clochdoubleglazing.co.uk/
+    Rating:  5 (22 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37336
+    URL: https://glasgowtrader.co.uk/listing/cloch-double-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   12
+  Created: 7
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

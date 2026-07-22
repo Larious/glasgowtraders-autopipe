@@ -29,7 +29,7 @@ Stirling, Bathgate, Carluke.
 - [x] handyman (167) — 16/16 core towns
 - [x] heating (291; rules → boiler 172 / central heating 171) — 16/16 core towns
 - [x] locksmith (168) — 16/16 core towns
-- [ ] window (297)
+- [x] window (297) — 16/16 core towns
 - [ ] fencing (165)
 
 ## Backlog — remaining 26 empty categories (config not yet written)

@@ -1,0 +1,119 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  2743 existing listings on site
+  Ledger: 2727 place_ids
+
+[SEARCH] Finding window fitters in Bellshill...
+  Found 14 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Windows Direct Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37210 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [2/14] Universal Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37212 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [3/14] Window Supply Company Bellshill
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37236 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [4/14] Accent Doors and Windows Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5 Wren Ct, Bellshill ML4 3NQ, UK
+    Phone:   01698 427303
+    Website: http://accentdoor.co.uk/
+    Rating:  4 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37240
+    URL: https://glasgowtrader.co.uk/listing/accent-doors-and-windows-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] HML Windows and Doors - Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37202 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [6/14] C Glancey Joiners and Glazing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35394 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [7/14] J M Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Meadow Rd, Motherwell ML1 1QB, UK
+    Phone:   07552 236756
+    Website: http://www.jmwindowanddoor.co.uk/
+    Rating:  4.9 (29 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37242
+    URL: https://glasgowtrader.co.uk/listing/j-m-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] Vantage Windows and Doors | Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37196 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [9/14] J R Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37204 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [10/14] Haven Windows and Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37208 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [11/14] Dolan Windows and Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37224 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [12/14] Scot-Plas Windows (Coatbridge) LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37214 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [13/14] JCA Windows and Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37220 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [14/14] RePlace Windows Limited East Kilbride (Showroom)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37232 — attached location 'Bellshill' instead
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   14
+  Created: 2
+  Skipped: 12 (already existed)
+  Failed:  0
+============================================================

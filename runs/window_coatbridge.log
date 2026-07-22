@@ -1,0 +1,126 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  2740 existing listings on site
+  Ledger: 2724 place_ids
+
+[SEARCH] Finding window fitters in Coatbridge...
+  Found 13 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] HML Windows and Doors - Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37202 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/13] J R Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37204 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/13] Haven Windows and Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37208 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/13] Scot-Plas Windows (Coatbridge) LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37214 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [5/13] Orion Windows and Doors Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37216 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [6/13] Windows Direct Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37210 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [7/13] Vantage Windows and Doors | Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37196 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [8/13] Supreme Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Laburnum Grove, Coatbridge ML5 3PJ, UK
+    Phone:   07912 212445
+    Website: https://www.coatbridgedoubleglazing.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37234
+    URL: https://glasgowtrader.co.uk/listing/supreme-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] Universal Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37212 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [10/13] Dolan Windows and Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37224 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [11/13] Restoration Windows
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37206 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [12/13] Window Supply Company Bellshill
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Belgrave Street Block 23 Unit 5 Motherwell, Park, Bellshill ML4 3NP, UK
+    Phone:   01698 755557
+    Website: https://www.windowsupplycompany.co.uk/bellshill
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37236
+    URL: https://glasgowtrader.co.uk/listing/window-supply-company-bellshill/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] WindowTec
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 124 Redbrae Rd., Kirkintilloch, Glasgow G66 2DD, UK
+    Phone:   07597 917307
+    Website: https://windowtecrepairs.co.uk/
+    Rating:  4.9 (39 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37238
+    URL: https://glasgowtrader.co.uk/listing/windowtec/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   13
+  Created: 3
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

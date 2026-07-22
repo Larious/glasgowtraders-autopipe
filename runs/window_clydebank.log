@@ -1,0 +1,242 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  2762 existing listings on site
+  Ledger: 2746 place_ids
+
+[SEARCH] Finding window fitters in Clydebank...
+  Found 17 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] Williams Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37188 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [2/17] PG GLAZING & REPAIRS
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 N Douglas St, Clydebank G81 5LJ, UK
+    Phone:   0141 952 4640
+    Website: http://pgglazing.com/
+    Rating:  4.8 (80 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37278
+    URL: https://glasgowtrader.co.uk/listing/pg-glazing-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/17] SJS Window Repair Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Dalnottar Hill Rd, Glasgow, Old Kilpatrick, Clydebank G60 5DS, UK
+    Phone:   01389 381015
+    Website: http://www.sjswindowrepairservices.co.uk/
+    Rating:  4.8 (43 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37280
+    URL: https://glasgowtrader.co.uk/listing/sjs-window-repair-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/17] Eco Save Windows Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 S Elgin St, Clydebank G81 1PL, UK
+    Phone:   01389 717566
+    Website: https://ecosavewindows.co.uk/
+    Rating:  3.5 (13 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37282
+    URL: https://glasgowtrader.co.uk/listing/eco-save-windows-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/17] Enviro Windows & Conservatories
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Rutherford Court, Clydebank Business Park, Clydebank, Clydebank, Glasgow G81 2QP, UK
+    Phone:   0141 435 3253
+    Website: https://envirowindowsanddoors.co.uk/
+    Rating:  4.4 (92 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37284
+    URL: https://glasgowtrader.co.uk/listing/enviro-windows-conservatories/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/17] Clydebank Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Unit, 6 North Ave, Clydebank G81 2QP, UK
+    Phone:   0141 952 4640
+    Website: http://pgglazing.com/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37286
+    URL: https://glasgowtrader.co.uk/listing/clydebank-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/17] Cash and Carry Windows and Conservatories Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Business Park Unit 1, Rutherford Court, Clydebank, Clydebank, Glasgow G81 2QP, UK
+    Phone:   0141 435 3253
+    Website: http://cashandcarrysuperstores.com/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37288
+    URL: https://glasgowtrader.co.uk/listing/cash-and-carry-windows-and-conservatories-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/17] Adapt Windows and Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37132 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [9/17] Grand Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 23, New Albion Industrial Estate, Halley St, Glasgow G13 4DJ, UK
+    Phone:   0800 677 1668
+    Website: https://www.grandwindows.co.uk/
+    Rating:  4.6 (13 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37290
+    URL: https://glasgowtrader.co.uk/listing/grand-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/17] RePlace Windows Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37124 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [11/17] Mica Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 113-115 Cable Depot Rd, Clydebank G81 1UY, UK
+    Phone:   0141 952 7069
+    Website: http://www.micaglazing.co.uk/
+    Rating:  4 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37292
+    URL: https://glasgowtrader.co.uk/listing/mica-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/17] Bearsden Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 62 Spey Rd, Bearsden, Glasgow G61 1LD, UK
+    Phone:   07708 027524
+    Website: https://bearsden-glazing.co.uk/
+    Rating:  5 (58 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37294
+    URL: https://glasgowtrader.co.uk/listing/bearsden-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/17] CR Smith | Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37164 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [14/17] K Glass Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Clyde St, Clydebank G81 1PF, UK
+    Phone:   07985 273333
+    Website: http://www.k-glass.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37296
+    URL: https://glasgowtrader.co.uk/listing/k-glass-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/17] Durashield Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 62b Rannoch Dr, Bearsden, Glasgow G61 2HH, UK
+    Phone:   0141 942 0033
+    Website: http://durashieldwindows.co.uk/
+    Rating:  4.8 (17 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37298
+    URL: https://glasgowtrader.co.uk/listing/durashield-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/17] Creative Glazing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37140 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [17/17] Flo Windows
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37182 — attached location 'Clydebank' instead
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   17
+  Created: 11
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

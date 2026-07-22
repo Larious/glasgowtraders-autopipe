@@ -1,0 +1,404 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  2685 existing listings on site
+  Ledger: 2669 place_ids
+
+[SEARCH] Finding window fitters in Glasgow...
+  Found 23 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/23] RePlace Windows Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Tay House, 300 Bath St, Glasgow G2 4JR, UK
+    Phone:   0808 500 0111
+    Website: http://www.replacewindowslimited.co.uk/
+    Rating:  4.9 (556 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37124
+    URL: https://glasgowtrader.co.uk/listing/replace-windows-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/23] Strathclyde Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Waverley St, Glasgow G41 2EA, UK
+    Phone:   0141 280 8585
+    Website: http://strathclydewindows.co.uk/
+    Rating:  5 (250 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37126
+    URL: https://glasgowtrader.co.uk/listing/strathclyde-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/23] Southside Window Systems
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 55 Wiltonburn Rd, Glasgow G53 7JF, UK
+    Phone:   0141 881 9911
+    Website: https://www.southsidewindows.co.uk/
+    Rating:  4.8 (61 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37128
+    URL: https://glasgowtrader.co.uk/listing/southside-window-systems/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/23] Monteith Windows & Doors Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 Townsend St, Glasgow G4 0LA, UK
+    Phone:   0141 846 1708
+    Website: https://monteithwindows.co.uk/
+    Rating:  5 (55 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37130
+    URL: https://glasgowtrader.co.uk/listing/monteith-windows-doors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/23] Adapt Windows and Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: wilson business park, 1 Queen Elizabeth Ave, Glasgow G52 4NQ, UK
+    Phone:   0141 737 7577
+    Website: https://www.adaptwindows.co.uk/
+    Rating:  4.9 (27 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37132
+    URL: https://glasgowtrader.co.uk/listing/adapt-windows-and-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/23] Glasgow Double Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Office 1, 9 Newton Pl, Glasgow G3 7PR, UK
+    Phone:   0141 212 0934
+    Website: https://www.glasgowdoubleglazing.co.uk/
+    Rating:  5 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37134
+    URL: https://glasgowtrader.co.uk/listing/glasgow-double-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/23] Hi-Spec Windows and Doors Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 7-8, Morris Park, 37 Rosyth Rd, Glasgow G5 0YD, UK
+    Phone:   0141 732 9140
+    Website: http://www.hi-specscotland.com/
+    Rating:  5 (80 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37136
+    URL: https://glasgowtrader.co.uk/listing/hi-spec-windows-and-doors-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/23] Perfect Glazing Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Caledonia Ave, Glasgow G5 0EX, UK
+    Phone:   0141 429 6661
+    Website: https://perfectglazing.uk/
+    Rating:  3.9 (284 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37138
+    URL: https://glasgowtrader.co.uk/listing/perfect-glazing-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/23] Creative Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Lintlaw Dr, Glasgow G52 2NS, UK
+    Phone:   0141 882 0204
+    Website: http://www.creativeglazing.co.uk/
+    Rating:  4.9 (82 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37140
+    URL: https://glasgowtrader.co.uk/listing/creative-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/23] Window Advice Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 160 W George St, Glasgow G2 2HG, UK
+    Phone:   0141 332 7878
+    Website: https://www.windowadvicecentre.co.uk/
+    Rating:  4.6 (85 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37142
+    URL: https://glasgowtrader.co.uk/listing/window-advice-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/23] LW Sash & Case Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Harhill St, Glasgow G51 3NL, UK
+    Phone:   07703 388181
+    Website: https://sashwindowsglasgow.co.uk/
+    Rating:  5 (124 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37144
+    URL: https://glasgowtrader.co.uk/listing/lw-sash-case-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/23] United Glazing Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5th Floor, 120 W Regent St, Glasgow G2 2QD, UK
+    Phone:   0333 577 5171
+    Website: https://www.unitedglazing.com/
+    Rating:  5 (14 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37146
+    URL: https://glasgowtrader.co.uk/listing/united-glazing-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/23] Freelance Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 31 Crow Rd, Glasgow G11 7RT, UK
+    Phone:   0141 357 1212
+    Website: http://www.freelancewindows.com/
+    Rating:  4.1 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37148
+    URL: https://glasgowtrader.co.uk/listing/freelance-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/23] MWM Matt Window Mate
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 31 Chisholm Dr, Newton Mearns, Glasgow G77 6HX, UK
+    Phone:   N/A
+    Website: http://www.mwmwindow.co.uk/
+    Rating:  5 (116 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37150
+    URL: https://glasgowtrader.co.uk/listing/mwm-matt-window-mate/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/23] Local Window Care and Repair Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14, 70 Strathclyde St, Glasgow G40 4JR, UK
+    Phone:   0141 447 0115
+    Website: https://www.localwindowcareandrepair.com/
+    Rating:  4.6 (40 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37152
+    URL: https://glasgowtrader.co.uk/listing/local-window-care-and-repair-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/23] Trade Upvc Windows And Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 W George St, Glasgow G2 1BP, UK
+    Phone:   07723 363366
+    Website: https://www.tradeupvcwindows.co.uk/
+    Rating:  4.3 (16 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37154
+    URL: https://glasgowtrader.co.uk/listing/trade-upvc-windows-and-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/23] RCH Windows and Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Camelon St, Glasgow G32 6AF, UK
+    Phone:   0141 237 1280
+    Website: http://www.rchwindowsanddoors.co.uk/
+    Rating:  4.9 (174 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37156
+    URL: https://glasgowtrader.co.uk/listing/rch-windows-and-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/23] Gavin & Wright Windows and Doors Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 505 Clarkston Rd, Muirend, Glasgow G44 3PN, UK
+    Phone:   0141 637 7722
+    Website: http://www.doubleglazing.uk.net/
+    Rating:  4.8 (16 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37158
+    URL: https://glasgowtrader.co.uk/listing/gavin-wright-windows-and-doors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/23] KC Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36 Spittal Rd, Rutherglen, Glasgow G73 4QL, UK
+    Phone:   0141 634 1321
+    Website: http://www.kcglazing.co.uk/
+    Rating:  5 (239 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37160
+    URL: https://glasgowtrader.co.uk/listing/kc-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/23] Double Glazing Advice Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Woodside Pl, Glasgow G3 7QE, UK
+    Phone:   0141 353 5064
+    Website: http://doubleglazingadvicecentre.com/
+    Rating:  5 (6 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37162
+    URL: https://glasgowtrader.co.uk/listing/double-glazing-advice-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/23] CR Smith | Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Washington Rd, Paisley PA3 4EP, UK
+    Phone:   0800 200444
+    Website: https://www.crsmith.co.uk/double-glazing-in-paisley/
+    Rating:  3.8 (8 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37164
+    URL: https://glasgowtrader.co.uk/listing/cr-smith-double-glazing-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/23] Double Glazing Advice Centre
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [23/23] M J S Double Glazing Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Blairbeth Rd, Rutherglen, Glasgow G73 5BU, UK
+    Phone:   07941 807833
+    Website: http://mjsrepairs.com/
+    Rating:  4.9 (62 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37166
+    URL: https://glasgowtrader.co.uk/listing/m-j-s-double-glazing-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   23
+  Created: 22
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

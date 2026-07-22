@@ -1,0 +1,348 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  2721 existing listings on site
+  Ledger: 2705 place_ids
+
+[SEARCH] Finding window fitters in Airdrie...
+  Found 19 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/19] Vantage Windows and Doors | Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Brownsburn Industrial Estate, Unit 7 Piper Rd, Airdrie ML6 9SE, UK
+    Phone:   01698 748888
+    Website: https://www.doubleglazingscotland.uk.com/?utm_source=GoogleMyBusiness&utm_campaign=GoogleMyBusiness
+    Rating:  4.8 (58 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37196
+    URL: https://glasgowtrader.co.uk/listing/vantage-windows-and-doors-double-glazing-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/19] Russell Window Systems
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 106 Greengairs Rd, Airdrie ML6 7SY, UK
+    Phone:   07831 686640
+    Website: https://www.russellwindowsystems.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37198
+    URL: https://glasgowtrader.co.uk/listing/russell-window-systems/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/19] Airdrie Glass & Glazing Co
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Forsyth St, Airdrie ML6 6DF, UK
+    Phone:   01236 753333
+    Website: http://www.airdrieglass.co.uk/
+    Rating:  4.9 (73 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37200
+    URL: https://glasgowtrader.co.uk/listing/airdrie-glass-glazing-co/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/19] HML Windows and Doors - Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Coatbank St, Coatbridge ML5 3SP, UK
+    Phone:   01236 356885
+    Website: https://hmlwindowsanddoors.co.uk/
+    Rating:  5 (58 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37202
+    URL: https://glasgowtrader.co.uk/listing/hml-windows-and-doors-double-glazing-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/19] J R Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 90 Meadow Walk, Coatbridge ML5 3PQ, UK
+    Phone:   07796 396867
+    Website: http://www.jrwindowsanddoors.co.uk/
+    Rating:  4.8 (93 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37204
+    URL: https://glasgowtrader.co.uk/listing/j-r-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/19] Restoration Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 92 McPherson Cres, Chapelhall, Airdrie ML6 8XL, UK
+    Phone:   01236 751498
+    Website: https://restorationwindowsscotland.co.uk/
+    Rating:  3.4 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37206
+    URL: https://glasgowtrader.co.uk/listing/restoration-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/19] Haven Windows and Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Atrium Business Centre, N Caldeen Rd, Coatbridge, Glasgow ML5 4EF, UK
+    Phone:   01236 801245
+    Website: https://havenwindowsanddoors.co.uk/
+    Rating:  5 (12 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37208
+    URL: https://glasgowtrader.co.uk/listing/haven-windows-and-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/19] Windows Direct Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 91b North Rd, Bellshill ML4 1QZ, UK
+    Phone:   01698 845735
+    Website: http://www.windowsdirectscotland.co.uk/
+    Rating:  5 (144 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37210
+    URL: https://glasgowtrader.co.uk/listing/windows-direct-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/19] Universal Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 129 Holytown Rd, Mossend, Bellshill ML4 1EE, UK
+    Phone:   01698 735000
+    Website: http://universal-windows.com/
+    Rating:  4.9 (31 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37212
+    URL: https://glasgowtrader.co.uk/listing/universal-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/19] Scot-Plas Windows (Coatbridge) LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Monkton Cres, Coatbridge ML5 5GA, UK
+    Phone:   07447 113687
+    Website: https://scot-plaswindowscoatbridge.co.uk/?utm_campaign=gmb
+    Rating:  4.8 (24 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37214
+    URL: https://glasgowtrader.co.uk/listing/scot-plas-windows-coatbridge-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/19] Orion Windows and Doors Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 293 Dundyvan Rd, Coatbridge ML5 4AU, UK
+    Phone:   01236 381049
+    Website: http://orionwindows.net/
+    Rating:  5 (28 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37216
+    URL: https://glasgowtrader.co.uk/listing/orion-windows-and-doors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/19] JM Plant Glazing & Windscreens Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 105 Carlisle Rd, Airdrie ML6 8AG, UK
+    Phone:   07966 978899
+    Website: https://jmplantglazing.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37218
+    URL: https://glasgowtrader.co.uk/listing/jm-plant-glazing-windscreens-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/19] JCA Windows and Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 70 Elison Ct, Motherwell ML1 2DN, UK
+    Phone:   07414 659575
+    Website: https://www.jcawindows.co.uk/contact
+    Rating:  5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37220
+    URL: https://glasgowtrader.co.uk/listing/jca-windows-and-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/19] T R Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Bankhead Ave, Airdrie ML6 8JJ, UK
+    Phone:   07956 065399
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37222
+    URL: https://glasgowtrader.co.uk/listing/t-r-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/19] Dolan Windows and Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 69 Glen Rd, Wishaw ML2 7NP, UK
+    Phone:   07710 257915
+    Website: http://www.dolanwindowsanddoors.co.uk/
+    Rating:  5 (37 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37224
+    URL: https://glasgowtrader.co.uk/listing/dolan-windows-and-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/19] Window installations Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Foundry Rd, Shotts ML7 5DX, UK
+    Phone:   0800 612 2516
+    Website: https://www.window-installations.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37226
+    URL: https://glasgowtrader.co.uk/listing/window-installations-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/19] Express Airdrie glaziers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Scotland, Coatbridge Rd, Glenmavis, Airdrie ML6 0N, UK
+    Phone:   0800 051 8637
+    Website: http://glaziersairdrie.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37228
+    URL: https://glasgowtrader.co.uk/listing/express-airdrie-glaziers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/19] Caledonia Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Napier Place Wardpark, Industrial Estate, Cumbernauld, Glasgow G68 0LL, UK
+    Phone:   01236 268561
+    Website: https://www.caledoniawindowsanddoors.co.uk/?utm_source=google&utm_medium=gmb&utm_campaign=listing
+    Rating:  4.7 (139 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37230
+    URL: https://glasgowtrader.co.uk/listing/caledonia-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/19] RePlace Windows Limited East Kilbride (Showroom)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 31 Fairfield Pl, East Kilbride, Glasgow G74 5LP, UK
+    Phone:   0808 500 0111
+    Website: https://www.replacewindowslimited.co.uk/
+    Rating:  4.9 (58 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37232
+    URL: https://glasgowtrader.co.uk/listing/replace-windows-limited-east-kilbride-showroom/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   19
+  Created: 19
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

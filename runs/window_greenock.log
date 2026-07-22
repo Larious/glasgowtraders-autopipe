@@ -1,0 +1,188 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  2811 existing listings on site
+  Ledger: 2795 place_ids
+
+[SEARCH] Finding window fitters in Greenock...
+  Found 11 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] Williams Double Glazing LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37334 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [2/11] Inverclyde Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Units 2/3, Larkfield Ind Est, 4 Earnhill Ln, Greenock PA16 0EQ, UK
+    Phone:   01475 630044
+    Website: https://inverclydewindows.co.uk/
+    Rating:  3.8 (15 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37376
+    URL: https://glasgowtrader.co.uk/listing/inverclyde-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/11] Cloch Double Glazing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37336 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [4/11] The Glazing Co
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 55 Finnart St, Greenock PA16 8HH, UK
+    Phone:   01475 722833
+    Website: N/A
+    Rating:  4.2 (29 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37378
+    URL: https://glasgowtrader.co.uk/listing/the-glazing-co/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/11] Blairs Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Baker St, Greenock PA15 4TU, UK
+    Phone:   01475 721256
+    Website: https://www.blairswindows.co.uk/
+    Rating:  3.8 (14 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37380
+    URL: https://glasgowtrader.co.uk/listing/blairs-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/11] Nu-Image windows&doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 8 Cappielow Ind Est, Cappielow Trade Park, Greenock PA15 2TQ, UK
+    Phone:   01475 727375
+    Website: http://www.nu-image.com/
+    Rating:  4.9 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37382
+    URL: https://glasgowtrader.co.uk/listing/nu-image-windowsdoors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/11] Express Greenock glaziers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Scotland, Ingleston St, Greenock PA15 4UD, UK
+    Phone:   0344 947 0955
+    Website: http://glaziersgreenock.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37384
+    URL: https://glasgowtrader.co.uk/listing/express-greenock-glaziers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/11] Window Blind Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Sir Michael St, Greenock PA15 1PQ, UK
+    Phone:   01475 720598
+    Website: N/A
+    Rating:  4.5 (18 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37386
+    URL: https://glasgowtrader.co.uk/listing/window-blind-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/11] Scottish Window Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 E King St, Helensburgh G84 7QL, UK
+    Phone:   01436 679514
+    Website: http://www.scottishwindowsolutions.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37388
+    URL: https://glasgowtrader.co.uk/listing/scottish-window-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/11] McLay Glass & Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 51 Tom - A - Mhoid Rd, Dunoon PA23 7HP, UK
+    Phone:   01369 705155
+    Website: http://www.mclayglassdunoon.co.uk/
+    Rating:  4.4 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37390
+    URL: https://glasgowtrader.co.uk/listing/mclay-glass-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/11] Jackson Glaziers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Glen Kinglas Rd, Greenock PA16 9NW, UK
+    Phone:   07931 208874
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37392
+    URL: https://glasgowtrader.co.uk/listing/jackson-glaziers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   11
+  Created: 9
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

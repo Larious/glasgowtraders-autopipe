@@ -1,0 +1,264 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  2773 existing listings on site
+  Ledger: 2757 place_ids
+
+[SEARCH] Finding window fitters in Cumbernauld...
+  Found 19 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/19] Caledonia Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37230 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [2/19] B & W Windows Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2A Mid Rd, Cumbernauld, Glasgow G67 2TT, UK
+    Phone:   01236 458800
+    Website: http://www.bwwindows.co.uk/
+    Rating:  4.8 (17 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37300
+    URL: https://glasgowtrader.co.uk/listing/b-w-windows-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/19] Carroll's Window & Door Solutions Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Earl's Hill, Cumbernauld, Glasgow G68 9ET, UK
+    Phone:   N/A
+    Website: https://www.carrollswindowsanddoors.co.uk/
+    Rating:  5 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37302
+    URL: https://glasgowtrader.co.uk/listing/carrolls-window-door-solutions-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/19] D&C Window Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 221 Cedar Rd, Cumbernauld, Glasgow G67 3AT, UK
+    Phone:   07355 811136
+    Website: https://www.dcwindowrepairs.co.uk/
+    Rating:  4.8 (17 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37304
+    URL: https://glasgowtrader.co.uk/listing/dc-window-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/19] Five Star Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Etive Cres, Cumbernauld, Glasgow G67 4JD, UK
+    Phone:   01236 316006
+    Website: http://www.fivestarswindows.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37306
+    URL: https://glasgowtrader.co.uk/listing/five-star-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/19] Thermashield Windows and Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Deerdykes View, Westfield, Cumbernauld, Glasgow G68 9HN, UK
+    Phone:   01236 739939
+    Website: http://www.thermashield.info/
+    Rating:  5 (25 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37308
+    URL: https://glasgowtrader.co.uk/listing/thermashield-windows-and-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/19] Carrolls window and door solutions ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 125 Deerdykes View, Westfield, Cumbernauld, Glasgow G68 9HN, UK
+    Phone:   07881 504827
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37310
+    URL: https://glasgowtrader.co.uk/listing/carrolls-window-and-door-solutions-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/19] WindowTec
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37238 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [9/19] Architectural Doors & Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Wardpark Pl, Cumbernauld, South, Glasgow G67 3HX, UK
+    Phone:   01236 780022
+    Website: https://www.adwscotland.co.uk/
+    Rating:  4.5 (18 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37312
+    URL: https://glasgowtrader.co.uk/listing/architectural-doors-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/19] Doors Windows Stairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Tollpark Rd, Cumbernauld, Glasgow G68 0LW, UK
+    Phone:   01236 724839
+    Website: https://www.doorswindowsstairs.co.uk/
+    Rating:  4.2 (10 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37314
+    URL: https://glasgowtrader.co.uk/listing/doors-windows-stairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/19] HML Windows and Doors - Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37202 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [12/19] Monteith Windows & Doors Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37130 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [13/19] GG Glass and Glazing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Napier Rd, Wardpark North, Cumbernauld G67 3HA, UK
+    Phone:   N/A
+    Website: http://www.ggglass.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37316
+    URL: https://glasgowtrader.co.uk/listing/gg-glass-and-glazing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/19] Windowmate
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Tollpark Rd, Cumbernauld, Glasgow G68 0LW, UK
+    Phone:   01236 735999
+    Website: https://www.windowmateupvc.com/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37318
+    URL: https://glasgowtrader.co.uk/listing/windowmate/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/19] ALL UPVC Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2, Railway Ct, Lennoxtown, Glasgow G66 7LL, UK
+    Phone:   01360 600888
+    Website: https://www.allupvc.co.uk/
+    Rating:  5 (53 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37320
+    URL: https://glasgowtrader.co.uk/listing/all-upvc-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/19] Alpha Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 73 Kilsyth Rd, Kirkintilloch, Glasgow G66 1QF, UK
+    Phone:   0141 776 0123
+    Website: http://www.alphawindowsanddoors.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37322
+    URL: https://glasgowtrader.co.uk/listing/alpha-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/19] Vantage Windows and Doors | Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37196 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [18/19] RePlace Windows Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37124 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [19/19] Windows Direct Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37210 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   19
+  Created: 12
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

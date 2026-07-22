@@ -1,0 +1,158 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  2858 existing listings on site
+  Ledger: 2842 place_ids
+
+[SEARCH] Finding window fitters in Carluke...
+  Found 17 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] Clyde Windows & Construction | uPVC Windows Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37246 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [2/17] Fortress Doors & Windows Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37254 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [3/17] Precision Windows & Doors Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 85 Main St, Newmains, Wishaw ML2 9BG, UK
+    Phone:   01698 730800
+    Website: http://www.precisionpvc.co.uk/
+    Rating:  4.4 (70 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37470
+    URL: https://glasgowtrader.co.uk/listing/precision-windows-doors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/17] Dolan Windows and Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37224 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [5/17] Lanark Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Whitelees Rd, Lanark ML11 7RX, UK
+    Phone:   07719 523674
+    Website: N/A
+    Rating:  4.6 (9 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37472
+    URL: https://glasgowtrader.co.uk/listing/lanark-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/17] RG Locksmiths & Double Glazing Repairs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37122 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [7/17] Window installations Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37226 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [8/17] UPVC Company - Quality Double Glazing and UPVC Doors, Manufactured in UK would love your feedback, Post review to our profile
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Units 1 & 2, Etna Industrial Estate, Craigneuk, Wishaw ML2 7XQ, UK
+    Phone:   0800 328 2228
+    Website: https://www.upvccompany.co.uk/
+    Rating:  3.3 (24 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37474
+    URL: https://glasgowtrader.co.uk/listing/upvc-company-quality-double-glazing-and-upvc-doors-manufactured-in-uk-would-love-your-feedback-post-review-to-our-profile/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/17] J M Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37242 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [10/17] Wishaw Window Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Dimsdale Rd, Wishaw ML2 8DN, UK
+    Phone:   01698 604278
+    Website: http://www.wwr.scot/
+    Rating:  5 (102 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37476
+    URL: https://glasgowtrader.co.uk/listing/wishaw-window-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/17] Universal Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37212 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [12/17] Vantage Windows and Doors | Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37196 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [13/17] Quality Trade Windows
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37262 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [14/17] Windows Direct Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37210 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [15/17] Eco Windows
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37268 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [16/17] ALL UPVC Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37320 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [17/17] Caledonia Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37230 — attached location 'Carluke' instead
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   17
+  Created: 4
+  Skipped: 13 (already existed)
+  Failed:  0
+============================================================

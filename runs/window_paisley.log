@@ -1,0 +1,283 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  2707 existing listings on site
+  Ledger: 2691 place_ids
+
+[SEARCH] Finding window fitters in Paisley...
+  Found 18 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/18] Double Glazing Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Business First, Burnbrae Rd, Linwood, Paisley PA1 2FB, UK
+    Phone:   01292 435866
+    Website: https://www.doubleglazingpaisley.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37168
+    URL: https://glasgowtrader.co.uk/listing/double-glazing-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/18] Art Windows & Doors Showroom
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16e Broomlands St, Paisley PA1 2LU, UK
+    Phone:   0141 887 7999
+    Website: https://www.artwindowsanddoors.co.uk/
+    Rating:  4.8 (29 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37170
+    URL: https://glasgowtrader.co.uk/listing/art-windows-doors-showroom/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/18] Ace Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Greenlaw Industrial Estate, 42 Wallneuk Rd, Paisley PA3 4BT, UK
+    Phone:   0141 842 1112
+    Website: http://www.acewindowspaisley.co.uk/
+    Rating:  3.9 (34 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37172
+    URL: https://glasgowtrader.co.uk/listing/ace-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/18] M McLaughlan Glaziers Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Gordon St, Paisley PA1 1XD, UK
+    Phone:   0141 887 8538
+    Website: http://www.mclaughlanglass.co.uk/
+    Rating:  4.8 (52 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37174
+    URL: https://glasgowtrader.co.uk/listing/m-mclaughlan-glaziers-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/18] The Window Mender
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 Barshaw Dr, Paisley PA1 3UA, UK
+    Phone:   07834 771518
+    Website: N/A
+    Rating:  3.7 (29 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37176
+    URL: https://glasgowtrader.co.uk/listing/the-window-mender/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/18] Optix Glazing Ltd (WM Drennan Glass & Glazing)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Glen St, Paisley PA3 2JB, UK
+    Phone:   0141 887 6550
+    Website: https://optixglazing.co.uk/
+    Rating:  5 (75 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37178
+    URL: https://glasgowtrader.co.uk/listing/optix-glazing-ltd-wm-drennan-glass-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/18] CR Smith | Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37164 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [8/18] Shine Windows Paisley(Glasgow)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 104 Abercorn St, Paisley PA3 4AY, UK
+    Phone:   0141 374 2903
+    Website: https://www.shinewindow.co.uk/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37180
+    URL: https://glasgowtrader.co.uk/listing/shine-windows-paisleyglasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/18] Flo Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 46 Nasmyth Rd S, Hillington, Glasgow G52 4RE, UK
+    Phone:   0141 883 9911
+    Website: https://flo-windows.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37182
+    URL: https://glasgowtrader.co.uk/listing/flo-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/18] Adapt Windows and Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37132 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [11/18] Prestige Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 107 Ferguslie Walk, Paisley PA1 2UZ, UK
+    Phone:   0141 848 6781
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37184
+    URL: https://glasgowtrader.co.uk/listing/prestige-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/18] Southside Window Systems
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37128 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [13/18] A & B Window Blinds Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 111b Neilston Rd, Paisley PA2 6ER, UK
+    Phone:   0141 848 5565
+    Website: http://www.ab-windowblinds.co.uk/
+    Rating:  4.9 (223 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37186
+    URL: https://glasgowtrader.co.uk/listing/a-b-window-blinds-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/18] Williams Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 60 Beardmore Way, Clydebank G81 4HT, UK
+    Phone:   0141 941 3050
+    Website: https://www.williamswindows.co.uk/
+    Rating:  4.9 (121 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37188
+    URL: https://glasgowtrader.co.uk/listing/williams-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/18] Creative Glazing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37140 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [16/18] Windowcare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Tenters Way, Paisley PA2 9HL, UK
+    Phone:   07880 708998
+    Website: http://windowcare.org.uk/
+    Rating:  4 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37190
+    URL: https://glasgowtrader.co.uk/listing/windowcare/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/18] Fire Rated Glazing | Windows | Doors | Screens | UK
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Abercorn St, Paisley PA3 4AB, UK
+    Phone:   0141 843 4052
+    Website: http://www.fireratedwindows.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37192
+    URL: https://glasgowtrader.co.uk/listing/fire-rated-glazing-windows-doors-screens-uk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/18] Thornhill Glass & Glazing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit G/Floors, St Ind Est, Floors St, Johnstone PA5 8PE, UK
+    Phone:   01505 331888
+    Website: N/A
+    Rating:  4.8 (18 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37194
+    URL: https://glasgowtrader.co.uk/listing/thornhill-glass-glazing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   18
+  Created: 14
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,256 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  2845 existing listings on site
+  Ledger: 2829 place_ids
+
+[SEARCH] Finding window fitters in Bathgate...
+  Found 15 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Red Hot Windows Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Mosshall Industrial Estate, Blackburn, Bathgate EH47 7LY, UK
+    Phone:   01506 630036
+    Website: http://www.redhotwindows.co.uk/
+    Rating:  4.9 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37444
+    URL: https://glasgowtrader.co.uk/listing/red-hot-windows-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] Amazing Double Glazing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Hopetoun St, Bathgate EH48 4PA, UK
+    Phone:   0131 555 3543
+    Website: https://www.amazingdoubleglazing.com/
+    Rating:  5 (10 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37446
+    URL: https://glasgowtrader.co.uk/listing/amazing-double-glazing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] DC Double Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Langfauld Gardens, Bathgate EH48 2DX, UK
+    Phone:   01506 633823
+    Website: http://www.dcdoubleglazing.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37448
+    URL: https://glasgowtrader.co.uk/listing/dc-double-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] Window and Door Company | Livingston | West Lothian
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 23, Trade Park, Livingston EH54 5FD, UK
+    Phone:   01506 432211
+    Website: http://www.windowanddoorcompany.com/
+    Rating:  5 (173 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37450
+    URL: https://glasgowtrader.co.uk/listing/window-and-door-company-livingston-west-lothian/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] Whitburn glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 50, Burnhouse industrial estate, Whitburn, Bathgate EH47 0LQ, UK
+    Phone:   01501 742891
+    Website: https://whitburnjoineryglazing.co.uk/
+    Rating:  4.8 (29 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37452
+    URL: https://glasgowtrader.co.uk/listing/whitburn-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] Weathertight Windows and Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Standhill Industrial Estate, Whitburn Rd, Bathgate EH48 2HR, UK
+    Phone:   01506 333002
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37454
+    URL: https://glasgowtrader.co.uk/listing/weathertight-windows-and-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/15] Graham Glass and Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Mansefield, East Calder, Livingston EH53 0JQ, UK
+    Phone:   07393 918053
+    Website: https://www.grahamglassandglazing.co.uk/
+    Rating:  4.1 (9 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37456
+    URL: https://glasgowtrader.co.uk/listing/graham-glass-and-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/15] Ecoline Windows Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4, Murraysgate Industrial Estate, Whitburn, Bathgate EH47 0LE, UK
+    Phone:   01501 745564
+    Website: https://www.ecolinehomes.com/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37458
+    URL: https://glasgowtrader.co.uk/listing/ecoline-windows-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] Aitken Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 59 Napier Ave, Bathgate EH48 1DF, UK
+    Phone:   01506 636893
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37460
+    URL: https://glasgowtrader.co.uk/listing/aitken-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/15] Ness Glazing & Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 174 Uphall Station Rd, Pumpherston, Livingston EH53 0PD, UK
+    Phone:   07949 655171
+    Website: http://nessglazing.co.uk/
+    Rating:  4.9 (78 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37462
+    URL: https://glasgowtrader.co.uk/listing/ness-glazing-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/15] FWD Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Williamson's Garden Centre Complex, Houstoun Mains Holdings, Broxburn EH52 6PA, UK
+    Phone:   01506 243388
+    Website: http://www.fwdglazing.co.uk/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile
+    Rating:  4.8 (29 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37464
+    URL: https://glasgowtrader.co.uk/listing/fwd-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] AD Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10, 2 Clifton View, Broxburn EH52 5NE, UK
+    Phone:   0131 563 9977
+    Website: https://ad-glazing.co.uk/
+    Rating:  5 (40 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37466
+    URL: https://glasgowtrader.co.uk/listing/ad-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] Window Supply Company Whitburn
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7, Murraysgate Industrial Estate, Whitburn, Bathgate EH47 0LE, UK
+    Phone:   01501 643100
+    Website: https://www.windowsupplycompany.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37468
+    URL: https://glasgowtrader.co.uk/listing/window-supply-company-whitburn/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] HML Windows and Doors - Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37202 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [15/15] RePlace Windows Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37124 — attached location 'Bathgate' instead
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   15
+  Created: 13
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

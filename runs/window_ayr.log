@@ -1,0 +1,348 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  2792 existing listings on site
+  Ledger: 2776 place_ids
+
+[SEARCH] Finding window fitters in Ayr...
+  Found 19 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/19] RMC Double Glazing (Ayr) Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Newton Trading Estate, Unit 72 McCall's Ave, Ayr KA8 9AE, UK
+    Phone:   01292 263366
+    Website: https://www.rmcdoubleglazing.com/
+    Rating:  4.9 (206 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37338
+    URL: https://glasgowtrader.co.uk/listing/rmc-double-glazing-ayr-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/19] Armour Double Glazing Ayr
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 38 Crown St, Ayr KA8 8AG, UK
+    Phone:   01292 435866
+    Website: https://www.armourhomeimprovements.com/
+    Rating:  5 (135 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37340
+    URL: https://glasgowtrader.co.uk/listing/armour-double-glazing-ayr/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/19] Radbury Double Glazing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: W Sanquhar Rd, Ayr KA8 9HP, UK
+    Phone:   01292 287994
+    Website: https://www.radburydoubleglazing.co.uk/
+    Rating:  4.9 (48 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37342
+    URL: https://glasgowtrader.co.uk/listing/radbury-double-glazing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/19] Caledonian Windows & Conservatories Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Caledonian Windows & Conservatories, 13 Old Farm Rd, Ayr KA8 9ST, UK
+    Phone:   01292 619111
+    Website: http://www.caledonianwindows.co.uk/
+    Rating:  4.4 (94 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37344
+    URL: https://glasgowtrader.co.uk/listing/caledonian-windows-conservatories-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/19] Enercare - Double Glazing Ayrshire | Windows and Doors Ayrshire, Ayr | Window Installers Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Callander Rd, Heathfield, Ayr KA8 9AF, UK
+    Phone:   07825 304570
+    Website: http://enercare.co.uk/
+    Rating:  4.6 (25 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37346
+    URL: https://glasgowtrader.co.uk/listing/enercare-double-glazing-ayrshire-windows-and-doors-ayrshire-ayr-window-installers-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/19] Straight 2 Trade Double Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30-32 Crown St, Ayr KA8 8AG, UK
+    Phone:   01292 431112
+    Website: https://www.straight2tradedoubleglazing.co.uk/
+    Rating:  5 (17 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37348
+    URL: https://glasgowtrader.co.uk/listing/straight-2-trade-double-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/19] Scott Whalen Windows, Doors & Conservatories Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 10, North Harbour Industrial Estate, Ayr KA8 8BN, UK
+    Phone:   01292 439537
+    Website: N/A
+    Rating:  5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37350
+    URL: https://glasgowtrader.co.uk/listing/scott-whalen-windows-doors-conservatories-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/19] Ayrshire Window Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Finlaggan Rd, Kilmarnock KA3 1UX, UK
+    Phone:   07727 188787
+    Website: https://ayrshirewindowrepairs.co.uk/
+    Rating:  4.4 (44 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37352
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-window-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/19] AYRSHIRE ELEMENTS WINDOWS AND DOORS
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: UNIT 1A, HAWKHILL WORKS, Somerset Rd, Ayr KA8 9NF, UK
+    Phone:   01292 254450
+    Website: https://www.ayrshireelements.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37354
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-elements-windows-and-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/19] SRK Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Barr Ave, Kilmarnock KA2 0FD, UK
+    Phone:   07411 744231
+    Website: https://www.windows-ayrshire.com/
+    Rating:  5 (144 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37356
+    URL: https://glasgowtrader.co.uk/listing/srk-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/19] WCK Windows & Doors Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Mayfield Rd, Saltcoats KA21 5RQ, UK
+    Phone:   07940 325728
+    Website: https://wckwindowsanddoors.co.uk/
+    Rating:  5 (83 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37358
+    URL: https://glasgowtrader.co.uk/listing/wck-windows-doors-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/19] Ayr Glass and Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Recawr Park, Ayr KA7 4SW, UK
+    Phone:   07584 086780
+    Website: http://ayrglassandglazing.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37360
+    URL: https://glasgowtrader.co.uk/listing/ayr-glass-and-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/19] Wilson Windows & Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 41, Magbiehill Park, Stewarton, Kilmarnock KA3 3ES, UK
+    Phone:   01560 327347
+    Website: https://wilsonwindows.co.uk/
+    Rating:  5 (144 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37362
+    URL: https://glasgowtrader.co.uk/listing/wilson-windows-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/19] Andrew Wright Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Telford Pl, Irvine KA11 4HW, UK
+    Phone:   01294 211227
+    Website: https://www.andrewwright.co.uk/
+    Rating:  4.2 (189 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37364
+    URL: https://glasgowtrader.co.uk/listing/andrew-wright-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/19] Shire Windows Installs Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, 5 Kyle Rd, Irvine KA12 8JF, UK
+    Phone:   01294 313176
+    Website: http://shireinstalls.co.uk/
+    Rating:  4.5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37366
+    URL: https://glasgowtrader.co.uk/listing/shire-windows-installs-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/19] Fix My Window Ayrshire Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Beresford Terrace, Ayr KA7 2EG, UK
+    Phone:   07907 644554
+    Website: https://www.fixmywindowayrshire.com/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37368
+    URL: https://glasgowtrader.co.uk/listing/fix-my-window-ayrshire-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/19] G & C Double Glazing Repair Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Moorfield Park, Kilmarnock KA2 0FJ, UK
+    Phone:   01563 535579
+    Website: http://www.gandcrepairs.co.uk/
+    Rating:  4.9 (18 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37370
+    URL: https://glasgowtrader.co.uk/listing/g-c-double-glazing-repair-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/19] Armour Double Glazing Kilmarnock
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 62 Titchfield St, Kilmarnock KA1 1PH, UK
+    Phone:   01292 435866
+    Website: https://www.armourhomeimprovements.com/double-glazing-kilmarnock/
+    Rating:  5 (15 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37372
+    URL: https://glasgowtrader.co.uk/listing/armour-double-glazing-kilmarnock/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/19] Double Glazing Parts & Spares
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Units 1-2, Ladykirk Business Park, 9 Skye Rd, Shawfarm Industrial Estate, Prestwick KA9 2TA, UK
+    Phone:   01292 280111
+    Website: https://www.double-glazing-parts-spares.co.uk/
+    Rating:  4.2 (36 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37374
+    URL: https://glasgowtrader.co.uk/listing/double-glazing-parts-spares/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   19
+  Created: 19
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

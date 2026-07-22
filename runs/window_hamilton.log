@@ -1,0 +1,192 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  2745 existing listings on site
+  Ledger: 2729 place_ids
+
+[SEARCH] Finding window fitters in Hamilton...
+  Found 19 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/19] Vantage Double Glazing Doors and Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Burnbank Rd, Hamilton ML3 9AZ, UK
+    Phone:   0800 023 2244
+    Website: https://www.lanarkshiredoubleglazing.co.uk/double-glazing-in-hamilton/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37244
+    URL: https://glasgowtrader.co.uk/listing/vantage-double-glazing-doors-and-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/19] Windows Direct Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37210 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/19] Clyde Windows & Construction | uPVC Windows Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Block 2, Units, LARKHALL INDUSTRIAL ESTATE, 9-10 Hindsland Rd, Larkhall ML9 2PA, UK
+    Phone:   01698 331111
+    Website: https://www.clydewindows.com/?utm_source=google&utm_medium=referral&utm_campaign=google_business_profile&utm_content=website_button
+    Rating:  4.6 (150 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37246
+    URL: https://glasgowtrader.co.uk/listing/clyde-windows-construction-upvc-windows-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/19] Monteith Windows & Doors Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37130 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [5/19] RePlace Windows Limited East Kilbride (Showroom)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37232 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [6/19] HML Windows and Doors - Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37202 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/19] Strathclyde Windows
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37126 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [8/19] JCA Windows and Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37220 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [9/19] J R Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37204 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [10/19] J M Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37242 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [11/19] Universal Windows & Doors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37212 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [12/19] Vantage Windows and Doors | Double Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37196 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [13/19] J N J Window & Door Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6/Evans Business Centre/South Av, Blantyre, Glasgow G72 0XB, UK
+    Phone:   01698 826389
+    Website: http://www.jnjwindow-door.co.uk/
+    Rating:  2.8 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37248
+    URL: https://glasgowtrader.co.uk/listing/j-n-j-window-door-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/19] RePlace Windows Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37124 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [15/19] Young Double Glazing Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 112 Pembroke, East Kilbride, Glasgow G74 3QA, UK
+    Phone:   07894 100551
+    Website: http://www.youngdoubleglazingrepairs.co.uk/
+    Rating:  4.9 (27 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37250
+    URL: https://glasgowtrader.co.uk/listing/young-double-glazing-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/19] West Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 7 Block 2, Burnbank Rd, Hamilton ML3 9AZ, UK
+    Phone:   01698 282273
+    Website: N/A
+    Rating:  2.6 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37252
+    URL: https://glasgowtrader.co.uk/listing/west-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/19] Fortress Doors & Windows Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Units 1 Pickering house, Pickering Works, Netherton Rd, Wishaw ML2 0EQ, UK
+    Phone:   01698 358175
+    Website: http://www.fortressframes.co.uk/
+    Rating:  4.9 (89 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37254
+    URL: https://glasgowtrader.co.uk/listing/fortress-doors-windows-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/19] Perfect Glazing Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37138 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [19/19] United Glazing Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37146 — attached location 'Hamilton' instead
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   19
+  Created: 6
+  Skipped: 13 (already existed)
+  Failed:  0
+============================================================

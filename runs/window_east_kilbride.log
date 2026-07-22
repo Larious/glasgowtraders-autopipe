@@ -1,0 +1,237 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  2751 existing listings on site
+  Ledger: 2735 place_ids
+
+[SEARCH] Finding window fitters in East Kilbride...
+  Found 16 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] RePlace Windows Limited East Kilbride (Showroom)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37232 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [2/16] EK Windows and Doors LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 Hastings, East Kilbride, Glasgow G75 8PZ, UK
+    Phone:   07969 998126
+    Website: http://ekwindowsanddoors.co.uk/
+    Rating:  5 (86 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37256
+    URL: https://glasgowtrader.co.uk/listing/ek-windows-and-doors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/16] PT Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Colvilles Park, East Kilbride, Glasgow G75 0GZ, UK
+    Phone:   0141 261 1102
+    Website: https://www.ptglazing.co.uk/
+    Rating:  4.9 (159 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37258
+    URL: https://glasgowtrader.co.uk/listing/pt-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/16] Armour Double Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 228 Telford Rd, East Kilbride, Glasgow G75 0DL, UK
+    Phone:   01292 435866
+    Website: https://doubleglazingeastkilbride.co.uk/
+    Rating:  5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37260
+    URL: https://glasgowtrader.co.uk/listing/armour-double-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] Quality Trade Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Hawbank Rd, East Kilbride, Glasgow G74 5HA, UK
+    Phone:   01355 261657
+    Website: http://www.qualitytradewindows.co.uk/
+    Rating:  4.8 (18 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37262
+    URL: https://glasgowtrader.co.uk/listing/quality-trade-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] Avondale Window Systems
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 St Bryde St, East Kilbride, Glasgow G74 4HQ, UK
+    Phone:   01355 229856
+    Website: https://www.eastkilbridewindows.com/
+    Rating:  5 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37264
+    URL: https://glasgowtrader.co.uk/listing/avondale-window-systems/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] J Windows And Doors Glebe St
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glebe St, East Kilbride, Glasgow G74 4LY, UK
+    Phone:   07822 029055
+    Website: https://jrwindowsanddoors.co.uk/windows-and-doors-east-kilbride/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37266
+    URL: https://glasgowtrader.co.uk/listing/j-windows-and-doors-glebe-st/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/16] Eco Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Hawbank Rd, East Kilbride, Glasgow G74 5HA, UK
+    Phone:   01355 261657
+    Website: http://www.ecowindowsscotland.co.uk/
+    Rating:  5 (28 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37268
+    URL: https://glasgowtrader.co.uk/listing/eco-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/16] Young Double Glazing Repairs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37250 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [10/16] South Lanarkshire Glazing Co Ltd. (SLGC)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18A Carron Pl, East Kilbride, Glasgow G75 0YL, UK
+    Phone:   01355 900010
+    Website: http://www.slgc.co.uk/
+    Rating:  4.6 (12 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37270
+    URL: https://glasgowtrader.co.uk/listing/south-lanarkshire-glazing-co-ltd-slgc/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] Door & Window World Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 49 Lochlea, East Kilbride, Glasgow G74 3RX, UK
+    Phone:   01355 570189
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37272
+    URL: https://glasgowtrader.co.uk/listing/door-window-world-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/16] Outlook Double Glazing Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 53 Lomond, East Kilbride, Glasgow G75 0BP, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37274
+    URL: https://glasgowtrader.co.uk/listing/outlook-double-glazing-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] Normax Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Carron Pl, East Kilbride, Glasgow G75 0YL, UK
+    Phone:   01355 220735
+    Website: https://normaxwindows.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37276
+    URL: https://glasgowtrader.co.uk/listing/normax-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] M J S Double Glazing Repairs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37166 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [15/16] Hi-Spec Windows and Doors Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37136 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [16/16] RePlace Windows Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37124 — attached location 'East Kilbride' instead
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   16
+  Created: 11
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

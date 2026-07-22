@@ -1,0 +1,259 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Window Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  2833 existing listings on site
+  Ledger: 2817 place_ids
+
+[SEARCH] Finding window fitters in Stirling...
+  Found 18 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/18] NuView Windows & Doors - Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 6, 20 Munro Rd, Stirling FK7 7UU, UK
+    Phone:   01786 437209
+    Website: http://www.nu-view.co.uk/
+    Rating:  4.9 (63 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37420
+    URL: https://glasgowtrader.co.uk/listing/nuview-windows-doors-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/18] Stirling Double Glazing Company UPVC Windows
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Munro Rd, Stirling FK7 7UU, UK
+    Phone:   01786 440020
+    Website: https://www.stirlingdoubleglazing.co.uk/
+    Rating:  1 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37422
+    URL: https://glasgowtrader.co.uk/listing/stirling-double-glazing-company-upvc-windows/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/18] Precision Windows and Doors LTD (Stirling)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4, 3 Cunningham Rd, Stirling FK7 7SW, UK
+    Phone:   01786 232073
+    Website: http://www.precisionpvc.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37424
+    URL: https://glasgowtrader.co.uk/listing/precision-windows-and-doors-ltd-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/18] E.p.d Window & Door Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 31 Westerlea Dr, Bridge of Allan, Stirling FK9 4DQ, UK
+    Phone:   07583 978905
+    Website: http://www.epdwindowanddoorrepairs.co.uk/
+    Rating:  5 (26 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37426
+    URL: https://glasgowtrader.co.uk/listing/e-p-d-window-door-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/18] The Sash and Case Window Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Meadow View, Stirling FK7 8EX, UK
+    Phone:   07710 096553
+    Website: https://sashandcasewindow.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37428
+    URL: https://glasgowtrader.co.uk/listing/the-sash-and-case-window-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/18] Sterling Windows Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 9, Crest Business Centre, Glentye Road, Broadlees Industrial Estate, Stirling FK7 7LH, UK
+    Phone:   01786 463000
+    Website: N/A
+    Rating:  4 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37430
+    URL: https://glasgowtrader.co.uk/listing/sterling-windows-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/18] Ames Double Glazed Windows Stirling Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54a Murray Pl, Stirling FK8 2BX, UK
+    Phone:   01786 649959
+    Website: https://ames-double-glazed-windows-stirling-ltd.webflow.io/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37432
+    URL: https://glasgowtrader.co.uk/listing/ames-double-glazed-windows-stirling-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/18] Windowman Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37396 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [9/18] CR Smith Conservatories and Double Glazing & Repair
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Springkers Road Homebase Springkerse Retail Pk, Fallin, Stirling FK7 7EF, UK
+    Phone:   0800 200444
+    Website: https://www.crsmith.co.uk/window-to-scotland/
+    Rating:  3.4 (5 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37434
+    URL: https://glasgowtrader.co.uk/listing/cr-smith-conservatories-and-double-glazing-repair/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/18] Ecoshield Secondary Glazing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Brucefields, Hillhead Farm, Stirling FK7 8EX, UK
+    Phone:   07584 699607
+    Website: https://ecoshieldsecondaryglazing.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37436
+    URL: https://glasgowtrader.co.uk/listing/ecoshield-secondary-glazing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/18] Hillhead Glaziers Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bruach House, Stirling FK7 8EX, UK
+    Phone:   07584 699607
+    Website: https://glaziers-stirling.co.uk/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37438
+    URL: https://glasgowtrader.co.uk/listing/hillhead-glaziers-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/18] Central Double Glazing Repairs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37418 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [13/18] Glazing Solutions Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37402 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [14/18] Norland Windows and Doors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Hillside, Sauchie, Mainland FK10 3ER, UK
+    Phone:   01259 255220
+    Website: https://norlandwindowsanddoors.co.uk/
+    Rating:  5 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37440
+    URL: https://glasgowtrader.co.uk/listing/norland-windows-and-doors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/18] Cuthil Glazing and Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 Dalmorglen Park, Stirling FK7 9JL, UK
+    Phone:   07766 463889
+    Website: N/A
+    Rating:  4.5 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37442
+    URL: https://glasgowtrader.co.uk/listing/cuthil-glazing-and-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/18] Total Seal Double Glazing Reapir
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37414 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [17/18] Grahamston Glazing Co Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37394 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [18/18] Stirling Glass & glazing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37412 — attached location 'Stirling' instead
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   18
+  Created: 12
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================
