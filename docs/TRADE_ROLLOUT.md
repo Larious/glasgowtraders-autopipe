@@ -32,7 +32,23 @@ Stirling, Bathgate, Carluke.
 - [x] window (297) — 16/16 core towns
 - [x] fencing (165) — 16/16 core towns
 
-## Backlog — remaining 26 empty categories (config not yet written)
+
+### Phase 2 trades (configured 2026-07-22)
+- [ ] driveway (164)   - [ ] flooring (287)    - [ ] removals (308)
+- [ ] auto (311)       - [ ] scaffolder (300)  - [ ] solar (305)
+- [ ] cctv (304)       - [ ] damp (284)        - [ ] chimney (282)
+- [ ] loft (294)       - [ ] conservatory (283)- [ ] carpet (281)
+- [ ] bricklayer (280) - [ ] stonemason (306)  - [ ] insulation (292)
+- [ ] demolition (285) - [ ] garage_builder (288) - [ ] aircon (307)
+- [ ] hvac (309)       - [ ] hometech (301)    - [ ] guttering (290)
+- [ ] construction (298) - [ ] extension (286) - [ ] wallpaper (313)
+
+Note: construction, extension, guttering, hvac and wallpaper overlap
+already-populated categories (Builder, Roofer, Heating, Painter). Their
+businesses are mostly in the ledger already, so expect low net-new and
+location attaches instead. That is correct one-business-one-listing behaviour.
+
+## Backlog — remaining empty categories
 Air Conditioning, Auto Workshop, Carpet Fitters, CCTV, Chimney/Fireplace,
 Conservatory, Construction Contractors, Damp Proofing, Demolition, Driveways,
 Extension builders, Flooring, Garage/Shed Builders, Guttering, Home Technology,
