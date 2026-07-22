@@ -1,0 +1,280 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  3166 existing listings on site
+  Ledger: 3158 place_ids
+
+[SEARCH] Finding auto workshops in Paisley...
+  Found 15 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] DG Auto repairs ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 7, 61 Murray St, Paisley PA3 1QW, UK
+    Phone:   0141 237 7590
+    Website: https://dgautorepairs.co.uk/
+    Rating:  4.9 (99 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38102
+    URL: https://glasgowtrader.co.uk/listing/dg-auto-repairs-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] Paisley Autocare MOT Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 92 Glasgow Rd, Paisley PA1 3NU, UK
+    Phone:   0141 848 7553
+    Website: https://paisleyautocare.co.uk/?utm_source=gbp
+    Rating:  4.3 (387 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38104
+    URL: https://glasgowtrader.co.uk/listing/paisley-autocare-mot-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] Sigma Car Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 58 Back Sneddon St, Paisley PA3 2BY, UK
+    Phone:   07955 174700
+    Website: http://www.sigmagarage.co.uk/
+    Rating:  5 (59 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38106
+    URL: https://glasgowtrader.co.uk/listing/sigma-car-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] Greenlaw Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36 Back Sneddon St, Paisley PA3 2DD, UK
+    Phone:   0141 887 9020
+    Website: https://greenlawgarage.com/
+    Rating:  4.4 (95 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38108
+    URL: https://glasgowtrader.co.uk/listing/greenlaw-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] Bosch Car Service - Reids Garage LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8a Underwood Rd, Paisley PA3 1TD, UK
+    Phone:   0141 889 1263
+    Website: https://reidsgarageltd.co.uk/
+    Rating:  4.8 (119 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38110
+    URL: https://glasgowtrader.co.uk/listing/bosch-car-service-reids-garage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] The Garage Abbey Mill
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Embroidery Mill, Abbey Mill Business Centre, Paisley PA1 1TJ, UK
+    Phone:   0141 328 3849
+    Website: http://www.thegarageabbeymill.com/
+    Rating:  5 (40 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38112
+    URL: https://glasgowtrader.co.uk/listing/the-garage-abbey-mill/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/15] Grays Auto Repair
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 58 well street Paisley PA1 2QE, Paisley PA1 2HQ, UK
+    Phone:   0141 890 0000
+    Website: https://www.facebook.com/graysautorepairpaisley
+    Rating:  5 (33 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38114
+    URL: https://glasgowtrader.co.uk/listing/grays-auto-repair/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/15] GT Automotive
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 90 Murray St, Paisley PA3 1QT, UK
+    Phone:   0141 889 9533
+    Website: http://www.gtautomotive.co.uk/
+    Rating:  4.9 (56 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38116
+    URL: https://glasgowtrader.co.uk/listing/gt-automotive/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] Knights Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 31 Lacy St, Paisley PA1 1QN, UK
+    Phone:   0141 378 6750
+    Website: https://knightsgarage.co.uk/
+    Rating:  4.8 (98 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38118
+    URL: https://glasgowtrader.co.uk/listing/knights-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/15] Clydeside Garage Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit a, 9 Underwood Rd, Paisley PA3 1TE, UK
+    Phone:   0141 887 9703
+    Website: N/A
+    Rating:  4.9 (89 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38120
+    URL: https://glasgowtrader.co.uk/listing/clydeside-garage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/15] AutoFix Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 McGown St, Paisley PA3 1QL, UK
+    Phone:   0141 840 2220
+    Website: https://autofixpaisley.co.uk/
+    Rating:  4.9 (88 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38122
+    URL: https://glasgowtrader.co.uk/listing/autofix-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] Reillys Auto Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 38 Blythswood Dr, Paisley PA3 2ES, UK
+    Phone:   0141 889 5452
+    Website: N/A
+    Rating:  5 (166 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38124
+    URL: https://glasgowtrader.co.uk/listing/reillys-auto-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] Skanderbeg Motors LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17c Greenhill Rd, Paisley PA3 1RN, UK
+    Phone:   07944 441088
+    Website: http://www.skanderbegmotors.co.uk/
+    Rating:  4.8 (106 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38126
+    URL: https://glasgowtrader.co.uk/listing/skanderbeg-motors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] Direct Garage Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 32 New Sneddon St, Paisley PA3 2AZ, UK
+    Phone:   0141 889 3900
+    Website: http://www.facebook.com/directgarageservices
+    Rating:  4.7 (44 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38128
+    URL: https://glasgowtrader.co.uk/listing/direct-garage-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/15] Farmer Autocare Neilston Road
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 139 Neilston Rd, Paisley PA2 6QL, UK
+    Phone:   0141 884 1010
+    Website: https://www.farmerautocare.com/
+    Rating:  4.4 (224 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38130
+    URL: https://glasgowtrader.co.uk/listing/farmer-autocare-neilston-road/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   15
+  Created: 15
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,161 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  3195 existing listings on site
+  Ledger: 3187 place_ids
+
+[SEARCH] Finding auto workshops in Coatbridge...
+  Found 8 candidates (12 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/8] locks street motors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Locks St, Coatbridge ML5 3RT, UK
+    Phone:   07444 261535
+    Website: http://lockstreetmotors.co.uk/
+    Rating:  3.9 (69 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38160
+    URL: https://glasgowtrader.co.uk/listing/locks-street-motors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/8] Coatbridge MOT Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 287 Dundyvan Rd, Coatbridge ML5 4AU, UK
+    Phone:   01236 430332
+    Website: https://www.coatbridgemotcentre.co.uk/
+    Rating:  4.1 (77 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38162
+    URL: https://glasgowtrader.co.uk/listing/coatbridge-mot-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/8] TDC Autos Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 448 Dundyvan Rd, Coatbridge ML5 4AX, UK
+    Phone:   01236 897790
+    Website: N/A
+    Rating:  5 (64 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38164
+    URL: https://glasgowtrader.co.uk/listing/tdc-autos-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/8] Klassicks Motor Company Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36 Locks St, Coatbridge ML5 3RT, UK
+    Phone:   01236 433944
+    Website: N/A
+    Rating:  5 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38166
+    URL: https://glasgowtrader.co.uk/listing/klassicks-motor-company-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/8] Olirob's Garage Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Heritage Way, Coatbridge ML5 1QD, UK
+    Phone:   01236 421312
+    Website: N/A
+    Rating:  4.8 (88 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38168
+    URL: https://glasgowtrader.co.uk/listing/olirobs-garage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/8] AAN AUTO CARE
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 100 Burnbank St, Coatbridge ML5 2AY, UK
+    Phone:   07481 748421
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38170
+    URL: https://glasgowtrader.co.uk/listing/aan-auto-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/8] Fleming's MOT And Service Station
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 242 Whifflet St, Coatbridge ML5 4RX, UK
+    Phone:   01236 710002
+    Website: N/A
+    Rating:  4.6 (55 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38172
+    URL: https://glasgowtrader.co.uk/listing/flemings-mot-and-service-station/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/8] Thomson MOT & Service Centre Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Thomson mot and service centre, 55 Ronald St, Coatbridge ML5 2DN, UK
+    Phone:   01236 440593
+    Website: N/A
+    Rating:  4.8 (53 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38174
+    URL: https://glasgowtrader.co.uk/listing/thomson-mot-service-centre-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   8
+  Created: 8
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

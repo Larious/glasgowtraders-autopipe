@@ -1,0 +1,348 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  3147 existing listings on site
+  Ledger: 3139 place_ids
+
+[SEARCH] Finding auto workshops in Glasgow...
+  Found 19 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/19] 24/7 Auto Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Scotland St, Kinning Park, Glasgow G5 8NB, UK
+    Phone:   0141 418 0428
+    Website: N/A
+    Rating:  4 (83 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38064
+    URL: https://glasgowtrader.co.uk/listing/24-7-auto-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/19] Khan Autos MOT & Service Centre Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23-25 Garturk St, Glasgow G42 8JG, UK
+    Phone:   0141 424 1257
+    Website: http://www.khanautos.co.uk/
+    Rating:  4.3 (704 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38066
+    URL: https://glasgowtrader.co.uk/listing/khan-autos-mot-service-centre-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/19] Byres Road Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Coopers Well St, cross, Glasgow G11 6QE, UK
+    Phone:   0141 339 4503
+    Website: https://www.byresroadgarage.com/
+    Rating:  4.6 (333 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38068
+    URL: https://glasgowtrader.co.uk/listing/byres-road-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/19] Kays Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 99 - 101 Brownside Dr, Glasgow G13 4BW, UK
+    Phone:   0141 954 6001
+    Website: http://kaysgarage.co.uk/
+    Rating:  4.9 (183 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38070
+    URL: https://glasgowtrader.co.uk/listing/kays-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/19] Fast Lane Motors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 177 Curle St, Glasgow G14 0RR, UK
+    Phone:   0141 954 0522
+    Website: N/A
+    Rating:  4.5 (89 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38072
+    URL: https://glasgowtrader.co.uk/listing/fast-lane-motors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/19] GT Autoz
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Milnpark St, Kinning Park, Glasgow G41 1BB, UK
+    Phone:   0141 429 0259
+    Website: https://bookmygarage.com/garage-detail/gtautoz/g411bb/book/?ref=www.gtautoz.co.uk&uv=1&referrer=widget
+    Rating:  4.1 (232 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38074
+    URL: https://glasgowtrader.co.uk/listing/gt-autoz/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/19] The Auto Guys Glasgow & 24/7 Mobile Tyre Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, 151 Balmoral St, Glasgow G14 0HB, UK
+    Phone:   07376 483504
+    Website: https://theautoguysglasgow.co.uk/
+    Rating:  4.6 (21 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38076
+    URL: https://glasgowtrader.co.uk/listing/the-auto-guys-glasgow-24-7-mobile-tyre-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/19] PAK Motors Glasgow LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 105, 109 Whitefield Rd, Glasgow G51 2SD, UK
+    Phone:   0141 258 3132
+    Website: http://www.pakmotorsglasgow.co.uk/
+    Rating:  4.4 (407 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38078
+    URL: https://glasgowtrader.co.uk/listing/pak-motors-glasgow-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/19] MI-Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 140 Salkeld St, Glasgow G5 8HE, UK
+    Phone:   0141 429 5195
+    Website: N/A
+    Rating:  4.1 (155 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38080
+    URL: https://glasgowtrader.co.uk/listing/mi-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/19] J&H Autocare - Thornliebank Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1B, Block 1, Thornliebank Industrial Estate, 1501 Nitshill Rd, Glasgow G46 8QG, UK
+    Phone:   0141 328 0246
+    Website: http://jandhautocare.com/
+    Rating:  4.9 (254 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38082
+    URL: https://glasgowtrader.co.uk/listing/jh-autocare-thornliebank-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/19] Cairnlea Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Mafeking St, Glasgow G51 2UZ, UK
+    Phone:   0141 445 3322
+    Website: http://www.cairnleagarage.com/
+    Rating:  4.6 (76 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38084
+    URL: https://glasgowtrader.co.uk/listing/cairnlea-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/19] WEE Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, 26 Burnham Rd, Glasgow G14 0XA, UK
+    Phone:   07492 818944
+    Website: N/A
+    Rating:  4.7 (66 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38086
+    URL: https://glasgowtrader.co.uk/listing/wee-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/19] Langlands Road Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 307 Langlands Rd, Glasgow G51 4AW, UK
+    Phone:   0141 445 1468
+    Website: https://www.langlandsroadgarage.co.uk/
+    Rating:  4.7 (467 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38088
+    URL: https://glasgowtrader.co.uk/listing/langlands-road-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/19] Crathie Motors Auto Care Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Crathie Dr, Glasgow G11 7XE, UK
+    Phone:   0141 334 0444
+    Website: https://www.crathiemotors.co.uk/
+    Rating:  4.9 (142 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38090
+    URL: https://glasgowtrader.co.uk/listing/crathie-motors-auto-care-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/19] G22 AUTO REPAIR
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Finlas St, Glasgow G22 5DU, UK
+    Phone:   07930 088411
+    Website: N/A
+    Rating:  4.9 (65 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38092
+    URL: https://glasgowtrader.co.uk/listing/g22-auto-repair/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/19] Findlays Auto Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Lintlaw Dr, Glasgow G52 2NS, UK
+    Phone:   0141 258 1911
+    Website: N/A
+    Rating:  4.8 (104 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38094
+    URL: https://glasgowtrader.co.uk/listing/findlays-auto-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/19] Darnley Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 99 Woodneuk Rd, Glasgow G53 7QS, UK
+    Phone:   0141 876 1871
+    Website: http://www.glasgowmot.co.uk/
+    Rating:  4.3 (73 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38096
+    URL: https://glasgowtrader.co.uk/listing/darnley-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/19] The Top Garage Glasgow Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4, 215 Strathclyde St, Glasgow G40 4JR, UK
+    Phone:   0141 550 1210
+    Website: http://thetopgarage.co.uk/
+    Rating:  4.7 (178 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38098
+    URL: https://glasgowtrader.co.uk/listing/the-top-garage-glasgow-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/19] A PLUS AUTO REPAIRS (MOT Vehicle Testing Station & Auto Repair Garage)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1082 South St, Glasgow G14 0AP, UK
+    Phone:   0141 261 0596
+    Website: N/A
+    Rating:  4.3 (54 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38100
+    URL: https://glasgowtrader.co.uk/listing/a-plus-auto-repairs-mot-vehicle-testing-station-auto-repair-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   19
+  Created: 19
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,263 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  3181 existing listings on site
+  Ledger: 3173 place_ids
+
+[SEARCH] Finding auto workshops in Airdrie...
+  Found 14 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Automotive GT Car Sales Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 8, Brownsburn Industrial Estate, Airdrie ML6 9SE, UK
+    Phone:   01236 338332
+    Website: http://www.automotivegt.co.uk/
+    Rating:  4.8 (43 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38132
+    URL: https://glasgowtrader.co.uk/listing/automotive-gt-car-sales-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] Airdrie Motorist Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 91 Main St, Calderbank, Airdrie ML6 9SG, UK
+    Phone:   01236 755999
+    Website: N/A
+    Rating:  4.5 (70 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38134
+    URL: https://glasgowtrader.co.uk/listing/airdrie-motorist-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/14] GCS Autos Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 155 Glencraig St, Airdrie ML6 9AS, UK
+    Phone:   01236 341487
+    Website: https://m.facebook.com/gcsautos
+    Rating:  5 (33 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38136
+    URL: https://glasgowtrader.co.uk/listing/gcs-autos-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/14] Upper Mill Street Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Upper Mill St, Airdrie ML6 6JJ, UK
+    Phone:   01236 751144
+    Website: N/A
+    Rating:  4.9 (69 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38138
+    URL: https://glasgowtrader.co.uk/listing/upper-mill-street-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] D&G Autocare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 10, 51 Motherwell St, Airdrie ML6 7EJ, UK
+    Phone:   01236 809100
+    Website: https://www.dandgautocare.co.uk/?y_source=1_MTAzNTgyMzY5OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+    Rating:  4.7 (284 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38140
+    URL: https://glasgowtrader.co.uk/listing/dg-autocare/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] J&A Automotive
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 25 Brownsburn Industrial Estate, Airdrie ML6 9SE, UK
+    Phone:   07425 015460
+    Website: https://jandaautomotive.co.uk/
+    Rating:  5 (170 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38142
+    URL: https://glasgowtrader.co.uk/listing/ja-automotive/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/14] Auto SLJ
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Carlisle Rd, Chapelhall, Airdrie ML6 8RH, UK
+    Phone:   01236 800313
+    Website: https://www.autoslj.co.uk/
+    Rating:  5 (79 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38144
+    URL: https://glasgowtrader.co.uk/listing/auto-slj/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] Central Motors Calderbank Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 105 Carlisle Rd, Airdrie ML6 8AG, UK
+    Phone:   01236 762881
+    Website: http://www.centralmotorsairdrie.co.uk/
+    Rating:  4.5 (13 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38146
+    URL: https://glasgowtrader.co.uk/listing/central-motors-calderbank-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] Airdrie Auto Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Block 7, 33a Stirling Rd, Chapelhall, Airdrie ML6 8QH, UK
+    Phone:   01236 768476
+    Website: http://www.airdrieautosolutions.com/
+    Rating:  4.2 (73 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38148
+    URL: https://glasgowtrader.co.uk/listing/airdrie-auto-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] Treads Garage Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Motherwell St, Airdrie ML6 7HU, UK
+    Phone:   01236 768933
+    Website: https://en-gb.facebook.com/treads.garage/
+    Rating:  4.5 (224 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38150
+    URL: https://glasgowtrader.co.uk/listing/treads-garage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/14] Cairneys Auto Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Drumgelloch St, Airdrie ML6 7EW, UK
+    Phone:   07856 817548
+    Website: http://www.cairneysautosolutions.com/
+    Rating:  4.8 (52 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38152
+    URL: https://glasgowtrader.co.uk/listing/cairneys-auto-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/14] John Gardner Motors Engineers Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Railway Rd, Airdrie ML6 9AB, UK
+    Phone:   01236 761900
+    Website: N/A
+    Rating:  4.8 (30 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38154
+    URL: https://glasgowtrader.co.uk/listing/john-gardner-motors-engineers-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] Millers Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 116 Main St, Chapelhall, Airdrie ML6 8SB, UK
+    Phone:   01236 602700
+    Website: http://www.millersofchapelhall.co.uk/
+    Rating:  4.9 (158 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38156
+    URL: https://glasgowtrader.co.uk/listing/millers-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] Brownsburn Garage Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 6, Brownsburn Ind Est, Airdrie ML6 9SE, UK
+    Phone:   01236 767603
+    Website: N/A
+    Rating:  4.5 (110 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38158
+    URL: https://glasgowtrader.co.uk/listing/brownsburn-garage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   14
+  Created: 14
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================
