@@ -1,0 +1,214 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  2538 existing listings on site
+  Ledger: 2521 place_ids
+
+[SEARCH] Finding heating engineers in Airdrie...
+  Found 21 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/21] D R C Spittal Heating & Plumbing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26778 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [2/21] Premier Gas Installs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Knowehead Pl, Plains, Airdrie ML6 7FR, UK
+    Phone:   07792 804286
+    Website: https://premiergasinstalls.co.uk/
+    Rating:  5 (70 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36828
+    URL: https://glasgowtrader.co.uk/listing/premier-gas-installs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/21] Vincent Coyle(Plumbing & Heating)Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26782 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [4/21] A N Heating Services limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28698 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [5/21] Peters Heating & Plumbing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26790 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [6/21] Walker Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27935 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [7/21] Buchanan Gas & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28703 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [8/21] Boilers Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Tarbert Way, Coatbridge ML5 5FH, UK
+    Phone:   01236 590941
+    Website: https://boilersscotland.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36830
+    URL: https://glasgowtrader.co.uk/listing/boilers-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/21] Cowan Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27940 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [10/21] Assured Heating & Boiler Repair
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29464 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [11/21] Gas Assured Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 112 Grayling Rd, Motherwell ML1 4ZE, UK
+    Phone:   07535 061007
+    Website: https://gasassuredscotland.co.uk/
+    Rating:  5 (148 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36832
+    URL: https://glasgowtrader.co.uk/listing/gas-assured-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/21] Lauder plumbing, heating & gas services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 56 Broomfield St, Airdrie ML6 9LT, UK
+    Phone:   07752 733913
+    Website: N/A
+    Rating:  3 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36834
+    URL: https://glasgowtrader.co.uk/listing/lauder-plumbing-heating-gas-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/21] Crawford & Sons Gas Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28713 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [14/21] KMG Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28577 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [15/21] Thistle Boilers ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: New Alderston House, Strathclyde Business Park, Bellshill ML4 3AD, UK
+    Phone:   01698 694114
+    Website: https://thistleboilers.co.uk/
+    Rating:  5 (28 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36836
+    URL: https://glasgowtrader.co.uk/listing/thistle-boilers-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/21] 󠁧󠁢󠁳󠁣󠁴󠁿Land Plumbing, Heating & Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26776 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [17/21] The Heating & Plumbing Company
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26797 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [18/21] Wilson Gas Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Robertson Dr, Bellshill ML4 2EQ, UK
+    Phone:   01698 291486
+    Website: http://www.wilsongasservices.co.uk/
+    Rating:  5 (21 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36838
+    URL: https://glasgowtrader.co.uk/listing/wilson-gas-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/21] GasGeeks Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28735 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [20/21] P&D Gas Engineer
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Thorndean Cres, Bellshill ML4 2LN, UK
+    Phone:   07596 799198
+    Website: N/A
+    Rating:  5 (22 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36840
+    URL: https://glasgowtrader.co.uk/listing/pd-gas-engineer/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/21] Pioneer Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28773 — attached location 'Airdrie' instead
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   21
+  Created: 7
+  Skipped: 14 (already existed)
+  Failed:  0
+============================================================

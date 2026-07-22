@@ -1,0 +1,109 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  2588 existing listings on site
+  Ledger: 2571 place_ids
+
+[SEARCH] Finding heating engineers in Greenock...
+  Found 12 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] Protec Plumbing & Heating (Scotland) Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27972 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [2/12] Plumbing and Heating On Tap Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29024 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [3/12] G-C Gas Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29034 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [4/12] Liam Martin Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29039 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [5/12] West of Scotland Heating and Plumbing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29035 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [6/12] Stephen Quigley Plumbing & Heating Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29045 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [7/12] West Coast Gas Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Sandhaven Pl, Inverkip, Greenock PA16 0FE, UK
+    Phone:   07717 871345
+    Website: http://www.westcoastgas.co.uk/
+    Rating:  4.6 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36928
+    URL: https://glasgowtrader.co.uk/listing/west-coast-gas-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/12] Grierson Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29036 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [9/12] D C PLUMBING AND HEATING (SCOTLAND) LIMITED
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29050 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [10/12] Thomson Heating Group Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28442 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [11/12] Craig Morgan Plumbing and Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29040 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [12/12] JH Gas Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 141 Alexandra Parade, Dunoon PA23 8AW, UK
+    Phone:   07717 349952
+    Website: N/A
+    Rating:  4.9 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36930
+    URL: https://glasgowtrader.co.uk/listing/jh-gas-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   12
+  Created: 2
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

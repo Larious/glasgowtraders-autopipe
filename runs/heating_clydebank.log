@@ -1,0 +1,181 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  2565 existing listings on site
+  Ledger: 2548 place_ids
+
+[SEARCH] Finding heating engineers in Clydebank...
+  Found 24 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/24] JDL Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28669 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [2/24] Casa Heating Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28659 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [3/24] DW Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28681 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [4/24] Clydeside Plumbing and Heating LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Canberra Ave, Clydebank G81 4BP, UK
+    Phone:   0141 459 1019
+    Website: https://www.clydesideplumbingandheating.com/
+    Rating:  5 (4 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36882
+    URL: https://glasgowtrader.co.uk/listing/clydeside-plumbing-and-heating-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/24] DR Gas Plumbing & heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28664 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [6/24] Simple Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28674 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [7/24] Hiflow Heating & Plumbing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27136 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [8/24] Thomson Heating Group Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28442 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [9/24] Upgrade Boilers and Bathrooms ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27989 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [10/24] Gary Ashe Plumbing and Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28452 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [11/24] Gormley Heating Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36818 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [12/24] RapidFix Heating LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28691 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [13/24] ORW Heating Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Jean Armour Dr, Clydebank G81 2EP, UK
+    Phone:   07789 960937
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36884
+    URL: https://glasgowtrader.co.uk/listing/orw-heating-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/24] Gasman Energy Advisory Service Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29152 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [15/24] D R M Professional Heating Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28839 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [16/24] Mercer Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28036 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [17/24] Taylored Heating & Plumbing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36814 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [18/24] The Boiler Repair Man
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27124 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [19/24] Cairney Plumbing & Heating Engineer
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Cairney Plumbing & Heating Engineer, Dalgleish Ave, Clydebank G81 6DY, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36886
+    URL: https://glasgowtrader.co.uk/listing/cairney-plumbing-heating-engineer/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/24] Gas Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36794 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [21/24] GMC Gas Services LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36800 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [22/24] Boiler Breakdown Repairs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36802 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [23/24] Alexander Gas Servicing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28844 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [24/24] SM Heating & Plumbing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28467 — attached location 'Clydebank' instead
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   24
+  Created: 3
+  Skipped: 21 (already existed)
+  Failed:  0
+============================================================

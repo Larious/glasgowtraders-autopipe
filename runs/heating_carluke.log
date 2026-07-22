@@ -1,0 +1,90 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  2613 existing listings on site
+  Ledger: 2597 place_ids
+
+[SEARCH] Finding heating engineers in Carluke...
+  Found 13 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] GC Oil & Gas Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28564 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [2/13] Antony Jolley Plumbing & Heating Engineers LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28559 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [3/13] Cowan Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27940 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [4/13] A N Heating Services limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28698 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [5/13] Boilers Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36830 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [6/13] Kings Kitchens Bathrooms Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28554 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [7/13] Dunlop Gas & Boiler Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36858 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [8/13] Gas Assured Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36832 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [9/13] Wilson Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36838 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [10/13] Assured Heating & Boiler Repair
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29464 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [11/13] KMG Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28577 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [12/13] Gas services scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36876 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [13/13] McCulloch Plumbing & Gas Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28397 — attached location 'Carluke' instead
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   13
+  Created: 0
+  Skipped: 13 (already existed)
+  Failed:  0
+============================================================

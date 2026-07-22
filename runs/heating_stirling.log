@@ -1,0 +1,143 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  2599 existing listings on site
+  Ledger: 2583 place_ids
+
+[SEARCH] Finding heating engineers in Stirling...
+  Found 14 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] MM Heating Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29590 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [2/14] Burt Heating Scotland (Stirlingboiler.com)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29578 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [3/14] Howden Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29552 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [4/14] Forth Plumbing & Heating Services (Stirling) Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29564 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [5/14] Heatsafe Heating Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 117 Strathmore Dr, Stirling FK9 5DT, UK
+    Phone:   01324 332899
+    Website: https://heatsafeheatingltd.co.uk/boiler-installation-stirling/
+    Rating:  5 (9 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36952
+    URL: https://glasgowtrader.co.uk/listing/heatsafe-heating-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] Stirling Boiler Repairs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29595 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [7/14] The Plumbing and Heating Provider
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29557 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [8/14] Francis Masterson Plumbing & Heating Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29575 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [9/14] Maxwell Heating Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 Millar Pl, Stirling FK8 1XB, UK
+    Phone:   07415 880938
+    Website: http://www.maxwellheating.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36954
+    URL: https://glasgowtrader.co.uk/listing/maxwell-heating-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] DSE Electrical & Heating Engineers Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 31156 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [11/14] Connaghan Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29570 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [12/14] D M D Plumbing & Heating Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Murray Row, Cowie, Stirling FK7 7DR, UK
+    Phone:   01786 480517
+    Website: N/A
+    Rating:  4.7 (25 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36956
+    URL: https://glasgowtrader.co.uk/listing/d-m-d-plumbing-heating-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] RCA Plumbing & Heating Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 55 Westview Cres, Tullibody, Alloa FK10 2TN, UK
+    Phone:   01259 929952
+    Website: http://rcaplumbheat.co.uk/
+    Rating:  5 (265 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36958
+    URL: https://glasgowtrader.co.uk/listing/rca-plumbing-heating-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] R W Yuile Plumbing Heating Gas Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28980 — attached location 'Stirling' instead
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   14
+  Created: 4
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

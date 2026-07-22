@@ -1,0 +1,112 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  2564 existing listings on site
+  Ledger: 2547 place_ids
+
+[SEARCH] Finding heating engineers in East Kilbride...
+  Found 15 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Gas More limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28936 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [2/15] Top Gas Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28922 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [3/15] BGHC Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28901 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [4/15] Sproul & Sons Plumbing and Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28864 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [5/15] Affordable Boiler Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36878 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [6/15] Energy Made Greener Heating, Plumbing & Renewables
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28927 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [7/15] Matthew Graham Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27066 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] D Marriott Plumbing and Heating Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28903 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [9/15] Golden Glow heating and plumbing ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28872 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [10/15] McMurdo Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28917 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [11/15] FlameFox – Gas & Heating Engineer
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36846 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [12/15] RF Plumbing and Heating - Gas Engineer Glasgow | Plumber in Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28616 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [13/15] O’Neil Gas, Care & Boiler Services East Kilbride
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Redwood Cres, East Kilbride, Glasgow G74 5PA, UK
+    Phone:   01355 203333
+    Website: http://www.oneilgas.com/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36880
+    URL: https://glasgowtrader.co.uk/listing/oneil-gas-care-boiler-services-east-kilbride/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] Express Boilers Gas Heating & Plumbing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28641 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [15/15] Dunlop Gas & Boiler Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36858 — attached location 'East Kilbride' instead
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   15
+  Created: 1
+  Skipped: 14 (already existed)
+  Failed:  0
+============================================================

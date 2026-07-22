@@ -1,0 +1,223 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  2529 existing listings on site
+  Ledger: 2512 place_ids
+
+[SEARCH] Finding heating engineers in Paisley...
+  Found 18 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/18] Boiler Breakdown Repairs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36802 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [2/18] Russell Plumbing and Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28060 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [3/18] McGregor Plumbing & Heating Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28472 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [4/18] GKL Plumbing & Heating Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29170 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [5/18] We Love Your Boiler
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 116 St James Business Centre, Paisley PA3 3AT, UK
+    Phone:   0141 739 8617
+    Website: https://www.weloveyourprojects.co.uk/
+    Rating:  4.8 (24 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36810
+    URL: https://glasgowtrader.co.uk/listing/we-love-your-boiler/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/18] J Y Graham Plumbing & Heating
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 97 Roffey Park Rd, Paisley PA1 3ET, UK
+    Phone:   07885 223611
+    Website: N/A
+    Rating:  5 (9 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36812
+    URL: https://glasgowtrader.co.uk/listing/j-y-graham-plumbing-heating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/18] Taylored Heating & Plumbing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 162 Willow Dr, Johnstone PA5 0AH, UK
+    Phone:   0141 459 1296
+    Website: https://www.tayloredheatingplumbing.co.uk/
+    Rating:  5 (12 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36814
+    URL: https://glasgowtrader.co.uk/listing/taylored-heating-plumbing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/18] Pronto Central Heating Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Sutherland St, Paisley PA1 2SG, UK
+    Phone:   07449 762817
+    Website: https://prontoplumbing.co.uk/services/plumbing-services/paisley/
+    Rating:  4.3 (9 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36816
+    URL: https://glasgowtrader.co.uk/listing/pronto-central-heating-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/18] Gormley Heating Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Broompark Dr, Inchinnan, Renfrew PA4 9QF, UK
+    Phone:   07449 764608
+    Website: http://www.gormleyheating.co.uk/
+    Rating:  5 (35 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36818
+    URL: https://glasgowtrader.co.uk/listing/gormley-heating-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/18] Gas Repair & Installation Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29482 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [11/18] MCR Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28494 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [12/18] Thomson Heating Group Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28442 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [13/18] SM Heating & Plumbing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28467 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [14/18] Campbell Gas Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Patrickbank Gardens, Elderslie, Johnstone PA5 9UF, UK
+    Phone:   07715 980674
+    Website: http://www.campbellgas.co.uk/
+    Rating:  5 (12 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36820
+    URL: https://glasgowtrader.co.uk/listing/campbell-gas-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/18] Just Boilers Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Bardrain Rd, Glenburn, Paisley PA2 8LD, UK
+    Phone:   07934 922093
+    Website: N/A
+    Rating:  4 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36822
+    URL: https://glasgowtrader.co.uk/listing/just-boilers-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/18] Phoenix Gas Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Newton Dr, Elderslie, Johnstone PA5 9BD, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36824
+    URL: https://glasgowtrader.co.uk/listing/phoenix-gas-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/18] Paisley Boiler Installations
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: M0010, 115 Abercorn St, Paisley PA3 4AT, UK
+    Phone:   0141 280 5350
+    Website: http://paisleyboilerinstallations.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36826
+    URL: https://glasgowtrader.co.uk/listing/paisley-boiler-installations/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/18] GMC Gas Services LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36800 — attached location 'Paisley' instead
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   18
+  Created: 9
+  Skipped: 9 (already existed)
+  Failed:  0
+============================================================

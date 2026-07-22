@@ -1,0 +1,260 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  2554 existing listings on site
+  Ledger: 2537 place_ids
+
+[SEARCH] Finding heating engineers in Hamilton...
+  Found 23 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/23] Cozy Heating Boilers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29102 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/23] CRA Plumbing and Heating Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29060 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/23] Aglow Heating & Gas Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52 Rederech Cres, Hamilton ML3 8QF, UK
+    Phone:   07745 748281
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36860
+    URL: https://glasgowtrader.co.uk/listing/aglow-heating-gas-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/23] The Electric Heating Company Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 40 Block 5, Blantyre, Glasgow G72 0UP, UK
+    Phone:   01698 820533
+    Website: https://www.electric-heatingcompany.co.uk/
+    Rating:  4.6 (42 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36862
+    URL: https://glasgowtrader.co.uk/listing/the-electric-heating-company-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/23] Fraser Plumbing & Heating Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 218 Silvertonhill Ave, Hamilton ML3 7PF, UK
+    Phone:   01698 285063
+    Website: http://fraserplumbing.co.uk/
+    Rating:  4.2 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36864
+    URL: https://glasgowtrader.co.uk/listing/fraser-plumbing-heating-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/23] Gas Assured Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36832 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/23] Electrace Heating Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5, Hillhouse Workshops, Hamilton ML3 9BQ, UK
+    Phone:   01355 203522
+    Website: https://electraceheating.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36866
+    URL: https://glasgowtrader.co.uk/listing/electrace-heating-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/23] Top Gas Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28922 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [9/23] Gas Pro
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, Allanshaw Industrial Estate Wellhall Rd, Hamilton ML3 9FL, UK
+    Phone:   01698 423434
+    Website: http://gasprolimited.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36868
+    URL: https://glasgowtrader.co.uk/listing/gas-pro/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/23] Direct Cooling & Heating Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24A Russell St, Hamilton ML3 0QP, UK
+    Phone:   01698 827679
+    Website: http://web.airconheat.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36870
+    URL: https://glasgowtrader.co.uk/listing/direct-cooling-heating-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/23] Cowan Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27940 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [12/23] Emmett Gas Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Hawksland Walk, Hamilton ML3 7NX, UK
+    Phone:   07573 775531
+    Website: http://facebook.com/emmettgasservices
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36872
+    URL: https://glasgowtrader.co.uk/listing/emmett-gas-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/23] Gas More limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28936 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [14/23] Integrity Heating Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Beech Ave, Quarter, Hamilton ML3 7FE, UK
+    Phone:   07557 059953
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36874
+    URL: https://glasgowtrader.co.uk/listing/integrity-heating-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/23] Dunlop Gas & Boiler Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36858 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [16/23] Gas services scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 Dave Barrie Ave, Larkhall ML9 1DW, UK
+    Phone:   07521 941732
+    Website: https://www.gasservicesscotland.com/
+    Rating:  4.9 (25 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36876
+    URL: https://glasgowtrader.co.uk/listing/gas-services-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/23] Wilson Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36838 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [18/23] Affordable Boiler Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Affordable boiler solutions, 14 Stroud Rd, East Kilbride, Glasgow G75 0YA, UK
+    Phone:   07411 751742
+    Website: https://affordableboilersolutions.com/
+    Rating:  5 (13 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36878
+    URL: https://glasgowtrader.co.uk/listing/affordable-boiler-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/23] Glasgow Boiler Repairs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36798 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [20/23] A N Heating Services limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28698 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [21/23] Assured Heating & Boiler Repair
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29464 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [22/23] GC Oil & Gas Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28564 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [23/23] JDS Gas Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28082 — attached location 'Hamilton' instead
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   23
+  Created: 10
+  Skipped: 13 (already existed)
+  Failed:  0
+============================================================

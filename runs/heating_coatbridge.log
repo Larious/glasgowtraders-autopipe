@@ -1,0 +1,190 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  2545 existing listings on site
+  Ledger: 2528 place_ids
+
+[SEARCH] Finding heating engineers in Coatbridge...
+  Found 21 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/21] A N Heating Services limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28698 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/21] Buchanan Gas & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28703 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/21] Boilers Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36830 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/21] Crawford & Sons Gas Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28713 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [5/21] Buchanan Gas Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 62 Hospital St, Coatbridge ML5 4DW, UK
+    Phone:   07821 750426
+    Website: https://www.facebook.com/buchanangas
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36842
+    URL: https://glasgowtrader.co.uk/listing/buchanan-gas-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/21] Aitken Plumbing & Heating Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 156 The Oval, Glenboig, Coatbridge ML5 2RX, UK
+    Phone:   07910 395390
+    Website: https://www.lanarkshiregasengineer.co.uk/gas-engineer-in-glenboig/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36844
+    URL: https://glasgowtrader.co.uk/listing/aitken-plumbing-heating-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/21] Cowan Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27940 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [8/21] Gas Assured Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36832 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [9/21] Premier Gas Installs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36828 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [10/21] Vincent Coyle(Plumbing & Heating)Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26782 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [11/21] Thistle Boilers ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36836 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [12/21] D R C Spittal Heating & Plumbing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26778 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [13/21] FlameFox – Gas & Heating Engineer
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 45 Dalziel Cres, Cambuslang, Glasgow G72 7UR, UK
+    Phone:   07706 194924
+    Website: https://www.flamefox.co.uk/
+    Rating:  5 (18 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36846
+    URL: https://glasgowtrader.co.uk/listing/flamefox-gas-heating-engineer/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/21] KMG Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28577 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [15/21] Peters Heating & Plumbing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26790 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [16/21] Reilly Gas Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Dunbeth Ave, Coatbridge ML5 1QR, UK
+    Phone:   07568 156667
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36848
+    URL: https://glasgowtrader.co.uk/listing/reilly-gas-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/21] Wilson Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36838 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [18/21] Assured Heating & Boiler Repair
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29464 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [19/21] GasGeeks Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28735 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [20/21] G & E Gas Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Glencairn Dr, Coatbridge ML5 5HE, UK
+    Phone:   07916 103180
+    Website: http://www.gandegasservices.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36850
+    URL: https://glasgowtrader.co.uk/listing/g-e-gas-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/21] JDS Gas Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28082 — attached location 'Coatbridge' instead
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   21
+  Created: 5
+  Skipped: 16 (already existed)
+  Failed:  0
+============================================================

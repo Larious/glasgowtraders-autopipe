@@ -27,7 +27,7 @@ Stirling, Bathgate, Carluke.
 - [x] bathroom (169) — 16/16 core towns
 - [x] tiler (170) — 16/16 core towns
 - [x] handyman (167) — 16/16 core towns
-- [ ] heating (291; rules → boiler 172 / central heating 171)
+- [x] heating (291; rules → boiler 172 / central heating 171) — 16/16 core towns
 - [ ] locksmith (168)
 - [ ] window (297)
 - [ ] fencing (165)

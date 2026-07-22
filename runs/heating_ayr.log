@@ -1,0 +1,216 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  2580 existing listings on site
+  Ledger: 2563 place_ids
+
+[SEARCH] Finding heating engineers in Ayr...
+  Found 19 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/19] Darwin Johnstone Plumbing and Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28138 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [2/19] R.Tait Plumbing and Heating Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28128 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [3/19] HeatAyr Gas Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Saltfield Ln, Ayr KA8 8BW, UK
+    Phone:   07801 973353
+    Website: http://www.heatayr.com/
+    Rating:  4.2 (35 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36912
+    URL: https://glasgowtrader.co.uk/listing/heatayr-gas-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/19] Thomson Gas Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 91 Forge Rd, Ayr KA8 9NJ, UK
+    Phone:   07736 933710
+    Website: https://www.thomsongasservices.co.uk/
+    Rating:  4.9 (20 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36914
+    URL: https://glasgowtrader.co.uk/listing/thomson-gas-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/19] O'Neil Gas & Plumbing Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28153 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [6/19] Repair Gas Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28183 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [7/19] S C Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28148 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [8/19] C Nicol Gas Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 41 Seafield Dr, Ayrshire, Ayr KA7 4BJ, UK
+    Phone:   0800 246 5914
+    Website: http://cnicolgas.com/
+    Rating:  4.6 (20 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36916
+    URL: https://glasgowtrader.co.uk/listing/c-nicol-gas-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/19] MyGas Heating & Plumbing Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Gower Pl, Ayr KA7 4SL, UK
+    Phone:   01292 254458
+    Website: https://mygasheating.com/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36918
+    URL: https://glasgowtrader.co.uk/listing/mygas-heating-plumbing-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/19] Ayrshire Boilers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29283 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [11/19] RGB Gas & Energy Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Hannah Wynd, Ayr KA6 5HB, UK
+    Phone:   07780 442576
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36920
+    URL: https://glasgowtrader.co.uk/listing/rgb-gas-energy-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/19] Central Heating Gas Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29624 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [13/19] TP Plumbing and Gas
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29288 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [14/19] McRoberts Plumbing & Heating Engineers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29213 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [15/19] Abacus plumbing and heating ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Lawson St, Ayr KA8 9LP, UK
+    Phone:   07834 405153
+    Website: N/A
+    Rating:  5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36922
+    URL: https://glasgowtrader.co.uk/listing/abacus-plumbing-and-heating-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/19] Peter J Brown Plumbing Gas & Oil
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 53 Hillpark, Mossblown, Ayr KA6 5BS, UK
+    Phone:   07500 118948
+    Website: N/A
+    Rating:  5 (17 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36924
+    URL: https://glasgowtrader.co.uk/listing/peter-j-brown-plumbing-gas-oil/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/19] Andy McKenzie Plumbing & Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28163 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [18/19] DW GAS & PLUMBING SERVICES LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 94 Hillfoot Rd, Ayr KA7 3LB, UK
+    Phone:   07951 533294
+    Website: http://dwgasandplumbingservicesltd.co.uk/
+    Rating:  4 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36926
+    URL: https://glasgowtrader.co.uk/listing/dw-gas-plumbing-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/19] Dace Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29634 — attached location 'Ayr' instead
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   19
+  Created: 8
+  Skipped: 11 (already existed)
+  Failed:  0
+============================================================

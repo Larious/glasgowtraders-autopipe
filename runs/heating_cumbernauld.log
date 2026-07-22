@@ -1,0 +1,246 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  2568 existing listings on site
+  Ledger: 2551 place_ids
+
+[SEARCH] Finding heating engineers in Cumbernauld...
+  Found 25 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/25] GasGeeks Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28735 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [2/25] Pioneer Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28773 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [3/25] I Macdonald Plumbing & heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28745 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [4/25] Q M Heating Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28758 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [5/25] T Addison Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28748 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [6/25] Gas Team - emergency plumber cumbernauld.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28803 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [7/25] STG Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28796 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [8/25] A N Heating Services limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28698 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [9/25] CJK Plumbing & Heating Solutions Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28779 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [10/25] BPC Plumbing & Heating Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Old Sta Pl, Kilsyth, Glasgow G65 0SX, UK
+    Phone:   07368 408047
+    Website: http://www.bpcplumbingandheating.co.uk/
+    Rating:  5 (15 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36888
+    URL: https://glasgowtrader.co.uk/listing/bpc-plumbing-heating-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/25] VPS Underfloor Heating
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 30, Westfield North Industrial Estate, Grayshill Rd, Westfield, Cumbernauld, Glasgow G68 9HQ, UK
+    Phone:   0141 459 3141
+    Website: https://www.vpsunderfloorheating.co.uk/
+    Rating:  5 (181 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36890
+    URL: https://glasgowtrader.co.uk/listing/vps-underfloor-heating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/25] Home Heating Installations
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1, Berryknowe Cottage, Tintock Rd, Village, Kirkintilloch, Glasgow G66 2TA, UK
+    Phone:   0141 777 7700
+    Website: http://www.homeheatinginstallations.co.uk/
+    Rating:  5 (37 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36892
+    URL: https://glasgowtrader.co.uk/listing/home-heating-installations/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/25] D R C Spittal Heating & Plumbing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26778 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [14/25] Boilers Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36830 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [15/25] David Auchinvole Plumbing & Heating
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 61 Castlehill View, Kilsyth, Glasgow G65 9NY, UK
+    Phone:   01236 822056
+    Website: N/A
+    Rating:  4.3 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36894
+    URL: https://glasgowtrader.co.uk/listing/david-auchinvole-plumbing-heating/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/25] Bo-Gas Gasman Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 123 Smithyends, Cumbernauld, Glasgow G67 2SJ, UK
+    Phone:   07398 687737
+    Website: N/A
+    Rating:  5 (19 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36896
+    URL: https://glasgowtrader.co.uk/listing/bo-gas-gasman-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/25] SA Heating Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28628 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [18/25] Gas Assured Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36832 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [19/25] GMC Gas Services LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36800 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [20/25] Glasgow Boiler Repairs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36798 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [21/25] Buchanan Gas & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28703 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [22/25] R W Yuile Plumbing Heating Gas Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28980 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [23/25] A Tech Heating Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 26 Deerdykes View, Westfield, Cumbernauld, Glasgow G68 9HN, UK
+    Phone:   01236 738583
+    Website: http://www.atechheat.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36898
+    URL: https://glasgowtrader.co.uk/listing/a-tech-heating-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/25] Eòlas Heating Solutions Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 53 Parkburn Ave, Lenzie, Glasgow G66 4AY, UK
+    Phone:   07884 974892
+    Website: https://eolasheating.co.uk/
+    Rating:  5 (26 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36900
+    URL: https://glasgowtrader.co.uk/listing/eolas-heating-solutions-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [25/25] KJM Gas Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 Cowgate, Kirkintilloch, Glasgow G66 1HN, UK
+    Phone:   07904 572139
+    Website: http://www.kjmgasservices.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36902
+    URL: https://glasgowtrader.co.uk/listing/kjm-gas-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   25
+  Created: 8
+  Skipped: 17 (already existed)
+  Failed:  0
+============================================================

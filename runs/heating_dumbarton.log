@@ -1,0 +1,143 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  2576 existing listings on site
+  Ledger: 2559 place_ids
+
+[SEARCH] Finding heating engineers in Dumbarton...
+  Found 14 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] James Scullion Plumbing & Heating ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Park St, Dumbarton G82 1RF, UK
+    Phone:   01389 739074
+    Website: https://jamesscullionplumbingandheating.co.uk/
+    Rating:  4.9 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36904
+    URL: https://glasgowtrader.co.uk/listing/james-scullion-plumbing-heating-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] Preston Fleming Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27950 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [3/14] Taff's Heating, Plumbing & Electrics
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27963 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [4/14] Sure Point Plumbing Heating renewables Gas
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27958 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [5/14] Thomson Heating Group Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28442 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [6/14] JDL Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28669 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [7/14] Casa Heating Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28659 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [8/14] Gormley Heating Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36818 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [9/14] Taylored Heating & Plumbing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36814 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [10/14] DW Gas Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28681 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [11/14] Boundary Heating & Plumbing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28238 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [12/14] Alternagas Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Castle St., Dumbarton G82 1QS, UK
+    Phone:   01389 726797
+    Website: N/A
+    Rating:  3.4 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36906
+    URL: https://glasgowtrader.co.uk/listing/alternagas-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] Dmc gas limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Glenpath, Dumbarton G82 2QL, UK
+    Phone:   07530 214426
+    Website: http://www.dmcgas.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36908
+    URL: https://glasgowtrader.co.uk/listing/dmc-gas-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] Gas-Aid
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Moore Park Cottage, Brooks Rd, Cardross, Dumbarton G82 5HD, UK
+    Phone:   07715 074738
+    Website: http://gas-aid.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36910
+    URL: https://glasgowtrader.co.uk/listing/gas-aid/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   14
+  Created: 4
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

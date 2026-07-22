@@ -1,0 +1,302 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  2518 existing listings on site
+  Ledger: 2501 place_ids
+
+[SEARCH] Finding heating engineers in Glasgow...
+  Found 29 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/29] SA Heating Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28628 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [2/29] McQueen Heating Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28377 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [3/29] Glasgow Heating Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29011 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [4/29] Glasgow Boiler Experts - Installation, Service and Repair
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28544 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [5/29] Heatco Scotland Ltd - Boiler Replacements Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Office 2/3, Heatco Scotland Ltd, 48 W George St, Glasgow G2 1BP, UK
+    Phone:   0141 297 1234
+    Website: https://www.heatco-scotland.co.uk/
+    Rating:  5 (176 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36788
+    URL: https://glasgowtrader.co.uk/listing/heatco-scotland-ltd-boiler-replacements-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/29] Eisen Plumbing and Heating Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1/1, 152 Nithsdale Rd, Glasgow G41 5RB, UK
+    Phone:   07378 222330
+    Website: https://www.eisen.works/
+    Rating:  5 (54 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36790
+    URL: https://glasgowtrader.co.uk/listing/eisen-plumbing-and-heating-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/29] The Boiler Repair Man
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27124 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [8/29] The Glasgow Boiler Company
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26964 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [9/29] #1 Boiler Repairs in Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 176 Bath St, Glasgow G2 4HG, UK
+    Phone:   0141 363 0033
+    Website: https://www.boiler-repairs-in-glasgow.co.uk/?utm_source=google_map&utm_medium=organic
+    Rating:  5 (187 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36792
+    URL: https://glasgowtrader.co.uk/listing/1-boiler-repairs-in-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/29] Boiler Repair Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28504 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [11/29] SM Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28204 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [12/29] Gas Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Westerton Business Centre, 110A Maxwell Ave, Bearsden, Glasgow G61 1HU, UK
+    Phone:   07734 921221
+    Website: https://gasglasgow.com/
+    Rating:  5 (131 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36794
+    URL: https://glasgowtrader.co.uk/listing/gas-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/29] J Mccartney Plumbing and Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 26950 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [14/29] Strathclyde Heating & utilities ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27097 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [15/29] RF Plumbing and Heating - Gas Engineer Glasgow | Plumber in Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28616 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [16/29] Express Boilers Gas Heating & Plumbing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28641 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [17/29] SwitchHeat Boilers & Heat Pumps
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27073 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [18/29] The Green Boiler Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Dunlop Cres, Glasgow G33 6GZ, UK
+    Phone:   0141 390 0905
+    Website: https://thegreenboilercompany.co.uk/
+    Rating:  5 (41 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36796
+    URL: https://glasgowtrader.co.uk/listing/the-green-boiler-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/29] Graham’s Gas Heating & Plumbing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28587 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [20/29] 1st Choice Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27000 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [21/29] Glasgow Boiler Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Lamlash Square, Glasgow G33 3XW, UK
+    Phone:   0141 766 1511
+    Website: https://www.glasgowboilerrepairs.co.uk/
+    Rating:  4.9 (154 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36798
+    URL: https://glasgowtrader.co.uk/listing/glasgow-boiler-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/29] GMC Gas Services LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 26, 6 Harmony Row, Glasgow G51 3BA, UK
+    Phone:   0141 374 0323
+    Website: https://www.gmc-gas.co.uk/
+    Rating:  4.9 (86 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36800
+    URL: https://glasgowtrader.co.uk/listing/gmc-gas-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [23/29] JDS Gas Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28082 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [24/29] IFix Gas Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29537 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [25/29] The Online Boiler Company
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27005 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [26/29] Boiler Breakdown Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit H, 9 Underwood Rd, Paisley PA3 1TE, UK
+    Phone:   07957 783802
+    Website: http://www.boilerbreakdownrepairs.co.uk/
+    Rating:  5 (30 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36802
+    URL: https://glasgowtrader.co.uk/listing/boiler-breakdown-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [27/29] Boiler Repair Team Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 41 Kent St, Glasgow G40 2SS, UK
+    Phone:   07446 828577
+    Website: https://boilerrepair-glasgow.co.uk/
+    Rating:  4.8 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36804
+    URL: https://glasgowtrader.co.uk/listing/boiler-repair-team-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [28/29] Glasgow Boiler
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1/1, 19 Underwood St, Shawlands, Glasgow G41 3EP, UK
+    Phone:   07498 304231
+    Website: https://glasgowboiler.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36806
+    URL: https://glasgowtrader.co.uk/listing/glasgow-boiler/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [29/29] The Boiler Exchange
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 272 Bath St, Glasgow G2 4JR, UK
+    Phone:   07557 519462
+    Website: https://theboilerexchange.co/
+    Rating:  4.1 (19 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36808
+    URL: https://glasgowtrader.co.uk/listing/the-boiler-exchange/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   29
+  Created: 11
+  Skipped: 18 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,250 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Heating Engineer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  2603 existing listings on site
+  Ledger: 2587 place_ids
+
+[SEARCH] Finding heating engineers in Bathgate...
+  Found 21 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/21] CAHSGAS - Comfort and Heating Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28283 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [2/21] Kyle Barr Plumbing and Heating.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28273 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [3/21] Glenalmond Gas Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28329 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [4/21] A Touch of Gas
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28338 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [5/21] Fegan Plumbing & Heating LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28278 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [6/21] AB PLUMBING & HEATING SERVICES
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28268 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [7/21] Epic Boilers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Wood Dr, Whitburn, Bathgate EH47 0ND, UK
+    Phone:   07596 044322
+    Website: https://www.epicboilers.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7705433617010478236
+    Rating:  5 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36960
+    URL: https://glasgowtrader.co.uk/listing/epic-boilers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/21] Pentland Oil and Electric Heating Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ogilface Craigs, Blackridge, Bathgate EH48 3AE, UK
+    Phone:   01501 747474
+    Website: https://www.pentlandoilheatingservices.co.uk/
+    Rating:  4.7 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36962
+    URL: https://glasgowtrader.co.uk/listing/pentland-oil-and-electric-heating-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/21] Stark Heating & Gas
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 W End, West Calder EH55 8EH, UK
+    Phone:   01506 243550
+    Website: https://starkheatingandgas.com/
+    Rating:  5 (325 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36964
+    URL: https://glasgowtrader.co.uk/listing/stark-heating-gas/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/21] Burns Gas Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 Balbardie Cres, Bathgate EH48 4AJ, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36966
+    URL: https://glasgowtrader.co.uk/listing/burns-gas-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/21] Mech-A-Tech Home Heating Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Stoneheap Crofts, Stoneyburn, Bathgate EH47 8BX, UK
+    Phone:   01501 763428
+    Website: http://www.mech-a-tech.co.uk/
+    Rating:  4.7 (19 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36968
+    URL: https://glasgowtrader.co.uk/listing/mech-a-tech-home-heating-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/21] Kosta Gas Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 108 E Main St, Armadale, Bathgate EH48 2NZ, UK
+    Phone:   07780 736774
+    Website: https://kostagas.co.uk/
+    Rating:  5 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36970
+    URL: https://glasgowtrader.co.uk/listing/kosta-gas-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/21] JHeating Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Standhill Rd, Bathgate EH48 2HR, UK
+    Phone:   01333 730794
+    Website: https://jheatingservices.co.uk/
+    Rating:  4 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36972
+    URL: https://glasgowtrader.co.uk/listing/jheating-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/21] Ecotec Heating & Plumbing Engineers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29436 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [15/21] Gary Saunders Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29416 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [16/21] Muir Plumbing and Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28299 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [17/21] Hometech Heating & Plumbing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29451 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [18/21] Caledonian Boilers & Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36382 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [19/21] Ideal Gas Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 44a Glasgow Rd, Bathgate EH48 2AG, UK
+    Phone:   07562 350525
+    Website: http://idealgasltd.com/contact/
+    Rating:  4.9 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36974
+    URL: https://glasgowtrader.co.uk/listing/ideal-gas-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/21] Armadale Gas Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28, Armadale, Bathgate EH48 3GF, UK
+    Phone:   07858 304851
+    Website: N/A
+    Rating:  5 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36976
+    URL: https://glasgowtrader.co.uk/listing/armadale-gas-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/21] Alpha Gas & Plumbing Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 Cricketfield Pl, Armadale, Bathgate EH48 2GB, UK
+    Phone:   0800 458 7699
+    Website: N/A
+    Rating:  3 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36978
+    URL: https://glasgowtrader.co.uk/listing/alpha-gas-plumbing-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   21
+  Created: 10
+  Skipped: 11 (already existed)
+  Failed:  0
+============================================================
