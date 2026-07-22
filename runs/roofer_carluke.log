@@ -1,0 +1,261 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  1742 existing listings on site
+  Ledger: 1724 place_ids
+
+[SEARCH] Finding roofers in Carluke...
+  Found 16 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] JSB Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34994 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [2/16] B Varey and son ltd (roofing Services)⭐️⭐️⭐️⭐️
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35018 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [3/16] SL Roofing & Roughcasting Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Braidfute, Lanark ML11 7DB, UK
+    Phone:   01555 807450
+    Website: https://slroofingandroughcasting.com/
+    Rating:  4.4 (82 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35234
+    URL: https://glasgowtrader.co.uk/listing/sl-roofing-roughcasting-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/16] RD Youngs Roofing Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Carlisle Ct, Birkenshaw, Larkhall ML9 2FD, UK
+    Phone:   01698 440348
+    Website: https://rdyoungsroofing.co.uk/
+    Rating:  4.9 (71 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35236
+    URL: https://glasgowtrader.co.uk/listing/rd-youngs-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] Zk Roofing Services ldt
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Whitehill Cres, Carluke ML8 5DU, UK
+    Phone:   07496 872670
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35238
+    URL: https://glasgowtrader.co.uk/listing/zk-roofing-services-ldt/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] Lanarkshire Roofing Specialists
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Bridge Pl, Shotts ML7 5JE, UK
+    Phone:   07495 710979
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35240
+    URL: https://glasgowtrader.co.uk/listing/lanarkshire-roofing-specialists/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] Cbroofing.co.uk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Victoria Ct, Victoria St, Larkhall ML9 2BW, UK
+    Phone:   07941 563209
+    Website: https://cbroofing.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35242
+    URL: https://glasgowtrader.co.uk/listing/cbroofing-co-uk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/16] The Roofman Roofing Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36 Dave Barrie Ave, Larkhall ML9 1DW, UK
+    Phone:   07880 898184
+    Website: N/A
+    Rating:  4.3 (70 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35244
+    URL: https://glasgowtrader.co.uk/listing/the-roofman-roofing-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/16] S.G & Sons Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Block 5, Unit, 4, Etna Industrial Estate, Wishaw ML2 7XQ, UK
+    Phone:   01698 480874
+    Website: http://sgsonsroofing.com/
+    Rating:  5 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35246
+    URL: https://glasgowtrader.co.uk/listing/s-g-sons-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/16] G & S Thomson Slaters & Plasterers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 515 Cambusnethan St, Cambusnethan, Wishaw ML2 8QA, UK
+    Phone:   07940 337522
+    Website: http://sites.google.com/view/gsthomson
+    Rating:  4.6 (42 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35248
+    URL: https://glasgowtrader.co.uk/listing/g-s-thomson-slaters-plasterers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] A Kirson Roofing Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Sneddon Ave, Wishaw ML2 8DX, UK
+    Phone:   01698 293342
+    Website: https://www.kirsonroofing.co.uk/
+    Rating:  4.4 (13 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35250
+    URL: https://glasgowtrader.co.uk/listing/a-kirson-roofing-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/16] JRC Jordan Roofing Co Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34982 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [13/16] Trusted Roofing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: New Ashtree Street, Wishaw ML2 7UR, UK
+    Phone:   01698 442750
+    Website: https://trustedroofingltd.co.uk/roofers-wishaw/
+    Rating:  3.9 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35252
+    URL: https://glasgowtrader.co.uk/listing/trusted-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] Forsyth Roofing & Rough Casting Lanarkshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Stanhope Pl, Wishaw ML2 0LW, UK
+    Phone:   01698 442705
+    Website: N/A
+    Rating:  3.7 (10 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35254
+    URL: https://glasgowtrader.co.uk/listing/forsyth-roofing-rough-casting-lanarkshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] ABC Building and Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 513 Wishaw Rd, Wishaw ML2 8EY, UK
+    Phone:   0141 530 8287
+    Website: http://www.abcbuildingandroofing.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35256
+    URL: https://glasgowtrader.co.uk/listing/abc-building-and-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/16] Braedale Roofing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 Dryburgh Rd, Wishaw ML2 7JA, UK
+    Phone:   01698 327762
+    Website: http://braedaleroofing.com/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35258
+    URL: https://glasgowtrader.co.uk/listing/braedale-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   16
+  Created: 13
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

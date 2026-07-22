@@ -1,0 +1,261 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  1714 existing listings on site
+  Ledger: 1696 place_ids
+
+[SEARCH] Finding roofers in Stirling...
+  Found 16 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] Kenny Hunter Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Abbey Rd Pl, Stirling FK8 1LN, UK
+    Phone:   07517 626203
+    Website: https://kennyhunterroofing.co.uk/
+    Rating:  4.9 (78 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35178
+    URL: https://glasgowtrader.co.uk/listing/kenny-hunter-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/16] Sterling Roofing Services
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [3/16] Edge2Edge Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Ramsay Pl, Stirling FK8 1AG, UK
+    Phone:   07487 512123
+    Website: https://www.edge2edgeroofingltd.com/
+    Rating:  4.9 (113 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35180
+    URL: https://glasgowtrader.co.uk/listing/edge2edge-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/16] THE ROOFING BUREAU STIRLING
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 14, Springkerse business centre, 3 Whitehouse Rd, Stirling FK7 7SP, UK
+    Phone:   01786 608026
+    Website: https://the-roofing-bureau.com/areas-we-cover/stirling/
+    Rating:  5 (9 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35182
+    URL: https://glasgowtrader.co.uk/listing/the-roofing-bureau-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] Alba Roofing & Guttering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Borestone Pl, Stirling FK7 0PP, UK
+    Phone:   07824 722043
+    Website: http://www.albaroofing.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35184
+    URL: https://glasgowtrader.co.uk/listing/alba-roofing-guttering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] ROOFRITE STIRLING SCOTLAND
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Riverside Dr, Stirling FK8 1LR, UK
+    Phone:   07792 104049
+    Website: https://www.roofrite.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35186
+    URL: https://glasgowtrader.co.uk/listing/roofrite-stirling-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] Sterling Roofing Services
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [8/16] Mitchell Roofing Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: The Cross, Dunblane FK15 0AQ, UK
+    Phone:   01786 608013
+    Website: https://mitchellroofingservices.com/
+    Rating:  5 (19 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35188
+    URL: https://glasgowtrader.co.uk/listing/mitchell-roofing-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/16] Stirling Roofing Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Abbey Rd Pl, Stirling FK8 1LN, UK
+    Phone:   01786 479630
+    Website: https://www.stirlingroofingcompany.co.uk/contact
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35190
+    URL: https://glasgowtrader.co.uk/listing/stirling-roofing-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/16] Sterling Roofing Services Falkirk
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35150 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [11/16] Direct Roofing & Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9b MacDonald Dr, Stirling FK7 9ER, UK
+    Phone:   01786 568225
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35192
+    URL: https://glasgowtrader.co.uk/listing/direct-roofing-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/16] A White Roofing LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52 Hawkhill Rd, Alloa FK10 1SA, UK
+    Phone:   01259 207816
+    Website: https://awhiteroofingltd.co.uk/
+    Rating:  5 (28 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35194
+    URL: https://glasgowtrader.co.uk/listing/a-white-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] Angus Young Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Blairgarry Trossachs Road, A821, Callander FK17 8HP, UK
+    Phone:   01877 339750
+    Website: http://www.angusyoungroofing.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35196
+    URL: https://glasgowtrader.co.uk/listing/angus-young-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] i-Fix Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Springfield House, Laurelhill Business Pk, Stirling FK7 9JQ, UK
+    Phone:   01786 234204
+    Website: https://ifixroofing.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35198
+    URL: https://glasgowtrader.co.uk/listing/i-fix-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] Old Plean Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4B Block 4, Manor Farm Business Park, Manor Loan, Stirling FK9 5QD, UK
+    Phone:   01786 811033
+    Website: https://oldpleanroofing.co.uk/contact/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35200
+    URL: https://glasgowtrader.co.uk/listing/old-plean-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/16] THE ROOFING BUREAU
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 Drysdale St, Alloa FK10 1JA, UK
+    Phone:   01259 682056
+    Website: https://the-roofing-bureau.com/
+    Rating:  5 (32 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35202
+    URL: https://glasgowtrader.co.uk/listing/the-roofing-bureau/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   16
+  Created: 13
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

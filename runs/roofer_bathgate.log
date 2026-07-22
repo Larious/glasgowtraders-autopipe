@@ -1,0 +1,285 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  1727 existing listings on site
+  Ledger: 1709 place_ids
+
+[SEARCH] Finding roofers in Bathgate...
+  Found 16 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] JSB Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34994 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [2/16] J Gordon Roofing & Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Whitehill Dr, Blackburn, Bathgate EH47 7HS, UK
+    Phone:   01506 248075
+    Website: https://www.rooferswestlothian.com/
+    Rating:  4.7 (28 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35204
+    URL: https://glasgowtrader.co.uk/listing/j-gordon-roofing-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/16] McDonald Roofing Contracts Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bathville Business Centre, Armadale Industrial Est, Armadale, Bathgate EH48 2ND, UK
+    Phone:   01501 730263
+    Website: N/A
+    Rating:  4.8 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35206
+    URL: https://glasgowtrader.co.uk/listing/mcdonald-roofing-contracts-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/16] Lindsay Roofing & Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Craig St, Blackridge, Bathgate EH48 3SU, UK
+    Phone:   07754 305472
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35208
+    URL: https://glasgowtrader.co.uk/listing/lindsay-roofing-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] Taylor Roofs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Firth Rd, Livingston EH54 5DJ, UK
+    Phone:   01506 353807
+    Website: https://taylorroofs.co.uk/?utm_source=google-local
+    Rating:  4.8 (298 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35210
+    URL: https://glasgowtrader.co.uk/listing/taylor-roofs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] John Donoghue Roofing & Building Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 41 Mill Rd, Armadale, Bathgate EH48 3QL, UK
+    Phone:   07891 980326
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35212
+    URL: https://glasgowtrader.co.uk/listing/john-donoghue-roofing-building-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] AW Roofing Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Polkemmet Business Centre, Dixon Terrace, Whitburn, Bathgate EH47 0LH, UK
+    Phone:   01501 740622
+    Website: N/A
+    Rating:  5 (12 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35214
+    URL: https://glasgowtrader.co.uk/listing/aw-roofing-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/16] LTI Transformations - Roof, Wall and Upvc Refurbishment Specialist
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3B Inchmuir Rd, Bathgate EH48 2EP, UK
+    Phone:   0808 196 0938
+    Website: http://www.lti-transformations.co.uk/
+    Rating:  4.3 (168 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35216
+    URL: https://glasgowtrader.co.uk/listing/lti-transformations-roof-wall-and-upvc-refurbishment-specialist/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/16] J & S McIntyre Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 85 E Main St, Whitburn, Bathgate EH47 0RQ, UK
+    Phone:   07941 537141
+    Website: http://www.jsmcintyreroofing.com/
+    Rating:  4 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35218
+    URL: https://glasgowtrader.co.uk/listing/j-s-mcintyre-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/16] BPC Roofing Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Wallace Rd, Bathgate EH48 1DN, UK
+    Phone:   07564 959457
+    Website: N/A
+    Rating:  1 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35220
+    URL: https://glasgowtrader.co.uk/listing/bpc-roofing-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] Hamilton Roofing & Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Armadale Rd, Whitburn, Bathgate EH47 0ET, UK
+    Phone:   01501 744553
+    Website: http://hamiltonrpm.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35222
+    URL: https://glasgowtrader.co.uk/listing/hamilton-roofing-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/16] Csr Roofing & Building
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 81 Hopefield Rd, Blackburn, Bathgate EH47 7HT, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35224
+    URL: https://glasgowtrader.co.uk/listing/csr-roofing-building/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] Tony McCorisken Roofing & Building Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Shanks Rd, Whitburn, Bathgate EH47 0HN, UK
+    Phone:   07886 525723
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35226
+    URL: https://glasgowtrader.co.uk/listing/tony-mccorisken-roofing-building-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] HERITAGE ROOFING &ROUGH CASTING
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit C, Whitburn, Bathgate EH47 0LQ, UK
+    Phone:   0800 288 9117
+    Website: http://heritageroofingspecialist.com/
+    Rating:  3 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35228
+    URL: https://glasgowtrader.co.uk/listing/heritage-roofing-rough-casting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] Roofing in EH Pros
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Buchan Rd, Bathgate EH48 2BB, UK
+    Phone:   0131 214 1071
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35230
+    URL: https://glasgowtrader.co.uk/listing/roofing-in-eh-pros/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/16] Almond Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Kaims Cres, Livingston Village, Livingston EH54 7FX, UK
+    Phone:   01506 332056
+    Website: https://almondroofing.co.uk/
+    Rating:  5 (21 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35232
+    URL: https://glasgowtrader.co.uk/listing/almond-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   16
+  Created: 15
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

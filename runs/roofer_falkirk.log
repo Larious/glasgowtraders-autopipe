@@ -1,0 +1,280 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  1699 existing listings on site
+  Ledger: 1681 place_ids
+
+[SEARCH] Finding roofers in Falkirk...
+  Found 15 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] M R Roofing Contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hillary Rd, Falkirk FK5 3DN, UK
+    Phone:   07852 106638
+    Website: https://mrcontractors.co.uk/
+    Rating:  4.9 (45 reviews)
+    Hours:   2 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35148
+    URL: https://glasgowtrader.co.uk/listing/m-r-roofing-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] Sterling Roofing Services Falkirk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 62 Rankin Dr, Larbert FK5 4SY, UK
+    Phone:   01324 289108
+    Website: https://www.sterlingroofingservices.co.uk/falkirk/
+    Rating:  5 (38 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35150
+    URL: https://glasgowtrader.co.uk/listing/sterling-roofing-services-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] Steadbrook Roofing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1 Redding Rd, Redding, Westquarter, Falkirk FK2 9TG, UK
+    Phone:   01324 332061
+    Website: https://steadbrookroofing.com/
+    Rating:  5 (93 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35152
+    URL: https://glasgowtrader.co.uk/listing/steadbrook-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] Mastershield Roofing & Property Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 Randolph Cres, Brightons, Falkirk FK2 0HA, UK
+    Phone:   07723 004821
+    Website: https://www.mastershieldroofingandpropertycare.co.uk/
+    Rating:  4.9 (54 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35154
+    URL: https://glasgowtrader.co.uk/listing/mastershield-roofing-property-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] Kerse Roofing & Building
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, Lec Court, Bog Rd, Laurieston, Falkirk FK2 9PH, UK
+    Phone:   01324 280189
+    Website: http://kerseroofingbuilding.co.uk/
+    Rating:  4.7 (48 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35156
+    URL: https://glasgowtrader.co.uk/listing/kerse-roofing-building/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] FK Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 45 Vicar St, Falkirk FK1 1LL, UK
+    Phone:   01324 312432
+    Website: http://www.fkroofing.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35158
+    URL: https://glasgowtrader.co.uk/listing/fk-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/15] Anderson Roofing And Building
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Dollar Industrial Estate, Falkirk FK2 7YF, UK
+    Phone:   07719 886854
+    Website: https://anderson-roofing.co.uk/?utm_campaign=gmb
+    Rating:  4.7 (50 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35160
+    URL: https://glasgowtrader.co.uk/listing/anderson-roofing-and-building/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/15] Apex Roofing Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Willowbrae, Brightons, Falkirk FK2 0HT, UK
+    Phone:   07927 130371
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35162
+    URL: https://glasgowtrader.co.uk/listing/apex-roofing-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] AD Roofing And Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5, Gateway Business Park, Beancross Rd, Grangemouth FK3 8WX, UK
+    Phone:   07542 498549
+    Website: https://adroofingproperty.co.uk/
+    Rating:  5 (31 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35164
+    URL: https://glasgowtrader.co.uk/listing/ad-roofing-and-property-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/15] J Harvey Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Kilns Pl, Falkirk FK2 7LW, UK
+    Phone:   07939 571871
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35166
+    URL: https://glasgowtrader.co.uk/listing/j-harvey-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/15] Alpha Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5, Bankside, Falkirk FK2 7PD, UK
+    Phone:   01324 874216
+    Website: http://alpha-roofingfalkirk.co.uk/
+    Rating:  4 (12 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35168
+    URL: https://glasgowtrader.co.uk/listing/alpha-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] Ecosse Roof & Building Cleaning
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Kilns Pl, Falkirk FK2 7YF, UK
+    Phone:   07742 411100
+    Website: http://www.ecosse-property-services.co.uk/?utm_source=gmb&utm_medium=organic
+    Rating:  4.9 (72 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35170
+    URL: https://glasgowtrader.co.uk/listing/ecosse-roof-building-cleaning/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] GB Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 38 Church St, Stenhousemuir, Larbert FK5 4BX, UK
+    Phone:   01324 552413
+    Website: http://www.gbroofingfalkirk.co.uk/
+    Rating:  4.7 (12 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35172
+    URL: https://glasgowtrader.co.uk/listing/gb-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] JBR Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit c7, 1 Muirhall Rd, Larbert FK5 4RF, UK
+    Phone:   01324 554518
+    Website: http://jbrroofing.com/
+    Rating:  4.9 (48 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35174
+    URL: https://glasgowtrader.co.uk/listing/jbr-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/15] Burton Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bankside, Falkirk FK2 7XJ, UK
+    Phone:   01324 471020
+    Website: https://www.burtonroofing.co.uk/
+    Rating:  4.7 (30 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35176
+    URL: https://glasgowtrader.co.uk/listing/burton-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   15
+  Created: 15
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

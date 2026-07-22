@@ -19,7 +19,7 @@ East Kilbride, Clydebank, Cumbernauld, Dumbarton, Ayr, Greenock, Falkirk,
 Stirling, Bathgate, Carluke.
 
 ### High-demand trades (configured, Phase-1 target)
-- [ ] roofer (158)
+- [x] roofer (158) — 16/16 core towns
 - [ ] joiner (162)
 - [ ] painter (160)
 - [ ] plasterer (163)

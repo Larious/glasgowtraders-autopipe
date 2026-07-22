@@ -1,0 +1,210 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  1689 existing listings on site
+  Ledger: 1671 place_ids
+
+[SEARCH] Finding roofers in Greenock...
+  Found 13 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] The Greener Roof Co
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23, Ladyburn Business Centre, Pottery St, Greenock PA15 2UH, UK
+    Phone:   0333 577 1020
+    Website: https://www.thegreenerroofco.co.uk/?utm_source=google&utm_medium=local&utm_campaign=1&utm_content=primary
+    Rating:  4.9 (55 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35128
+    URL: https://glasgowtrader.co.uk/listing/the-greener-roof-co/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] DS Roofing Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Roxburgh Ave, Greenock PA15 4LP, UK
+    Phone:   07791 780171
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35130
+    URL: https://glasgowtrader.co.uk/listing/ds-roofing-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/13] Specialist Roofing Scotland LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Anderson St, Port Glasgow PA14 5EP, UK
+    Phone:   07791 780171
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35132
+    URL: https://glasgowtrader.co.uk/listing/specialist-roofing-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/13] ABA Roofing services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Rhu, Helensburgh G84 8JQ, UK
+    Phone:   01436 640555
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35134
+    URL: https://glasgowtrader.co.uk/listing/aba-roofing-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/13] David Ross Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Maitland St, Helensburgh G84 7PD, UK
+    Phone:   07766 500760
+    Website: N/A
+    Rating:  4.6 (14 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35136
+    URL: https://glasgowtrader.co.uk/listing/david-ross-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/13] Harrison Roofing - Helensburgh
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35086 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [7/13] C.Livingston Roofing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35084 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [8/13] Sutherland Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 George St, Largs KA30 9AJ, UK
+    Phone:   07811 596616
+    Website: https://sutherland-roofing.co.uk/
+    Rating:  4.3 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35138
+    URL: https://glasgowtrader.co.uk/listing/sutherland-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] Duchal Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 78 Whitelea Rd, Kilmacolm PA13 4HN, UK
+    Phone:   01505 873583
+    Website: N/A
+    Rating:  3.7 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35140
+    URL: https://glasgowtrader.co.uk/listing/duchal-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/13] CP Roofing Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34942 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [11/13] R-Mac Roofing & Building Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Bogleha Rd, Dunoon PA23 7HL, UK
+    Phone:   01369 704100
+    Website: N/A
+    Rating:  5 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35142
+    URL: https://glasgowtrader.co.uk/listing/r-mac-roofing-building-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/13] JHS Roofing and Building Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 196 Greenock Rd, Largs KA30 8SB, UK
+    Phone:   01475 674912
+    Website: http://jhsroofing.com/
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35144
+    URL: https://glasgowtrader.co.uk/listing/jhs-roofing-and-building-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] Mullden Roofing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 175 Victoria Rd, Dunoon PA23 7NX, UK
+    Phone:   01369 701723
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35146
+    URL: https://glasgowtrader.co.uk/listing/mullden-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   13
+  Created: 10
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

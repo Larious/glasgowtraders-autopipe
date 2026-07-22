@@ -1,0 +1,348 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  1670 existing listings on site
+  Ledger: 1652 place_ids
+
+[SEARCH] Finding roofers in Ayr...
+  Found 19 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/19] Roof Repair Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hartfield House, 1 Racecourse View, Ayr KA7 2TS, UK
+    Phone:   01292 433123
+    Website: https://www.roofrepairayrshire.co.uk/
+    Rating:  4.9 (84 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35090
+    URL: https://glasgowtrader.co.uk/listing/roof-repair-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/19] Ross Clark Roofing Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23-28 Green St Ln, Ayr KA8 8BH, UK
+    Phone:   01292 611415
+    Website: https://rossclarkroofingayr.co.uk/
+    Rating:  4.7 (179 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35092
+    URL: https://glasgowtrader.co.uk/listing/ross-clark-roofing-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/19] Roofing Solutions Ayrshire Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 26 Craigview, Coylton, Hillhead, Ayr KA6 6LB, UK
+    Phone:   N/A
+    Website: https://roofingsolutionsayrshire.co.uk/
+    Rating:  4.9 (42 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35094
+    URL: https://glasgowtrader.co.uk/listing/roofing-solutions-ayrshire-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/19] The Roof Experts
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Alloway Pl, Ayr KA7 2AA, UK
+    Phone:   07490 110339
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35096
+    URL: https://glasgowtrader.co.uk/listing/the-roof-experts/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/19] WMRS roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 Smith St, Ayr KA7 1TF, UK
+    Phone:   07473 374646
+    Website: N/A
+    Rating:  4.7 (40 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35098
+    URL: https://glasgowtrader.co.uk/listing/wmrs-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/19] Gordon Swan Roofing Contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 65 Glencairn Rd, Ayr KA7 3HJ, UK
+    Phone:   01292 267315
+    Website: https://swanroofingayr.co.uk/
+    Rating:  4.7 (15 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35100
+    URL: https://glasgowtrader.co.uk/listing/gordon-swan-roofing-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/19] Wright Roofing Services LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Alloway Pl, Ayr KA7 2AA, UK
+    Phone:   01292 854034
+    Website: https://wrightroofingservices.co.uk/roofer-ayrshire/
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35102
+    URL: https://glasgowtrader.co.uk/listing/wright-roofing-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/19] Kevin Aitken Roofing Roofline Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Taylor St, Ayr KA8 8AU, UK
+    Phone:   01292 440697
+    Website: http://www.kevinaitkenroofing.co.uk/
+    Rating:  4.7 (14 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35104
+    URL: https://glasgowtrader.co.uk/listing/kevin-aitken-roofing-roofline-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/19] Henry Harvey Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, 2 McCall's Ave, Ayr KA8 9AE, UK
+    Phone:   01292 441667
+    Website: http://henryharveyroofing.co.uk/
+    Rating:  4.6 (29 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35106
+    URL: https://glasgowtrader.co.uk/listing/henry-harvey-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/19] Scotia Roofing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 42A Prestwick Rd, Ayr KA8 8LB, UK
+    Phone:   07414 616783
+    Website: http://scotiaroofingltd.co.uk/
+    Rating:  4.8 (37 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35108
+    URL: https://glasgowtrader.co.uk/listing/scotia-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/19] Kennedy Roofing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8b Alderston Ave, Ayr KA8 9BD, UK
+    Phone:   01292 428540
+    Website: https://kennedy-roofing.co.uk/
+    Rating:  3.9 (27 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35110
+    URL: https://glasgowtrader.co.uk/listing/kennedy-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/19] Caledonian Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Wheatpark Rd, Ayr KA8 9RT, UK
+    Phone:   01292 430300
+    Website: https://www.caledonianroofing.co.uk/
+    Rating:  4.2 (17 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35112
+    URL: https://glasgowtrader.co.uk/listing/caledonian-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/19] Ayr Roofing Services Ayr Monoblock
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Cunningham Pl, Ayr KA7 3HZ, UK
+    Phone:   01292 269931
+    Website: https://www.ayrroofingandmonoblock.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35114
+    URL: https://glasgowtrader.co.uk/listing/ayr-roofing-services-ayr-monoblock/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/19] Roofing Professionals Ayr
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Wellington Chambers, 64 Fort St, Ayrshire, Ayr KA7 1EH, UK
+    Phone:   07779 781652
+    Website: https://www.roofingprofessionalsayr.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35116
+    URL: https://glasgowtrader.co.uk/listing/roofing-professionals-ayr/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/19] AYRSHIRE & GLASGOW ROOFING LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Cheviot Pl, Kilmarnock KA1 3RX, UK
+    Phone:   07547 226033
+    Website: https://www.ayrshireglasgowroofing.com/
+    Rating:  5 (161 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35118
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-glasgow-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/19] Ayrshire Roofing Consultancy
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: John Finnie St, Kilmarnock KA1 1AA, UK
+    Phone:   07920 570030
+    Website: https://ayrshireroofingconsultancy.my.canva.site/
+    Rating:  5 (10 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35120
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-roofing-consultancy/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/19] Deluxe Roofing Systems Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Ward Ct, Ayr KA8 9DZ, UK
+    Phone:   01292 863121
+    Website: http://www.deluxeroofingsystems.co.uk/
+    Rating:  5 (45 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35122
+    URL: https://glasgowtrader.co.uk/listing/deluxe-roofing-systems-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/19] Complete Roofing Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Pennant Way, Irvine KA11 2GE, UK
+    Phone:   01294 688996
+    Website: https://completeroofingscotland.com/
+    Rating:  4.9 (83 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35124
+    URL: https://glasgowtrader.co.uk/listing/complete-roofing-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/19] Castlehill Roofing Services - Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52 Hilary Cres, Ayr KA7 2JU, UK
+    Phone:   01292 289569
+    Website: http://www.castlehillroofing.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35126
+    URL: https://glasgowtrader.co.uk/listing/castlehill-roofing-services-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   19
+  Created: 19
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================
