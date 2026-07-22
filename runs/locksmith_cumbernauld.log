@@ -1,0 +1,145 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  2655 existing listings on site
+  Ledger: 2639 place_ids
+
+[SEARCH] Finding locksmiths in Cumbernauld...
+  Found 12 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] GM Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Alderley Way, Cumbernauld, Glasgow G68 0GU, UK
+    Phone:   07736 506253
+    Website: https://www.gmlocksmithsglasgow.co.uk/
+    Rating:  4.7 (35 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37064
+    URL: https://glasgowtrader.co.uk/listing/gm-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/12] The Key Master Auto Locksmith
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 128 McGregor Rd, Cumbernauld, Glasgow G67 1JN, UK
+    Phone:   07507 319084
+    Website: http://www.fastautolocksmithglasgow.com/
+    Rating:  4.6 (20 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37066
+    URL: https://glasgowtrader.co.uk/listing/the-key-master-auto-locksmith/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/12] Duffy Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Rankin Cres, Dennyloanhead, Bonnybridge FK4 1RA, UK
+    Phone:   07543 768578
+    Website: http://www.duffylocksmiths.co.uk/
+    Rating:  5 (22 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37068
+    URL: https://glasgowtrader.co.uk/listing/duffy-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/12] KWM Locksmiths | Fast, Reliable and Local Locksmiths in North Lanarkshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37030 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [5/12] Ziggy Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 McBride Path, Stepps, Glasgow G33 6FE, UK
+    Phone:   07721 353645
+    Website: https://ziggylocksmiths.co.uk/
+    Rating:  5 (20 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37070
+    URL: https://glasgowtrader.co.uk/listing/ziggy-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/12] Access Lock Co
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36980 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [7/12] Lanarkshire Locks
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37036 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [8/12] Scottish Locksmith Union
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36984 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [9/12] React Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 42 Garlieston Rd, Glasgow G33 4UE, UK
+    Phone:   0141 295 0019
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37072
+    URL: https://glasgowtrader.co.uk/listing/react-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/12] Cheap Car Keys Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37034 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [11/12] Liberty Locksmiths
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36992 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [12/12] CJS Locksmiths - Auto & General Locksmith - Car Keys - security Key Specialist
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36990 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   12
+  Created: 5
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

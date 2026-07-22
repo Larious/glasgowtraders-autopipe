@@ -1,0 +1,132 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  2667 existing listings on site
+  Ledger: 2651 place_ids
+
+[SEARCH] Finding locksmiths in Falkirk...
+  Found 7 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] Central Locksmith & Security Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Business Hub, 45 Vicar St, Falkirk FK1 1LL, UK
+    Phone:   07368 406500
+    Website: http://www.classlocks.co.uk/
+    Rating:  5 (61 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37088
+    URL: https://glasgowtrader.co.uk/listing/central-locksmith-security-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/7] ASAP Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Old Redding Rd, Laurieston, Falkirk FK2 9JT, UK
+    Phone:   07388 208972
+    Website: https://asaplocksmithsfalkirk.co.uk/
+    Rating:  5 (152 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37090
+    URL: https://glasgowtrader.co.uk/listing/asap-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/7] Jocks Locks
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Myreton Way, Falkirk FK1 5NZ, UK
+    Phone:   01324 639364
+    Website: http://www.jockslocks.co.uk/
+    Rating:  5 (119 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37092
+    URL: https://glasgowtrader.co.uk/listing/jocks-locks/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/7] Forth Valley Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Castle Ct, Falkirk FK2 7UU, UK
+    Phone:   01324 332035
+    Website: https://www.forthvalleylocksmith.co.uk/
+    Rating:  3.7 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37094
+    URL: https://glasgowtrader.co.uk/listing/forth-valley-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/7] Saltire Locksmiths - Falkirk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Canavan Ct, Falkirk FK2 9GB, UK
+    Phone:   01324 357507
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37096
+    URL: https://glasgowtrader.co.uk/listing/saltire-locksmiths-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/7] central car keys
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Montgomery St, Falkirk FK2 9BL, UK
+    Phone:   07561 536069
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37098
+    URL: https://glasgowtrader.co.uk/listing/central-car-keys/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/7] Timpson Locksmiths and Safe Engineers
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   7
+  Created: 6
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

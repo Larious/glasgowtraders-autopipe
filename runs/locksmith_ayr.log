@@ -1,0 +1,64 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  2663 existing listings on site
+  Ledger: 2647 place_ids
+
+[SEARCH] Finding locksmiths in Ayr...
+  Found 3 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/3] Ayrshire Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10A Whitfield Dr, Ayr KA8 9RX, UK
+    Phone:   07526 629468
+    Website: https://www.ayrshirelocksmiths.co.uk/
+    Rating:  5 (399 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37080
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/3] Stewart & Sons Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40 McAdam Ct, Prestwick KA9 2NB, UK
+    Phone:   07876 027812
+    Website: http://locksmiths-prestwick.co.uk/
+    Rating:  5 (21 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37082
+    URL: https://glasgowtrader.co.uk/listing/stewart-sons-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/3] Timpson Locksmiths and Safe Engineers
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   3
+  Created: 2
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

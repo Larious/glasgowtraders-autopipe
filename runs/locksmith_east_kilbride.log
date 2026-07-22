@@ -1,0 +1,84 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  2650 existing listings on site
+  Ledger: 2634 place_ids
+
+[SEARCH] Finding locksmiths in East Kilbride...
+  Found 7 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] Access Lock Co, East Kilbride
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37042 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [2/7] Elite Mobile Locksmiths
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37044 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [3/7] Fort knox locks
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37046 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [4/7] Capslocks - Replacement Car Key Specialist
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37050 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [5/7] Lockfast Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 83 Keswick Rd, East Kilbride, Glasgow G75 8QX, UK
+    Phone:   07547 369724
+    Website: N/A
+    Rating:  4.7 (13 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37054
+    URL: https://glasgowtrader.co.uk/listing/lockfast-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/7] Keyfast
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36 Hawbank Rd, East Kilbride, Glasgow G74 5EX, UK
+    Phone:   07791 221319
+    Website: N/A
+    Rating:  5 (8 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37056
+    URL: https://glasgowtrader.co.uk/listing/keyfast/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/7] Timpson Locksmiths and Safe Engineers
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   7
+  Created: 2
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

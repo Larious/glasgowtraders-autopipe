@@ -1,0 +1,69 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  2665 existing listings on site
+  Ledger: 2649 place_ids
+
+[SEARCH] Finding locksmiths in Greenock...
+  Found 4 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] Locksmith Greenock
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Rowan St, Greenock PA16 7EG, UK
+    Phone:   07484 660442
+    Website: https://www.locksmithgreenock.com/
+    Rating:  5 (22 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37084
+    URL: https://glasgowtrader.co.uk/listing/locksmith-greenock/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/4] Archangel Locksmith Greenock
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 50 Leven Rd, Greenock PA15 3DX, UK
+    Phone:   07923 487154
+    Website: https://www.facebook.com/archangel.masterlocksmith/
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37086
+    URL: https://glasgowtrader.co.uk/listing/archangel-locksmith-greenock/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/4] Timpson Locksmiths and Safe Engineers
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [4/4] Timpson Locksmiths and Safe Engineers
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   4
+  Created: 2
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

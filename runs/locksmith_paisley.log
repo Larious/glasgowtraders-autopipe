@@ -1,0 +1,125 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  2633 existing listings on site
+  Ledger: 2617 place_ids
+
+[SEARCH] Finding locksmiths in Paisley...
+  Found 8 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/8] Affordable Locksmith Paisley
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36994 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [2/8] Brendan the Locksmith - Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40 Barshaw Dr, Paisley PA1 3SH, UK
+    Phone:   07391 537512
+    Website: https://www.eckorylocksmiths.co.uk/paisley-locksmith-services
+    Rating:  5 (56 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37020
+    URL: https://glasgowtrader.co.uk/listing/brendan-the-locksmith-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/8] SW Locksmith and Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: SW Locksmiths, 20 Wellmeadow St, Paisley PA1 2EE, UK
+    Phone:   0141 887 0110
+    Website: http://www.sw-locks.com/
+    Rating:  4.8 (74 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37022
+    URL: https://glasgowtrader.co.uk/listing/sw-locksmith-and-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/8] Securo Locksmiths
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37012 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [5/8] Brendan the Locksmith - Renfrew
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 150A Paisley Rd, Renfrew PA4 8DA, UK
+    Phone:   07391 537512
+    Website: https://www.eckorylocksmiths.co.uk/renfrew-glasgow-locksmith-services
+    Rating:  5 (23 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37024
+    URL: https://glasgowtrader.co.uk/listing/brendan-the-locksmith-renfrew/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/8] Brendan the Locksmith - Johnstone
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 51 Back O'Hill, Crosslee, Johnstone PA6 7LD, UK
+    Phone:   07391 537512
+    Website: http://www.eckorylocksmiths.co.uk/
+    Rating:  5 (220 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37026
+    URL: https://glasgowtrader.co.uk/listing/brendan-the-locksmith-johnstone/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/8] Timpson Key Machine
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Paisley PA2 6JE, UK
+    Phone:   N/A
+    Website: https://www.timpson.co.uk/services/key-machines
+    Rating:  3.8 (4 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37028
+    URL: https://glasgowtrader.co.uk/listing/timpson-key-machine/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/8] Timpson Key Machine
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   8
+  Created: 5
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

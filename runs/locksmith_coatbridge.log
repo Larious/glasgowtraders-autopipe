@@ -1,0 +1,45 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  2642 existing listings on site
+  Ledger: 2626 place_ids
+
+[SEARCH] Finding locksmiths in Coatbridge...
+  Found 4 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] Lanarkshire Locks
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37036 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/4] KWM Locksmiths | Fast, Reliable and Local Locksmiths in North Lanarkshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37030 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/4] Cheap Car Keys Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37034 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/4] KG Key Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37032 — attached location 'Coatbridge' instead
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   4
+  Created: 0
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

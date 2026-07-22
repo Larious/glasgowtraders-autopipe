@@ -1,0 +1,98 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  2673 existing listings on site
+  Ledger: 2657 place_ids
+
+[SEARCH] Finding locksmiths in Stirling...
+  Found 5 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/5] The Key Man
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Crum Cres, Stirling FK7 0EX, UK
+    Phone:   07855 396445
+    Website: https://www.carkeysonly.co.uk/
+    Rating:  4.4 (44 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37100
+    URL: https://glasgowtrader.co.uk/listing/the-key-man/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/5] Dons Locks & Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Broadleys Roundabout, Stirling FK7 7LP, UK
+    Phone:   07943 008076
+    Website: http://www.donslocks.co.uk/
+    Rating:  5 (40 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37102
+    URL: https://glasgowtrader.co.uk/listing/dons-locks-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/5] Forth Valley Locksmith
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Forsyth Ln, Stirling FK7 8FH, UK
+    Phone:   01786 625024
+    Website: https://www.forthvalleylocksmith.co.uk/?utm_source=google&utm_medium=gmb&utm_campaign=stirling
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37104
+    URL: https://glasgowtrader.co.uk/listing/forth-valley-locksmith/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/5] BOA Locksmith
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Westerlea Dr, Bridge of Allan, Stirling FK9 4DQ, UK
+    Phone:   07583 978905
+    Website: http://epdwindowanddoorrepairs.co.uk/
+    Rating:  3.7 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37106
+    URL: https://glasgowtrader.co.uk/listing/boa-locksmith/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/5] Timpson Locksmiths and Safe Engineers
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   5
+  Created: 4
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

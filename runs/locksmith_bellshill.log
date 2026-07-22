@@ -1,0 +1,47 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  2642 existing listings on site
+  Ledger: 2626 place_ids
+
+[SEARCH] Finding locksmiths in Bellshill...
+  Found 2 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] Lanarkshire Locks
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37036 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [2/2] Timpson Locksmiths and Safe Engineers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 North Rd, Motherwell, Bellshill ML4 1EN, UK
+    Phone:   0800 018 7187
+    Website: https://www.timpsonlocksmiths.co.uk/find-a-locksmith/bellshill/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37038
+    URL: https://glasgowtrader.co.uk/listing/timpson-locksmiths-and-safe-engineers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   2
+  Created: 1
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,126 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  2660 existing listings on site
+  Ledger: 2644 place_ids
+
+[SEARCH] Finding locksmiths in Dumbarton...
+  Found 13 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] Affordable locksmith services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 India St, Alexandria G83 0PL, UK
+    Phone:   01389 656013
+    Website: N/A
+    Rating:  4.7 (24 reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37074
+    URL: https://glasgowtrader.co.uk/listing/affordable-locksmith-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] Christou's Auto Locksmith (Scotland) Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21/3 King Edward St, Alexandria G83 0EH, UK
+    Phone:   07587 494194
+    Website: https://www.christousautolocksmith.co.uk/
+    Rating:  4.9 (63 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37076
+    URL: https://glasgowtrader.co.uk/listing/christous-auto-locksmith-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/13] Brendan the Locksmith - Clydebank
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37060 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [4/13] Brendan the Locksmith - Bishopton & Erskine
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Cedarwood Gdns, Bishopton PA7 5HY, UK
+    Phone:   07391 537512
+    Website: https://www.eckorylocksmiths.co.uk/bishopton-locksmith-services
+    Rating:  5 (19 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37078
+    URL: https://glasgowtrader.co.uk/listing/brendan-the-locksmith-bishopton-erskine/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/13] Now 24 Hour Locksmiths
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37058 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [6/13] Brendan the Locksmith - Johnstone
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37026 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [7/13] KeycraftScotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37008 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [8/13] Timpson Mobile Locksmiths
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37062 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [9/13] Affordable Locksmith Paisley
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36994 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [10/13] Access Lock Co
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36980 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [11/13] Scottish Locksmith Union
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36984 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [12/13] Brendan the Locksmith - Renfrew
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37024 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [13/13] DG Locksmiths
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36982 — attached location 'Dumbarton' instead
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   13
+  Created: 3
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,97 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  2684 existing listings on site
+  Ledger: 2668 place_ids
+
+[SEARCH] Finding locksmiths in Carluke...
+  Found 12 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] RG Locksmiths & Double Glazing Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Hyndshaw View, Law, Carluke ML8 5JX, UK
+    Phone:   07920 425191
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37122
+    URL: https://glasgowtrader.co.uk/listing/rg-locksmiths-double-glazing-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/12] 1st Class Locksmith & Security Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37048 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [3/12] Lanarkshire Locks
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37036 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [4/12] JJ Car Keys
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37120 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [5/12] KWM Locksmiths | Fast, Reliable and Local Locksmiths in North Lanarkshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37030 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [6/12] MOC Locks & Son LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37040 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [7/12] Access Lock Co, East Kilbride
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37042 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [8/12] Cheap Car Keys Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37034 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [9/12] Timpson Key Machine
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [10/12] Saltire Lock & Security Locksmiths
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37112 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [11/12] Fort knox locks
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37046 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [12/12] KG Key Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37032 — attached location 'Carluke' instead
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   12
+  Created: 1
+  Skipped: 11 (already existed)
+  Failed:  0
+============================================================

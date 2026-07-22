@@ -1,0 +1,149 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  2677 existing listings on site
+  Ledger: 2661 place_ids
+
+[SEARCH] Finding locksmiths in Bathgate...
+  Found 8 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/8] West Lothian Car Keys
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36 Margaret Ave, Bathgate EH48 1SN, UK
+    Phone:   07709 614299
+    Website: https://westlothiankeys.co.uk/
+    Rating:  5 (158 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37108
+    URL: https://glasgowtrader.co.uk/listing/west-lothian-car-keys/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/8] Armalock Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 56 Cricketfield Pl, Armadale, Bathgate EH48 2GB, UK
+    Phone:   07585 701971
+    Website: http://www.armalocklocksmiths.co.uk/
+    Rating:  5 (52 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37110
+    URL: https://glasgowtrader.co.uk/listing/armalock-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/8] Saltire Lock & Security Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Deanburn Gardens, Seafield, Bathgate EH47 7GB, UK
+    Phone:   07468 496709
+    Website: https://saltirelockandsecurity.co.uk/
+    Rating:  5 (271 reviews)
+    Hours:   3 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37112
+    URL: https://glasgowtrader.co.uk/listing/saltire-lock-security-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/8] Auto Key Rescue
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 78 Boghall Dr, Bathgate EH48 1JQ, UK
+    Phone:   07543 667780
+    Website: https://autokeyrescue.uk/
+    Rating:  5 (41 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37114
+    URL: https://glasgowtrader.co.uk/listing/auto-key-rescue/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/8] Lothians locksmith services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52 Clement Rise, Livingston EH54 6JY, UK
+    Phone:   07984 312456
+    Website: http://www.lothianslocksmithservices.co.uk/
+    Rating:  5 (91 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37116
+    URL: https://glasgowtrader.co.uk/listing/lothians-locksmith-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/8] Timpson Locksmiths and Safe Engineers
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [7/8] Auto Key A&E
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 Murieston Rd, Livingston EH54 9AP, UK
+    Phone:   07368 845409
+    Website: http://autokeyane.com/
+    Rating:  5 (70 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37118
+    URL: https://glasgowtrader.co.uk/listing/auto-key-ae/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/8] JJ Car Keys
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Nevis Pl, Shotts ML7 5LL, UK
+    Phone:   01501 360207
+    Website: https://jjcarkeys.com/
+    Rating:  5 (148 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37120
+    URL: https://glasgowtrader.co.uk/listing/jj-car-keys/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   8
+  Created: 7
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,93 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  2638 existing listings on site
+  Ledger: 2622 place_ids
+
+[SEARCH] Finding locksmiths in Airdrie...
+  Found 4 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] KWM Locksmiths | Fast, Reliable and Local Locksmiths in North Lanarkshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Bankhead Ave, Airdrie ML6 8JH, UK
+    Phone:   07824 832832
+    Website: https://www.kwm-locksmiths.com/
+    Rating:  5 (486 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37030
+    URL: https://glasgowtrader.co.uk/listing/kwm-locksmiths-fast-reliable-and-local-locksmiths-in-north-lanarkshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/4] KG Key Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 34 Upper Mill St, Airdrie ML6 6JJ, UK
+    Phone:   0141 208 2924
+    Website: http://www.kgkeyservices.co.uk/
+    Rating:  4.9 (53 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37032
+    URL: https://glasgowtrader.co.uk/listing/kg-key-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/4] Cheap Car Keys Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Gowan Brae, Caldercruix, Airdrie ML6 7RB, UK
+    Phone:   0141 320 4694
+    Website: https://www.cheapcarkeysscotland.co.uk/
+    Rating:  4.9 (162 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37034
+    URL: https://glasgowtrader.co.uk/listing/cheap-car-keys-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/4] Lanarkshire Locks
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3C Beechwood Dr, Coatbridge ML5 4RF, UK
+    Phone:   07724 853479
+    Website: http://www.lanarkshirelocks.co.uk/
+    Rating:  5 (115 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37036
+    URL: https://glasgowtrader.co.uk/listing/lanarkshire-locks/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   4
+  Created: 4
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,365 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  2613 existing listings on site
+  Ledger: 2597 place_ids
+
+[SEARCH] Finding locksmiths in Glasgow...
+  Found 20 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/20] Access Lock Co
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37 Forties Cres, Glasgow G46 8JS, UK
+    Phone:   07710 399866
+    Website: http://www.glasgowlocksmiths.net/
+    Rating:  4.9 (193 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36980
+    URL: https://glasgowtrader.co.uk/listing/access-lock-co/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/20] DG Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Whitacres Rd, Glasgow G53 7NL, UK
+    Phone:   07788 828644
+    Website: https://www.dglocksmiths.com/
+    Rating:  5 (235 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36982
+    URL: https://glasgowtrader.co.uk/listing/dg-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/20] Scottish Locksmith Union
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 W George St, Glasgow G2 1BP, UK
+    Phone:   07490 861962
+    Website: https://www.glasgowlocksmithnearme.co.uk/
+    Rating:  5 (19 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36984
+    URL: https://glasgowtrader.co.uk/listing/scottish-locksmith-union/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/20] LKC Locksmiths Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Chalmers Gate, Glasgow G40 2EL, UK
+    Phone:   07590 573733
+    Website: https://lkclocksmiths.co.uk/
+    Rating:  5 (566 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36986
+    URL: https://glasgowtrader.co.uk/listing/lkc-locksmiths-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/20] Glasgow West End Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 103 Byres Rd, Glasgow G11 5HW, UK
+    Phone:   0141 776 1506
+    Website: http://www.locksolidglasgow.co.uk/
+    Rating:  4.1 (40 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36988
+    URL: https://glasgowtrader.co.uk/listing/glasgow-west-end-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/20] CJS Locksmiths - Auto & General Locksmith - Car Keys - security Key Specialist
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Hayburn St, Glasgow G11 6DE, UK
+    Phone:   0141 357 2111
+    Website: N/A
+    Rating:  4.6 (131 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36990
+    URL: https://glasgowtrader.co.uk/listing/cjs-locksmiths-auto-general-locksmith-car-keys-security-key-specialist/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/20] Liberty Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 Drumgray Dr, Cambuslang, Glasgow G72 8WS, UK
+    Phone:   07498 486733
+    Website: https://libertylocksmiths.co.uk/?utm_source=google&utm_medium=organic&utm_term=gmb
+    Rating:  5 (871 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36992
+    URL: https://glasgowtrader.co.uk/listing/liberty-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/20] Affordable Locksmith Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 134 Renfrew Rd, Paisley PA3 4BN, UK
+    Phone:   0141 280 1968
+    Website: https://www.als-locksmiths.com/areas-covered/lock-repairs-in-paisley.html
+    Rating:  4.9 (275 reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36994
+    URL: https://glasgowtrader.co.uk/listing/affordable-locksmith-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/20] Caledonian Lock & Safe
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1020 Pollokshaws Rd, Glasgow G41 2HG, UK
+    Phone:   0141 846 1817
+    Website: https://www.caledonianlock-safe.co.uk/
+    Rating:  4.6 (109 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36996
+    URL: https://glasgowtrader.co.uk/listing/caledonian-lock-safe/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/20] Keys Lock & Safe
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 467 Victoria Rd, Govanhill, Glasgow G42 8RL, UK
+    Phone:   07968 199076
+    Website: http://keys-lock-safe.business.site/
+    Rating:  4.1 (24 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36998
+    URL: https://glasgowtrader.co.uk/listing/keys-lock-safe/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/20] Marlie Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Brentwood Square, Glasgow G53 7RP, UK
+    Phone:   07528 719664
+    Website: http://www.marlielocksmiths.co.uk/parkhouse
+    Rating:  5 (71 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37000
+    URL: https://glasgowtrader.co.uk/listing/marlie-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/20] Locksmith in Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 Cook St, Kinning Park, Glasgow G5 8JQ, UK
+    Phone:   N/A
+    Website: https://www.locksmithinglasgow.com/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37002
+    URL: https://glasgowtrader.co.uk/listing/locksmith-in-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/20] Keys Galore
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Elizabeth St, Glasgow G51 1SR, UK
+    Phone:   0141 427 4792
+    Website: https://www.keysgalore.co.uk/
+    Rating:  4.9 (61 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37004
+    URL: https://glasgowtrader.co.uk/listing/keys-galore/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/20] MS Locksmith Service Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 632 Duke St, Glasgow G31 1QA, UK
+    Phone:   07827 644886
+    Website: https://www.mslocksmithservices.co.uk/
+    Rating:  5 (78 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37006
+    URL: https://glasgowtrader.co.uk/listing/ms-locksmith-service-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/20] KeycraftScotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 John Knox St, Clydebank, Glasgow G81 1BQ, UK
+    Phone:   07708 536740
+    Website: https://keycraft-scotland.co.uk/home
+    Rating:  5 (309 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37008
+    URL: https://glasgowtrader.co.uk/listing/keycraftscotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/20] KG Lock & Safe Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Bon Accord Rd, Busby, Glasgow G76 8EG, UK
+    Phone:   0141 846 7130
+    Website: https://www.kglockandsafe.co.uk/
+    Rating:  5 (251 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37010
+    URL: https://glasgowtrader.co.uk/listing/kg-lock-safe-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/20] Securo Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Williamsburgh Court, Paisley PA1 1QJ, UK
+    Phone:   0141 432 2647
+    Website: http://www.securolocksmiths.co.uk/
+    Rating:  4.9 (103 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37012
+    URL: https://glasgowtrader.co.uk/listing/securo-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/20] Nextdoor Locksmith Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Flat 11, 325 Carmunnock Rd, Glasgow G44 5HL, UK
+    Phone:   07990 455993
+    Website: https://nextdoorlocksmith.co.uk/local-locksmith
+    Rating:  4.9 (72 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37014
+    URL: https://glasgowtrader.co.uk/listing/nextdoor-locksmith-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/20] Lockplus Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 178 Battlefield Rd, Glasgow G42 9JT, UK
+    Phone:   07749 984827
+    Website: https://lockplus.co.uk/
+    Rating:  4.4 (69 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37016
+    URL: https://glasgowtrader.co.uk/listing/lockplus-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/20] REM Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Flat 24, 30 Invergyle Dr, Glasgow G52 2BL, UK
+    Phone:   07309 764549
+    Website: https://remlocksmiths.co.uk/
+    Rating:  4.8 (22 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37018
+    URL: https://glasgowtrader.co.uk/listing/rem-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   20
+  Created: 20
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

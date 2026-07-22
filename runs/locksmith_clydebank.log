@@ -1,0 +1,86 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Locksmith
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  2652 existing listings on site
+  Ledger: 2636 place_ids
+
+[SEARCH] Finding locksmiths in Clydebank...
+  Found 5 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/5] Now 24 Hour Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Gilmour Ave, Clydebank G81 1QF, UK
+    Phone:   07827 318363
+    Website: N/A
+    Rating:  5 (85 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37058
+    URL: https://glasgowtrader.co.uk/listing/now-24-hour-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/5] Brendan the Locksmith - Clydebank
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 569 Dumbarton Rd, Dalmuir, Clydebank G81 4DL, UK
+    Phone:   07391 537512
+    Website: https://www.eckorylocksmiths.co.uk/
+    Rating:  5 (18 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37060
+    URL: https://glasgowtrader.co.uk/listing/brendan-the-locksmith-clydebank/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/5] KeycraftScotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37008 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [4/5] Timpson Mobile Locksmiths
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18A Carinthia Way, Clydebank, Glasgow G81 2RR, UK
+    Phone:   0800 018 7187
+    Website: https://www.timpsonlocksmiths.co.uk/find-a-locksmith/clydebank-carinthia-way/
+    Rating:  4.7 (25 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37062
+    URL: https://glasgowtrader.co.uk/listing/timpson-mobile-locksmiths/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/5] Affordable Locksmith Paisley
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36994 — attached location 'Clydebank' instead
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   5
+  Created: 3
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================
