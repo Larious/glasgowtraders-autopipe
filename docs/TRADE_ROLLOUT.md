@@ -36,7 +36,8 @@ Stirling, Bathgate, Carluke.
 ### Phase 2 trades (configured 2026-07-22)
 - [x] driveway (164)   - [x] flooring (287)    - [x] removals (308)
 - [x] auto (311)       - [x] scaffolder (300)  - [x] solar (305)
-- [ ] cctv (304)       - [ ] damp (284)        - [ ] chimney (282)
+- [~] cctv (304) — Glasgow only (6 created); stopped by request 2026-07-22
+- [ ] damp (284)        - [ ] chimney (282)
 - [ ] loft (294)       - [ ] conservatory (283)- [ ] carpet (281)
 - [ ] bricklayer (280) - [ ] stonemason (306)  - [ ] insulation (292)
 - [ ] demolition (285) - [ ] garage_builder (288) - [ ] aircon (307)
@@ -54,6 +55,20 @@ Conservatory, Construction Contractors, Damp Proofing, Demolition, Driveways,
 Extension builders, Flooring, Garage/Shed Builders, Guttering, Home Technology,
 HVAC, Insulation, Loft Conversion, Removals, Scaffolders, Solar Panel,
 Stonemasons, Wallpapers, Window (done), plus Bricklayers.
+
+## Incident — 46 listings published without a featured image (2026-07-22)
+The WP media endpoint returns intermittent 500/400 once the host has taken a
+few thousand uploads in a day. `build_and_upload_tile` had no retry, so one
+blip left the listing published and image-less: Solar 33 (all 16 towns),
+Scaffolders 7, CCTV 6 — post IDs 38595–38640.
+
+Fixed: 4-attempt upload with exponential backoff, covered by
+`tests/unit/test_tile_upload_retry.py`. Repaired with
+`scripts/fix_missing_featured.py` (idempotent; only touches
+`featured_media == 0`, never overwrites a real photo).
+
+Watch for this on any long sweep — grep the run logs for `tile upload failed`
+before marking a trade done.
 
 ## Phase 2 — location-page depth (optional, per trade)
 Suburb sweeps for full 107-location coverage. Expensive tail; do selectively.
