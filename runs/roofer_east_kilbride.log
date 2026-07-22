@@ -1,0 +1,213 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  1638 existing listings on site
+  Ledger: 1620 place_ids
+
+[SEARCH] Finding roofers in East Kilbride...
+  Found 16 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] Vanguard Roofing & Building LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Orbital House Redwood Crescent, East Kilbride, Glasgow G74 5PR, UK
+    Phone:   07449 736417
+    Website: http://vanguardroofingandbuildingltd.com/
+    Rating:  5 (10 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35026
+    URL: https://glasgowtrader.co.uk/listing/vanguard-roofing-building-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/16] EK Joiners & Roofers Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Pankhurst Pl, East Kilbride, Glasgow G74 4BH, UK
+    Phone:   07498 056961
+    Website: N/A
+    Rating:  5 (15 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35028
+    URL: https://glasgowtrader.co.uk/listing/ek-joiners-roofers-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/16] Ultimate flat roofing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Colvilles Park, East Kilbride, Glasgow G75 0GZ, UK
+    Phone:   07738 081675
+    Website: http://www.ultimateflatroofing.co.uk/
+    Rating:  4.6 (10 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35030
+    URL: https://glasgowtrader.co.uk/listing/ultimate-flat-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/16] The Roof Cleaning Co.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Macneill Dr, East Kilbride, Glasgow G74 4TR, UK
+    Phone:   01355 458347
+    Website: http://www.theroofcleaningco.com/
+    Rating:  5 (21 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35032
+    URL: https://glasgowtrader.co.uk/listing/the-roof-cleaning-co/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] R.B.M. Roofing & Rendering
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: East Kilbride, Glasgow G75 8XJ, UK
+    Phone:   07768 451038
+    Website: https://rbm-roofing.co.uk/
+    Rating:  4.5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35034
+    URL: https://glasgowtrader.co.uk/listing/r-b-m-roofing-rendering/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] Rooflinings & Cladding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Springburn Pl, East Kilbride, Glasgow G74 5NU, UK
+    Phone:   01355 907202
+    Website: https://roofliningsandcladding.com/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35036
+    URL: https://glasgowtrader.co.uk/listing/rooflinings-cladding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] Speedy Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34990 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [8/16] Essence Roofers Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34900 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [9/16] Cathcart Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34890 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [10/16] Elite Roofing Scotland Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Aillort Pl, East Kilbride, Glasgow G74 4LL, UK
+    Phone:   07432 262740
+    Website: http://www.eliteroofingscotland.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35038
+    URL: https://glasgowtrader.co.uk/listing/elite-roofing-scotland-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] Roof Seal (Scotland) Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34998 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [12/16] JJP Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 81 Fernhill Rd, Rutherglen, Glasgow G73 4HP, UK
+    Phone:   07312 612753
+    Website: https://jjproofing.co.uk/
+    Rating:  4.9 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35040
+    URL: https://glasgowtrader.co.uk/listing/jjp-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] Fort Roofing Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34912 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [14/16] Peak Roof Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35024 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [15/16] JC Roofing & Building
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34908 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [16/16] Copper And Grey Roofing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: unit 3B/C, 95 Westburn Dr, Cambuslang, Glasgow G72 7NA, UK
+    Phone:   07432 741557
+    Website: https://www.copperandgreyroofing.com/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35042
+    URL: https://glasgowtrader.co.uk/listing/copper-and-grey-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   16
+  Created: 9
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,162 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  1625 existing listings on site
+  Ledger: 1607 place_ids
+
+[SEARCH] Finding roofers in Bellshill...
+  Found 13 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] RIDGEWOOD ROOFING AND RENDER LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Dove Wynd, Bellshill ML4 3FB, UK
+    Phone:   0141 474 6845
+    Website: https://www.ridgewoodroofingrender.co.uk/
+    Rating:  4.9 (8 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35000
+    URL: https://glasgowtrader.co.uk/listing/ridgewood-roofing-and-render-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] Fort Roofing Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34912 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [3/13] KMC Roofing & Building Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 194 Quarry St, Hamilton ML3 6QR, UK
+    Phone:   01698 209938
+    Website: https://kmc-roofing-building.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35002
+    URL: https://glasgowtrader.co.uk/listing/kmc-roofing-building-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/13] Industrial Roofing Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Dove Wynd, Bellshill ML4 3FB, UK
+    Phone:   0141 648 7618
+    Website: https://industrialroofingscotland.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35004
+    URL: https://glasgowtrader.co.uk/listing/industrial-roofing-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/13] J Burt Roofing & Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Busby Rd, Bellshill ML4 2BW, UK
+    Phone:   01698 844719
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35006
+    URL: https://glasgowtrader.co.uk/listing/j-burt-roofing-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/13] Roof Seal (Scotland) Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34998 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [7/13] Goldie Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34966 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [8/13] RooffLex Ltd - Hamilton & Lanarkshire Roofers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34996 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [9/13] Speedy Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34990 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [10/13] G & B Roofing and General Builders
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33241 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [11/13] JRC Jordan Roofing Co Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34982 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [12/13] Wellview Roofing Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Wellview Dr, Motherwell ML1 3ET, UK
+    Phone:   07375 248443
+    Website: http://www.wellviewroofing.co.uk/
+    Rating:  5 (15 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35008
+    URL: https://glasgowtrader.co.uk/listing/wellview-roofing-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] All Roofing Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Woodfoot Rd, Hamilton ML3 8LP, UK
+    Phone:   07799 903989
+    Website: http://www.all-roofingsolutions.co.uk/
+    Rating:  4.8 (15 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35010
+    URL: https://glasgowtrader.co.uk/listing/all-roofing-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   13
+  Created: 6
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,239 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  1606 existing listings on site
+  Ledger: 1588 place_ids
+
+[SEARCH] Finding roofers in Airdrie...
+  Found 14 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] McCaffer Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52 Hillhead Dr, Airdrie ML6 9LA, UK
+    Phone:   07730 004503
+    Website: https://mccafferroofing.co.uk/
+    Rating:  5 (26 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34962
+    URL: https://glasgowtrader.co.uk/listing/mccaffer-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] Sterling Roofing Services Airdrie - Roofer Airdrie
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Lochalsh Pl, Airdrie ML6 8FQ, UK
+    Phone:   01236 333108
+    Website: https://www.sterlingroofingservices.co.uk/roofer-airdrie/
+    Rating:  5 (8 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34964
+    URL: https://glasgowtrader.co.uk/listing/sterling-roofing-services-airdrie-roofer-airdrie/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/14] Goldie Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 56 Callander Rd, Chapelhall, Airdrie ML6 8HA, UK
+    Phone:   01236 434821
+    Website: https://agoldieroofing.co.uk/
+    Rating:  5 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34966
+    URL: https://glasgowtrader.co.uk/listing/goldie-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/14] Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Galashiels Ave, Chapelhall, Airdrie ML6 8XG, UK
+    Phone:   01236 434821
+    Website: https://www.agoldieroofing.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34968
+    URL: https://glasgowtrader.co.uk/listing/roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] Nugen Exteriors | Roofing & Exterior Specialists
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 6 block 7, Chapelhall Industrial Estate, Chapelhall, Airdrie ML6 8QH, UK
+    Phone:   01236 800699
+    Website: http://www.nugenexteriors.com/
+    Rating:  4.9 (38 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34970
+    URL: https://glasgowtrader.co.uk/listing/nugen-exteriors-roofing-exterior-specialists/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] Strathclyde Roofers And Builders Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33254 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [7/14] david pyott roofing and building maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 43 Inverlochy Rd, Airdrie ML6 9ES, UK
+    Phone:   07950 623701
+    Website: https://www.lanarkshireroofer.co.uk/roofer-in-airdrie/
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34972
+    URL: https://glasgowtrader.co.uk/listing/david-pyott-roofing-and-building-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] McPherson Roofing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 33c, Block 7, Chapelhall Industrial Estate, Chapelhall, Airdrie ML6 8QH, UK
+    Phone:   07990 705717
+    Website: http://www.mcpherson-roofing.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34974
+    URL: https://glasgowtrader.co.uk/listing/mcpherson-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] Modern Roofing (Scotland) Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5, Church View, Airdrie Rd, Caldercruix, Airdrie ML6 8PA, UK
+    Phone:   01236 840444
+    Website: https://www.modernroofing.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34976
+    URL: https://glasgowtrader.co.uk/listing/modern-roofing-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] Action Roofing Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 205 Glenmavis Rd, Glenmavis, Airdrie ML6 0NQ, UK
+    Phone:   01236 755636
+    Website: https://www.lanarkshireroofer.co.uk/roofer-in-glenmavis/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34978
+    URL: https://glasgowtrader.co.uk/listing/action-roofing-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/14] Dm diamond roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Elmpark Grove, Greengairs, Airdrie ML6 7UT, UK
+    Phone:   07957 618709
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34980
+    URL: https://glasgowtrader.co.uk/listing/dm-diamond-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/14] JRC Jordan Roofing Co Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 18 Ellis St, Coatbridge ML5 3AA, UK
+    Phone:   01698 536841
+    Website: http://www.jrcjordanroofing.co.uk/
+    Rating:  5 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34982
+    URL: https://glasgowtrader.co.uk/listing/jrc-jordan-roofing-co-ltd-2/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] McAllister Roofing and Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Glenboig New Rd, Glenboig, Coatbridge ML5 2QD, UK
+    Phone:   0141 615 7608
+    Website: https://www.mcallisterroofing.co.uk/
+    Rating:  4.5 (23 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34984
+    URL: https://glasgowtrader.co.uk/listing/mcallister-roofing-and-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] Fort Roofing Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34912 — attached location 'Airdrie' instead
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   14
+  Created: 12
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,213 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  1647 existing listings on site
+  Ledger: 1629 place_ids
+
+[SEARCH] Finding roofers in Clydebank...
+  Found 16 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] Js Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 88 Riddell St, Clydebank G81 2HE, UK
+    Phone:   07593 928728
+    Website: http://www.jsroofingclydebank.com/
+    Rating:  5 (14 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35044
+    URL: https://glasgowtrader.co.uk/listing/js-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/16] NC Roofing Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 79 Blantyre Cres, Clydebank G81 6JN, UK
+    Phone:   07813 322980
+    Website: https://ncroofingservices.co.uk/
+    Rating:  4.8 (53 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35046
+    URL: https://glasgowtrader.co.uk/listing/nc-roofing-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/16] CP Roofing Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34942 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [4/16] Great Western Roofing ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34896 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [5/16] ML Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34894 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [6/16] ATT Building & Roofing Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5 N Elgin Pl, Glasgow, Clydebank G81 1LU, UK
+    Phone:   0141 374 2734
+    Website: https://attbuilders.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35048
+    URL: https://glasgowtrader.co.uk/listing/att-building-roofing-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] Wren Roofing & Solar
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34922 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [8/16] Strathclyde Domestic Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34904 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [9/16] GRBM: Glasgow Roofing & Building Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34940 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [10/16] All Levels Roofing and Building
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 John Knox St, Clydebank G81 1LG, UK
+    Phone:   07557 231088
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35050
+    URL: https://glasgowtrader.co.uk/listing/all-levels-roofing-and-building/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] Price Roofing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40 Cable Depot Rd, Clydebank G81 1UF, UK
+    Phone:   0141 941 3311
+    Website: https://www.priceroof.co.uk/
+    Rating:  4 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35052
+    URL: https://glasgowtrader.co.uk/listing/price-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/16] Northwest Roofing and Building Maintenance Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 19, Dalsetter Business Centre, 42 Dalsetter Ave, Glasgow G15 8TE, UK
+    Phone:   0141 944 2970
+    Website: https://www.northwestroofingltd.co.uk/
+    Rating:  4.1 (21 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35054
+    URL: https://glasgowtrader.co.uk/listing/northwest-roofing-and-building-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] R T Roofing & Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 668 Dumbarton Rd, Dalmuir, Clydebank G81 4BB, UK
+    Phone:   01389 878385
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35056
+    URL: https://glasgowtrader.co.uk/listing/r-t-roofing-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] Adroit Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 167 Cloberhill Rd, Glasgow G13 2DD, UK
+    Phone:   07884 207708
+    Website: https://www.adroitroofingglasgow.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35058
+    URL: https://glasgowtrader.co.uk/listing/adroit-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] PR Garage Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34954 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [16/16] Doyle and Snedden roofing and building contracts limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Simons Cres, Renfrew PA4 8TE, UK
+    Phone:   07973 525152
+    Website: https://www.doylesneddenroofing.com/
+    Rating:  4.7 (14 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35060
+    URL: https://glasgowtrader.co.uk/listing/doyle-and-snedden-roofing-and-building-contracts-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   16
+  Created: 9
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

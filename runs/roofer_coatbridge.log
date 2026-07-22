@@ -1,0 +1,179 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  1618 existing listings on site
+  Ledger: 1600 place_ids
+
+[SEARCH] Finding roofers in Coatbridge...
+  Found 14 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] JRC Jordan Roofing Co Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34982 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/14] Tradetech Roofing limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Plot 4, Bridgend Industrial estate, 2 Gartferry Rd, Moodiesburn, Chryston, Glasgow G69 0JD, UK
+    Phone:   0141 374 0275
+    Website: https://tradetechroofing.co.uk/?utm_source=Organic&utm_medium=Organic&utm_campaign=GMB&utm_id=Organic
+    Rating:  5 (94 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34986
+    URL: https://glasgowtrader.co.uk/listing/tradetech-roofing-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/14] McCaffer Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34962 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/14] McAllister Roofing and Roughcasting
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34984 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [5/14] Fort Roofing Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34912 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [6/14] A McCormack Roofing & Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Laburnum Grove, Coatbridge ML5 3PJ, UK
+    Phone:   01236 437691
+    Website: https://www.lanarkshireroofer.co.uk/roofer-in-coatbridge/
+    Rating:  3.3 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34988
+    URL: https://glasgowtrader.co.uk/listing/a-mccormack-roofing-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/14] Speedy Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit B2, Blantyre Industrial Estate, Block 7 Central Ave, Blantyre, Glasgow G72 0AF, UK
+    Phone:   0141 374 2985
+    Website: https://www.speedyroofing.co.uk/
+    Rating:  4.9 (191 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34990
+    URL: https://glasgowtrader.co.uk/listing/speedy-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] Recommended Roofers Coatbridge
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Campsie View, Annathill, Coatbridge ML5 2QQ, UK
+    Phone:   0800 061 4057
+    Website: https://recommended-roofers.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34992
+    URL: https://glasgowtrader.co.uk/listing/recommended-roofers-coatbridge/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] JSB Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Stanley Rd, Greenrigg, Shotts ML7 5QX, UK
+    Phone:   07934 475500
+    Website: N/A
+    Rating:  5 (39 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34994
+    URL: https://glasgowtrader.co.uk/listing/jsb-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] Strathclyde Roofers And Builders Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33254 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [11/14] Nugen Exteriors | Roofing & Exterior Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34970 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [12/14] RooffLex Ltd - Hamilton & Lanarkshire Roofers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 70 Cadzow St, Hamilton ML3 6DS, UK
+    Phone:   07788 854290
+    Website: http://rooflexltd.com/
+    Rating:  5 (122 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34996
+    URL: https://glasgowtrader.co.uk/listing/roofflex-ltd-hamilton-lanarkshire-roofers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] Roof Seal (Scotland) Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 70 Cadzow St, Hamilton ML3 6DS, UK
+    Phone:   07780 640093
+    Website: http://roofsealltd.co.uk/
+    Rating:  4.9 (239 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34998
+    URL: https://glasgowtrader.co.uk/listing/roof-seal-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] Sterling Roofing Services Airdrie - Roofer Airdrie
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34964 — attached location 'Coatbridge' instead
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   14
+  Created: 7
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

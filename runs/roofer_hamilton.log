@@ -1,0 +1,189 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  1631 existing listings on site
+  Ledger: 1613 place_ids
+
+[SEARCH] Finding roofers in Hamilton...
+  Found 16 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] RooffLex Ltd - Hamilton & Lanarkshire Roofers
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34996 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/16] Roof Seal (Scotland) Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34998 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/16] Sterling Roofing Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 Cadzow Brg Sq, Hamilton ML3 7GZ, UK
+    Phone:   01698 692108
+    Website: https://www.sterlingroofingservices.co.uk/hamilton/
+    Rating:  5 (10 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35012
+    URL: https://glasgowtrader.co.uk/listing/sterling-roofing-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/16] KMC Roofing & Building Maintenance Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35002 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [5/16] Direct Roofers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Craigfell Ct, Hamilton ML3 8UU, UK
+    Phone:   01698 821357
+    Website: https://www.direct-roofers.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35014
+    URL: https://glasgowtrader.co.uk/listing/direct-roofers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] All Roofing Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35010 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/16] Arbatross Tree Care & Roofing Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33906 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [8/16] Speedy Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34990 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [9/16] JM Roofing Specialists Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Muir St, Hamilton ML3 6EP, UK
+    Phone:   0141 763 0355
+    Website: http://www.jm-roofing.co.uk/
+    Rating:  3.7 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35016
+    URL: https://glasgowtrader.co.uk/listing/jm-roofing-specialists-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/16] B Varey and son ltd (roofing Services)⭐️⭐️⭐️⭐️
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Wellgate St, Larkhall ML9 2AG, UK
+    Phone:   01698 446758
+    Website: http://bvareyandsonltd.co.uk/
+    Rating:  4.9 (78 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35018
+    URL: https://glasgowtrader.co.uk/listing/b-varey-and-son-ltd-roofing-services%e2%ad%90%ef%b8%8f%e2%ad%90%ef%b8%8f%e2%ad%90%ef%b8%8f%e2%ad%90%ef%b8%8f/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] Fort Roofing Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34912 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [12/16] ADM Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34916 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [13/16] Ash Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36 Almada Ln, Hamilton ML3 0HB, UK
+    Phone:   01355 242593
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35020
+    URL: https://glasgowtrader.co.uk/listing/ash-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] JC Roofing Blantyre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 83 Victoria St, Blantyre, Glasgow G72 0EF, UK
+    Phone:   01698 317303
+    Website: https://jcroofingandbuilding.com/roofers-blantyre/
+    Rating:  5 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35022
+    URL: https://glasgowtrader.co.uk/listing/jc-roofing-blantyre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] CP Roofing Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34942 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [16/16] Peak Roof Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Barry Gardens, Blantyre, Glasgow G72 0QA, UK
+    Phone:   0141 846 5621
+    Website: http://www.peakroofsolutions.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35024
+    URL: https://glasgowtrader.co.uk/listing/peak-roof-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   16
+  Created: 7
+  Skipped: 9 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,302 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  1590 existing listings on site
+  Ledger: 1572 place_ids
+
+[SEARCH] Finding roofers in Paisley...
+  Found 17 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] Mitchell Roofing Services Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 115 Abercorn St, Paisley PA3 4AT, UK
+    Phone:   0141 366 0015
+    Website: https://mitchellroofingservices.com/paisley-roofers/
+    Rating:  5 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34930
+    URL: https://glasgowtrader.co.uk/listing/mitchell-roofing-services-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/17] Barr Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 42 Traquair Ave, Paisley PA2 0TN, UK
+    Phone:   N/A
+    Website: https://www.barrroofing.co.uk/
+    Rating:  4.6 (32 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34932
+    URL: https://glasgowtrader.co.uk/listing/barr-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/17] Argyll roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Oliphant Cres, Paisley PA2 0DA, UK
+    Phone:   0141 848 1904
+    Website: N/A
+    Rating:  4.1 (8 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34934
+    URL: https://glasgowtrader.co.uk/listing/argyll-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/17] F McLaughlan Slaters Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Glenfield Gardens, Glenburn, Paisley PA2 8BF, UK
+    Phone:   0141 884 7240
+    Website: http://mclaughlanroofers.co.uk/
+    Rating:  5 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34936
+    URL: https://glasgowtrader.co.uk/listing/f-mclaughlan-slaters-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/17] C.r Construction Roofing and Roughcasting Specialist
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Greenbank Dr, Glenburn, Paisley PA2 8LS, UK
+    Phone:   07914 256413
+    Website: https://www.facebook.com/share/1C8N1XEGN3/?mibextid=wwXIfr
+    Rating:  5 (8 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34938
+    URL: https://glasgowtrader.co.uk/listing/c-r-construction-roofing-and-roughcasting-specialist/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/17] GRBM: Glasgow Roofing & Building Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5 Mackean St, Paisley PA3 1QP, UK
+    Phone:   0141 840 4377
+    Website: https://grbm.co.uk/
+    Rating:  5 (21 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34940
+    URL: https://glasgowtrader.co.uk/listing/grbm-glasgow-roofing-building-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/17] CP Roofing Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5a, Victoria Works, Mary St, Johnstone PA5 8BT, UK
+    Phone:   01505 671020
+    Website: https://cproofingsolutions.com/
+    Rating:  5 (117 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34942
+    URL: https://glasgowtrader.co.uk/listing/cp-roofing-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/17] A L S Roofing & Maintenance Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Lansbury Gardens, Paisley PA3 2AA, UK
+    Phone:   0141 463 2443
+    Website: http://www.fixroof.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   3 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34944
+    URL: https://glasgowtrader.co.uk/listing/a-l-s-roofing-maintenance-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/17] Paul McLaughlin Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 Causeyside St., Paisley PA1 1YL, UK
+    Phone:   07900 597948
+    Website: https://paulmclaughlinroofing.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34946
+    URL: https://glasgowtrader.co.uk/listing/paul-mclaughlin-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/17] BeSure Roofing Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Seedhill Rd, Paisley PA1 1JS, UK
+    Phone:   07377 022676
+    Website: https://besureroofing.com/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34948
+    URL: https://glasgowtrader.co.uk/listing/besure-roofing-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/17] Roof & Gutter Dr
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Dryburgh Ave, Paisley PA2 9JB, UK
+    Phone:   0141 562 4990
+    Website: https://www.roofandgutterdoctor.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34950
+    URL: https://glasgowtrader.co.uk/listing/roof-gutter-dr/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/17] Local Roof Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Maxwellton St, Paisley PA1 2UF, UK
+    Phone:   07495 247834
+    Website: https://www.localrr.co.uk/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=9021668089891599951
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34952
+    URL: https://glasgowtrader.co.uk/listing/local-roof-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/17] PR Garage Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Dunbar Ave, Johnstone PA5 0HE, UK
+    Phone:   07886 408043
+    Website: https://prgarageroofingltd.co.uk/
+    Rating:  5 (31 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34954
+    URL: https://glasgowtrader.co.uk/listing/pr-garage-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/17] McStay Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 103 Clippens Rd, Linwood, Paisley PA3 3PY, UK
+    Phone:   07806 480085
+    Website: https://www.mcstayroofing.co.uk/
+    Rating:  4.7 (15 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34956
+    URL: https://glasgowtrader.co.uk/listing/mcstay-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/17] Fibreglass Roofing Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Christie St, Paisley PA1 1NB, UK
+    Phone:   0141 889 9616
+    Website: https://www.fiferoofer.co.uk/grp-roofing-in-fife/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34958
+    URL: https://glasgowtrader.co.uk/listing/fibreglass-roofing-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/17] Great Western Roofing ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34896 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [17/17] SIG Roofing Linwood
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Linwood Industrial Estate, Lyon Rd, Linwood, Paisley PA3 3BQ, UK
+    Phone:   01505 321122
+    Website: https://www.sigroofing.co.uk/
+    Rating:  4.6 (34 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34960
+    URL: https://glasgowtrader.co.uk/listing/sig-roofing-linwood/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   17
+  Created: 16
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

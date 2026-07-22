@@ -1,0 +1,365 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  1570 existing listings on site
+  Ledger: 1552 place_ids
+
+[SEARCH] Finding roofers in Glasgow...
+  Found 20 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/20] Cathcart Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1A Greenhill Ave, Giffnock, Glasgow G46 6QX, UK
+    Phone:   0141 620 3808
+    Website: https://glasgowroofingrepairs.co.uk/
+    Rating:  4.9 (256 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34890
+    URL: https://glasgowtrader.co.uk/listing/cathcart-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/20] Glasgow Roofing Contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 56 Woodhill Rd, Bishopbriggs, Glasgow G64 1TB, UK
+    Phone:   0141 482 7035
+    Website: https://www.glasgowroofing.co.uk/
+    Rating:  4.9 (165 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34892
+    URL: https://glasgowtrader.co.uk/listing/glasgow-roofing-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/20] ML Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40 Scotstoun St, Glasgow G14 0UN, UK
+    Phone:   07875 502172
+    Website: https://ml-roofing.com/?fbclid=IwAR1DLklnPb7f3m6mgnEgpwaHM1yzf7616MDJobX3bn6kQej6U2R2AdhMhcE
+    Rating:  4.8 (131 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34894
+    URL: https://glasgowtrader.co.uk/listing/ml-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/20] Great Western Roofing ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, Kelvin Gate, 58 Kelvin Ave, Hillington, Glasgow G52 4GA, UK
+    Phone:   0141 587 1861
+    Website: https://www.greatwesternroofing.co.uk/
+    Rating:  4.8 (108 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34896
+    URL: https://glasgowtrader.co.uk/listing/great-western-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/20] J.Shearer Roofing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 315 Clarkston Rd, Muirend, Glasgow G44 3EJ, UK
+    Phone:   0141 638 6613
+    Website: http://www.jshearer-roofing.co.uk/
+    Rating:  4.9 (134 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34898
+    URL: https://glasgowtrader.co.uk/listing/j-shearer-roofing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/20] Essence Roofers Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 265 Cambuslang Rd, Cambuslang, Glasgow G72 7DB, UK
+    Phone:   0141 570 9152
+    Website: https://essencebuilding.co.uk/
+    Rating:  5 (149 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34900
+    URL: https://glasgowtrader.co.uk/listing/essence-roofers-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/20] J & M Roofing & Guttering Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 W George St, Glasgow G2 1BP, UK
+    Phone:   0141 319 7704
+    Website: http://jandmroofingandguttering.co.uk/
+    Rating:  5 (30 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34902
+    URL: https://glasgowtrader.co.uk/listing/j-m-roofing-guttering-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/20] Strathclyde Domestic Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4/1, 91 Mitchell St, Glasgow G1 3LN, UK
+    Phone:   0141 255 2448
+    Website: https://www.strathclydedomesticroofing.co.uk/
+    Rating:  4.9 (88 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34904
+    URL: https://glasgowtrader.co.uk/listing/strathclyde-domestic-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/20] Sterling Roofing Services Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 145 Kilmarnock Rd, Shawlands, Glasgow G41 3JE, UK
+    Phone:   0141 366 3108
+    Website: https://www.sterlingroofingservices.co.uk/glasgow/
+    Rating:  4.8 (113 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34906
+    URL: https://glasgowtrader.co.uk/listing/sterling-roofing-services-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/20] JC Roofing & Building
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 145 Kilmarnock Rd, Shawlands, Glasgow G41 3JA, UK
+    Phone:   0141 319 7596
+    Website: https://www.jcroofingandbuilding.com/
+    Rating:  4.9 (77 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34908
+    URL: https://glasgowtrader.co.uk/listing/jc-roofing-building/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/20] Wheeler Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1379 Gallowgate, Glasgow G31 4EX, UK
+    Phone:   07955 846655
+    Website: http://www.wheelerroofingscotland.com/
+    Rating:  5 (112 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34910
+    URL: https://glasgowtrader.co.uk/listing/wheeler-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/20] Fort Roofing Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Garrowhill, Business Centre, 68 Whirlow Rd, Baillieston, Glasgow G69 6QE, UK
+    Phone:   0141 771 8000
+    Website: https://www.fortroofing.co.uk/
+    Rating:  4.9 (104 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34912
+    URL: https://glasgowtrader.co.uk/listing/fort-roofing-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/20] D Hain Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 116 Broomfield Cres, Glasgow G21 3HA, UK
+    Phone:   0141 558 2337
+    Website: N/A
+    Rating:  5 (101 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34914
+    URL: https://glasgowtrader.co.uk/listing/d-hain-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/20] ADM Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 250 Blairtummock Rd, Glasgow G33 4ED, UK
+    Phone:   0141 353 5117
+    Website: https://www.admroofingscotland.co.uk/
+    Rating:  5 (102 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34916
+    URL: https://glasgowtrader.co.uk/listing/adm-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/20] JRC- Jordan Roofing Co LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Clyde Offices, 2nd Floor, 48 W George St, Glasgow G2 1BP, UK
+    Phone:   0141 628 6661
+    Website: https://www.jrcjordanroofing.co.uk/roofers-north-south-east-west-glasgow/
+    Rating:  5 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34918
+    URL: https://glasgowtrader.co.uk/listing/jrc-jordan-roofing-co-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/20] Mitchell Roofing Services Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2/5, Canada Court, 81 Miller St, Glasgow G1 1EB, UK
+    Phone:   0141 366 0013
+    Website: https://mitchellroofingservices.com/glasgow/
+    Rating:  5 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34920
+    URL: https://glasgowtrader.co.uk/listing/mitchell-roofing-services-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/20] Wren Roofing & Solar
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Wykeham Pl, Glasgow G13 3YS, UK
+    Phone:   07522 735760
+    Website: https://wrenroofing.co.uk/
+    Rating:  4.9 (54 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34922
+    URL: https://glasgowtrader.co.uk/listing/wren-roofing-solar/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/20] Trusted Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4/1, 91 Mitchell St, Glasgow G1 3LN, UK
+    Phone:   0141 530 1986
+    Website: https://trustedroofingltd.co.uk/
+    Rating:  4.5 (64 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34924
+    URL: https://glasgowtrader.co.uk/listing/trusted-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/20] Roofers Glasgow West End
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 804-806 Garscube Rd, Glasgow G20 7ET, UK
+    Phone:   0141 374 0488
+    Website: https://trustedroofingltd.co.uk/roofers-glasgow-west-end/
+    Rating:  4.8 (18 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34926
+    URL: https://glasgowtrader.co.uk/listing/roofers-glasgow-west-end/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/20] Rooftek Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Office2, Office 2, 48 W George St, Glasgow G2 1BP, UK
+    Phone:   0800 292 7526
+    Website: https://www.rooftekltd.co.uk/
+    Rating:  5 (83 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 34928
+    URL: https://glasgowtrader.co.uk/listing/rooftek-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   20
+  Created: 20
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

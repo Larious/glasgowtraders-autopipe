@@ -1,0 +1,208 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Roofer
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  1656 existing listings on site
+  Ledger: 1638 place_ids
+
+[SEARCH] Finding roofers in Cumbernauld...
+  Found 15 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Sterling Roofing Cumbernauld
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3R Brown Rd, Cumbernauld, Glasgow G67 1AB, UK
+    Phone:   01236 333108
+    Website: https://www.sterlingroofingservices.co.uk/cumbernauld/
+    Rating:  5 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35062
+    URL: https://glasgowtrader.co.uk/listing/sterling-roofing-cumbernauld/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] S Mullan Roofing Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2g Tarbolton Rd, Cumbernauld, Glasgow G67 2AF, UK
+    Phone:   07902 139691
+    Website: N/A
+    Rating:  4.9 (27 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35064
+    URL: https://glasgowtrader.co.uk/listing/s-mullan-roofing-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] Elite Roofing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Auchenkilns Holdings, Cumbernauld, Glasgow G67 4HA, UK
+    Phone:   07929 522210
+    Website: N/A
+    Rating:  4.9 (15 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35066
+    URL: https://glasgowtrader.co.uk/listing/elite-roofing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] Summit Home Improvements Roofing and Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 The Wynd, Cumbernauld, Glasgow G67 2SU, UK
+    Phone:   0141 266 0575
+    Website: https://www.summit-homeimprovements.co.uk/
+    Rating:  5 (15 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35068
+    URL: https://glasgowtrader.co.uk/listing/summit-home-improvements-roofing-and-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] Tradetech Roofing limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34986 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [6/15] Roofers Cumbernauld (Roofing & Solar)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hillcrest Ave, Cumbernauld, Glasgow G67 1ET, UK
+    Phone:   01236 804127
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35070
+    URL: https://glasgowtrader.co.uk/listing/roofers-cumbernauld-roofing-solar/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/15] Fort Roofing Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34912 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] Strathclyde Domestic Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34904 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [9/15] ADM Roofing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34916 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [10/15] CP Roofing Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34942 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [11/15] First Roofing & Building Services - Roofers Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3F, 5 Campsie Rd, Kirkintilloch, Glasgow G66 1SL, UK
+    Phone:   0141 615 5753
+    Website: https://firstroofingandbuilding.co.uk/
+    Rating:  4.4 (68 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35072
+    URL: https://glasgowtrader.co.uk/listing/first-roofing-building-services-roofers-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] FRBS First Roofing and Building Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 237 Clarkston Rd, Glasgow G44 3DS, UK
+    Phone:   0141 648 2544
+    Website: https://firstroofingandbuilding.co.uk/clarkston-office/
+    Rating:  4.4 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35074
+    URL: https://glasgowtrader.co.uk/listing/frbs-first-roofing-and-building-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] The Garage Roofing Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Bankhead Rd, Waterside, Glasgow G66 3LQ, UK
+    Phone:   0141 777 7086
+    Website: http://www.garageroofingcompany.co.uk/
+    Rating:  5 (48 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35076
+    URL: https://glasgowtrader.co.uk/listing/the-garage-roofing-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] Craig Lang Roof & Chimney Repairs-Roughcasting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Balcastle Gardens, Kilsyth, Glasgow G65 9PE, UK
+    Phone:   07753 361261
+    Website: N/A
+    Rating:  5 (18 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 35078
+    URL: https://glasgowtrader.co.uk/listing/craig-lang-roof-chimney-repairs-roughcasting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/15] Nugen Exteriors | Roofing & Exterior Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34970 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   15
+  Created: 9
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================
