@@ -1,0 +1,110 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  3033 existing listings on site
+  Ledger: 3022 place_ids
+
+[SEARCH] Finding flooring specialists in Ayr...
+  Found 5 candidates (11 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/5] A&J Flooring Ayr (Carpets, Vinyl & Laminate)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Back Main St, Ayr KA8 8DB, UK
+    Phone:   01292 737960
+    Website: https://ajflooringayr.co.uk/
+    Rating:  4.9 (15 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37830
+    URL: https://glasgowtrader.co.uk/listing/aj-flooring-ayr-carpets-vinyl-laminate/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/5] Tapi Carpets & Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Heathfield Retail Park, Tremona Road, Ayr KA8 9BF, UK
+    Phone:   01292 438460
+    Website: https://www.tapi.co.uk/stores/ayr?utm_source=google&utm_medium=organic&utm_content=ayr&utm_campaign=g+business
+    Rating:  4.7 (70 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37832
+    URL: https://glasgowtrader.co.uk/listing/tapi-carpets-floors-6/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/5] Firstpoint Flooring | Commercial Flooring Contractors Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Units 2 & 3, 52 Green St Ln, Ayrshire, Ayr KA8 8BE, UK
+    Phone:   0845 054 3884
+    Website: http://www.firstpointflooring.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37834
+    URL: https://glasgowtrader.co.uk/listing/firstpoint-flooring-commercial-flooring-contractors-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/5] Ayrshire Flooring Group
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Heatherhouse Rd, Irvine KA12 8HQ, UK
+    Phone:   01294 442424
+    Website: http://www.ayrshireflooringgroup.com/
+    Rating:  4.9 (22 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37836
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-flooring-group/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/5] Right at Home Carpets & Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 73 Bluebell Dr, Kilmarnock KA3 1SA, UK
+    Phone:   01563 340477
+    Website: https://rightathomecarpets.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37838
+    URL: https://glasgowtrader.co.uk/listing/right-at-home-carpets-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   5
+  Created: 5
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,93 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  3030 existing listings on site
+  Ledger: 3018 place_ids
+
+[SEARCH] Finding flooring specialists in Dumbarton...
+  Found 4 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] Ferguson Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Ash Rd, Dumbarton G82 2RS, UK
+    Phone:   01389 298349
+    Website: https://fergusonflooring.com/
+    Rating:  4.8 (38 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37822
+    URL: https://glasgowtrader.co.uk/listing/ferguson-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/4] Gee's Carpets and Vinyl
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 149 High St, Dumbarton G82 1NZ, UK
+    Phone:   07825 912490
+    Website: N/A
+    Rating:  5 (40 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37824
+    URL: https://glasgowtrader.co.uk/listing/gees-carpets-and-vinyl/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/4] Tapi Carpets & Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Units 1B and 1F, ST James Retail Park, Glasgow Rd, Dumbarton G82 1RB, UK
+    Phone:   01389 318680
+    Website: https://www.tapi.co.uk/stores/dumbarton?utm_source=google&utm_medium=organic&utm_content=dumbarton&utm_campaign=g+business
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37826
+    URL: https://glasgowtrader.co.uk/listing/tapi-carpets-floors-5/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/4] Gym Floors Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Ash Rd, Dumbarton G82 2RS, UK
+    Phone:   01389 298349
+    Website: http://gymfloorsscotland.com/
+    Rating:  5 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37828
+    URL: https://glasgowtrader.co.uk/listing/gym-floors-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   4
+  Created: 4
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

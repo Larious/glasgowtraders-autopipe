@@ -1,0 +1,52 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  3009 existing listings on site
+  Ledger: 2995 place_ids
+
+[SEARCH] Finding flooring specialists in Coatbridge...
+  Found 3 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/3] Avoca Flooring
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37768 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/3] Elite Carpets & Floors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37764 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/3] Foxy Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Ballater Way, Glenboig, Coatbridge ML5 2RP, UK
+    Phone:   07852 291735
+    Website: https://www.facebook.com/FoxyFloorsGlasgow/
+    Rating:  1 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37776
+    URL: https://glasgowtrader.co.uk/listing/foxy-floors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   3
+  Created: 1
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

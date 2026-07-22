@@ -1,0 +1,193 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  3048 existing listings on site
+  Ledger: 3039 place_ids
+
+[SEARCH] Finding flooring specialists in Stirling...
+  Found 12 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] First Class Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Earlsburn Ave, Stirling FK7 9DJ, UK
+    Phone:   07783 427459
+    Website: http://firstclassfloors.online/
+    Rating:  5 (11 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37864
+    URL: https://glasgowtrader.co.uk/listing/first-class-floors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/12] The Wooden Floor Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Brucefields, Hillhead Farm, Stirling FK7 8EX, UK
+    Phone:   07710 096553
+    Website: https://woodflooringstirling.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37866
+    URL: https://glasgowtrader.co.uk/listing/the-wooden-floor-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/12] The Flooring Co Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Alloa Rd, Stirling FK9 5LT, UK
+    Phone:   01786 474581
+    Website: http://www.theflooringcompanystirling.co.uk/
+    Rating:  4.3 (12 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37868
+    URL: https://glasgowtrader.co.uk/listing/the-flooring-co-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/12] Tapi Carpets & Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Muirton Rd, Stirling FK7 7TL, UK
+    Phone:   01786 235680
+    Website: https://www.tapi.co.uk/stores/stirling?utm_source=google&utm_medium=organic&utm_content=stirling&utm_campaign=g+business
+    Rating:  4.6 (114 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37870
+    URL: https://glasgowtrader.co.uk/listing/tapi-carpets-floors-8/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/12] The Flooring Studio
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 82 Henderson St, Bridge of Allan, Stirling FK9 4HS, UK
+    Phone:   01786 833383
+    Website: http://www.theflooringstudios.com/
+    Rating:  4.9 (78 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37872
+    URL: https://glasgowtrader.co.uk/listing/the-flooring-studio/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/12] Brian Newlands Flooring Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Randolph Cres, Bannockburn, Stirling FK7 0NL, UK
+    Phone:   07850 244885
+    Website: N/A
+    Rating:  5 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37874
+    URL: https://glasgowtrader.co.uk/listing/brian-newlands-flooring-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/12] Stainton Carpets & Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 75 Port St, Stirling FK8 2ER, UK
+    Phone:   01786 643189
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37876
+    URL: https://glasgowtrader.co.uk/listing/stainton-carpets-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/12] Floor Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37820 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [9/12] Burnside Carpets & Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Burnside Dr, Denny FK6 5EU, UK
+    Phone:   07712 261289
+    Website: http://www.burnsidecarpets.com/
+    Rating:  4.9 (27 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37878
+    URL: https://glasgowtrader.co.uk/listing/burnside-carpets-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/12] Elite Design Flooring
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37842 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [11/12] Donald Flooring & Contracts Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37772 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [12/12] Stirling Carpets And Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Drip Rd, Stirling FK8 1RA, UK
+    Phone:   07719 115667
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37880
+    URL: https://glasgowtrader.co.uk/listing/stirling-carpets-and-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   12
+  Created: 9
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,59 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  3056 existing listings on site
+  Ledger: 3048 place_ids
+
+[SEARCH] Finding flooring specialists in Bathgate...
+  Found 2 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] N & P Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Edinburgh Rd, Bathgate EH48 1BA, UK
+    Phone:   01506 635898
+    Website: https://nandpflooring.co.uk/
+    Rating:  4.5 (204 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37882
+    URL: https://glasgowtrader.co.uk/listing/n-p-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/2] All Round Flooring Solutions Whitburn
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 E Main St, Whitburn, Bathgate EH47 0RB, UK
+    Phone:   01501 733800
+    Website: N/A
+    Rating:  4.2 (26 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37884
+    URL: https://glasgowtrader.co.uk/listing/all-round-flooring-solutions-whitburn/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   2
+  Created: 2
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

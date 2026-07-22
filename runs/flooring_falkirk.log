@@ -1,0 +1,222 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  3038 existing listings on site
+  Ledger: 3028 place_ids
+
+[SEARCH] Finding flooring specialists in Falkirk...
+  Found 13 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] Floor Designs
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37820 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [2/13] Elite Design Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, and 2, Redding Rd, Redding, Falkirk FK2 9TG, UK
+    Phone:   07426 958552
+    Website: https://www.elitedesignflooring.co.uk/
+    Rating:  5 (63 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37842
+    URL: https://glasgowtrader.co.uk/listing/elite-design-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/13] Aikman Carpets and Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: unit 3 Bryson St, industrial, Falkirk FK2 7BT, UK
+    Phone:   01324 570807
+    Website: http://www.aikmancarpetsandflooring.com/
+    Rating:  4.8 (29 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37844
+    URL: https://glasgowtrader.co.uk/listing/aikman-carpets-and-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/13] IB Carpets & Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 64a Main St, Avonbridge, Falkirk FK1 2NG, UK
+    Phone:   07543 505205
+    Website: https://www.facebook.com/ib.carpets/
+    Rating:  5 (20 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37846
+    URL: https://glasgowtrader.co.uk/listing/ib-carpets-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/13] Tapi Carpets & Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Grahams Rd, Falkirk FK1 1LW, UK
+    Phone:   01324 464070
+    Website: https://www.tapi.co.uk/stores/falkirk?utm_source=google&utm_medium=organic&utm_content=falkirk&utm_campaign=g+business
+    Rating:  4.3 (49 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37848
+    URL: https://glasgowtrader.co.uk/listing/tapi-carpets-floors-7/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/13] Direct Flooring Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Dundee Ct, Falkirk FK1 1PW, UK
+    Phone:   01324 631347
+    Website: N/A
+    Rating:  4 (69 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37850
+    URL: https://glasgowtrader.co.uk/listing/direct-flooring-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/13] Flooring and Carpets Falkirk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 238 Grahams Rd, Falkirk FK2 7BH, UK
+    Phone:   01324 578092
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37852
+    URL: https://glasgowtrader.co.uk/listing/flooring-and-carpets-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/13] Chris's Carpets & Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3D, D Westmains Industrial Estate, W Mains Rd, Grangemouth FK3 8YE, UK
+    Phone:   01324 647167
+    Website: https://www.ccf.scot/
+    Rating:  4.8 (24 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37854
+    URL: https://glasgowtrader.co.uk/listing/chriss-carpets-floors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] O.T flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Highland Dykes Dr, Bonnybridge FK4 1PE, UK
+    Phone:   07709 037592
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37856
+    URL: https://glasgowtrader.co.uk/listing/o-t-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/13] Moffat Floor Sanding
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Muirhead Ct, Reddingmuirhead, Falkirk FK2 0ZZ, UK
+    Phone:   07539 295798
+    Website: https://moffatfloorsanding.co.uk/
+    Rating:  4.8 (26 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37858
+    URL: https://glasgowtrader.co.uk/listing/moffat-floor-sanding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/13] Hume Hardwood Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lochview House, Limerigg, Falkirk FK1 3BZ, UK
+    Phone:   01324 312390
+    Website: https://humehardwoodflooring.co.uk/?utm_source=gmb&utm_medium=organic&utm_campaign=gmb
+    Rating:  4.8 (22 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37860
+    URL: https://glasgowtrader.co.uk/listing/hume-hardwood-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/13] Flooringways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37796 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [13/13] Avoca Floorcare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Thomson Cres, Falkirk FK1 5PZ, UK
+    Phone:   01324 285007
+    Website: http://woodsandingglasgow.co.uk/wood-floor-sanding-falkirk/
+    Rating:  4.5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37862
+    URL: https://glasgowtrader.co.uk/listing/avoca-floorcare/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   13
+  Created: 11
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

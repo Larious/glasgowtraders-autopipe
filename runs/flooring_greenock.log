@@ -1,0 +1,42 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  3037 existing listings on site
+  Ledger: 3027 place_ids
+
+[SEARCH] Finding flooring specialists in Greenock...
+  Found 1 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/1] Carpet and vinyl fitter
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Munro St, Greenock PA16 9LG, UK
+    Phone:   07947 492912
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37840
+    URL: https://glasgowtrader.co.uk/listing/carpet-and-vinyl-fitter/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   1
+  Created: 1
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

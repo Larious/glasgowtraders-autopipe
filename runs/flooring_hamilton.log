@@ -1,0 +1,191 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  3014 existing listings on site
+  Ledger: 3001 place_ids
+
+[SEARCH] Finding flooring specialists in Hamilton...
+  Found 14 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Crawford Flooring
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37780 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/14] Leon Paterson Independant Carpet and Flooring Fitter
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37734 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/14] Sam's Carpets and Flooring
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37774 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [4/14] JM Flooring Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 15-17, East Kilbride, Glasgow G75 8TT, UK
+    Phone:   01355 204900
+    Website: http://www.jm-flooring.co.uk/
+    Rating:  4.9 (78 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37788
+    URL: https://glasgowtrader.co.uk/listing/jm-flooring-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] Artisan Flooring by Previously Trees
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Flower Fairies Garden Centre, Rosebank, Hamilton, Carluke ML8 5QA, UK
+    Phone:   01698 769875
+    Website: https://www.artisanflooring.uk/
+    Rating:  4.4 (21 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37790
+    URL: https://glasgowtrader.co.uk/listing/artisan-flooring-by-previously-trees/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] Inspired Flooring Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37770 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/14] Macgregor Flooring Co Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Block 1 Unit 8, Cadzow Industrial Estate, Hamilton ML3 7QU, UK
+    Phone:   01698 457121
+    Website: http://www.macgregor-flooring.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37792
+    URL: https://glasgowtrader.co.uk/listing/macgregor-flooring-co-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] Avoca Flooring
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37768 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [9/14] Hamilton Industrial Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Brownsburn Industrial Estate, Airdrie ML6 9SE, UK
+    Phone:   01236 765140
+    Website: http://www.hamiltonindustrial.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37794
+    URL: https://glasgowtrader.co.uk/listing/hamilton-industrial-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] Flooringways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 77 Mariner Rd, Camelon, East Kilbride, Falkirk FK1 4LE, UK
+    Phone:   07766 057270
+    Website: http://www.flooringways.co.uk/
+    Rating:  4.8 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37796
+    URL: https://glasgowtrader.co.uk/listing/flooringways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/14] Abode Furniture and Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Peacock Dr, Hamilton ML3 9FJ, UK
+    Phone:   N/A
+    Website: https://www.abodefurnitureandflooring.co.uk/
+    Rating:  4.8 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37798
+    URL: https://glasgowtrader.co.uk/listing/abode-furniture-and-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/14] McDonald Flooring
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37740 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [13/14] Gallagher Carpets & Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 St James Ave, East Kilbride, Glasgow G74 5QD, UK
+    Phone:   01355 238418
+    Website: http://gallaghercarpets.co.uk/
+    Rating:  4.9 (103 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37800
+    URL: https://glasgowtrader.co.uk/listing/gallagher-carpets-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] Crown Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2 Kilcreggan Court Hamilton, Hamilton, Motherwell ML3 9BQ, UK
+    Phone:   01698 200745
+    Website: http://www.crownflooring.co.uk/contact/
+    Rating:  2.3 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37802
+    URL: https://glasgowtrader.co.uk/listing/crown-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   14
+  Created: 8
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

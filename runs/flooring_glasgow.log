@@ -1,0 +1,280 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  2979 existing listings on site
+  Ledger: 2964 place_ids
+
+[SEARCH] Finding flooring specialists in Glasgow...
+  Found 15 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] FLOOR FITTERS GLASGOW
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Mannering Rd, Shawlands, Glasgow G41 3QJ, UK
+    Phone:   07773 726737
+    Website: http://www.floorfittersglasgow.co.uk/
+    Rating:  4.9 (133 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37714
+    URL: https://glasgowtrader.co.uk/listing/floor-fitters-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] Allfloors Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 26 Millbrae Rd, Langside, Glasgow G42 9UA, UK
+    Phone:   0141 404 0114
+    Website: https://www.allfloorsglasgow.co.uk/
+    Rating:  5 (187 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37716
+    URL: https://glasgowtrader.co.uk/listing/allfloors-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] Glasgow Flooring & Furnishings
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 161 Whitefield Rd, Glasgow G51 2SD, UK
+    Phone:   07557 097634
+    Website: https://www.facebook.com/glasgowflooringandfurnishings
+    Rating:  5 (36 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37718
+    URL: https://glasgowtrader.co.uk/listing/glasgow-flooring-furnishings/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] Home Trends Carpets & Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 239 Gallowgate, Glasgow G4 0TP, UK
+    Phone:   0141 552 0768
+    Website: https://www.hometrendsscotland.co.uk/
+    Rating:  5 (119 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37720
+    URL: https://glasgowtrader.co.uk/listing/home-trends-carpets-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] Direct Wood Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Block 3, Unit A, 34 Baird St, Glasgow G4 0PT, UK
+    Phone:   07983 518458
+    Website: https://www.directwoodflooring.co.uk/stores/glasgow
+    Rating:  4.6 (124 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37722
+    URL: https://glasgowtrader.co.uk/listing/direct-wood-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] First Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 178 Fenwick Rd, Giffnock, Glasgow G46 6XF, UK
+    Phone:   0141 638 0968
+    Website: https://www.first-floors.co.uk/
+    Rating:  4.4 (94 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37724
+    URL: https://glasgowtrader.co.uk/listing/first-floors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/15] Decorative Flooring Services (scotland) ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 181b, 52 Huntly Rd, Hillington, Glasgow G52 4DZ, UK
+    Phone:   0141 621 2990
+    Website: http://www.dfsglasgow.co.uk/
+    Rating:  4.9 (48 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37726
+    URL: https://glasgowtrader.co.uk/listing/decorative-flooring-services-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/15] Gidfit Flooring Fitters
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Craighead Pl, Glasgow G33 1NZ, UK
+    Phone:   07753 441700
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37728
+    URL: https://glasgowtrader.co.uk/listing/gidfit-flooring-fitters/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] S&R Flooring Contractor Glasgow, Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Whitecrook Business Centre, 78 Whitecrook St, Clydebank G81 1QF, UK
+    Phone:   0141 534 6082
+    Website: https://www.srflooringltd.co.uk/
+    Rating:  4.5 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37730
+    URL: https://glasgowtrader.co.uk/listing/sr-flooring-contractor-glasgow-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/15] Flooring Naturally Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 272 Bath St, Glasgow G2 4JR, UK
+    Phone:   07854 694987
+    Website: http://www.flooring-naturally.co.uk/
+    Rating:  5 (52 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37732
+    URL: https://glasgowtrader.co.uk/listing/flooring-naturally-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/15] Leon Paterson Independant Carpet and Flooring Fitter
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Kirkton Park, East Kilbride, Glasgow G74 4HU, UK
+    Phone:   07908 822375
+    Website: https://leonpatersoncarpetfitter.com/?fbclid=PAQ0xDSwKwMB9leHRuA2FlbQIxMQABpysEwntEOeU3RITuwePa4pKMN6_3s43Ow5N35_P7yxY48FZrHdlMi6J6eSLs_aem_O3cvAauV3KGzGmIKHLdxiQ
+    Rating:  5 (20 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37734
+    URL: https://glasgowtrader.co.uk/listing/leon-paterson-independant-carpet-and-flooring-fitter/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] Fab Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glasgow G2 5JF, UK
+    Phone:   07983 360831
+    Website: https://fab-floors-ltd.ueniweb.com/
+    Rating:  5 (38 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37736
+    URL: https://glasgowtrader.co.uk/listing/fab-floors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] Iona Flooring Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 109 Langside Dr, Glasgow G43 2SX, UK
+    Phone:   0141 637 7444
+    Website: https://www.ionaflooring.co.uk/
+    Rating:  4.6 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37738
+    URL: https://glasgowtrader.co.uk/listing/iona-flooring-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] McDonald Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Sandilands St, Glasgow G32 0HT, UK
+    Phone:   0141 764 1331
+    Website: https://www.mcdonaldflooring.co.uk/
+    Rating:  4.9 (344 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37740
+    URL: https://glasgowtrader.co.uk/listing/mcdonald-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/15] Tapi Carpets & Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Great Western Rd, Glasgow G15 6RX, UK
+    Phone:   0141 648 9400
+    Website: https://www.tapi.co.uk/stores/glasgow?utm_source=google&utm_medium=organic&utm_content=glasgow&utm_campaign=g+business
+    Rating:  4.4 (85 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37742
+    URL: https://glasgowtrader.co.uk/listing/tapi-carpets-floors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   15
+  Created: 15
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

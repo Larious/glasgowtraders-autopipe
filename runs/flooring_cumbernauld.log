@@ -1,0 +1,86 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  3027 existing listings on site
+  Ledger: 3015 place_ids
+
+[SEARCH] Finding flooring specialists in Cumbernauld...
+  Found 5 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/5] Donald Flooring & Contracts Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37772 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [2/5] Kelter Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Kelvin Rd N, Cumbernauld, Glasgow G67 2BD, UK
+    Phone:   07541 076174
+    Website: https://kelterflooring.com/
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37816
+    URL: https://glasgowtrader.co.uk/listing/kelter-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/5] Ruby Flooring Retail LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 351 Cumbernauld Rd, Glasgow G31 3LP, UK
+    Phone:   0141 778 4294
+    Website: N/A
+    Rating:  5 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37818
+    URL: https://glasgowtrader.co.uk/listing/ruby-flooring-retail-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/5] Gidfit Flooring Fitters
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37728 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [5/5] Floor Designs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 236 Grahams Rd, Falkirk FK2 7BH, UK
+    Phone:   01324 638555
+    Website: https://floordesignsfalkirk.co.uk/who-are-we-home-page/
+    Rating:  5 (77 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37820
+    URL: https://glasgowtrader.co.uk/listing/floor-designs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   5
+  Created: 3
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

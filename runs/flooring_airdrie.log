@@ -1,0 +1,127 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  3003 existing listings on site
+  Ledger: 2989 place_ids
+
+[SEARCH] Finding flooring specialists in Airdrie...
+  Found 6 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/6] Elite Carpets & Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 6b, Osprey Trade Park, 25 Watt St, Airdrie ML6 6LZ, UK
+    Phone:   01236 898260
+    Website: https://www.facebook.com/elitecarpetsandflooring
+    Rating:  4.8 (4 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37764
+    URL: https://glasgowtrader.co.uk/listing/elite-carpets-floors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/6] AB Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Airdrie ML6 6FD, UK
+    Phone:   07840 650749
+    Website: https://www.instagram.com/abflooringco?igsh=MWYyMmNic2MxeG1qag==
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37766
+    URL: https://glasgowtrader.co.uk/listing/ab-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/6] Avoca Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Hope St, Mossend, Bellshill ML4 1QA, UK
+    Phone:   01698 623023
+    Website: http://www.avocaflooring.co.uk/
+    Rating:  4.8 (110 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37768
+    URL: https://glasgowtrader.co.uk/listing/avoca-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/6] Inspired Flooring Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 193-199 Brandon St, Motherwell ML1 1RS, UK
+    Phone:   01698 510520
+    Website: https://inspiredfloors.co.uk/
+    Rating:  4.9 (98 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37770
+    URL: https://glasgowtrader.co.uk/listing/inspired-flooring-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/6] Donald Flooring & Contracts Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 6, Wardpark Rd, Cumbernauld Business Park, Cumbernauld, Glasgow G67 3JZ, UK
+    Phone:   01236 795555
+    Website: http://www.donaldflooring.co.uk/
+    Rating:  4.9 (42 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37772
+    URL: https://glasgowtrader.co.uk/listing/donald-flooring-contracts-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/6] Sam's Carpets and Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 James Watt Pl, East Kilbride, Glasgow G74 5HG, UK
+    Phone:   0141 846 2294
+    Website: https://www.samscarpetsandflooring.co.uk/
+    Rating:  4.9 (269 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37774
+    URL: https://glasgowtrader.co.uk/listing/sams-carpets-and-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   6
+  Created: 6
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

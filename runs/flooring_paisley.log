@@ -1,0 +1,200 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  2994 existing listings on site
+  Ledger: 2979 place_ids
+
+[SEARCH] Finding flooring specialists in Paisley...
+  Found 11 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] Abbey Flooring Paisley Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 32b Wellmeadow St, Paisley PA1 2EG, UK
+    Phone:   0141 848 9993
+    Website: N/A
+    Rating:  4.5 (36 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37744
+    URL: https://glasgowtrader.co.uk/listing/abbey-flooring-paisley-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/11] Prestige Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 50, 52 Causeyside St., Paisley PA1 1YW, UK
+    Phone:   0141 848 1222
+    Website: N/A
+    Rating:  4.6 (249 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37746
+    URL: https://glasgowtrader.co.uk/listing/prestige-floors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/11] Tapi Carpets & Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Washington Rd, Paisley PA3 4EP, UK
+    Phone:   0141 648 9880
+    Website: https://www.tapi.co.uk/stores/abbotsinch?utm_source=google&utm_medium=organic&utm_content=abbotsinch&utm_campaign=g+business
+    Rating:  4.3 (106 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37748
+    URL: https://glasgowtrader.co.uk/listing/tapi-carpets-floors-2/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/11] McClelland Flooring
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 49 Morar Dr, Paisley PA2 9BQ, UK
+    Phone:   07701 335660
+    Website: N/A
+    Rating:  1 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37750
+    URL: https://glasgowtrader.co.uk/listing/mcclelland-flooring/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/11] Floor Monster
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Scott's Rd, Paisley PA2 7AN, UK
+    Phone:   0844 335 0433
+    Website: https://floormonster.co.uk/
+    Rating:  3.2 (21 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37752
+    URL: https://glasgowtrader.co.uk/listing/floor-monster/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/11] Swift Flooring Studio
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2193 Paisley Rd W, Glasgow G52 3PF, UK
+    Phone:   0141 471 0580
+    Website: https://swiftflooringstudio.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37754
+    URL: https://glasgowtrader.co.uk/listing/swift-flooring-studio/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/11] Signature Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 0 Corseford Ave, Johnstone PA5 0PR, UK
+    Phone:   07568 451591
+    Website: http://www.signaturefloors.co.uk/
+    Rating:  4.9 (77 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37756
+    URL: https://glasgowtrader.co.uk/listing/signature-floors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/11] McMillan Flooring Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 32 Balmoral Rd, Elderslie, Johnstone PA5 9RA, UK
+    Phone:   07530 297327
+    Website: https://www.mcmillanflooringsolutions.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37758
+    URL: https://glasgowtrader.co.uk/listing/mcmillan-flooring-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/11] Braehead Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: braehead floors, 178 Braehead Rd, Glenburn, Paisley PA2 8QD, UK
+    Phone:   0141 884 3145
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37760
+    URL: https://glasgowtrader.co.uk/listing/braehead-floors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/11] Decorative Flooring Services (scotland) ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37726 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [11/11] West Coast Flooring Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Kingston Rd, Neilston, Glasgow G78 3JA, UK
+    Phone:   0141 459 1253
+    Website: http://westcoastflooring.co.uk/
+    Rating:  5 (32 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37762
+    URL: https://glasgowtrader.co.uk/listing/west-coast-flooring-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   11
+  Created: 10
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

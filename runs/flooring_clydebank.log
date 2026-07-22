@@ -1,0 +1,64 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  3025 existing listings on site
+  Ledger: 3013 place_ids
+
+[SEARCH] Finding flooring specialists in Clydebank...
+  Found 3 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/3] Joe Walker's Flooring Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 Dumbarton Rd, Clydebank G81 1UA, UK
+    Phone:   0141 952 2278
+    Website: http://www.joewalkersflooring.com/
+    Rating:  4.8 (70 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37812
+    URL: https://glasgowtrader.co.uk/listing/joe-walkers-flooring-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/3] Innovation Flooring Direct
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: S Elgin Pl, Clydebank G81 1XP, UK
+    Phone:   0141 952 5200
+    Website: https://innovationflooringdirect.com/
+    Rating:  4.4 (114 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37814
+    URL: https://glasgowtrader.co.uk/listing/innovation-flooring-direct/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/3] S&R Flooring Contractor Glasgow, Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37730 — attached location 'Clydebank' instead
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   3
+  Created: 2
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

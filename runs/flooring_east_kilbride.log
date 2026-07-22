@@ -1,0 +1,118 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Flooring Specialist
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  3022 existing listings on site
+  Ledger: 3009 place_ids
+
+[SEARCH] Finding flooring specialists in East Kilbride...
+  Found 9 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] Leon Paterson Independant Carpet and Flooring Fitter
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37734 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [2/9] JM Flooring Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37788 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [3/9] Sam's Carpets and Flooring
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37774 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [4/9] Gallagher Carpets & Flooring
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37800 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [5/9] Flooring Equipment Direct Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 46 Milton Rd, East Kilbride, Glasgow G74 5BU, UK
+    Phone:   0800 083 1384
+    Website: http://www.flooringequipmentdirect.co.uk/
+    Rating:  4.6 (19 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37804
+    URL: https://glasgowtrader.co.uk/listing/flooring-equipment-direct-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/9] Tapi Carpets & Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Glasgow Rd, East Kilbride, Glasgow G74 4UN, UK
+    Phone:   01355 203100
+    Website: https://www.tapi.co.uk/stores/east-kilbride?utm_source=google&utm_medium=organic&utm_content=east_kilbride&utm_campaign=g+business
+    Rating:  4.4 (45 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37806
+    URL: https://glasgowtrader.co.uk/listing/tapi-carpets-floors-4/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/9] Lazy Carpets & Flooring | In-Home Visits
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8C Colvilles Pl, East Kilbride, Glasgow G75 0PZ, UK
+    Phone:   0141 648 7565
+    Website: https://www.lazycarpets.com/pages/locations-glasgow/?utm_source=google&utm_medium=gmb&utm_campaign=google_my_business_glasgow
+    Rating:  4.4 (47 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37808
+    URL: https://glasgowtrader.co.uk/listing/lazy-carpets-flooring-in-home-visits/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/9] HARDWOOD FLOORS SCOTLAND
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 61 Wilson Pl, East Kilbride, Glasgow G74 4QD, UK
+    Phone:   07968 287644
+    Website: http://www.hardwoodfloorsscotland.co.uk/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37810
+    URL: https://glasgowtrader.co.uk/listing/hardwood-floors-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/9] Flooringways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37796 — attached location 'East Kilbride' instead
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   9
+  Created: 4
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================
