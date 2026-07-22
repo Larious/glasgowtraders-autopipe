@@ -1,0 +1,111 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  3369 existing listings on site
+  Ledger: 3365 place_ids
+
+[SEARCH] Finding scaffolders in Paisley...
+  Found 10 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] Bespoke Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38504 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [2/10] Top Scaffolding
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38488 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [3/10] JR Scaffold Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38514 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [4/10] Elite scaffolding scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38486 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [5/10] R & M Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 Barterholm Rd, Paisley PA2 6PB, UK
+    Phone:   0141 889 2845
+    Website: N/A
+    Rating:  3.3 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38516
+    URL: https://glasgowtrader.co.uk/listing/r-m-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/10] Starlex Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Floors St, Johnstone PA5 9PE, UK
+    Phone:   07944 653172
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38518
+    URL: https://glasgowtrader.co.uk/listing/starlex-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/10] SPM Scaffolding & Access
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38512 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [8/10] M8 Scaffold
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38490 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [9/10] Total Scaffold Access Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38508 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [10/10] All Aspects Roofing & Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: St. James Business Centre, Linwood Rd, Linwood, Paisley PA3 3AT, UK
+    Phone:   0800 610 1162
+    Website: N/A
+    Rating:  2.6 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38520
+    URL: https://glasgowtrader.co.uk/listing/all-aspects-roofing-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   10
+  Created: 3
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

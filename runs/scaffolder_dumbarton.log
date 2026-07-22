@@ -1,0 +1,92 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  3389 existing listings on site
+  Ledger: 3385 place_ids
+
+[SEARCH] Finding scaffolders in Dumbarton...
+  Found 11 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] Elite scaffolding scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38486 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [2/11] The Human Touch Scaffolding Co Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38494 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [3/11] Falcon Scaffolding (Scotland) Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38552 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [4/11] SPM Scaffolding & Access
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38512 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [5/11] Top Scaffolding
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38488 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [6/11] Bespoke Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38504 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [7/11] Top Tier Scaffolding Solutions Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38492 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [8/11] Starlex Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38518 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [9/11] DMac Scaffolding Solutions Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Baker St, Greenock PA15 4TZ, UK
+    Phone:   07961 526889
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38556
+    URL: https://glasgowtrader.co.uk/listing/dmac-scaffolding-solutions-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/11] JR Scaffold Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38514 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [11/11] Total Scaffold Access Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38508 — attached location 'Dumbarton' instead
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   11
+  Created: 1
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

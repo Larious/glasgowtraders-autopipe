@@ -1,0 +1,100 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  3416 existing listings on site
+  Ledger: 3412 place_ids
+
+[SEARCH] Finding scaffolders in Carluke...
+  Found 15 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Scaffolding Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38524 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [2/15] SLK Scaffolding Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38546 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [3/15] R D A Scaffolding Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38534 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [4/15] Top Tier Scaffolding Solutions Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38492 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [5/15] H & H Scaffolding
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38544 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [6/15] Rise Access & Scaffolding Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38592 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [7/15] JD Scaffolding Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38526 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] RK Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38588 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [9/15] JV Scaffolding
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38540 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [10/15] The Human Touch Scaffolding Co Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38494 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [11/15] Access Solutions Scaffolding Contracts Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38528 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [12/15] Scaffolding Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38538 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [13/15] Top Scaffolding
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38488 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [14/15] AS Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38498 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [15/15] J Wallace Scaffolding
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38532 — attached location 'Carluke' instead
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   15
+  Created: 0
+  Skipped: 15 (already existed)
+  Failed:  0
+============================================================

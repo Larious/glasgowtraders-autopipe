@@ -1,0 +1,122 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  3388 existing listings on site
+  Ledger: 3384 place_ids
+
+[SEARCH] Finding scaffolders in Cumbernauld...
+  Found 17 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] Access Solutions Scaffolding Contracts Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38528 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [2/17] Top Tier Scaffolding Solutions Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38492 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [3/17] Scaffold Services (Scot.) Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38522 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [4/17] M8 Scaffold
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38490 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [5/17] Lynn and Son's Scaffolding Access LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38506 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [6/17] JD Scaffolding Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38526 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [7/17] R D A Scaffolding Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38534 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [8/17] Stepup Scaffold UK
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38510 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [9/17] MNF Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38536 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [10/17] Devine Scaffolding Ltd - Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38496 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [11/17] The Human Touch Scaffolding Co Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38494 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [12/17] J Wallace Scaffolding
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38532 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [13/17] Mulheron Scaffolding Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Blochairn Industrial Estate, 33 Siemens Pl, Glasgow G21 2BN, UK
+    Phone:   0141 370 1307
+    Website: N/A
+    Rating:  3.2 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38554
+    URL: https://glasgowtrader.co.uk/listing/mulheron-scaffolding-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/17] AS Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38498 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [15/17] Access Scaffold Systems Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38530 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [16/17] Scaffolding Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38524 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [17/17] Millar Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38502 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   17
+  Created: 1
+  Skipped: 16 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,112 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  3387 existing listings on site
+  Ledger: 3383 place_ids
+
+[SEARCH] Finding scaffolders in Clydebank...
+  Found 15 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Elite scaffolding scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38486 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [2/15] The Human Touch Scaffolding Co Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38494 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [3/15] Top Scaffolding
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38488 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [4/15] M8 Scaffold
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38490 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [5/15] Stepup Scaffold UK
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38510 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [6/15] Top Tier Scaffolding Solutions Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38492 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [7/15] Bespoke Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38504 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] JR Scaffold Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38514 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [9/15] SPM Scaffolding & Access
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38512 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [10/15] Devine Scaffolding Ltd - Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38496 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [11/15] Summit Scaffolding
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38500 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [12/15] AS Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38498 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [13/15] Millar Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38502 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [14/15] Falcon Scaffolding (Scotland) Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Valley View Farm, Dougliehill Road, Port Glasgow PA14 5XF, UK
+    Phone:   01475 743204
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38552
+    URL: https://glasgowtrader.co.uk/listing/falcon-scaffolding-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/15] Starlex Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38518 — attached location 'Clydebank' instead
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   15
+  Created: 1
+  Skipped: 14 (already existed)
+  Failed:  0
+============================================================

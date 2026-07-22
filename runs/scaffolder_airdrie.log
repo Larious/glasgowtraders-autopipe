@@ -1,0 +1,186 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  3372 existing listings on site
+  Ledger: 3368 place_ids
+
+[SEARCH] Finding scaffolders in Airdrie...
+  Found 13 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] Scaffold Services (Scot.) Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Woodhead Rd, Chryston, Glasgow G69 9HZ, UK
+    Phone:   0141 779 2861
+    Website: http://scaffoldservices.scot/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38522
+    URL: https://glasgowtrader.co.uk/listing/scaffold-services-scot-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] Scaffolding Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 100 Burnbank St, Coatbridge ML5 2AY, UK
+    Phone:   01236 436680
+    Website: http://scaffscot.com/
+    Rating:  1 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38524
+    URL: https://glasgowtrader.co.uk/listing/scaffolding-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/13] Top Tier Scaffolding Solutions Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38492 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [4/13] JD Scaffolding Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 629 Coatbridge Rd, Bargeddie, Glasgow G69 7TN, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38526
+    URL: https://glasgowtrader.co.uk/listing/jd-scaffolding-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/13] M8 Scaffold
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38490 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [6/13] Access Solutions Scaffolding Contracts Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15-23 Telford Rd, Cumbernauld, Glasgow G67 2AX, UK
+    Phone:   01236 724137
+    Website: https://www.accessscaffolding.co/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38528
+    URL: https://glasgowtrader.co.uk/listing/access-solutions-scaffolding-contracts-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/13] Access Scaffold Systems Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Duchess Industrial Estate, Sievewright St, Rutherglen, Glasgow G73 1LL, UK
+    Phone:   0141 613 0000
+    Website: https://www.accessscaffoldsystems.co.uk/
+    Rating:  4 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38530
+    URL: https://glasgowtrader.co.uk/listing/access-scaffold-systems-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/13] J Wallace Scaffolding
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Glencryan Rd, Cumbernauld, Glasgow G67 2UH, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38532
+    URL: https://glasgowtrader.co.uk/listing/j-wallace-scaffolding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] R D A Scaffolding Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ashley Dr, Bothwell, Glasgow G71 8BS, UK
+    Phone:   01698 801807
+    Website: http://www.rda-scaffolding.com/
+    Rating:  4.8 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38534
+    URL: https://glasgowtrader.co.uk/listing/r-d-a-scaffolding-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/13] AS Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38498 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [11/13] MNF Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 31 Westerburn St, Glasgow G32 6AT, UK
+    Phone:   0141 374 2696
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38536
+    URL: https://glasgowtrader.co.uk/listing/mnf-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/13] Summit Scaffolding
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38500 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [13/13] Lynn and Son's Scaffolding Access LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38506 — attached location 'Airdrie' instead
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   13
+  Created: 8
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

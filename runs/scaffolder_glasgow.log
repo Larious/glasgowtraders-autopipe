@@ -1,0 +1,280 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  3354 existing listings on site
+  Ledger: 3350 place_ids
+
+[SEARCH] Finding scaffolders in Glasgow...
+  Found 15 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Elite scaffolding scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Napier Rd, Hillington, Glasgow G52 4DR, UK
+    Phone:   07368 954105
+    Website: https://www.elitescaffoldingscotland.com/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38486
+    URL: https://glasgowtrader.co.uk/listing/elite-scaffolding-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] Top Scaffolding
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2/4 Murray St, Paisley PA3 1QG, UK
+    Phone:   0141 237 9850
+    Website: https://topscaffolding.co.uk/
+    Rating:  3.7 (15 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38488
+    URL: https://glasgowtrader.co.uk/listing/top-scaffolding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] M8 Scaffold
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Office 3/7, 54 Gordon St, Glasgow G1 3PU, UK
+    Phone:   0141 648 9272
+    Website: http://www.m8scaffold.co.uk/
+    Rating:  5 (10 reviews)
+    Hours:   3 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38490
+    URL: https://glasgowtrader.co.uk/listing/m8-scaffold/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] Top Tier Scaffolding Solutions Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Tynecastle St, Glasgow G32 0AY, UK
+    Phone:   0808 304 2650
+    Website: https://www.toptierscaffoldingsolutions.co.uk/
+    Rating:  5 (23 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38492
+    URL: https://glasgowtrader.co.uk/listing/top-tier-scaffolding-solutions-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] The Human Touch Scaffolding Co Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 150 Clydeholm Rd, Glasgow G14 0QQ, UK
+    Phone:   01360 622152
+    Website: http://www.thtscaffolding.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38494
+    URL: https://glasgowtrader.co.uk/listing/the-human-touch-scaffolding-co-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] Devine Scaffolding Ltd - Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Morris Buissness Park, Glasgow G5 0YD, UK
+    Phone:   07725 343233
+    Website: https://www.devinescaffolding.co.uk/
+    Rating:  4.8 (14 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38496
+    URL: https://glasgowtrader.co.uk/listing/devine-scaffolding-ltd-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/15] AS Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 130 Glenpark St, Glasgow G31 1NZ, UK
+    Phone:   0141 556 7082
+    Website: https://www.as-scaffolding.co.uk/
+    Rating:  3.6 (34 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38498
+    URL: https://glasgowtrader.co.uk/listing/as-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/15] Summit Scaffolding
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Newton Pl, Glasgow G3 7PY, UK
+    Phone:   0141 730 0029
+    Website: https://summit-scaffolding.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38500
+    URL: https://glasgowtrader.co.uk/listing/summit-scaffolding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] Millar Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Pinkston Rd, Glasgow G4 0DD, UK
+    Phone:   0141 553 1322
+    Website: http://www.millarscaffolding.co.uk/
+    Rating:  4 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38502
+    URL: https://glasgowtrader.co.uk/listing/millar-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/15] Bespoke Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 55 Scott's Rd, Paisley PA2 7AN, UK
+    Phone:   0141 737 4872
+    Website: N/A
+    Rating:  5 (10 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38504
+    URL: https://glasgowtrader.co.uk/listing/bespoke-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/15] Lynn and Son's Scaffolding Access LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 101 Causewayside St, Tollcross, Glasgow G32 6LT, UK
+    Phone:   07771 560716
+    Website: https://www.lynnandsons.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38506
+    URL: https://glasgowtrader.co.uk/listing/lynn-and-sons-scaffolding-access-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] Total Scaffold Access Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 108 Glen Shee Ave, Neilston, Glasgow G78 3QD, UK
+    Phone:   07535 211973
+    Website: https://www.totalscaffoldaccess.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38508
+    URL: https://glasgowtrader.co.uk/listing/total-scaffold-access-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] Stepup Scaffold UK
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 74 Loanbank Quadrant, Glasgow G51 3HZ, UK
+    Phone:   0141 286 0630
+    Website: http://www.stepupscaffold.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38510
+    URL: https://glasgowtrader.co.uk/listing/stepup-scaffold-uk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] SPM Scaffolding & Access
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hillington park, 28 Napier Rd, Hillington, Glasgow G52 4DR, UK
+    Phone:   07521 394333
+    Website: http://spmscaffolding.com/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38512
+    URL: https://glasgowtrader.co.uk/listing/spm-scaffolding-access/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/15] JR Scaffold Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Sandyford Rd, Paisley PA3 4HP, UK
+    Phone:   0141 849 6711
+    Website: N/A
+    Rating:  3.3 (12 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38514
+    URL: https://glasgowtrader.co.uk/listing/jr-scaffold-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   15
+  Created: 15
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

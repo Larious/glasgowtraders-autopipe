@@ -1,0 +1,30 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  3402 existing listings on site
+  Ledger: 3398 place_ids
+
+[SEARCH] Finding scaffolders in Greenock...
+  Found 1 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/1] DMac Scaffolding Solutions Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38556 — attached location 'Greenock' instead
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   1
+  Created: 0
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

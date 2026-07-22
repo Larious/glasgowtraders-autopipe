@@ -1,0 +1,59 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  3402 existing listings on site
+  Ledger: 3398 place_ids
+
+[SEARCH] Finding scaffolders in Falkirk...
+  Found 2 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] Navigate Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Alloa Business Centre, Business Park, Whins Rd, Alloa FK10 3SA, UK
+    Phone:   01259 726416
+    Website: https://www.navigatescaffoldingltd.com/
+    Rating:  5 (37 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38582
+    URL: https://glasgowtrader.co.uk/listing/navigate-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/2] RCR Scaffolding Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 76 Port St, Stirling FK8 2LP, UK
+    Phone:   07557 763431
+    Website: http://rcrscaffoldingsolutions.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38584
+    URL: https://glasgowtrader.co.uk/listing/rcr-scaffolding-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   2
+  Created: 2
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

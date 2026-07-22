@@ -1,0 +1,136 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  3383 existing listings on site
+  Ledger: 3379 place_ids
+
+[SEARCH] Finding scaffolders in Hamilton...
+  Found 15 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Top Tier Scaffolding Solutions Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38492 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/15] M8 Scaffold
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38490 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/15] H & H Scaffolding
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52 Rosslyn Rd, Ashgill, Larkhall ML9 3AT, UK
+    Phone:   01698 882362
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38544
+    URL: https://glasgowtrader.co.uk/listing/h-h-scaffolding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] Lynn and Son's Scaffolding Access LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38506 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [5/15] Scaffolding Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38524 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [6/15] R D A Scaffolding Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38534 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/15] SLK Scaffolding Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3D Langlands Square, East Kilbride, Glasgow G75 0YY, UK
+    Phone:   07779 144878
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38546
+    URL: https://glasgowtrader.co.uk/listing/slk-scaffolding-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/15] Devine Scaffolding Ltd - Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38496 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [9/15] Tubular Scaffolding Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hamilton International Technology Park, 4 Bell Dr, Blantyre, Glasgow G72 0FB, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38548
+    URL: https://glasgowtrader.co.uk/listing/tubular-scaffolding-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/15] Summit Scaffolding
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38500 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [11/15] AS Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38498 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [12/15] Scaffold Services (Scot.) Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38522 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [13/15] The Human Touch Scaffolding Co Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38494 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [14/15] MNF Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38536 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [15/15] Access Scaffold Systems Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38530 — attached location 'Hamilton' instead
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   15
+  Created: 3
+  Skipped: 12 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,47 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  3404 existing listings on site
+  Ledger: 3400 place_ids
+
+[SEARCH] Finding scaffolders in Stirling...
+  Found 2 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] RCR Scaffolding Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38584 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [2/2] RockScaffolding
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Upper Bridge St, Stirling FK8 1ER, UK
+    Phone:   07828 120849
+    Website: https://m.facebook.com/100065089350383/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38586
+    URL: https://glasgowtrader.co.uk/listing/rockscaffolding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   2
+  Created: 1
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

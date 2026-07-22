@@ -1,0 +1,47 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  3386 existing listings on site
+  Ledger: 3382 place_ids
+
+[SEARCH] Finding scaffolders in East Kilbride...
+  Found 2 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] SLK Scaffolding Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38546 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [2/2] Concept Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 James Watt Ave, East Kilbride, Glasgow G75 0QD, UK
+    Phone:   01355 523687
+    Website: https://conceptscaffolding.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38550
+    URL: https://glasgowtrader.co.uk/listing/concept-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   2
+  Created: 1
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

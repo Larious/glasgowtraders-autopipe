@@ -1,0 +1,229 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  3390 existing listings on site
+  Ledger: 3386 place_ids
+
+[SEARCH] Finding scaffolders in Ayr...
+  Found 12 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] TG Scaffolding (Ayr) Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 School Brae, Annbank, Ayr KA6 5EX, UK
+    Phone:   01292 520900
+    Website: https://www.tommygrahamscaffolding.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38558
+    URL: https://glasgowtrader.co.uk/listing/tg-scaffolding-ayr-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/12] Wescott Scaffolding
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Crown St, Ayr KA8 8AG, UK
+    Phone:   01292 610945
+    Website: https://wescottscaffolding.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38560
+    URL: https://glasgowtrader.co.uk/listing/wescott-scaffolding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/12] M J D & Sons(Scaffolding)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 103, Portland Avenue, Irvine KA12 8NL, UK
+    Phone:   01294 275117
+    Website: http://www.mjdandsons.co.uk/
+    Rating:  4.8 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38562
+    URL: https://glasgowtrader.co.uk/listing/m-j-d-sonsscaffolding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/12] G H Scaffolding
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Sornhill Farm, Sornhill, Galston KA4 8NF, UK
+    Phone:   07791 947447
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38564
+    URL: https://glasgowtrader.co.uk/listing/g-h-scaffolding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/12] NRG Access Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Alloway Pl, Ayr KA7 2AA, UK
+    Phone:   07544 350741
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38566
+    URL: https://glasgowtrader.co.uk/listing/nrg-access-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/12] H&M Scaffolding
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Coyle Ave, Drongan, Ayr KA6 7BB, UK
+    Phone:   07791 968483
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38568
+    URL: https://glasgowtrader.co.uk/listing/hm-scaffolding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/12] Upright Scaffolding Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 51 Cairns Terrace, Kilmarnock KA1 2JG, UK
+    Phone:   07481 804782
+    Website: http://www.uprightscaffoldingservices.co.uk/
+    Rating:  4.5 (15 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38570
+    URL: https://glasgowtrader.co.uk/listing/upright-scaffolding-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/12] LPM Scaffolding & Home improvement
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 Frew Terrace, Irvine KA12 9DZ, UK
+    Phone:   07582 372944
+    Website: https://www.facebook.com/LpmScaffoldingServicesltd
+    Rating:  4.8 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38572
+    URL: https://glasgowtrader.co.uk/listing/lpm-scaffolding-home-improvement/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/12] easyToolhire Ayr - Digger Hire, Scaffolding, Scissor Lift, Compressors & Tool Hire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Boundary Rd, Ayr KA8 9DJ, UK
+    Phone:   0333 242 0369
+    Website: https://easytoolhire.com/scotland/?utm_source=GMB_Ayr&utm_medium=organic&utm_campaign=GMB_google
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38574
+    URL: https://glasgowtrader.co.uk/listing/easytoolhire-ayr-digger-hire-scaffolding-scissor-lift-compressors-tool-hire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/12] Access uk scaffolding ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 58 Woodwynd, Kilwinning KA13 7DG, UK
+    Phone:   07739 752683
+    Website: https://accessuk.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38576
+    URL: https://glasgowtrader.co.uk/listing/access-uk-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/12] Northseal Scaffolding
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, 112 London Rd, Kilmarnock KA3 6ND, UK
+    Phone:   N/A
+    Website: http://northsealscaffolding.com/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38578
+    URL: https://glasgowtrader.co.uk/listing/northseal-scaffolding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/12] Dalriada Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Kilmarnock Rd, Crosshouse, Kilmarnock KA2 0EZ, UK
+    Phone:   01563 529871
+    Website: http://dalriada-scaffolding.co.uk/
+    Rating:  2 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38580
+    URL: https://glasgowtrader.co.uk/listing/dalriada-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   12
+  Created: 12
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

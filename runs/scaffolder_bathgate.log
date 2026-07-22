@@ -1,0 +1,229 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  3405 existing listings on site
+  Ledger: 3401 place_ids
+
+[SEARCH] Finding scaffolders in Bathgate...
+  Found 13 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] RK Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 Glencoe, Whitburn, Bathgate EH47 8AR, UK
+    Phone:   07875 020775
+    Website: https://www.rkscaffoldingltd.co.uk/
+    Rating:  1 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38588
+    URL: https://glasgowtrader.co.uk/listing/rk-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] Hard Rock Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 6E, Uphall Business Park, Loaninghill Rd, Broxburn EH52 5NT, UK
+    Phone:   01383 231020
+    Website: http://www.hardrockscaffolding.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38590
+    URL: https://glasgowtrader.co.uk/listing/hard-rock-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/13] Rise Access & Scaffolding Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Forbes Rd, Rosyth, Dunfermline KY11 2AN, UK
+    Phone:   07368 130243
+    Website: https://www.riseaccessscaffoldingsolutions.co.uk/
+    Rating:  5 (22 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38592
+    URL: https://glasgowtrader.co.uk/listing/rise-access-scaffolding-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/13] Network Scaffolding Contractors Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Shairps, Business Park, Houstoun Rd, Livingston EH54 5FD, UK
+    Phone:   01506 371130
+    Website: http://www.networkscaffolding.co.uk/
+    Rating:  2 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38594
+    URL: https://glasgowtrader.co.uk/listing/network-scaffolding-contractors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/13] FORM ACCESS LTD - Scaffolders Edinburgh
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5F, Uphall Estates, Broxburn EH52 5NT, UK
+    Phone:   0131 331 4699
+    Website: https://formaccess.co.uk/
+    Rating:  4 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38595
+    URL: https://glasgowtrader.co.uk/listing/form-access-ltd-scaffolders-edinburgh/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/13] Saltire Scaffolding LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Albyn Industrial Estate 12, Albyn Industrial Estate, 9F Albyn Industrial Estate, Broxburn EH52 6PQ, UK
+    Phone:   07771 434170
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38596
+    URL: https://glasgowtrader.co.uk/listing/saltire-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/13] Navigate Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38582 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [8/13] Bolt 2 Bolt Scaffolding
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Kaimes Cres, Edinburgh, Kirknewton EH27 8AT, UK
+    Phone:   07502 417248
+    Website: https://www.bolt2boltscaffolding.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38597
+    URL: https://glasgowtrader.co.uk/listing/bolt-2-bolt-scaffolding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] JN SCAFFOLDING CONTRACTS LTD. West Lothian (Scotland)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Tippet Knowes Ct, Winchburgh, Broxburn EH52 6UW, UK
+    Phone:   07712 614693
+    Website: N/A
+    Rating:  3.7 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38598
+    URL: https://glasgowtrader.co.uk/listing/jn-scaffolding-contracts-ltd-west-lothian-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/13] AHL Scaffolding Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6, Camps Industrial Estate, Kirknewton EH27 8DF, UK
+    Phone:   01506 883033
+    Website: http://www.ahlscaffolding.co.uk/
+    Rating:  2.3 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38599
+    URL: https://glasgowtrader.co.uk/listing/ahl-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/13] R D A Scaffolding Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38534 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [12/13] P&D Scaffolding Contracts Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Yard 4, Camps Industrial Estate, Kirknewton EH27 8DF, UK
+    Phone:   0131 443 2864
+    Website: http://panddscaffolding.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38600
+    URL: https://glasgowtrader.co.uk/listing/pd-scaffolding-contracts-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] Tubetec Scaffolding ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Camps Yards, Kirknewton EH27 8DN, UK
+    Phone:   01506 374829
+    Website: http://www.tubetecscaffolding.co.uk/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+    tile upload failed: 500
+  Creating listing...
+    Post ID: 38601
+    URL: https://glasgowtrader.co.uk/listing/tubetec-scaffolding-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   13
+  Created: 11
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

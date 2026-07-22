@@ -1,0 +1,72 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  3380 existing listings on site
+  Ledger: 3376 place_ids
+
+[SEARCH] Finding scaffolders in Coatbridge...
+  Found 7 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] Scaffolding Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38524 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/7] JD Scaffolding Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38526 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/7] Top Tier Scaffolding Solutions Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38492 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/7] Scaffold Services (Scot.) Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38522 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [5/7] M8 Scaffold
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38490 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [6/7] R D A Scaffolding Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38534 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [7/7] Scaffolding Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bankhead Farm, Coatbridge ML5 5AA, UK
+    Phone:   07831 510077
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38538
+    URL: https://glasgowtrader.co.uk/listing/scaffolding-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   7
+  Created: 1
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

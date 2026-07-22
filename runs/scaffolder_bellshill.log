@@ -1,0 +1,79 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Scaffolder
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  3381 existing listings on site
+  Ledger: 3377 place_ids
+
+[SEARCH] Finding scaffolders in Bellshill...
+  Found 6 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/6] JV Scaffolding
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Goil Ave, Bellshill ML4 3LQ, UK
+    Phone:   01698 351761
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38540
+    URL: https://glasgowtrader.co.uk/listing/jv-scaffolding/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/6] Top Tier Scaffolding Solutions Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38492 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [3/6] Scaffold Services (Scot.) Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38522 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [4/6] JD Scaffolding Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38526 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [5/6] R D A Scaffolding Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 38534 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [6/6] Invov8 Scaffold & Access Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Fyne Ave, Bellshill ML4 3LJ, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38542
+    URL: https://glasgowtrader.co.uk/listing/invov8-scaffold-access-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   6
+  Created: 2
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================
