@@ -1,0 +1,57 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  2285 existing listings on site
+  Ledger: 2268 place_ids
+
+[SEARCH] Finding bathroom fitters in Dumbarton...
+  Found 4 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] John Dobbin Kitchens, Bathrooms and Bedrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36178 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [2/4] Bathroom Fitters
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Knoxland Square, Dumbarton G82 1HR, UK
+    Phone:   07782 345622
+    Website: https://plumberglasgow247.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36322
+    URL: https://glasgowtrader.co.uk/listing/bathroom-fitters/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/4] The Bathroom & Shower Centre
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36260 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [4/4] Bathroom Fitters
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   4
+  Created: 1
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

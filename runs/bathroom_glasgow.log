@@ -1,0 +1,256 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  2248 existing listings on site
+  Ledger: 2231 place_ids
+
+[SEARCH] Finding bathroom fitters in Glasgow...
+  Found 15 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] The Bathroom Company Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hillington Industrial Estate, 1 Erskine Square, Hillington, Glasgow G52 4BJ, UK
+    Phone:   0141 810 3832
+    Website: https://www.thebathroomcompanyglasgow.com/
+    Rating:  4.6 (152 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36248
+    URL: https://glasgowtrader.co.uk/listing/the-bathroom-company-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] FORAZZI BATHROOMS
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Newton Pl, Glasgow G3 7PR, UK
+    Phone:   0141 673 5737
+    Website: http://forazzi.co.uk/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=7699606921408816471
+    Rating:  4.9 (49 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36250
+    URL: https://glasgowtrader.co.uk/listing/forazzi-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] CMS Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2, 32 Cogan St, Barrhead, Glasgow G78 1EJ, UK
+    Phone:   0141 387 7588
+    Website: http://www.cms-bathrooms.co.uk/
+    Rating:  5 (81 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36252
+    URL: https://glasgowtrader.co.uk/listing/cms-bathrooms-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] Custom Bathrooms Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Office 1, 9 Newton Pl, Glasgow G3 7PR, UK
+    Phone:   0141 673 8808
+    Website: https://www.custom-bathrooms.com/
+    Rating:  5 (31 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36254
+    URL: https://glasgowtrader.co.uk/listing/custom-bathrooms-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] FPS Bathrooms Glasgow | Remodels, Fitters, Renovators, Contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Buchanan Dr, Rutherglen, Glasgow G73 3PE, UK
+    Phone:   07588 627628
+    Website: https://fpsbathrooms.com/our-reviews/
+    Rating:  5 (30 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36256
+    URL: https://glasgowtrader.co.uk/listing/fps-bathrooms-glasgow-remodels-fitters-renovators-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] Lomond Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 284 High St, Glasgow G4 0QT, UK
+    Phone:   0141 378 8147
+    Website: https://lomondbathrooms.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36258
+    URL: https://glasgowtrader.co.uk/listing/lomond-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/15] PJTC Bathroom & Kitchen Fitters
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36066 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] The Bathroom & Shower Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 594 Dumbarton Rd, Glasgow G11 6RH, UK
+    Phone:   0141 579 5791
+    Website: http://www.thebathroomandshowercentre.co.uk/
+    Rating:  5 (60 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36260
+    URL: https://glasgowtrader.co.uk/listing/the-bathroom-shower-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] Glasgow Kitchen & Bathroom Centre
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36068 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [10/15] Wilson Bathroom Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 192 Fenwick Rd, Giffnock, Glasgow G46 6UE, UK
+    Phone:   0141 620 0090
+    Website: http://www.wilsonbathroomcompany.co.uk/
+    Rating:  5 (21 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36262
+    URL: https://glasgowtrader.co.uk/listing/wilson-bathroom-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/15] Hps Bathrooms & Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 258 Clarkston Rd, Muirend, Glasgow G44 3EA, UK
+    Phone:   0141 637 8389
+    Website: https://hpsbathroomsandkitchens.co.uk/
+    Rating:  4.9 (52 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36264
+    URL: https://glasgowtrader.co.uk/listing/hps-bathrooms-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] Bathrooms Continental
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 411 Hillington Rd, Hillington, Glasgow G52 4BL, UK
+    Phone:   0141 892 2601
+    Website: http://www.bathroomscontinental.co.uk/
+    Rating:  4.4 (183 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36266
+    URL: https://glasgowtrader.co.uk/listing/bathrooms-continental/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] The Tile and Bathroom Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 26 Napier Rd, Hillington, Glasgow G52 4DR, UK
+    Phone:   0141 465 5455
+    Website: https://www.thetileandbathroomcompany.co.uk/
+    Rating:  4.9 (47 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36268
+    URL: https://glasgowtrader.co.uk/listing/the-tile-and-bathroom-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] Bespoke Bathrooms Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Glenbank Dr, Thornliebank, Glasgow G46 7EJ, UK
+    Phone:   07562 654226
+    Website: http://www.bespokebathroomsglasgow.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36270
+    URL: https://glasgowtrader.co.uk/listing/bespoke-bathrooms-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/15] Scope Bathroom Interiors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 44 Colquhoun Ave, Hillington, Glasgow G52 4BN, UK
+    Phone:   0141 882 8282
+    Website: http://www.scope-bathrooms.co.uk/
+    Rating:  4.9 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36272
+    URL: https://glasgowtrader.co.uk/listing/scope-bathroom-interiors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   15
+  Created: 13
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

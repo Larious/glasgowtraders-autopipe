@@ -1,0 +1,99 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  2273 existing listings on site
+  Ledger: 2256 place_ids
+
+[SEARCH] Finding bathroom fitters in Bellshill...
+  Found 10 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] Bathrooms & Kitchens Direct
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36128 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [2/10] CR Tiling & Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36296 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [3/10] Superior Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Wilson St, Hamilton ML3 0NH, UK
+    Phone:   01698 428868
+    Website: https://www.superiorbathroomslimited.co.uk/
+    Rating:  4.8 (26 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36298
+    URL: https://glasgowtrader.co.uk/listing/superior-bathrooms-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/10] Boutique Bathrooms & Kitchens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36124 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [5/10] Hamilton Bathroom & Kitchen Centre
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36130 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [6/10] Complete Bathrooms Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36284 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [7/10] Bathroom People
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36292 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [8/10] Bathroom World Hamilton
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30c Bertram St, Burnbank Rd, Hamilton ML3 0QS, UK
+    Phone:   01698 821238
+    Website: https://bathroom-world.co.uk/
+    Rating:  4.5 (79 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36300
+    URL: https://glasgowtrader.co.uk/listing/bathroom-world-hamilton/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/10] KB Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36286 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [10/10] The shower surgeon
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29463 — attached location 'Bellshill' instead
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   10
+  Created: 2
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

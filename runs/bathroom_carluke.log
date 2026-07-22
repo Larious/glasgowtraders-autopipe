@@ -1,0 +1,35 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  2320 existing listings on site
+  Ledger: 2303 place_ids
+
+[SEARCH] Finding bathroom fitters in Carluke...
+  Found 2 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] Kings Kitchens Bathrooms Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28554 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [2/2] Clyde Valley Kitchens & Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36244 — attached location 'Carluke' instead
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   2
+  Created: 0
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

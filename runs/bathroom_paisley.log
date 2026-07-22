@@ -1,0 +1,94 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  2261 existing listings on site
+  Ledger: 2244 place_ids
+
+[SEARCH] Finding bathroom fitters in Paisley...
+  Found 9 candidates (11 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] Mr Bathroom
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29500 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [2/9] THE SHOWER EXPERT
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Middleton Rd, Linwood, Paisley PA3 3DP, UK
+    Phone:   07804 196667
+    Website: http://www.theshowerexpert.co.uk/
+    Rating:  4.8 (22 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36274
+    URL: https://glasgowtrader.co.uk/listing/the-shower-expert/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/9] Instyle Kitchens & Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36092 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [4/9] CMS Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36252 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [5/9] The Bathroom Company Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36248 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [6/9] PJTC Bathroom & Kitchen Fitters
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36066 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [7/9] A.H.Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 246 Paisley Rd, Renfrew PA4 8AA, UK
+    Phone:   0141 328 0831
+    Website: N/A
+    Rating:  4.9 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36276
+    URL: https://glasgowtrader.co.uk/listing/a-h-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/9] Splash Kitchen and Bathroom
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36096 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [9/9] Glasgow Kitchen & Bathroom Centre
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36068 — attached location 'Paisley' instead
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   9
+  Created: 2
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

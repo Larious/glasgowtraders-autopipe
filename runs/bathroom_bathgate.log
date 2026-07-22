@@ -1,0 +1,171 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  2312 existing listings on site
+  Ledger: 2295 place_ids
+
+[SEARCH] Finding bathroom fitters in Bathgate...
+  Found 10 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] Mammoth Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1 Block 8, Whiteside Industrial Estate, Bathgate EH48 2RX, UK
+    Phone:   01506 901088
+    Website: http://www.mammothbathrooms.co.uk/
+    Rating:  4.9 (88 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36376
+    URL: https://glasgowtrader.co.uk/listing/mammoth-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/10] Bathroom Studio
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Hopetoun St, Bathgate EH48 4EU, UK
+    Phone:   01506 632913
+    Website: http://www.bathgatebathrooms.com/
+    Rating:  4.3 (30 reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36378
+    URL: https://glasgowtrader.co.uk/listing/bathroom-studio/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/10] Ishca Kitchens & Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36238 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [4/10] BM Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 44 Jardine Pl, Bathgate EH48 4GU, UK
+    Phone:   01506 638266
+    Website: N/A
+    Rating:  3.1 (9 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36380
+    URL: https://glasgowtrader.co.uk/listing/bm-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/10] Optimum Kitchens, Bedrooms and Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36240 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [6/10] Caledonian Boilers & Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37 Kirk Rd, Bathgate EH48 1BW, UK
+    Phone:   01506 901247
+    Website: https://calegas.co.uk/
+    Rating:  5 (12 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36382
+    URL: https://glasgowtrader.co.uk/listing/caledonian-boilers-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/10] Signature Bathrooms Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10/ 4 Clifton View, Broxburn EH52 5NE, UK
+    Phone:   01506 239100
+    Website: https://www.signaturescotland.co.uk/
+    Rating:  5 (10 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36384
+    URL: https://glasgowtrader.co.uk/listing/signature-bathrooms-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/10] Shower Boards Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, Block 12, Unit 3, Block 12, Whiteside Industrial Estate, Bathgate EH48 2RX, UK
+    Phone:   01506 655222
+    Website: http://www.showerboards.co.uk/
+    Rating:  4.7 (23 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36386
+    URL: https://glasgowtrader.co.uk/listing/shower-boards-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/10] Local Kitchens and Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8, Fairways Business Park, Livingston EH54 8GA, UK
+    Phone:   01506 379877
+    Website: https://localkitchensandbathrooms.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36388
+    URL: https://glasgowtrader.co.uk/listing/local-kitchens-and-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/10] Neptune Bathrooms & Kitchens Installations
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Strathavon Ter, Westfield, Bathgate EH48 3BZ, UK
+    Phone:   07921 004556
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36390
+    URL: https://glasgowtrader.co.uk/listing/neptune-bathrooms-kitchens-installations/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   10
+  Created: 8
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

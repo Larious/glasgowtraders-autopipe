@@ -1,0 +1,109 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  2275 existing listings on site
+  Ledger: 2258 place_ids
+
+[SEARCH] Finding bathroom fitters in Hamilton...
+  Found 12 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] Hamilton Bathroom & Kitchen Centre
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36130 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/12] Superior Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36298 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/12] Bathroom People
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36292 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [4/12] Bathroom World Hamilton
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36300 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [5/12] Complete Bathrooms Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36284 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [6/12] DRS Bathrooms & Plumbing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 29414 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/12] FORAZZI BATHROOMS
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36250 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [8/12] JJK Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Greenhall Pl, Blantyre, Glasgow G72 9TA, UK
+    Phone:   07557 874833
+    Website: https://www.jjkbathrooms.com/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36302
+    URL: https://glasgowtrader.co.uk/listing/jjk-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/12] CR Tiling & Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36296 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [10/12] CMS Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36252 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [11/12] D King Kitchen and Bathroom Fitting
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36144 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [12/12] Clydesdale Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Hall Pl, Lanark ML11 7BB, UK
+    Phone:   01555 665706
+    Website: https://www.clydesdalebathrooms.co.uk/
+    Rating:  4.6 (17 reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36304
+    URL: https://glasgowtrader.co.uk/listing/clydesdale-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   12
+  Created: 2
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

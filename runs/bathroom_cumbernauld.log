@@ -1,0 +1,116 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  2282 existing listings on site
+  Ledger: 2265 place_ids
+
+[SEARCH] Finding bathroom fitters in Cumbernauld...
+  Found 11 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] A1 Bathrooms and Kitchens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36166 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [2/11] Kraken Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 203 Whitelees Rd, Abronhill, Cumbernauld, Glasgow G67 3DL, UK
+    Phone:   07581 439886
+    Website: N/A
+    Rating:  5 (18 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36316
+    URL: https://glasgowtrader.co.uk/listing/kraken-bathrooms-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/11] Elite Bathroom Installers Cumbernauld
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36294 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [4/11] Cumbernauld Bathroom Kitchen & Tile Centre Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36174 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [5/11] Arona Kitchens Bedrooms Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36168 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [6/11] RCH Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Hopepark Dr, Cumbernauld, Glasgow G68 9FG, UK
+    Phone:   07761 203916
+    Website: https://www.rhchomeimprovements.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36318
+    URL: https://glasgowtrader.co.uk/listing/rch-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/11] RMCA Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 343-345 Cumbernauld Rd, Glasgow G31 3LP, UK
+    Phone:   07423 769328
+    Website: http://www.rmcabathrooms.uk/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=15094758250407295195
+    Rating:  4.7 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36320
+    URL: https://glasgowtrader.co.uk/listing/rmca-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/11] Monaco Kitchen & Bathroom LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36176 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [9/11] FORAZZI BATHROOMS
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36250 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [10/11] PJTC Bathroom & Kitchen Fitters
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36066 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [11/11] CMS Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36252 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   11
+  Created: 3
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,108 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  2277 existing listings on site
+  Ledger: 2260 place_ids
+
+[SEARCH] Finding bathroom fitters in East Kilbride...
+  Found 7 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] Pristine Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Tennant Ave, East Kilbride, Glasgow G74 5NA, UK
+    Phone:   01355 678181
+    Website: https://www.pristinebathrooms.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36306
+    URL: https://glasgowtrader.co.uk/listing/pristine-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/7] D King Kitchen and Bathroom Fitting
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36144 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [3/7] Tartan Bathrooms East Kilbride
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Albion Way, East Kilbride, Glasgow G75 0YN, UK
+    Phone:   07388 017946
+    Website: N/A
+    Rating:  4.4 (31 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36308
+    URL: https://glasgowtrader.co.uk/listing/tartan-bathrooms-east-kilbride/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/7] Bathrooms On Budget
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 74 Maple Terrace, East Kilbride, Glasgow G75 9EG, UK
+    Phone:   01355 232340
+    Website: N/A
+    Rating:  4.3 (26 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36310
+    URL: https://glasgowtrader.co.uk/listing/bathrooms-on-budget/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/7] Thistle Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Howard Ct, Nerston, East Kilbride, Glasgow G74 4QZ, UK
+    Phone:   01355 243728
+    Website: N/A
+    Rating:  4.1 (24 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36312
+    URL: https://glasgowtrader.co.uk/listing/thistle-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/7] CMS Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36252 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [7/7] Superior Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36298 — attached location 'East Kilbride' instead
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   7
+  Created: 4
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,82 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  2281 existing listings on site
+  Ledger: 2264 place_ids
+
+[SEARCH] Finding bathroom fitters in Clydebank...
+  Found 9 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] CBS Bathrooms & Kitchens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36156 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [2/9] Creative Bathrooms and Kitchens Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36152 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [3/9] PJTC Bathroom & Kitchen Fitters
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36066 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [4/9] Upgrade Boilers and Bathrooms ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27989 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [5/9] The Bathroom Company Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36248 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [6/9] Kitchens Bathrooms Doors & Floors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36160 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [7/9] CMS Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36252 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [8/9] Bathroom Solutions By MPH Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Rossland Pl, Station Rd, Bishopton PA7 5AJ, UK
+    Phone:   01505 862727
+    Website: http://bathsol.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36314
+    URL: https://glasgowtrader.co.uk/listing/bathroom-solutions-by-mph-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/9] Diamond Kitchens & Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36162 — attached location 'Clydebank' instead
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   9
+  Created: 1
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

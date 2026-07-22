@@ -1,0 +1,220 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  2288 existing listings on site
+  Ledger: 2271 place_ids
+
+[SEARCH] Finding bathroom fitters in Ayr...
+  Found 15 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Mackie Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36324 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [2/15] Inspired vision bathrooms & wetrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36326 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [3/15] Carrick Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33 New Rd, Ayr KA8 8DA, UK
+    Phone:   01292 286993
+    Website: http://www.carrickbathrooms.co.uk/
+    Rating:  4.6 (15 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36328
+    URL: https://glasgowtrader.co.uk/listing/carrick-bathrooms-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] Barrmuir Kitchen and Bathroom Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36184 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [5/15] Perfect Bathroom & Tiling Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Church St, Troon KA10 6AU, UK
+    Phone:   07531 596948
+    Website: http://perfectbathroomandtiling.co.uk/
+    Rating:  5 (25 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36330
+    URL: https://glasgowtrader.co.uk/listing/perfect-bathroom-tiling-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] John Blair Plumbing and Bathrooms - Plumber Ayr
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28123 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [7/15] JWT Kitchens & Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36186 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] Gibson & Goold Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Old Farm Rd, Ayr KA8 9ST, UK
+    Phone:   01292 268478
+    Website: https://www.gibsonandgoold.co.uk/bathrooms.html
+    Rating:  4.6 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36332
+    URL: https://glasgowtrader.co.uk/listing/gibson-goold-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] Aqua Bathrooms (Ayrshire) Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11, Station Industrial Estate, Station Rd, Mauchline KA5 5EU, UK
+    Phone:   07725 029304
+    Website: https://www.aquabathroomsayrshire.co.uk/
+    Rating:  4.6 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36334
+    URL: https://glasgowtrader.co.uk/listing/aqua-bathrooms-ayrshire-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/15] Annick Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Whittle Pl, Irvine KA11 4HR, UK
+    Phone:   01294 683375
+    Website: https://www.annick-bathrooms.co.uk/
+    Rating:  4.7 (198 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36336
+    URL: https://glasgowtrader.co.uk/listing/annick-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/15] Wet Wall Bathroom Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Wet Wall Bathroom Design, 63 Dunlop Terrace, Ayr KA8 0SW, UK
+    Phone:   07951 113190
+    Website: https://www.wetwallbathroomdesign.co/
+    Rating:  5 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36338
+    URL: https://glasgowtrader.co.uk/listing/wet-wall-bathroom-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] ID Bathrooms LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Mauchline Rd, Hurlford, Kilmarnock KA1 5BZ, UK
+    Phone:   01563 340343
+    Website: https://www.idbathroomsltd.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36340
+    URL: https://glasgowtrader.co.uk/listing/id-bathrooms-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] Bathrooms Plus Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glencairn Ind Est, Unit 1 Glenfield Pl, Riccarton, Kilmarnock KA1 4AZ, UK
+    Phone:   01563 591444
+    Website: https://www.bathroomsplusltd.co.uk/
+    Rating:  5 (35 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36342
+    URL: https://glasgowtrader.co.uk/listing/bathrooms-plus-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] Freeline Design - Bathrooms & Kitchens Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, 7 Kyle Rd, Irvine KA12 8JF, UK
+    Phone:   01294 277557
+    Website: https://www.freelinedesign.co.uk/
+    Rating:  4.5 (24 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36344
+    URL: https://glasgowtrader.co.uk/listing/freeline-design-bathrooms-kitchens-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/15] Inspired vision bathrooms & wetrooms LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Gallowgate St, Largs KA30 8LX, UK
+    Phone:   07493 839495
+    Website: https://inspired-vision.co.uk/
+    Rating:  5 (22 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36346
+    URL: https://glasgowtrader.co.uk/listing/inspired-vision-bathrooms-wetrooms-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   15
+  Created: 10
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

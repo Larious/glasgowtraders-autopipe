@@ -1,0 +1,69 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  2298 existing listings on site
+  Ledger: 2281 place_ids
+
+[SEARCH] Finding bathroom fitters in Greenock...
+  Found 4 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] Bathroom Elegance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lynedoch Industrial Estate, 30 Dellingburn St, Greenock PA15 4AX, UK
+    Phone:   01475 791964
+    Website: http://www.bathroom-elegance.co.uk/
+    Rating:  4.4 (19 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36348
+    URL: https://glasgowtrader.co.uk/listing/bathroom-elegance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/4] Affordable Luxuries | Inverclyde's Kitchen & Bathroom Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36198 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [3/4] Inspired vision bathrooms & wetrooms LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36346 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [4/4] craig mcfarlane bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Bentinck St, Greenock PA16 7RP, UK
+    Phone:   07833 292828
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36350
+    URL: https://glasgowtrader.co.uk/listing/craig-mcfarlane-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   4
+  Created: 2
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

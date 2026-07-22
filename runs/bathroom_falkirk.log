@@ -1,0 +1,176 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  2300 existing listings on site
+  Ledger: 2283 place_ids
+
+[SEARCH] Finding bathroom fitters in Falkirk...
+  Found 11 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] Love My Home Bathroom Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Dalderse Ave, Falkirk FK2 7EF, UK
+    Phone:   01324 332024
+    Website: https://lovemyhome.uk/
+    Rating:  4.8 (193 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36352
+    URL: https://glasgowtrader.co.uk/listing/love-my-home-bathroom-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/11] J & J Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 MacFarlane Cres, Falkirk FK1 1LQ, UK
+    Phone:   01324 624811
+    Website: http://www.jjbathrooms.co.uk/
+    Rating:  4.3 (32 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36354
+    URL: https://glasgowtrader.co.uk/listing/j-j-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/11] Bathroom Supercentre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Castings Rd, Falkirk FK2 9HQ, UK
+    Phone:   01324 619891
+    Website: https://bathroomsupercentre.co.uk/
+    Rating:  4.8 (96 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36356
+    URL: https://glasgowtrader.co.uk/listing/bathroom-supercentre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/11] Bathroom Transformers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Carronshore, Falkirk FK2 8EY, UK
+    Phone:   07961 440686
+    Website: https://bathroomtransformers.com/
+    Rating:  5 (10 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36358
+    URL: https://glasgowtrader.co.uk/listing/bathroom-transformers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/11] Amigo Handyman Services | Kitchen and Bathroom Installer in Falkirk and Stirling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36208 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [6/11] Wet Wall Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 99 Grahams Rd, Falkirk FK2 7DD, UK
+    Phone:   07789 805909
+    Website: https://www.wetwallbathrooms.co.uk/home
+    Rating:  4.2 (24 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36360
+    URL: https://glasgowtrader.co.uk/listing/wet-wall-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/11] McLuckie Bathrooms, plumbing & heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28995 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [8/11] Homeworld Kitchens & Bathrooms Falkirk
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36206 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [9/11] Carron Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: North Carron Works, Stenhouse Rd, Carron, Falkirk FK2 8UW, UK
+    Phone:   01324 638407
+    Website: http://www.carronbathrooms.com/
+    Rating:  4.4 (19 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36362
+    URL: https://glasgowtrader.co.uk/listing/carron-bathrooms-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/11] Bathroom Centre Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 9, Cameron Court, Off Whitehouse Rd, Stirling FK7 7SP, UK
+    Phone:   01786 357672
+    Website: http://bathroomcentrestirling.co.uk/
+    Rating:  4.9 (267 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36364
+    URL: https://glasgowtrader.co.uk/listing/bathroom-centre-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/11] Bonnie Bathrooms Company Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit S, Middlefield Industrial Estate, Falkirk FK2 9EG, UK
+    Phone:   0808 303 0835
+    Website: https://bonniebathroomsltd.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36366
+    URL: https://glasgowtrader.co.uk/listing/bonnie-bathrooms-company-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   11
+  Created: 8
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

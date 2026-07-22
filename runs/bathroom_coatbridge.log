@@ -1,0 +1,150 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Bathroom Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  2268 existing listings on site
+  Ledger: 2251 place_ids
+
+[SEARCH] Finding bathroom fitters in Coatbridge...
+  Found 13 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] Boutique Bathrooms & Kitchens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36124 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/13] Clearwater Kitchens & Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36114 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/13] KB Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36286 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/13] A2Z Bathroom & Wetwall
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36278 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [5/13] Godevelopment - bathroom fitters
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Woodside St, Coatbridge ML5 5NR, UK
+    Phone:   07896 666809
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36288
+    URL: https://glasgowtrader.co.uk/listing/godevelopment-bathroom-fitters/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/13] Heating Bathroom & Tile Co Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28199 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [7/13] Andy Bathroom Home Improvement LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Dundyvan Way, Coatbridge ML5 4AQ, UK
+    Phone:   01236 605817
+    Website: http://bathroomfittersglasgowhq.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36290
+    URL: https://glasgowtrader.co.uk/listing/andy-bathroom-home-improvement-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/13] Creative tiler & bathroom refit services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36280 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [9/13] Bathroom People
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Allanshaw Industrial Estate Wellhall Rd, Wellhall Rd, Hamilton ML3 9BG, UK
+    Phone:   01698 284168
+    Website: http://www.bathroompeople.co.uk/
+    Rating:  4.7 (147 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36292
+    URL: https://glasgowtrader.co.uk/listing/bathroom-people/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/13] Elite Bathroom Installers Cumbernauld
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Cumbernauld Rd, Westfield, Cumbernauld, Glasgow G68 9DR, UK
+    Phone:   07737 787723
+    Website: https://elitephbs.co.uk/
+    Rating:  4.5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36294
+    URL: https://glasgowtrader.co.uk/listing/elite-bathroom-installers-cumbernauld/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/13] Clyde Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36282 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [12/13] Hamilton Bathroom & Kitchen Centre
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36130 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [13/13] CR Tiling & Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Scott Pl, Bellshill ML4 1LL, UK
+    Phone:   07494 905759
+    Website: https://crtilingandbathrooms.co.uk/
+    Rating:  5 (36 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36296
+    URL: https://glasgowtrader.co.uk/listing/cr-tiling-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   13
+  Created: 5
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================
