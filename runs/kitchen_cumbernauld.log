@@ -1,0 +1,149 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  2207 existing listings on site
+  Ledger: 2189 place_ids
+
+[SEARCH] Finding kitchen fitters in Cumbernauld...
+  Found 8 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/8] Elm Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Masonfield Ave, Cumbernauld, Glasgow G68 9DW, UK
+    Phone:   01236 732226
+    Website: https://www.elmjoiners.co.uk/
+    Rating:  4.9 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36164
+    URL: https://glasgowtrader.co.uk/listing/elm-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/8] A1 Bathrooms and Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 97 Hopepark Dr, Smithstone, Cumbernauld, Glasgow G68 9FG, UK
+    Phone:   07500 832673
+    Website: N/A
+    Rating:  5 (29 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36166
+    URL: https://glasgowtrader.co.uk/listing/a1-bathrooms-and-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/8] Kitchen Fitters Cumbernauld (New Fitted Kitchens)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36120 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [4/8] Arona Kitchens Bedrooms Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 Lenziemill Rd, Cumbernauld, Glasgow G67 2UE, UK
+    Phone:   01236 736041
+    Website: https://arona-design.co.uk/
+    Rating:  4 (34 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36168
+    URL: https://glasgowtrader.co.uk/listing/arona-kitchens-bedrooms-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/8] B-Spoke Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11-13 Deerdykes View, Westfield, Cumbernauld, Glasgow G68 9HN, UK
+    Phone:   01236 282016
+    Website: https://www.b-spokek.co.uk/
+    Rating:  4.6 (45 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36170
+    URL: https://glasgowtrader.co.uk/listing/b-spoke-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/8] Eyeline Kitchens & Bedrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1-2, 8 Garrell Rd, Kilsyth, Glasgow G65 9JX, UK
+    Phone:   01236 822251
+    Website: N/A
+    Rating:  4.9 (48 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36172
+    URL: https://glasgowtrader.co.uk/listing/eyeline-kitchens-bedrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/8] Cumbernauld Bathroom Kitchen & Tile Centre Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 80-82 Telford Rd, Cumbernauld, Glasgow G67 2NJ, UK
+    Phone:   01236 458678
+    Website: https://www.cumbernauldbathroom.co.uk/
+    Rating:  4.4 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36174
+    URL: https://glasgowtrader.co.uk/listing/cumbernauld-bathroom-kitchen-tile-centre-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/8] Monaco Kitchen & Bathroom LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 131 Oak Rd, Cumbernauld, Glasgow G67 3LE, UK
+    Phone:   07493 434041
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36176
+    URL: https://glasgowtrader.co.uk/listing/monaco-kitchen-bathroom-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   8
+  Created: 7
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

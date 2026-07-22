@@ -1,0 +1,84 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  2187 existing listings on site
+  Ledger: 2169 place_ids
+
+[SEARCH] Finding kitchen fitters in Coatbridge...
+  Found 7 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] Studio 18 Kitchens & Interiors Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36112 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/7] Clearwater Kitchens & Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36114 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/7] Boutique Bathrooms & Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Mackinnon Mills, Coatbridge ML5 4SL, UK
+    Phone:   N/A
+    Website: http://boutiquebathrooms.co.uk/
+    Rating:  5 (23 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36124
+    URL: https://glasgowtrader.co.uk/listing/boutique-bathrooms-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/7] Kitchens Direct
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36122 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [5/7] Kitchen WrapCo.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36118 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [6/7] Kitchen Fitters In Glasgow - Watson's Construction
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36116 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [7/7] Magnet Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 247 Main St, Coatbridge ML5 3HH, UK
+    Phone:   01236 436965
+    Website: https://www.magnet.co.uk/kitchen-showrooms-coatbridge/?utm_source=ExtNetwork&utm_medium=local
+    Rating:  4.3 (27 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36126
+    URL: https://glasgowtrader.co.uk/listing/magnet-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   7
+  Created: 2
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

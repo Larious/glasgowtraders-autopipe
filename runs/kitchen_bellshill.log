@@ -1,0 +1,140 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  2189 existing listings on site
+  Ledger: 2171 place_ids
+
+[SEARCH] Finding kitchen fitters in Bellshill...
+  Found 11 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] Bathrooms & Kitchens Direct
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 91C North Rd, Bellshill ML4 1QZ, UK
+    Phone:   01698 845733
+    Website: https://www.bathroomsdirectlanarkshire.co.uk/
+    Rating:  3.7 (26 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36128
+    URL: https://glasgowtrader.co.uk/listing/bathrooms-kitchens-direct/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/11] Hamilton Bathroom & Kitchen Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Bothwell Rd, Hamilton ML3 0AS, UK
+    Phone:   01698 281900
+    Website: http://hamiltonbathroomsandkitchens.co.uk/
+    Rating:  4.9 (297 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36130
+    URL: https://glasgowtrader.co.uk/listing/hamilton-bathroom-kitchen-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/11] Kitchens Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hornal Rd, Uddingston, Glasgow G71 7EE, UK
+    Phone:   01698 793084
+    Website: http://www.kitchensglasgow.com/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36132
+    URL: https://glasgowtrader.co.uk/listing/kitchens-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/11] Studio 18 Kitchens & Interiors Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36112 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [5/11] Mulberry Kitchen Design
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Kirktonholme Rd, East Kilbride, Glasgow G74 1AT, UK
+    Phone:   01355 587281
+    Website: http://www.mulberrykitchendesign.co.uk/
+    Rating:  5 (12 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36134
+    URL: https://glasgowtrader.co.uk/listing/mulberry-kitchen-design/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/11] Clearwater Kitchens & Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36114 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [7/11] Llucias Kitchens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36110 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [8/11] Palazzo Kitchens & Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 151-153 Main St, Uddingston, Glasgow G71 7EN, UK
+    Phone:   01698 300800
+    Website: http://www.palazzo.co.uk/
+    Rating:  4.9 (20 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36136
+    URL: https://glasgowtrader.co.uk/listing/palazzo-kitchens-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/11] Clyde Kitchens
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36106 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [10/11] Kitchen Fitters In Glasgow - Watson's Construction
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36116 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [11/11] Wren Kitchens
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   11
+  Created: 5
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

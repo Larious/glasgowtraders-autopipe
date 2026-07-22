@@ -1,0 +1,178 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  2178 existing listings on site
+  Ledger: 2160 place_ids
+
+[SEARCH] Finding kitchen fitters in Airdrie...
+  Found 9 candidates (11 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] Clyde Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1, Chapelhall Industrial Estate, Hogg Rd, Chapelhall, Airdrie ML6 8QH, UK
+    Phone:   0141 538 2000
+    Website: https://www.clydekitchens.co.uk/
+    Rating:  3.8 (84 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36106
+    URL: https://glasgowtrader.co.uk/listing/clyde-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/9] SG Kitchens Bedrooms & Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Glen Avon Dr, Chapelhall, Airdrie ML6 8QG, UK
+    Phone:   07799 066730
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36108
+    URL: https://glasgowtrader.co.uk/listing/sg-kitchens-bedrooms-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/9] Llucias Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 142 Honeywell Cres, Chapelhall, Airdrie ML6 8XW, UK
+    Phone:   07715 554745
+    Website: N/A
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36110
+    URL: https://glasgowtrader.co.uk/listing/llucias-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/9] Studio 18 Kitchens & Interiors Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 18 Coatbridge Business Centre 204 Main Street (Main, entrance: Private car park to rear, Coatbridge ML5 3RB, UK
+    Phone:   01236 918100
+    Website: https://www.studio18.info/
+    Rating:  5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36112
+    URL: https://glasgowtrader.co.uk/listing/studio-18-kitchens-interiors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/9] Clearwater Kitchens & Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4b S Caldeen Rd, Coatbridge ML5 4EG, UK
+    Phone:   01236 433777
+    Website: http://www.clearwaterkb.com/
+    Rating:  3.9 (267 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36114
+    URL: https://glasgowtrader.co.uk/listing/clearwater-kitchens-bathrooms-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/9] Kitchen Fitters In Glasgow - Watson's Construction
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Muirdyke Rd, Coatbridge ML5 2HQ, UK
+    Phone:   07909 334184
+    Website: N/A
+    Rating:  1 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36116
+    URL: https://glasgowtrader.co.uk/listing/kitchen-fitters-in-glasgow-watsons-construction/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/9] Kitchen WrapCo.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit D, Dundyvan Enterprise Park, Dundyvan Way, Coatbridge ML5 4FR, UK
+    Phone:   01236 338074
+    Website: http://www.kitchenwrapco.com/
+    Rating:  4.8 (85 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36118
+    URL: https://glasgowtrader.co.uk/listing/kitchen-wrapco/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/9] Kitchen Fitters Cumbernauld (New Fitted Kitchens)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hillcrest Ave, Cumbernauld, Glasgow G67 1ET, UK
+    Phone:   0330 460 9924
+    Website: N/A
+    Rating:  1 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36120
+    URL: https://glasgowtrader.co.uk/listing/kitchen-fitters-cumbernauld-new-fitted-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/9] Kitchens Direct
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 240 Whifflet St, Coatbridge ML5 4RX, UK
+    Phone:   0141 432 0002
+    Website: http://www.kit-direct.com/
+    Rating:  3.5 (79 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36122
+    URL: https://glasgowtrader.co.uk/listing/kitchens-direct/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   9
+  Created: 9
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,234 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  2231 existing listings on site
+  Ledger: 2214 place_ids
+
+[SEARCH] Finding kitchen fitters in Stirling...
+  Found 13 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] Lomond Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, 5 Munro Rd, Stirling FK7 7UU, UK
+    Phone:   01786 231411
+    Website: http://www.lomond-kitchens.com/
+    Rating:  5 (41 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36214
+    URL: https://glasgowtrader.co.uk/listing/lomond-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] Bathroom & Kitchen Planet
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Munro Rd, Stirling FK7 7UU, UK
+    Phone:   01786 472227
+    Website: http://www.bathroomkitchenplanet.co.uk/
+    Rating:  4.8 (111 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36216
+    URL: https://glasgowtrader.co.uk/listing/bathroom-kitchen-planet/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/13] Country Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: South Kersie A905, Stirling FK7 7NH, UK
+    Phone:   01324 831679
+    Website: http://www.country-kitchens-scotland.co.uk/
+    Rating:  4.7 (39 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36218
+    URL: https://glasgowtrader.co.uk/listing/country-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/13] The Kitchen Depot, Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33-35 Burghmuir Rd, Stirling FK7 7PB, UK
+    Phone:   01786 234400
+    Website: https://www.thekitchendepot.co.uk/branches/stirling
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36220
+    URL: https://glasgowtrader.co.uk/listing/the-kitchen-depot-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/13] Optima Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 6A, Springkerse Trading Park, Stirling FK7 7GN, UK
+    Phone:   01324 878016
+    Website: http://www.optima-kitchens.co.uk/
+    Rating:  4.9 (23 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36222
+    URL: https://glasgowtrader.co.uk/listing/optima-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/13] Ashley Ann Kitchens | Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14, 9 Munro Rd, Stirling FK7 7XQ, UK
+    Phone:   01786 461505
+    Website: https://www.ashleyann.co.uk/showrooms/stirling/?utm_source=google&utm_medium=organic&utm_campaign=gbp_stirling&utm_content=profile_link
+    Rating:  4.6 (34 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36224
+    URL: https://glasgowtrader.co.uk/listing/ashley-ann-kitchens-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/13] Brooklyn Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 38-40 Arcade, Stirling FK8 1AX, UK
+    Phone:   01786 437100
+    Website: N/A
+    Rating:  4.8 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36226
+    URL: https://glasgowtrader.co.uk/listing/brooklyn-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/13] Aspire Kitchen Design Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2, Manor, Farm Business Park, Manor Loan, Stirling FK9 5QD, UK
+    Phone:   01786 474222
+    Website: https://www.aspirekitchendesign.co.uk/
+    Rating:  3.7 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36228
+    URL: https://glasgowtrader.co.uk/listing/aspire-kitchen-design-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] Wren Kitchens
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [10/13] CREATIVE KITCHENS STIRLING
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40, Stirling FK8 1AX, UK
+    Phone:   01786 463520
+    Website: http://www.creativekitchensco.com/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36230
+    URL: https://glasgowtrader.co.uk/listing/creative-kitchens-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/13] Dream Kitchen Makeover
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37 Roman Way, Dunblane FK15 9DJ, UK
+    Phone:   01786 625627
+    Website: https://www.dreamkitchenmakeover.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36232
+    URL: https://glasgowtrader.co.uk/listing/dream-kitchen-makeover/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/13] Koncept Bathrooms & Kitchens Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Main St W, Menstrie FK11 7BX, UK
+    Phone:   01259 760091
+    Website: https://konceptbk.co.uk/
+    Rating:  4.9 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36234
+    URL: https://glasgowtrader.co.uk/listing/koncept-bathrooms-kitchens-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] Neil Sharp Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Alexander McLeod Pl, Stirling FK7 7HT, UK
+    Phone:   07557 442907
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36236
+    URL: https://glasgowtrader.co.uk/listing/neil-sharp-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   13
+  Created: 12
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

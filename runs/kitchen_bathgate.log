@@ -1,0 +1,59 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  2243 existing listings on site
+  Ledger: 2226 place_ids
+
+[SEARCH] Finding kitchen fitters in Bathgate...
+  Found 2 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] Ishca Kitchens & Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 - 19 Glasgow Rd, Bathgate EH48 2AB, UK
+    Phone:   01506 631070
+    Website: http://www.kitchenandbathroomshowroomsedinburgh.co.uk/
+    Rating:  4.8 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36238
+    URL: https://glasgowtrader.co.uk/listing/ishca-kitchens-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/2] Optimum Kitchens, Bedrooms and Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 George St, Armadale, Bathgate EH48 3JQ, UK
+    Phone:   07774 920838
+    Website: https://www.yellowtom.co.uk/402994
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36240
+    URL: https://glasgowtrader.co.uk/listing/optimum-kitchens-bedrooms-and-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   2
+  Created: 2
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

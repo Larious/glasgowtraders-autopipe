@@ -1,0 +1,76 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  2214 existing listings on site
+  Ledger: 2196 place_ids
+
+[SEARCH] Finding kitchen fitters in Dumbarton...
+  Found 3 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/3] John Dobbin Kitchens, Bathrooms and Bedrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Bankend Rd, Dumbarton G82 2RT, UK
+    Phone:   01389 761944
+    Website: http://www.johndobbin.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36178
+    URL: https://glasgowtrader.co.uk/listing/john-dobbin-kitchens-bathrooms-and-bedrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/3] Ideal Kitchens Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Broadmeadow Industrial Estate, 5 Ash Rd, Dumbarton G82 2RS, UK
+    Phone:   01389 742407
+    Website: http://www.idealkitchensltd.co.uk/
+    Rating:  4.7 (7 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36180
+    URL: https://glasgowtrader.co.uk/listing/ideal-kitchens-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/3] The Kitchen Depot, Dumbarton
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Meadowbank St, Dumbarton G82 1SD, UK
+    Phone:   01389 298020
+    Website: https://www.thekitchendepot.co.uk/branches/dumbarton
+    Rating:  4 (24 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36182
+    URL: https://glasgowtrader.co.uk/listing/the-kitchen-depot-dumbarton/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   3
+  Created: 3
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

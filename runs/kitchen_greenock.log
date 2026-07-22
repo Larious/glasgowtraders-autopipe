@@ -1,0 +1,76 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  2224 existing listings on site
+  Ledger: 2206 place_ids
+
+[SEARCH] Finding kitchen fitters in Greenock...
+  Found 3 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/3] Affordable Luxuries | Inverclyde's Kitchen & Bathroom Specialists
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 52 Regent St, Greenock PA15 4NP, UK
+    Phone:   01475 727774
+    Website: http://www.affordableluxuries.co.uk/
+    Rating:  4.5 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36198
+    URL: https://glasgowtrader.co.uk/listing/affordable-luxuries-inverclydes-kitchen-bathroom-specialists/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/3] The Kitchen Depot, Greenock
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Grey Pl, Greenock PA15 1YF, UK
+    Phone:   01475 310701
+    Website: https://www.thekitchendepot.co.uk/branches/greenock
+    Rating:  3.3 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36200
+    URL: https://glasgowtrader.co.uk/listing/the-kitchen-depot-greenock/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/3] Wrighton Kitchens & Bedrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Empress Ct, Greenock PA15 4RW, UK
+    Phone:   01475 321748
+    Website: https://linktr.ee/wrightonkitchensandbedrooms
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36202
+    URL: https://glasgowtrader.co.uk/listing/wrighton-kitchens-bedrooms-2/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   3
+  Created: 3
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

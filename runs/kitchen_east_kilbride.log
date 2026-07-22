@@ -1,0 +1,142 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  2195 existing listings on site
+  Ledger: 2177 place_ids
+
+[SEARCH] Finding kitchen fitters in East Kilbride...
+  Found 9 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] Studio One Kitchens Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Howard Ct, Nerston, East Kilbride, Glasgow G74 4QZ, UK
+    Phone:   01355 377014
+    Website: http://www.studioonekitchens.co.uk/
+    Rating:  5 (16 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36140
+    URL: https://glasgowtrader.co.uk/listing/studio-one-kitchens-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/9] Mulberry Kitchen Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36134 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [3/9] Bespoke Kitchens and Interiors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36138 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [4/9] Kitchens Plus Interiors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Pankhurst Pl, East Kilbride, Glasgow G74 4BH, UK
+    Phone:   07976 446481
+    Website: https://www.kitchensplusinteriors.com/
+    Rating:  5 (8 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36142
+    URL: https://glasgowtrader.co.uk/listing/kitchens-plus-interiors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/9] D King Kitchen and Bathroom Fitting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 36 Buchandyke Rd, East Kilbride, Glasgow G74 3BN, UK
+    Phone:   01355 523101
+    Website: http://dkingbathroomandkitchenfitting.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36144
+    URL: https://glasgowtrader.co.uk/listing/d-king-kitchen-and-bathroom-fitting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/9] The Kitchen Depot, East Kilbride
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 200 E Kilbride Rd, Clarkston, Glasgow G76 8RS, UK
+    Phone:   0141 644 5886
+    Website: https://www.thekitchendepot.co.uk/branches/eastkilbride
+    Rating:  4.1 (39 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36146
+    URL: https://glasgowtrader.co.uk/listing/the-kitchen-depot-east-kilbride/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/9] Jackton Moor Glasgow | Kitchens & Interiors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 St James Ave, East Kilbride, Glasgow G74 5QD, UK
+    Phone:   01355 575175
+    Website: https://jacktonmoor.com/
+    Rating:  4.4 (12 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36148
+    URL: https://glasgowtrader.co.uk/listing/jackton-moor-glasgow-kitchens-interiors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/9] Glasgow Kitchen Fitters
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36064 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [9/9] Applegate Kitchens and Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Stroud Rd, East Kilbride, Glasgow G75 0YA, UK
+    Phone:   01355 459138
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36150
+    URL: https://glasgowtrader.co.uk/listing/applegate-kitchens-and-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   9
+  Created: 6
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

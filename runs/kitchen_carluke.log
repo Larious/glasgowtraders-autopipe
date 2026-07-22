@@ -1,0 +1,81 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  2245 existing listings on site
+  Ledger: 2228 place_ids
+
+[SEARCH] Finding kitchen fitters in Carluke...
+  Found 4 candidates (2 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] Kings Kitchens Bathrooms Plumbing & Heating
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28554 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [2/4] Country Style Kitchens Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2, Castlehill Industrial Estate, Carluke ML8 5UF, UK
+    Phone:   01555 770255
+    Website: http://www.cskitchens.co.uk/
+    Rating:  4.1 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36242
+    URL: https://glasgowtrader.co.uk/listing/country-style-kitchens-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/4] Clyde Valley Kitchens & Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lanark Rd, Carluke ML8 5QB, UK
+    Phone:   01555 860000
+    Website: http://www.clydevalleykb.co.uk/
+    Rating:  4.8 (19 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36244
+    URL: https://glasgowtrader.co.uk/listing/clyde-valley-kitchens-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/4] Studio Kitchens and Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: The Shieling, Rosebank Garden Centre, Rosebank, Carluke ML8 5QA, UK
+    Phone:   01555 860460
+    Website: http://www.studiobathrooms.com/
+    Rating:  4 (7 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36246
+    URL: https://glasgowtrader.co.uk/listing/studio-kitchens-and-bathrooms-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   4
+  Created: 3
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

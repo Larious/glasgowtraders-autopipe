@@ -1,0 +1,251 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  2157 existing listings on site
+  Ledger: 2139 place_ids
+
+[SEARCH] Finding kitchen fitters in Glasgow...
+  Found 14 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Glasgow Kitchen Fitters
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Enterprise Park, 147 Drakemire Dr, Glasgow G45 9SA, UK
+    Phone:   07868 253586
+    Website: https://kitchenfittersglasgow.com/
+    Rating:  5 (1 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36064
+    URL: https://glasgowtrader.co.uk/listing/glasgow-kitchen-fitters/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] PJTC Bathroom & Kitchen Fitters
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 81 Athelstane Rd, Glasgow G13 3NY, UK
+    Phone:   07427 881003
+    Website: https://pjtc.co.uk/
+    Rating:  4.9 (35 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36066
+    URL: https://glasgowtrader.co.uk/listing/pjtc-bathroom-kitchen-fitters/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/14] Glasgow Kitchen & Bathroom Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 45 Ainslie Rd, Hillington, Glasgow G52 4RU, UK
+    Phone:   0141 883 6630
+    Website: https://www.gkbc.co.uk/
+    Rating:  4.3 (86 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36068
+    URL: https://glasgowtrader.co.uk/listing/glasgow-kitchen-bathroom-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/14] Kitchens In Colour
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 658 Dumbarton Rd, Glasgow G11 6RA, UK
+    Phone:   0141 611 1231
+    Website: https://www.kitchensincolour.co.uk/
+    Rating:  5 (44 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36070
+    URL: https://glasgowtrader.co.uk/listing/kitchens-in-colour/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] New Kitchens Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Colwood Ave, Glasgow G53 7YG, UK
+    Phone:   N/A
+    Website: https://amcrenovations.co.uk/kitchens/
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36072
+    URL: https://glasgowtrader.co.uk/listing/new-kitchens-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] Glasgow Kitchen Fitters
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [7/14] The Kitchen Station
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10-14 Erskine Square, Hillington, Glasgow G52 4BJ, UK
+    Phone:   0141 882 9759
+    Website: http://www.kitchen-station.co.uk/
+    Rating:  4.4 (108 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36074
+    URL: https://glasgowtrader.co.uk/listing/the-kitchen-station/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] Bespoke Kitchen Experts
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 77 Renfrew St, Glasgow G2 3BZ, UK
+    Phone:   0141 648 6775
+    Website: https://bespokekitchenexperts.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36076
+    URL: https://glasgowtrader.co.uk/listing/bespoke-kitchen-experts/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] Nolte Kitchens Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 92 Great Western Rd, Glasgow G4 9AD, UK
+    Phone:   0141 487 8700
+    Website: https://nolte-kitchens.co.uk/showrooms/glasgow/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36078
+    URL: https://glasgowtrader.co.uk/listing/nolte-kitchens-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] The Kitchen Depot
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 459-463 Hillington Rd, Hillington, Glasgow G52 4BL, UK
+    Phone:   0141 891 4884
+    Website: https://www.thekitchendepot.co.uk/branches/glasgow/
+    Rating:  3.9 (106 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36080
+    URL: https://glasgowtrader.co.uk/listing/the-kitchen-depot/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/14] Ashley Ann Kitchens | Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 104-108 Great Western Rd, Glasgow G4 9AD, UK
+    Phone:   0141 331 0796
+    Website: https://www.ashleyann.co.uk/showrooms/glasgow/?utm_source=google&utm_medium=organic&utm_campaign=gbp_glasgow&utm_content=profile_link
+    Rating:  4.7 (12 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36082
+    URL: https://glasgowtrader.co.uk/listing/ashley-ann-kitchens-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/14] One Stop Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 455 Hillington Rd, Hillington, Glasgow G52 4BL, UK
+    Phone:   0141 378 0488
+    Website: http://www.onestopkitchens.co.uk/glasgow
+    Rating:  3.8 (28 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36084
+    URL: https://glasgowtrader.co.uk/listing/one-stop-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] Kitchen Architect - Bespoke German Kitchens Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 199 Great Western Rd, Glasgow G4 9EB, UK
+    Phone:   0141 237 8230
+    Website: http://www.kitchenarchitect.co.uk/
+    Rating:  5 (8 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36086
+    URL: https://glasgowtrader.co.uk/listing/kitchen-architect-bespoke-german-kitchens-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] Waverley Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 83 Crosslee St, Glasgow G52 1SL, UK
+    Phone:   07818 083775
+    Website: http://waverleykitchens.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36088
+    URL: https://glasgowtrader.co.uk/listing/waverley-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   14
+  Created: 13
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,171 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  2170 existing listings on site
+  Ledger: 2152 place_ids
+
+[SEARCH] Finding kitchen fitters in Paisley...
+  Found 10 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] Caddisfly Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 41 Walkinshaw St, Johnstone PA5 8BH, UK
+    Phone:   0141 570 3162
+    Website: http://caddisflykitchens.com/
+    Rating:  4.9 (34 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36090
+    URL: https://glasgowtrader.co.uk/listing/caddisfly-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/10] Instyle Kitchens & Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 B Greenock Rd, Paisley PA3 2LB, UK
+    Phone:   0141 889 3221
+    Website: http://instyle.scot/
+    Rating:  4.2 (203 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36092
+    URL: https://glasgowtrader.co.uk/listing/instyle-kitchens-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/10] MGM Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Units 17-21, 53 Clark St, Paisley PA3 1QS, UK
+    Phone:   0141 726 0973
+    Website: https://www.mgmkitchens.co.uk/?y_source=1_MTAwNjM4NDE0NC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36094
+    URL: https://glasgowtrader.co.uk/listing/mgm-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/10] Splash Kitchen and Bathroom
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Newmains Ave, Inchinnan, Renfrew PA4 9RG, UK
+    Phone:   01389 387076
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36096
+    URL: https://glasgowtrader.co.uk/listing/splash-kitchen-and-bathroom/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/10] The Kitchen Station
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36074 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [6/10] Wrighton Kitchens & Bedrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47-49 Watt Rd, Hillington, Glasgow G52 4RY, UK
+    Phone:   0141 883 9539
+    Website: https://linktr.ee/wrightonkitchensandbedrooms
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36098
+    URL: https://glasgowtrader.co.uk/listing/wrighton-kitchens-bedrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/10] Glasgow Kitchen & Bathroom Centre
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36068 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [8/10] Wren Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Abbotsinch Retail Park, Washington Rd, Paisley PA3 4EP, UK
+    Phone:   0141 212 8143
+    Website: https://www.wrenkitchens.com/showrooms/paisley/?utm_source=Google&utm_medium=organic&utm_campaign=UK_Paisley&utm_content=google-local
+    Rating:  4 (246 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36100
+    URL: https://glasgowtrader.co.uk/listing/wren-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/10] Custom Kitchens Factory
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Prieston Rd, Bridge of Weir PA11 3AJ, UK
+    Phone:   07736 943390
+    Website: N/A
+    Rating:  5 (19 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36102
+    URL: https://glasgowtrader.co.uk/listing/custom-kitchens-factory/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/10] The Country Kitchen
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 80 Causeyside St., Paisley PA1 1YP, UK
+    Phone:   07561 441473
+    Website: N/A
+    Rating:  4.9 (39 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36104
+    URL: https://glasgowtrader.co.uk/listing/the-country-kitchen/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   10
+  Created: 8
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,57 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  2194 existing listings on site
+  Ledger: 2176 place_ids
+
+[SEARCH] Finding kitchen fitters in Hamilton...
+  Found 4 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] Hamilton Bathroom & Kitchen Centre
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36130 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/4] Glasgow Kitchen Fitters
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36064 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/4] Mulberry Kitchen Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36134 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [4/4] Bespoke Kitchens and Interiors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Howard Ct, Nerston, East Kilbride, Glasgow G74 4QZ, UK
+    Phone:   01355 510676
+    Website: https://www.bespokekitchensandinteriors.com/
+    Rating:  4.8 (22 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36138
+    URL: https://glasgowtrader.co.uk/listing/bespoke-kitchens-and-interiors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   4
+  Created: 1
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

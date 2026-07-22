@@ -1,0 +1,110 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  2226 existing listings on site
+  Ledger: 2209 place_ids
+
+[SEARCH] Finding kitchen fitters in Falkirk...
+  Found 5 candidates (15 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/5] The Kitchen Depot, Falkirk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Middlefield Industrial Estate, 4 The Roundel, Falkirk FK2 9HG, UK
+    Phone:   01324 461503
+    Website: https://www.thekitchendepot.co.uk/branches/falkirk
+    Rating:  4.6 (30 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36204
+    URL: https://glasgowtrader.co.uk/listing/the-kitchen-depot-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/5] Homeworld Kitchens & Bathrooms Falkirk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 108 Grahams Rd, Falkirk FK2 7BZ, UK
+    Phone:   01324 632566
+    Website: https://www.homeworld.uk.com/
+    Rating:  4.5 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36206
+    URL: https://glasgowtrader.co.uk/listing/homeworld-kitchens-bathrooms-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/5] Amigo Handyman Services | Kitchen and Bathroom Installer in Falkirk and Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 41 Temple Denny Rd, Denny FK6 6AW, UK
+    Phone:   07969 343330
+    Website: http://www.amigohandymanservices.co.uk/
+    Rating:  4.9 (34 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36208
+    URL: https://glasgowtrader.co.uk/listing/amigo-handyman-services-kitchen-and-bathroom-installer-in-falkirk-and-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/5] Kitchen Options
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Woodlands Cres, Falkirk FK1 5AE, UK
+    Phone:   01324 630556
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36210
+    URL: https://glasgowtrader.co.uk/listing/kitchen-options/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/5] Kutchenhaus Kitchens Falkirk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Main St, Skinflats, Falkirk FK2 8NU, UK
+    Phone:   01324 231018
+    Website: https://falkirkkutchenhaus.co.uk/
+    Rating:  4.5 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36212
+    URL: https://glasgowtrader.co.uk/listing/kutchenhaus-kitchens-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   5
+  Created: 5
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

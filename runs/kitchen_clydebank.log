@@ -1,0 +1,132 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  2201 existing listings on site
+  Ledger: 2183 place_ids
+
+[SEARCH] Finding kitchen fitters in Clydebank...
+  Found 7 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] Creative Bathrooms and Kitchens Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40B Melfort Ave, Clydebank G81 2HX, UK
+    Phone:   0141 249 0640
+    Website: http://www.creativebathroomsandkitchensltd.co.uk/
+    Rating:  4.4 (9 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36152
+    URL: https://glasgowtrader.co.uk/listing/creative-bathrooms-and-kitchens-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/7] Picture Perfect Kitchens & Bathrooms ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40b Melfort Ave, Clydebank G81 2HS, UK
+    Phone:   07501 540564
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36154
+    URL: https://glasgowtrader.co.uk/listing/picture-perfect-kitchens-bathrooms-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/7] CBS Bathrooms & Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 South Ave, Clydebank G81 2NR, UK
+    Phone:   0141 951 8844
+    Website: http://www.cbsbathroomsandkitchens.co.uk/
+    Rating:  5 (14 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36156
+    URL: https://glasgowtrader.co.uk/listing/cbs-bathrooms-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/7] Worktop Solutions Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3 S Douglas St, Clydebank G81 1PD, UK
+    Phone:   07427 350379
+    Website: https://worktopsolutionsglasgow.co.uk/
+    Rating:  4.5 (24 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36158
+    URL: https://glasgowtrader.co.uk/listing/worktop-solutions-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/7] Kitchens Bathrooms Doors & Floors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 North Ave, Clydebank G81 2QP, UK
+    Phone:   0141 952 8011
+    Website: N/A
+    Rating:  3 (5 reviews)
+    Hours:   3 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36160
+    URL: https://glasgowtrader.co.uk/listing/kitchens-bathrooms-doors-floors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/7] PJTC Bathroom & Kitchen Fitters
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36066 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [7/7] Diamond Kitchens & Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Mill Rd, Yoker Mill Rd, Strathyre, Glasgow G81 1EL, UK
+    Phone:   07594 029591
+    Website: https://www.facebook.com/DiamondKitchensandBathroomsltd/
+    Rating:  3.5 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36162
+    URL: https://glasgowtrader.co.uk/listing/diamond-kitchens-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   7
+  Created: 6
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

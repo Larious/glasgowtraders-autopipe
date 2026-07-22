@@ -1,0 +1,149 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Kitchen Fitter
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  2217 existing listings on site
+  Ledger: 2199 place_ids
+
+[SEARCH] Finding kitchen fitters in Ayr...
+  Found 8 candidates (12 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/8] Barrmuir Kitchen and Bathroom Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Mill Wynd, Ayr KA7 1TS, UK
+    Phone:   01292 739003
+    Website: http://www.barrmuir.co.uk/
+    Rating:  4.4 (54 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36184
+    URL: https://glasgowtrader.co.uk/listing/barrmuir-kitchen-and-bathroom-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/8] JWT Kitchens & Bathrooms Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Flat 3, 21 Wellington Square, Ayr KA7 1EZ, UK
+    Phone:   01292 800440
+    Website: https://www.jwtkitchenbathroom.com/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36186
+    URL: https://glasgowtrader.co.uk/listing/jwt-kitchens-bathrooms-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/8] Ayrshire Kitchens and Bedrooms Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4A Citadel Pl, Ayr KA7 1JN, UK
+    Phone:   01292 208468
+    Website: https://ayrshirekitchensandbedrooms.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36188
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-kitchens-and-bedrooms-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/8] As-Nu Kitchens
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 173, 175 Ayr Rd, Prestwick KA9 1TP, UK
+    Phone:   01292 265557
+    Website: https://www.as-nu.com/
+    Rating:  4.6 (16 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36190
+    URL: https://glasgowtrader.co.uk/listing/as-nu-kitchens/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/8] Wren Kitchens
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [6/8] Kitchens By J S Geddes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 W Netherton St, Kilmarnock KA1 4BT, UK
+    Phone:   01563 530838
+    Website: https://www.jsgeddes.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing
+    Rating:  4.9 (67 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36192
+    URL: https://glasgowtrader.co.uk/listing/kitchens-by-j-s-geddes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/8] Kitchen Wizard Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 84 Briarhill Rd, Prestwick KA9 1JD, UK
+    Phone:   01292 471166
+    Website: https://www.facebook.com/kitchenwizardayr/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36194
+    URL: https://glasgowtrader.co.uk/listing/kitchen-wizard-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/8] K Todd Kitchens Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Whitfield Industrial Estate, 35 Whitfield Dr, Ayr KA8 9RX, UK
+    Phone:   01292 892787
+    Website: https://www.ktoddhandcrafted.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36196
+    URL: https://glasgowtrader.co.uk/listing/k-todd-kitchens-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   8
+  Created: 7
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================
