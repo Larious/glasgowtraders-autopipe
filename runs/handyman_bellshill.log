@@ -1,0 +1,153 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  2442 existing listings on site
+  Ledger: 2425 place_ids
+
+[SEARCH] Finding handymans in Bellshill...
+  Found 16 candidates (14 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] Property handyman services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36624 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [2/16] Lucas All Trade Handyman and Property Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36614 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [3/16] RMcK Carpenter / Handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35382 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [4/16] Alex Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 Brownsdale Rd, Rutherglen, Glasgow G73 2RQ, UK
+    Phone:   07934 483065
+    Website: N/A
+    Rating:  5 (14 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36636
+    URL: https://glasgowtrader.co.uk/listing/alex-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] Southside Handyman - Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36550 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [6/16] TaskTamer Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36560 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [7/16] flowman & handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Davaar Dr, Motherwell ML1 3TW, UK
+    Phone:   07455 565108
+    Website: N/A
+    Rating:  5 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36638
+    URL: https://glasgowtrader.co.uk/listing/flowman-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/16] NJ Home Solutions | Handyman Glasgow - Property Maintenance - Plasterer - Painter and Decorator
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36554 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [9/16] Glasgow Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36552 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [10/16] Mani Handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36566 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [11/16] Affordable Maids And Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36610 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [12/16] PAA Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Mary Dr, Bellshill ML4 2UP, UK
+    Phone:   07426 243616
+    Website: https://www.paapropertymaintenance.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36640
+    URL: https://glasgowtrader.co.uk/listing/paa-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] ML Property Maintenance & Exterior Cleaning
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36628 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [14/16] Trident Maintenance Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ste 52, Strathclyde Business Park, Wren Ct, Bellshill ML4 3NQ, UK
+    Phone:   0330 202 0774
+    Website: http://www.tridentmaintenanceservices.com/
+    Rating:  3 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36642
+    URL: https://glasgowtrader.co.uk/listing/trident-maintenance-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] Cargill Property Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36622 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [16/16] REVIVE 💜 Property Maintenance Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28520 — attached location 'Bellshill' instead
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   16
+  Created: 4
+  Skipped: 12 (already existed)
+  Failed:  0
+============================================================

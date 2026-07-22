@@ -1,0 +1,128 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  2463 existing listings on site
+  Ledger: 2446 place_ids
+
+[SEARCH] Finding handymans in Cumbernauld...
+  Found 11 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] NJ Home Solutions | Handyman Glasgow - Property Maintenance - Plasterer - Painter and Decorator
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36554 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [2/11] Glasgow Handyman Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28539 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [3/11] Glasgow Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36552 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [4/11] Easy Peasy Pawel - Handyman And Joinery Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Rowan Dr, Banknock, Bonnybridge FK4 1TB, UK
+    Phone:   07379 191119
+    Website: N/A
+    Rating:  5 (30 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36678
+    URL: https://glasgowtrader.co.uk/listing/easy-peasy-pawel-handyman-and-joinery-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/11] REVIVE 💜 Property Maintenance Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28520 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [6/11] Valleyfield Property and Maintenance Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Media House, 1 Dunnswood Rd, Cumbernauld, Glasgow G67 3EN, UK
+    Phone:   07368 181396
+    Website: https://www.vfpropertymaintenance.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36680
+    URL: https://glasgowtrader.co.uk/listing/valleyfield-property-and-maintenance-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/11] Complete Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: chall building, 73 Kilsyth Rd, Kirkintilloch, Glasgow G66 1QF, UK
+    Phone:   0141 775 2200
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36682
+    URL: https://glasgowtrader.co.uk/listing/complete-property-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/11] Commercial Property Maintenance Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36608 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [9/11] Property Maintenance Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Grangeview, Falkirk, Stenhousemuir, Larbert FK5 3DF, UK
+    Phone:   01324 882062
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36684
+    URL: https://glasgowtrader.co.uk/listing/property-maintenance-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/11] Glasgow Property Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36576 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [11/11] Bell & Higgins Construction & Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 32026 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   11
+  Created: 4
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,182 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  2436 existing listings on site
+  Ledger: 2419 place_ids
+
+[SEARCH] Finding handymans in Coatbridge...
+  Found 17 candidates (13 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] Lucas All Trade Handyman and Property Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36614 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/17] Property handyman services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 127 Carlisle Rd, Blackwood, Kirkmuirhill, Lanark ML11 9RT, UK
+    Phone:   07852 291199
+    Website: https://www.facebook.com/profile.php?id=61576407433593&locale=en_GB
+    Rating:  5 (17 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36624
+    URL: https://glasgowtrader.co.uk/listing/property-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/17] Mani Handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36566 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/17] Southside Handyman - Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36550 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [5/17] NJ Home Solutions | Handyman Glasgow - Property Maintenance - Plasterer - Painter and Decorator
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36554 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [6/17] TaskTamer Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36560 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [7/17] Affordable Maids And Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36610 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [8/17] Coatbridge Garden Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33814 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [9/17] Glasgow Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36552 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [10/17] Glasgow Handyman Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28539 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [11/17] RMcK Carpenter / Handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35382 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [12/17] REVIVE 💜 Property Maintenance Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28520 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [13/17] Quickflow property maintenance ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 139 The Oval, Glenboig, Coatbridge ML5 2RX, UK
+    Phone:   07910 395390
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36626
+    URL: https://glasgowtrader.co.uk/listing/quickflow-property-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/17] ML Property Maintenance & Exterior Cleaning
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 7B Dalziel St, Motherwell ML1 1PJ, UK
+    Phone:   07826 571123
+    Website: https://mlproperty-maintenance.co.uk/
+    Rating:  4.9 (75 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36628
+    URL: https://glasgowtrader.co.uk/listing/ml-property-maintenance-exterior-cleaning/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/17] P Veldon Building & Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 St Denis Way, Coatbridge ML5 1QN, UK
+    Phone:   07816 442806
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36630
+    URL: https://glasgowtrader.co.uk/listing/p-veldon-building-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/17] Jm property maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Barleyhill, Bonnybridge FK4 1AH, UK
+    Phone:   07874 182271
+    Website: https://www.jmpropertymaintenance.online/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36632
+    URL: https://glasgowtrader.co.uk/listing/jm-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/17] TD Roofing and Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Hillcrest Ave, Coatbridge ML5 3NU, UK
+    Phone:   07470 082690
+    Website: N/A
+    Rating:  1 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36634
+    URL: https://glasgowtrader.co.uk/listing/td-roofing-and-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   17
+  Created: 6
+  Skipped: 11 (already existed)
+  Failed:  0
+============================================================

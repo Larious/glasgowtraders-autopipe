@@ -1,0 +1,397 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  2399 existing listings on site
+  Ledger: 2382 place_ids
+
+[SEARCH] Finding handymans in Glasgow...
+  Found 24 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/24] Glasgow Handyman Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28539 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [2/24] Southside Handyman - Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Park Rd, Giffnock, Glasgow G46 7PF, UK
+    Phone:   07977 288098
+    Website: https://www.southside-handyman.co.uk/
+    Rating:  5 (34 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36550
+    URL: https://glasgowtrader.co.uk/listing/southside-handyman-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/24] Glasgow Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Wyndford Rd, Glasgow G20 8EP, UK
+    Phone:   0141 390 1846
+    Website: https://www.glasgowhandymanservices.com/
+    Rating:  4.3 (113 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36552
+    URL: https://glasgowtrader.co.uk/listing/glasgow-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/24] NJ Home Solutions | Handyman Glasgow - Property Maintenance - Plasterer - Painter and Decorator
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Carna Dr, Glasgow G44 5BB, UK
+    Phone:   07825 625056
+    Website: https://njhomesolutions.co.uk/
+    Rating:  4.9 (72 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36554
+    URL: https://glasgowtrader.co.uk/listing/nj-home-solutions-handyman-glasgow-property-maintenance-plasterer-painter-and-decorator/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/24] Stephen Sharp - handyman Glasgow (West End)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Blanefield Gardens, Glasgow G13 1BP, UK
+    Phone:   07518 234726
+    Website: https://linktr.ee/handymanglasgow
+    Rating:  4.9 (78 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36556
+    URL: https://glasgowtrader.co.uk/listing/stephen-sharp-handyman-glasgow-west-end/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/24] HANDYMAN GLASGOW LIMITED
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 719 Cathcart Rd, Glasgow G42 8UA, UK
+    Phone:   07449 731355
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36558
+    URL: https://glasgowtrader.co.uk/listing/handyman-glasgow-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/24] TaskTamer Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Chisholm Dr, Newton Mearns, Glasgow G77 6HX, UK
+    Phone:   07767 276855
+    Website: https://www.instagram.com/Task_Tamer_
+    Rating:  5 (16 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36560
+    URL: https://glasgowtrader.co.uk/listing/tasktamer-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/24] Handyman Craft Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27025 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [9/24] The Glasgow Handyman Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 390 Main St, Rutherglen, Glasgow G73 3AX, UK
+    Phone:   0141 295 0102
+    Website: https://theglasgowhandymancompany.co.uk/
+    Rating:  3.6 (5 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36562
+    URL: https://glasgowtrader.co.uk/listing/the-glasgow-handyman-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/24] Westend Handyman Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit E, 30 Brownside Dr, Glasgow G13 4BN, UK
+    Phone:   0141 295 0083
+    Website: https://handymanwestend.com/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36564
+    URL: https://glasgowtrader.co.uk/listing/westend-handyman-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/24] Mani Handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Beckfield Grove, Glasgow G33 1SS, UK
+    Phone:   07532 421157
+    Website: https://www.facebook.com/profile.php?id=61553574354992
+    Rating:  4.7 (14 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36566
+    URL: https://glasgowtrader.co.uk/listing/mani-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/24] REVIVE 💜 Property Maintenance Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28520 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [13/24] Barrowcliffe Property Maintenance (BPM Scotland)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 58 Loanbank Quadrant, Glasgow G51 3HZ, UK
+    Phone:   0800 001 6767
+    Website: https://www.bpm.scot/
+    Rating:  4.9 (127 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36568
+    URL: https://glasgowtrader.co.uk/listing/barrowcliffe-property-maintenance-bpm-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/24] A J Property Maintenance Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40 Hawthorn Rd, Busby, Glasgow G76 8EH, UK
+    Phone:   07774 125770
+    Website: https://a-jdecor.co.uk/
+    Rating:  5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36570
+    URL: https://glasgowtrader.co.uk/listing/a-j-property-maintenance-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/24] CMR Scotland Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Barshaw Cl, Glasgow G52 4FB, UK
+    Phone:   07540 274377
+    Website: http://cmrscotland.com/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36572
+    URL: https://glasgowtrader.co.uk/listing/cmr-scotland-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/24] J MAINTENANCE & PROPERTY CONTRACTORS LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 100 High Craighall Rd, Glasgow G4 9UD, UK
+    Phone:   07519 578356
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36574
+    URL: https://glasgowtrader.co.uk/listing/j-maintenance-property-contractors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/24] Glasgow Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 88 Orr St, Bridgeton, Glasgow G4 0SA, UK
+    Phone:   0141 295 0402
+    Website: http://www.glasgowpropertymaintenance.com/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36576
+    URL: https://glasgowtrader.co.uk/listing/glasgow-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/24] Murray Maintenance Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Clyde Offices, 2nd Floor, 48 W George St, Glasgow G2 1BP, UK
+    Phone:   0141 255 0639
+    Website: http://www.murraymaintenanceservices.co.uk/
+    Rating:  4.2 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36578
+    URL: https://glasgowtrader.co.uk/listing/murray-maintenance-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/24] Glasgow Maintenance Company (GMC)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 45 Lochiel Rd, Glasgow G46 8NR, UK
+    Phone:   07446 628399
+    Website: http://www.gmcglasgow.co.uk/
+    Rating:  3 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36580
+    URL: https://glasgowtrader.co.uk/listing/glasgow-maintenance-company-gmc/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/24] Sos building maintenance ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Stockiemuir Ave, Bearsden, Glasgow G61 3JN, UK
+    Phone:   07490 199472
+    Website: https://m.facebook.com/SosAdmin1/
+    Rating:  5 (20 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36582
+    URL: https://glasgowtrader.co.uk/listing/sos-building-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/24] Landlord Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1235 Paisley Rd W, Bellahouston, Glasgow G52 1SZ, UK
+    Phone:   0141 889 0000
+    Website: http://landlord-property-maintenance.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36584
+    URL: https://glasgowtrader.co.uk/listing/landlord-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/24] Paisley Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 107 Foxbar Rd, Paisley PA2 0BA, UK
+    Phone:   0141 561 6299
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36586
+    URL: https://glasgowtrader.co.uk/listing/paisley-property-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [23/24] Smart Property Maintenance Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2, 74-76 Firhill Rd, Glasgow G20 7BA, UK
+    Phone:   0141 459 1465
+    Website: http://www.smartpm.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36588
+    URL: https://glasgowtrader.co.uk/listing/smart-property-maintenance-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [24/24] Total Outdoor Maintenance Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Herald Ave, Glasgow G13 2DW, UK
+    Phone:   07718 177028
+    Website: http://www.tomsmaintenance.co.uk/
+    Rating:  5 (33 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36590
+    URL: https://glasgowtrader.co.uk/listing/total-outdoor-maintenance-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   24
+  Created: 21
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

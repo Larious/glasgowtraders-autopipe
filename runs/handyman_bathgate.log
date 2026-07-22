@@ -1,0 +1,206 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  2507 existing listings on site
+  Ledger: 2490 place_ids
+
+[SEARCH] Finding handymans in Bathgate...
+  Found 17 candidates (11 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] Livingston Handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Buchanan Cres, Livingston EH54 7EE, UK
+    Phone:   07968 595375
+    Website: https://www.facebook.com/share/1CupKyZESD/
+    Rating:  5 (18 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36766
+    URL: https://glasgowtrader.co.uk/listing/livingston-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/17] Falkirk handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36724 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [3/17] Northfix Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37 Graham Ct, Blackburn, Bathgate EH47 7BT, UK
+    Phone:   07359 208889
+    Website: https://www.northfix.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36768
+    URL: https://glasgowtrader.co.uk/listing/northfix-property-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/17] Property handyman services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36624 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [5/17] Your Local Handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 Tarrareoch Ct, Armadale, Bathgate EH48 2TF, UK
+    Phone:   07742 956661
+    Website: https://www.facebook.com/handymanplumber
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36770
+    URL: https://glasgowtrader.co.uk/listing/your-local-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/17] Central Scotland Handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36730 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [7/17] Lucas All Trade Handyman and Property Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36614 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [8/17] Central Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36732 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [9/17] IB Your Toolbox Property Maintenance and Improvement
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bankton Brae, Livingston EH54 9LA, UK
+    Phone:   07585 476654
+    Website: http://www.ibyourtoolbox.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36772
+    URL: https://glasgowtrader.co.uk/listing/ib-your-toolbox-property-maintenance-and-improvement/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/17] Amigo Handyman Services | Kitchen and Bathroom Installer in Falkirk and Stirling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36208 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [11/17] Domestic Joinery & Maintenance Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35630 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [12/17] Warrington Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1A Sibbalds Brae, Bathgate EH48 2DU, UK
+    Phone:   01506 654020
+    Website: http://www.w-p-m.co.uk/
+    Rating:  4 (27 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36774
+    URL: https://glasgowtrader.co.uk/listing/warrington-property-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/17] Purdie Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48-54 E Main St, Blackburn, Bathgate EH47 7QS, UK
+    Phone:   01506 668530
+    Website: http://purdieproperty.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36776
+    URL: https://glasgowtrader.co.uk/listing/purdie-property-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/17] Premier Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36742 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [15/17] Ask Scott Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 49 Bridgecastle Rd, Armadale, Bathgate EH48 3NX, UK
+    Phone:   07974 012292
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36778
+    URL: https://glasgowtrader.co.uk/listing/ask-scott-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/17] G M P Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Kirk Brae, Longridge, Bathgate EH47 8AH, UK
+    Phone:   01501 770485
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36780
+    URL: https://glasgowtrader.co.uk/listing/g-m-p-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/17] Property Maintenance Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36684 — attached location 'Bathgate' instead
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   17
+  Created: 8
+  Skipped: 9 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,108 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  2467 existing listings on site
+  Ledger: 2450 place_ids
+
+[SEARCH] Finding handymans in Dumbarton...
+  Found 7 candidates (12 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/7] Dumbarton Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Afva House, 10/8 Alexander St, Alexandria G83 0PG, UK
+    Phone:   01389 504501
+    Website: http://dumbartonhandymanservices.com/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36686
+    URL: https://glasgowtrader.co.uk/listing/dumbarton-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/7] Evergreen Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 O'Neil Terrace, Alexandria G83 0AD, UK
+    Phone:   07853 371272
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36688
+    URL: https://glasgowtrader.co.uk/listing/evergreen-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/7] Mortys Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Bain Way, Alexandria G83 0UY, UK
+    Phone:   07771 737083
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36690
+    URL: https://glasgowtrader.co.uk/listing/mortys-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/7] Commercial Property Maintenance Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36608 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [5/7] RVE Property Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36602 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [6/7] Paisley Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36586 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [7/7] Inverclyde Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 50 Shore St, Gourock PA19 1RF, UK
+    Phone:   01475 322322
+    Website: http://inverclydehandymanservices.com/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36692
+    URL: https://glasgowtrader.co.uk/listing/inverclyde-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   7
+  Created: 4
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

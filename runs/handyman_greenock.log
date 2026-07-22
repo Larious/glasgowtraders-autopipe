@@ -1,0 +1,158 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  2482 existing listings on site
+  Ledger: 2465 place_ids
+
+[SEARCH] Finding handymans in Greenock...
+  Found 17 candidates (11 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] Inverclyde Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36692 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [2/17] JC Home Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Mallard Cres, Greenock PA16 7BA, UK
+    Phone:   01475 322001
+    Website: N/A
+    Rating:  3.3 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36716
+    URL: https://glasgowtrader.co.uk/listing/jc-home-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/17] Glasgow Handyman Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28539 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [4/17] Fairlie Handyman and Gardening Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36702 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [5/17] TaskTamer Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36560 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [6/17] Renfrewshire Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36594 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [7/17] Muirshiel Home Maintenance Project
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Port Glasgow PA14 5XH, UK
+    Phone:   01475 742559
+    Website: http://www.muirshiel.org.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36718
+    URL: https://glasgowtrader.co.uk/listing/muirshiel-home-maintenance-project/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/17] Westend Handyman Company
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36564 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [9/17] Stephen Sharp - handyman Glasgow (West End)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36556 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [10/17] Dumbarton Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36686 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [11/17] Clydebank Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36668 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [12/17] Kincaid Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8f Kilcreggan View, Greenock PA15 3JB, UK
+    Phone:   07476 622171
+    Website: http://kincaidpropertymaintenanceltd.uk/
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36720
+    URL: https://glasgowtrader.co.uk/listing/kincaid-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/17] Inverclyde Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 101 South St, Greenock PA16 8QN, UK
+    Phone:   01475 322552
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36722
+    URL: https://glasgowtrader.co.uk/listing/inverclyde-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/17] Commercial Property Maintenance Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36608 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [15/17] RVE Property Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36602 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [16/17] Laing’s Property Maintenance LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36596 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [17/17] Paisley Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36586 — attached location 'Greenock' instead
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   17
+  Created: 4
+  Skipped: 13 (already existed)
+  Failed:  0
+============================================================

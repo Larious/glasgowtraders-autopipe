@@ -1,0 +1,222 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  2471 existing listings on site
+  Ledger: 2454 place_ids
+
+[SEARCH] Finding handymans in Ayr...
+  Found 13 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] Ayr Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Ellisland Pl, Ayr KA7 3EG, UK
+    Phone:   01292 261281
+    Website: http://www.ayrhandymanservices.co.uk/
+    Rating:  5 (9 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36694
+    URL: https://glasgowtrader.co.uk/listing/ayr-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] Dalry Handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36600 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [3/13] TaskTamer Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36560 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [4/13] Handy Man
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Lennox Dr, Prestwick KA9 2LR, UK
+    Phone:   01292 474172
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36696
+    URL: https://glasgowtrader.co.uk/listing/handy-man/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/13] Graeme the Handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Monach Gardens, Dreghorn, Irvine KA11 4EB, UK
+    Phone:   07790 939392
+    Website: N/A
+    Rating:  4.6 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36698
+    URL: https://glasgowtrader.co.uk/listing/graeme-the-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/13] F.Watt Handyman services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Millhill Ave, Kilmaurs, Kilmarnock KA3 2TA, UK
+    Phone:   07869 434551
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36700
+    URL: https://glasgowtrader.co.uk/listing/f-watt-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/13] Fairlie Handyman and Gardening Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Castlepark Dr, Fairlie, Largs KA29 0DF, UK
+    Phone:   07898 154381
+    Website: http://www.fairliehandy.co.uk/
+    Rating:  4.7 (15 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36702
+    URL: https://glasgowtrader.co.uk/listing/fairlie-handyman-and-gardening-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/13] Q3 Property Maintenance - AYR
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Fullarton St, Ayr KA7 1UD, UK
+    Phone:   07749 382252
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36704
+    URL: https://glasgowtrader.co.uk/listing/q3-property-maintenance-ayr/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] The helpful handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Giffen Rd, Saltcoats KA21 5QX, UK
+    Phone:   07481 469254
+    Website: https://www.facebook.com/Thehelpfulhandyman1/
+    Rating:  5 (1 reviews)
+    Hours:   2 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36706
+    URL: https://glasgowtrader.co.uk/listing/the-helpful-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/13] McMillan's Property Maintenance (Ayr) LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 60 Main St, Ayr KA8 8EF, UK
+    Phone:   01292 502566
+    Website: https://mcmillanspropertymaintenance.co.uk/
+    Rating:  3.6 (26 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36708
+    URL: https://glasgowtrader.co.uk/listing/mcmillans-property-maintenance-ayr-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/13] All Weather Maintenance Group Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Weir Rd, Ayr KA8 8BA, UK
+    Phone:   07988 513296
+    Website: https://allweathermaintenance.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36710
+    URL: https://glasgowtrader.co.uk/listing/all-weather-maintenance-group-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/13] Mcmillan's Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Glenmuir Ct, Ayr KA8 9PZ, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  1 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36712
+    URL: https://glasgowtrader.co.uk/listing/mcmillans-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] Farden Contracts - Asbestos Removal & Consultancy / Property Maintenance Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Wellington Square, Ayr KA7 1EZ, UK
+    Phone:   01292 560469
+    Website: https://www.fardencontracts.com/?utm_source=google&utm_medium=local&utm_campaign=gmb&utm_id=ayr
+    Rating:  5 (19 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36714
+    URL: https://glasgowtrader.co.uk/listing/farden-contracts-asbestos-removal-consultancy-property-maintenance-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   13
+  Created: 11
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

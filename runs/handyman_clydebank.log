@@ -1,0 +1,185 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  2458 existing listings on site
+  Ledger: 2441 place_ids
+
+[SEARCH] Finding handymans in Clydebank...
+  Found 20 candidates (16 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/20] Clydebank Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Scott St, Dalmuir, Clydebank G81 4BT, UK
+    Phone:   01389 520021
+    Website: https://clydebankhandymanservices.com/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36668
+    URL: https://glasgowtrader.co.uk/listing/clydebank-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/20] Glasgow Handyman Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28539 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [3/20] Westend Handyman Company
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36564 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [4/20] Southside Handyman - Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36550 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [5/20] TaskTamer Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36560 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [6/20] Stephen Sharp - handyman Glasgow (West End)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36556 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [7/20] Glasgow Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36552 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [8/20] Handyman Craft Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 27025 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [9/20] NJ Home Solutions | Handyman Glasgow - Property Maintenance - Plasterer - Painter and Decorator
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36554 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [10/20] Renfrewshire Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36594 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [11/20] Complex Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36598 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [12/20] Doc Handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Hayburn Ln, Glasgow G11 5AS, UK
+    Phone:   N/A
+    Website: https://m.facebook.com/dochandymanglasgow/?ref=bookmarks
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36670
+    URL: https://glasgowtrader.co.uk/listing/doc-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/20] Ultimate maintenance group
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Montrose St, Clydebank G81 2PG, UK
+    Phone:   07305 208444
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36672
+    URL: https://glasgowtrader.co.uk/listing/ultimate-maintenance-group/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/20] Brae Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Alexander St, Clydebank G81 1SQ, UK
+    Phone:   01389 386356
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36674
+    URL: https://glasgowtrader.co.uk/listing/brae-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/20] REVIVE 💜 Property Maintenance Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28520 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [16/20] Barrowcliffe Property Maintenance (BPM Scotland)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36568 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [17/20] Commercial Property Maintenance Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36608 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [18/20] Campbell & Kennedy Maintenance Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit B17, 78 Whitecrook St, Clydebank G81 1QF, UK
+    Phone:   0141 952 1933
+    Website: http://www.campbellkennedy.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36676
+    URL: https://glasgowtrader.co.uk/listing/campbell-kennedy-maintenance-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/20] CMR Scotland Property Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36572 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [20/20] Paisley Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36586 — attached location 'Clydebank' instead
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   20
+  Created: 5
+  Skipped: 15 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,226 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  2450 existing listings on site
+  Ledger: 2433 place_ids
+
+[SEARCH] Finding handymans in East Kilbride...
+  Found 21 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/21] EK Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Forth Grove, East Kilbride, Glasgow G75 8XF, UK
+    Phone:   07306 611000
+    Website: https://www.ekmaintenance.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36652
+    URL: https://glasgowtrader.co.uk/listing/ek-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/21] East Kilbride Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Alderstocks, East Kilbride, Glasgow G75 0BL, UK
+    Phone:   01355 388001
+    Website: http://eastkilbridehandyman.com/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36654
+    URL: https://glasgowtrader.co.uk/listing/east-kilbride-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/21] Southside Handyman - Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36550 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [4/21] TaskTamer Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36560 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [5/21] NJ Home Solutions | Handyman Glasgow - Property Maintenance - Plasterer - Painter and Decorator
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36554 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [6/21] Lucas All Trade Handyman and Property Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36614 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [7/21] Glasgow Handyman Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28539 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [8/21] HANDYMAN GLASGOW LIMITED
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36558 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [9/21] Glasgow Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36552 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [10/21] Alex Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36636 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [11/21] Clyde Odd Jobs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 90 Busby Rd, Carmunnock, Glasgow G76 9BJ, UK
+    Phone:   07441 917632
+    Website: https://clydeoddjobs.co.uk/
+    Rating:  5 (18 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36656
+    URL: https://glasgowtrader.co.uk/listing/clyde-odd-jobs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/21] Happy Owner Handyman service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ailsa Dr, Rutherglen, Glasgow G73 4PL, UK
+    Phone:   07931 100977
+    Website: N/A
+    Rating:  5 (8 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36658
+    URL: https://glasgowtrader.co.uk/listing/happy-owner-handyman-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/21] The Glasgow Handyman Company
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36562 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [14/21] Cleancut Garden & Property Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33922 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [15/21] S McLeavy Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: East Rogerton Farm, Nerston Rd, East Kilbride, Glasgow G74 4NX, UK
+    Phone:   01355 227656
+    Website: http://www.mcleavyroofers.co.uk/
+    Rating:  5 (13 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36660
+    URL: https://glasgowtrader.co.uk/listing/s-mcleavy-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/21] Garden Maintenance Scotland
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33924 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [17/21] Robertson garden & property maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33902 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [18/21] Clyde Property Maintenance & Industrial Cleaning
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Lindores Dr, East Kilbride, Glasgow G74 1HH, UK
+    Phone:   07763 656143
+    Website: https://www.clydepm.com/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36662
+    URL: https://glasgowtrader.co.uk/listing/clyde-property-maintenance-industrial-cleaning/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/21] A J Property Maintenance Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36570 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [20/21] Property Security & Maintenance Solution Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4, James Watt Bldg, East Kilbride, Glasgow G75 0QD, UK
+    Phone:   01355 813131
+    Website: http://www.psmsltd.co.uk/
+    Rating:  3 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36664
+    URL: https://glasgowtrader.co.uk/listing/property-security-maintenance-solution-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/21] GDRM Ground Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Westgarth Pl, East Kilbride, Glasgow G74 5NT, UK
+    Phone:   07999 474452
+    Website: https://www.gdrm.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36666
+    URL: https://glasgowtrader.co.uk/listing/gdrm-ground-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   21
+  Created: 8
+  Skipped: 13 (already existed)
+  Failed:  0
+============================================================

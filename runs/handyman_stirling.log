@@ -1,0 +1,174 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  2500 existing listings on site
+  Ledger: 2483 place_ids
+
+[SEARCH] Finding handymans in Stirling...
+  Found 13 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] Handyman Services Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Caltrop Pl, Stirling FK7 7SX, UK
+    Phone:   01786 601018
+    Website: http://www.handymanservicesstirling.co.uk/
+    Rating:  3.3 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36752
+    URL: https://glasgowtrader.co.uk/listing/handyman-services-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] Central Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36732 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [3/13] Bond Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36734 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [4/13] Property handyman services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36624 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [5/13] Amigo Handyman Services | Kitchen and Bathroom Installer in Falkirk and Stirling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36208 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [6/13] Handyman Baz
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36728 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [7/13] FXD It! Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: The Wookery, Kippen, Stirling FK8 3HL, UK
+    Phone:   07513 617607
+    Website: https://fxdit.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36754
+    URL: https://glasgowtrader.co.uk/listing/fxd-it-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/13] Lime Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 King St, Doune FK16 6DN, UK
+    Phone:   07345 560874
+    Website: https://www.limepropertymaintenance.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36756
+    URL: https://glasgowtrader.co.uk/listing/lime-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] Bannockburn Property Maintenance.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Wallace St, Bannockburn, Stirling FK7 8JH, UK
+    Phone:   07703 774908
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36758
+    URL: https://glasgowtrader.co.uk/listing/bannockburn-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/13] Johnston Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Piperland, Stirling FK8 3JJ, UK
+    Phone:   01786 860634
+    Website: http://www.johnstonpropertymaintenanceltd.co.uk/
+    Rating:  4 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36760
+    URL: https://glasgowtrader.co.uk/listing/johnston-property-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/13] G M Maintenance (Scotland) Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Stirling City Centre, Stirling FK8 2QY, UK
+    Phone:   01786 479617
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36762
+    URL: https://glasgowtrader.co.uk/listing/g-m-maintenance-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/13] Ethical Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 239, 1 Baker St, Stirling FK8 1AL, UK
+    Phone:   01786 342006
+    Website: https://www.ethicalmaintenance.org/
+    Rating:  1 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36764
+    URL: https://glasgowtrader.co.uk/listing/ethical-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] Property Maintenance Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36684 — attached location 'Stirling' instead
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   13
+  Created: 7
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

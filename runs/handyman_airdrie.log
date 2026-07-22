@@ -1,0 +1,179 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  2429 existing listings on site
+  Ledger: 2412 place_ids
+
+[SEARCH] Finding handymans in Airdrie...
+  Found 14 candidates (16 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Affordable Maids And Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14B Milton St, Airdrie ML6 6JL, UK
+    Phone:   07783 475172
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36610
+    URL: https://glasgowtrader.co.uk/listing/affordable-maids-and-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] Francis contracts Handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Airdrie Rd, Caldercruix, Airdrie ML6 8PA, UK
+    Phone:   07889 949782
+    Website: N/A
+    Rating:  3 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36612
+    URL: https://glasgowtrader.co.uk/listing/francis-contracts-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/14] Lucas All Trade Handyman and Property Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Fruin Rise, Hamilton ML3 9UY, UK
+    Phone:   07956 681388
+    Website: https://lucashandyman.co.uk/
+    Rating:  4.9 (106 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36614
+    URL: https://glasgowtrader.co.uk/listing/lucas-all-trade-handyman-and-property-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/14] HandyFix Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Craigvale Cres, Airdrie ML6 8EP, UK
+    Phone:   07792 936777
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36616
+    URL: https://glasgowtrader.co.uk/listing/handyfix-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] Mani Handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36566 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [6/14] NJ Home Solutions | Handyman Glasgow - Property Maintenance - Plasterer - Painter and Decorator
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36554 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [7/14] Southside Handyman - Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36550 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [8/14] Glasgow Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36552 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [9/14] Higgins garden maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33808 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [10/14] SAS Property Maintenance ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1, 57 Motherwell St, Airdrie ML6 7HP, UK
+    Phone:   01506 243443
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36618
+    URL: https://glasgowtrader.co.uk/listing/sas-property-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/14] REVIVE 💜 Property Maintenance Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28520 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [12/14] david pyott roofing and building maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34972 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [13/14] CR Properties & Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Bank St, Airdrie ML6 6AF, UK
+    Phone:   07831 545624
+    Website: https://www.crpropertiesletting.com/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36620
+    URL: https://glasgowtrader.co.uk/listing/cr-properties-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] Cargill Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 45 George St, New Stevenston, Motherwell ML1 4NQ, UK
+    Phone:   01698 833465
+    Website: N/A
+    Rating:  5 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36622
+    URL: https://glasgowtrader.co.uk/listing/cargill-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   14
+  Created: 7
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

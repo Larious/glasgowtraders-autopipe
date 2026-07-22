@@ -1,0 +1,223 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  2420 existing listings on site
+  Ledger: 2403 place_ids
+
+[SEARCH] Finding handymans in Paisley...
+  Found 18 candidates (16 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/18] Glasgow Handyman Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28539 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [2/18] Paisley Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36586 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [3/18] D J J K R Handy Man Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Thrushcraig Cres, Paisley PA2 6PR, UK
+    Phone:   07990 812862
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36592
+    URL: https://glasgowtrader.co.uk/listing/d-j-j-k-r-handy-man-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/18] Handyman Plumber Painter Decorator Tiler Multimac
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36436 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [5/18] Southside Handyman - Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36550 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [6/18] Renfrewshire Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Torr Rd, Bridge of Weir PA11 3BE, UK
+    Phone:   0141 295 0151
+    Website: N/A
+    Rating:  3 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36594
+    URL: https://glasgowtrader.co.uk/listing/renfrewshire-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/18] Glasgow Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36552 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [8/18] TaskTamer Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36560 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [9/18] Laing’s Property Maintenance LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Bardrain Rd, Glenburn, Paisley PA2 8LD, UK
+    Phone:   07761 807325
+    Website: http://www.laingscleaning.co.uk/
+    Rating:  5 (86 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36596
+    URL: https://glasgowtrader.co.uk/listing/laings-property-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/18] NJ Home Solutions | Handyman Glasgow - Property Maintenance - Plasterer - Painter and Decorator
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36554 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [11/18] Complex Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Viewpark Gardens, Renfrew PA4 8HA, UK
+    Phone:   07947 771817
+    Website: https://complex-maintenance.co.uk/
+    Rating:  4.6 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36598
+    URL: https://glasgowtrader.co.uk/listing/complex-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/18] Dalry Handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 53a Sharon St, Dalry KA24 5DT, UK
+    Phone:   07598 881429
+    Website: http://www.dalryhandyman.com/
+    Rating:  4.9 (32 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36600
+    URL: https://glasgowtrader.co.uk/listing/dalry-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/18] Stephen Sharp - handyman Glasgow (West End)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36556 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [14/18] RVE Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 250 Gilmartin Rd, Linwood, Paisley PA3 3ST, UK
+    Phone:   07813 218302
+    Website: https://rvepropertymaintenance.uk/
+    Rating:  3 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36602
+    URL: https://glasgowtrader.co.uk/listing/rve-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/18] Metrashev Property Maintenance & Renovations
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 21 Pearson Pl, Linwood, Paisley PA3 3EN, UK
+    Phone:   07706 682667
+    Website: https://www.facebook.com/share/1Ca9zG7LPm/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36604
+    URL: https://glasgowtrader.co.uk/listing/metrashev-property-maintenance-renovations/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/18] A D B Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Mansionhouse Rd, Paisley PA1 3RF, UK
+    Phone:   07855 261105
+    Website: http://www.adbproperty.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36606
+    URL: https://glasgowtrader.co.uk/listing/a-d-b-property-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/18] Commercial Property Maintenance Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 114 Main Rd, Elderslie, Johnstone PA5 9AX, UK
+    Phone:   01505 382333
+    Website: https://www.cpms.uk.com/
+    Rating:  4.1 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36608
+    URL: https://glasgowtrader.co.uk/listing/commercial-property-maintenance-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/18] REVIVE 💜 Property Maintenance Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28520 — attached location 'Paisley' instead
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   18
+  Created: 9
+  Skipped: 9 (already existed)
+  Failed:  0
+============================================================

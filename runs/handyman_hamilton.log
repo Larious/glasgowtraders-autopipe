@@ -1,0 +1,138 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  2446 existing listings on site
+  Ledger: 2429 place_ids
+
+[SEARCH] Finding handymans in Hamilton...
+  Found 13 candidates (11 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] Lucas All Trade Handyman and Property Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36614 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/13] The Handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Carron Ct, Hamilton ML3 8TD, UK
+    Phone:   01698 301862
+    Website: N/A
+    Rating:  3 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36644
+    URL: https://glasgowtrader.co.uk/listing/the-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/13] NJ Home Solutions | Handyman Glasgow - Property Maintenance - Plasterer - Painter and Decorator
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36554 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [4/13] Property handyman services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36624 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [5/13] Glasgow Handyman Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28539 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [6/13] Glasgow Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36552 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/13] SANDA Maintenance Group Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Church St, Hamilton, Glasgow ML3 6BA, UK
+    Phone:   0141 212 7985
+    Website: https://www.sandamaintenance.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36646
+    URL: https://glasgowtrader.co.uk/listing/sanda-maintenance-group-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/13] REVIVE 💜 Property Maintenance Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28520 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [9/13] ML Property Maintenance & Exterior Cleaning
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36628 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [10/13] Commercial Property Maintenance Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36608 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [11/13] Lanarkshire Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Shaw's Rd, Larkhall ML9 2TR, UK
+    Phone:   0141 530 7613
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36648
+    URL: https://glasgowtrader.co.uk/listing/lanarkshire-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/13] CMR Scotland Property Maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36572 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [13/13] Central Scotland Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Lomond View, Hamilton ML3 9UZ, UK
+    Phone:   01698 651831
+    Website: http://www.centralscotlandmaintenance.co.uk/
+    Rating:  4 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36650
+    URL: https://glasgowtrader.co.uk/listing/central-scotland-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   13
+  Created: 4
+  Skipped: 9 (already existed)
+  Failed:  0
+============================================================

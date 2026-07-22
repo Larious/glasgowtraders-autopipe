@@ -1,0 +1,151 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  2515 existing listings on site
+  Ledger: 2498 place_ids
+
+[SEARCH] Finding handymans in Carluke...
+  Found 18 candidates (12 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/18] Lucas All Trade Handyman and Property Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36614 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [2/18] Property handyman services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36624 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [3/18] Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 16 Milledge, Carluke ML8 4FD, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36782
+    URL: https://glasgowtrader.co.uk/listing/handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/18] Clyde Valley Handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Cartier Ct, Blackwood, Kirkmuirhill, Lanark ML11 9GN, UK
+    Phone:   07368 466545
+    Website: https://www.clydevalleyhandyman.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36784
+    URL: https://glasgowtrader.co.uk/listing/clyde-valley-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/18] Dalry Handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36600 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [6/18] flowman & handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36638 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [7/18] The Handyman
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36644 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [8/18] Southside Handyman - Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36550 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [9/18] NJ Home Solutions | Handyman Glasgow - Property Maintenance - Plasterer - Painter and Decorator
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36554 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [10/18] TaskTamer Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36560 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [11/18] Affordable Maids And Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36610 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [12/18] H S W Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Woodlands Ave, Law, Carluke ML8 5JL, UK
+    Phone:   07977 195462
+    Website: N/A
+    Rating:  1 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36786
+    URL: https://glasgowtrader.co.uk/listing/h-s-w-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/18] ML Property Maintenance & Exterior Cleaning
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36628 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [14/18] Clyde Property Maintenance & Industrial Cleaning
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36662 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [15/18] Commercial Property Maintenance Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36608 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [16/18] Lanark Garden Maintenance & Gardener Service
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34252 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [17/18] Paisley Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36586 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [18/18] Laing’s Property Maintenance LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36596 — attached location 'Carluke' instead
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   18
+  Created: 3
+  Skipped: 15 (already existed)
+  Failed:  0
+============================================================

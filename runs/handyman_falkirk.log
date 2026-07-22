@@ -1,0 +1,313 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Handyman
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  2486 existing listings on site
+  Ledger: 2469 place_ids
+
+[SEARCH] Finding handymans in Falkirk...
+  Found 24 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/24] Falkirk handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Marchmont Ave, Polmont, Falkirk FK2 0GQ, UK
+    Phone:   07716 721365
+    Website: http://falkirk-handyman.co.uk/
+    Rating:  4.9 (77 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36724
+    URL: https://glasgowtrader.co.uk/listing/falkirk-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/24] Amigo Handyman Services | Kitchen and Bathroom Installer in Falkirk and Stirling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36208 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [3/24] Odd Jobs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Wall Gardens, Camelon, Falkirk FK1 4HX, UK
+    Phone:   07979 624230
+    Website: http://www.oddjobsfalkirk.co.uk/
+    Rating:  4.4 (16 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36726
+    URL: https://glasgowtrader.co.uk/listing/odd-jobs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/24] Easy Peasy Pawel - Handyman And Joinery Service
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36678 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [5/24] Handyman Baz
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Broompark Gardens, Denny FK6 6NU, UK
+    Phone:   07902 834677
+    Website: http://www.handymanbaz.com/
+    Rating:  4.2 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36728
+    URL: https://glasgowtrader.co.uk/listing/handyman-baz/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/24] Central Scotland Handyman
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Fowler Cres, Maddiston, Falkirk FK2 0BZ, UK
+    Phone:   07590 593374
+    Website: N/A
+    Rating:  4.4 (10 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36730
+    URL: https://glasgowtrader.co.uk/listing/central-scotland-handyman/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/24] Central Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Dovehill, Alloa FK10 2BD, UK
+    Phone:   07988 219731
+    Website: https://centralhandymanservices.co.uk/
+    Rating:  5 (38 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36732
+    URL: https://glasgowtrader.co.uk/listing/central-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/24] Bond Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Cotton Row, Deanston, Doune FK16 6BF, UK
+    Phone:   07429 666859
+    Website: https://www.bondhandymanservices.co.uk/
+    Rating:  5 (45 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36734
+    URL: https://glasgowtrader.co.uk/listing/bond-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/24] Stephen Sharp - handyman Glasgow (West End)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36556 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [10/24] Hislop Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Arnothill Gardens, Falkirk FK1 5BQ, UK
+    Phone:   07801 653651
+    Website: https://www.hislophandymanservices.co.uk/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36736
+    URL: https://glasgowtrader.co.uk/listing/hislop-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/24] TaskTamer Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36560 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [12/24] Glasgow Handyman Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36552 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [13/24] Simon's Handyman Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Torwood Ave, Larbert FK5 4NG, UK
+    Phone:   07811 458709
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36738
+    URL: https://glasgowtrader.co.uk/listing/simons-handyman-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/24] Property Maintenance Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36684 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [15/24] Stronghold property maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Summerford Rd, Falkirk FK1 5DG, UK
+    Phone:   07348 216988
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36740
+    URL: https://glasgowtrader.co.uk/listing/stronghold-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/24] Premier Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Industrial Estate, 10 Primrose Ave, Grangemouth FK3 8YD, UK
+    Phone:   07449 089509
+    Website: https://premier-maintenance.com/
+    Rating:  5 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36742
+    URL: https://glasgowtrader.co.uk/listing/premier-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/24] REVIVE 💜 Property Maintenance Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 28520 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [18/24] Braes Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Blackmount Terrace, Maddiston, Falkirk FK2 0NN, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36744
+    URL: https://glasgowtrader.co.uk/listing/braes-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/24] Maintenance & Building Preservation Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Dalgrain House, 81 Dalgrain Rd, Grangemouth FK3 8HL, UK
+    Phone:   01324 665141
+    Website: https://www.mabpreservation.co.uk/
+    Rating:  3 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36746
+    URL: https://glasgowtrader.co.uk/listing/maintenance-building-preservation-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [20/24] Edin Maintenance Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37 Alder Grove, Laurieston, Falkirk FK2 9SU, UK
+    Phone:   07455 701633
+    Website: https://edindriveways.co.uk/
+    Rating:  4.5 (24 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36748
+    URL: https://glasgowtrader.co.uk/listing/edin-maintenance-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [21/24] Avf Property Maintenance
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 34 Argyll Path, Denny FK6 5EW, UK
+    Phone:   07565 851655
+    Website: https://www.a-v-f-property-maintenance.co.uk/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36750
+    URL: https://glasgowtrader.co.uk/listing/avf-property-maintenance/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [22/24] Jm property maintenance
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36632 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [23/24] AD Roofing And Property Maintenance Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35164 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [24/24] Commercial Property Maintenance Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36608 — attached location 'Falkirk' instead
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   24
+  Created: 14
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================
