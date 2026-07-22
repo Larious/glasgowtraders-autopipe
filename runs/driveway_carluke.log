@@ -1,0 +1,69 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  2977 existing listings on site
+  Ledger: 2962 place_ids
+
+[SEARCH] Finding driveways & patioss in Carluke...
+  Found 4 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] Miller Paving Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, Law, Carluke ML8 5ET, UK
+    Phone:   0141 374 2411
+    Website: http://www.millerpavingltd.co.uk/
+    Rating:  2.7 (7 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37710
+    URL: https://glasgowtrader.co.uk/listing/miller-paving-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/4] Advanced Driveways Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37658 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [3/4] First time driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37660 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [4/4] (Road Surfacing) (tarmac Driveways) Lanarkshire Glasgow. Wjt Trades Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Tileworks yard, Waterlands Rd, Law, Carluke ML8 5EX, UK
+    Phone:   01555 807511
+    Website: http://wjttradesltd.co.uk/
+    Rating:  3.8 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37712
+    URL: https://glasgowtrader.co.uk/listing/road-surfacing-tarmac-driveways-lanarkshire-glasgow-wjt-trades-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   4
+  Created: 2
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

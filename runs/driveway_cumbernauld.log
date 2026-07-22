@@ -1,0 +1,87 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  2966 existing listings on site
+  Ledger: 2951 place_ids
+
+[SEARCH] Finding driveways & patioss in Cumbernauld...
+  Found 10 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] The Prestige Paving Company Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Braesburn Ct, Cumbernauld, Glasgow G67 3PU, UK
+    Phone:   0800 599 9011
+    Website: http://theprestigepavingcompany.co.uk/
+    Rating:  5 (18 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37688
+    URL: https://glasgowtrader.co.uk/listing/the-prestige-paving-company-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/10] Neil Walker Landscaping & Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33982 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [3/10] Driveways Excel
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37632 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [4/10] Dunskey Landscapes and Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34332 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [5/10] Ace Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37662 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [6/10] Central Scotland Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37628 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [7/10] Advanced Driveways Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37658 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [8/10] Country Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37638 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [9/10] The Glasgow Paving Company Resin Driveways, Block Paving & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37630 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [10/10] First time driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37660 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   10
+  Created: 1
+  Skipped: 9 (already existed)
+  Failed:  0
+============================================================

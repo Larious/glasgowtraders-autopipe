@@ -1,0 +1,92 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  2965 existing listings on site
+  Ledger: 2950 place_ids
+
+[SEARCH] Finding driveways & patioss in Clydebank...
+  Found 11 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] Central Scotland Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37628 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [2/11] Driveways Excel
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37632 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [3/11] Thistle Driveway Specialist
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37640 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [4/11] Indie Paving Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37642 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [5/11] Kingsway Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37636 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [6/11] Neil Walker Landscaping & Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33982 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [7/11] The Glasgow Paving Company Resin Driveways, Block Paving & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37630 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [8/11] Kingsway Driveways Paisley
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37654 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [9/11] Glasgow Resin Driveways LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37644 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [10/11] Block Solid Paving
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37648 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [11/11] Forrester Paving & Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Rotherwood Ave, Glasgow G13 2RJ, UK
+    Phone:   0141 237 3176
+    Website: N/A
+    Rating:  3.4 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37686
+    URL: https://glasgowtrader.co.uk/listing/forrester-paving-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   11
+  Created: 1
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,79 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  2967 existing listings on site
+  Ledger: 2952 place_ids
+
+[SEARCH] Finding driveways & patioss in Dumbarton...
+  Found 6 candidates (14 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/6] Complete Paving Requirements (Scotland) Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Complete Paving Requirements (Scotland) Ltd, Millburn Road Depot, Main St, Renton, Dumbarton G82 4PZ, UK
+    Phone:   01389 751797
+    Website: http://www.cpr-resurfacing.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37690
+    URL: https://glasgowtrader.co.uk/listing/complete-paving-requirements-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/6] Central Scotland Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37628 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [3/6] Thistle Driveway Specialist
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37640 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [4/6] Platinum Paving
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Greenock PA15 2AX, UK
+    Phone:   01475 268308
+    Website: https://www.platinum-paving.com/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37692
+    URL: https://glasgowtrader.co.uk/listing/platinum-paving/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/6] Kingsway Driveways Paisley
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37654 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [6/6] Block Solid Paving
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37648 — attached location 'Dumbarton' instead
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   6
+  Created: 2
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

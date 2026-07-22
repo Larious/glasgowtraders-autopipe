@@ -1,0 +1,69 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  2972 existing listings on site
+  Ledger: 2957 place_ids
+
+[SEARCH] Finding driveways & patioss in Falkirk...
+  Found 4 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] Avant Paving Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 The Hedges, Camelon, Falkirk FK1 4DZ, UK
+    Phone:   0800 696 5188
+    Website: N/A
+    Rating:  4.4 (13 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37700
+    URL: https://glasgowtrader.co.uk/listing/avant-paving-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/4] Thistle Landscaping & Paving contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34126 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [3/4] Landscape Paving
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 67 Fairlie St, Camelon, Falkirk FK1 4NH, UK
+    Phone:   07812 364530
+    Website: https://dotukmap.org/details/landscape-paving-ChIJKVe
+    Rating:  5 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37702
+    URL: https://glasgowtrader.co.uk/listing/landscape-paving/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/4] Central Scotland Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37628 — attached location 'Falkirk' instead
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   4
+  Created: 2
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,74 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  2974 existing listings on site
+  Ledger: 2959 place_ids
+
+[SEARCH] Finding driveways & patioss in Stirling...
+  Found 5 candidates (13 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/5] Heritage landscaping and driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34170 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [2/5] Kingsway Driveways Alloa
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Greenhead, Alva FK12 5HG, UK
+    Phone:   01259 682016
+    Website: https://kingswaydriveways.co.uk/driveways-alloa/
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37704
+    URL: https://glasgowtrader.co.uk/listing/kingsway-driveways-alloa/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/5] Central Scotland Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37628 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [4/5] Driveways Excel
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37632 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [5/5] Allison's paving and landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Wilson Ave, Denny FK6 6AJ, UK
+    Phone:   07986 445014
+    Website: N/A
+    Rating:  3.9 (16 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37706
+    URL: https://glasgowtrader.co.uk/listing/allisons-paving-and-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   5
+  Created: 2
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

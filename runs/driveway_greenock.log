@@ -1,0 +1,55 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  2972 existing listings on site
+  Ledger: 2957 place_ids
+
+[SEARCH] Finding driveways & patioss in Greenock...
+  Found 6 candidates (13 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/6] Platinum Paving
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37692 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [2/6] P mccann landscaping and driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34088 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [3/6] Central Scotland Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37628 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [4/6] Ayrshire Driveways and Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37694 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [5/6] Kingsway Driveways Paisley
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37654 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [6/6] Thistle Driveway Specialist
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37640 — attached location 'Greenock' instead
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   6
+  Created: 0
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

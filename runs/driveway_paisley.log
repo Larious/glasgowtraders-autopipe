@@ -1,0 +1,89 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  2950 existing listings on site
+  Ledger: 2934 place_ids
+
+[SEARCH] Finding driveways & patioss in Paisley...
+  Found 8 candidates (12 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/8] Kingsway Driveways Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Fingal Ave, Renfrew PA4 8FT, UK
+    Phone:   0141 366 0015
+    Website: http://www.kingswaydriveways.co.uk/paisely
+    Rating:  5 (6 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37654
+    URL: https://glasgowtrader.co.uk/listing/kingsway-driveways-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/8] Central Scotland Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37628 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [3/8] Thistle Driveway Specialist
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37640 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [4/8] Executive Driveways/Paisley
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Mid Risk Farm, Howwood, Johnstone PA9 6RJ, UK
+    Phone:   N/A
+    Website: https://excutivedriveways-paisley.ueniweb.com/?utm_campaign=gmb
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37656
+    URL: https://glasgowtrader.co.uk/listing/executive-driveways-paisley/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/8] Country Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37638 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [6/8] The Glasgow Paving Company Resin Driveways, Block Paving & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37630 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [7/8] Driveways Excel
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37632 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [8/8] Kingsway Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37636 — attached location 'Paisley' instead
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   8
+  Created: 2
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

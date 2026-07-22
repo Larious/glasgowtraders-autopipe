@@ -1,0 +1,101 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  2962 existing listings on site
+  Ledger: 2947 place_ids
+
+[SEARCH] Finding driveways & patioss in Hamilton...
+  Found 10 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] Advanced Driveways Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37658 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/10] Central Scotland Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37628 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/10] First time driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37660 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [4/10] Indie Paving Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37642 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [5/10] Driveways Excel
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37632 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [6/10] Shawn The Driveway Guy
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+  SKIP: non-UK address — 307 E 34th St, Hamilton, ON L8V 3X2, Canada
+
+────────────────────────────────────────────────────────────
+  [7/10] Hamilton Tarmac
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2, Liffnock Yard, Hurlford, Kilmarnock KA1 5JE, UK
+    Phone:   01563 820992
+    Website: http://www.hamilton-tarmac.co.uk/
+    Rating:  4.2 (12 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37680
+    URL: https://glasgowtrader.co.uk/listing/hamilton-tarmac/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/10] Glasgow Resin Driveways LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37644 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [9/10] Hamilton Driveway Sealing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+  SKIP: non-UK address — 595 Rymal Rd E #17, Hamilton, ON L8W 3V6, Canada
+
+────────────────────────────────────────────────────────────
+  [10/10] Hamilton Paving
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Albion Cres, Chalfont Saint Giles HP8 4EU, UK
+    Phone:   07803 842558
+    Website: https://www.hamiltonpaving.co.uk/
+    Rating:  4.9 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37682
+    URL: https://glasgowtrader.co.uk/listing/hamilton-paving/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   10
+  Created: 2
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

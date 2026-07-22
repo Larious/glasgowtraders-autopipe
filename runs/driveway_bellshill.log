@@ -1,0 +1,133 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  2959 existing listings on site
+  Ledger: 2943 place_ids
+
+[SEARCH] Finding driveways & patioss in Bellshill...
+  Found 12 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] JMF DRIVEWAYS AND LANDSCAPING
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33844 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [2/12] Advanced Driveways Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37658 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [3/12] mossenddriveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37666 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [4/12] First time driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37660 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [5/12] Tarmac Bellshill Contracting
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Cambusnethan House, Linnet Way, Bellshill ML4 3NJ, UK
+    Phone:   01698 575500
+    Website: https://www.tarmac.com/locations/Bellshill-Contracting/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37672
+    URL: https://glasgowtrader.co.uk/listing/tarmac-bellshill-contracting/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/12] Prestige Paving & Landscaping Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 34 Netherwood Rd, Wishaw, Motherwell ML1 2LE, UK
+    Phone:   01698 642535
+    Website: N/A
+    Rating:  3.7 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37674
+    URL: https://glasgowtrader.co.uk/listing/prestige-paving-landscaping-ltd-2/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/12] Prestige Paving & Landscaping Ltd
+────────────────────────────────────────────────────────────
+  SKIP: Already exists on site
+
+────────────────────────────────────────────────────────────
+  [8/12] Wug Paving & Groundworks Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Panmuir Crescent, Newarthill, Motherwell ML1 5UR, UK
+    Phone:   07980 036873
+    Website: http://wugpaving.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37676
+    URL: https://glasgowtrader.co.uk/listing/wug-paving-groundworks-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/12] Ace Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37662 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [10/12] Indie Paving Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37642 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [11/12] Driveways Excel
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37632 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [12/12] Motherwell Driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Cornelia St, Motherwell ML1 3RY, UK
+    Phone:   07455 993139
+    Website: https://ukdrivewaysgroup.co.uk/driveways-in-motherwell/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37678
+    URL: https://glasgowtrader.co.uk/listing/motherwell-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   12
+  Created: 4
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

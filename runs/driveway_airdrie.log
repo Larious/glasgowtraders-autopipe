@@ -1,0 +1,174 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  2952 existing listings on site
+  Ledger: 2936 place_ids
+
+[SEARCH] Finding driveways & patioss in Airdrie...
+  Found 13 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] Advanced Driveways Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Oakfield Tower, 378 Brandon St, Motherwell ML1 1XA, UK
+    Phone:   0800 747 1776
+    Website: http://www.advanceddrivewaysltd.com/
+    Rating:  4.9 (27 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37658
+    URL: https://glasgowtrader.co.uk/listing/advanced-driveways-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] First time driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 96 Omoa Rd, Cleland, Motherwell ML1 5RE, UK
+    Phone:   07882 205542
+    Website: https://firsttimedriveways.com/
+    Rating:  5 (145 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37660
+    URL: https://glasgowtrader.co.uk/listing/first-time-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/13] Ace Driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Kelvin House, 87 Calder St, Coatbridge ML5 4EY, UK
+    Phone:   07990 927004
+    Website: http://www.drivewaysbyace.co.uk/
+    Rating:  4.2 (5 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37662
+    URL: https://glasgowtrader.co.uk/listing/ace-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/13] Neil Walker Landscaping & Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33982 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [5/13] Central Scotland Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37628 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [6/13] Country Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37638 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [7/13] Driveways By Premier
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit B, 19 Hogg St, Airdrie ML6 9JH, UK
+    Phone:   07925 262803
+    Website: https://www.premiergroupscotland.co.uk/
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37664
+    URL: https://glasgowtrader.co.uk/listing/driveways-by-premier/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/13] JMF DRIVEWAYS AND LANDSCAPING
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33844 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [9/13] The Glasgow Paving Company Resin Driveways, Block Paving & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37630 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [10/13] mossenddriveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 34 Juniper Rd, Uddingston, Glasgow G71 5AZ, UK
+    Phone:   07900 677520
+    Website: https://mossenddriveways.co.uk/?utm_campaign=gmb
+    Rating:  5 (83 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37666
+    URL: https://glasgowtrader.co.uk/listing/mossenddriveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/13] Driveways Excel
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37632 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [12/13] Tarmac Cairneyhill Asphalt Plant
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Forrest Rd, Caldercruix, Airdrie ML6 8NX, UK
+    Phone:   0191 492 4444
+    Website: https://www.tarmac.com/locations/Cairneyhill-Asphalt-Plant/
+    Rating:  4.2 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37668
+    URL: https://glasgowtrader.co.uk/listing/tarmac-cairneyhill-asphalt-plant/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] J&L Roadsurfacing Contractors - Asphalt & Tarmac Contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11b humbie holdings, Kirknewton EH27 8DS, UK
+    Phone:   07889 247905
+    Website: https://www.jlroadsurfacing.co.uk/
+    Rating:  4.8 (29 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37670
+    URL: https://glasgowtrader.co.uk/listing/jl-roadsurfacing-contractors-asphalt-tarmac-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   13
+  Created: 7
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,52 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  2976 existing listings on site
+  Ledger: 2961 place_ids
+
+[SEARCH] Finding driveways & patioss in Bathgate...
+  Found 3 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/3] Blacktop Paving Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Emporium Building, 6 Whitburn Rd, Bathgate EH48 1HH, UK
+    Phone:   01506 637552
+    Website: https://www.blacktopltd.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37708
+    URL: https://glasgowtrader.co.uk/listing/blacktop-paving-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/3] J&L Roadsurfacing Contractors - Asphalt & Tarmac Contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37670 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [3/3] Prestige Paving & landscaping ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34606 — attached location 'Bathgate' instead
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   3
+  Created: 1
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

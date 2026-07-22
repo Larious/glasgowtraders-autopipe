@@ -1,0 +1,82 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  2964 existing listings on site
+  Ledger: 2949 place_ids
+
+[SEARCH] Finding driveways & patioss in East Kilbride...
+  Found 9 candidates (11 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] Central Scotland Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37628 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [2/9] The Glasgow Paving Company Resin Driveways, Block Paving & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37630 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [3/9] Indie Paving Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37642 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [4/9] Advanced Driveways Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37658 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [5/9] Driveways Excel
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37632 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [6/9] G&J Allison Driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Evan Cres, Giffnock, Glasgow G46 6NJ, UK
+    Phone:   07914 400448
+    Website: https://www.gadriveways.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37684
+    URL: https://glasgowtrader.co.uk/listing/gj-allison-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/9] S.Driveways & Landscapes
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37646 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [8/9] Glasgow Resin Driveways LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37644 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [9/9] Glen Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37650 — attached location 'East Kilbride' instead
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   9
+  Created: 1
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

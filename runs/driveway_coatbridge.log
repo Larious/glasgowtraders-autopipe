@@ -1,0 +1,30 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  2959 existing listings on site
+  Ledger: 2943 place_ids
+
+[SEARCH] Finding driveways & patioss in Coatbridge...
+  Found 1 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/1] Ace Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37662 — attached location 'Coatbridge' instead
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   1
+  Created: 0
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

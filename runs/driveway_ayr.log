@@ -1,0 +1,91 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  2969 existing listings on site
+  Ledger: 2954 place_ids
+
+[SEARCH] Finding driveways & patioss in Ayr...
+  Found 6 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/6] Driveway & Landscape Design
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34044 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [2/6] Ayrshire Driveways and Patios
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 27 Magbiehill Park, Dunlop Rd, Stewarton, Kilmarnock KA3 3ES, UK
+    Phone:   01560 318349
+    Website: http://www.ayrshiredrivewaysandpatios.com/
+    Rating:  4.3 (6 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37694
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-driveways-and-patios/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/6] DM DRIVEWAYS
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 46 Loudon Cres, Kilwinning KA13 6TS, UK
+    Phone:   07946 161568
+    Website: http://www.dm-driveways.co.uk/
+    Rating:  4.8 (21 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37696
+    URL: https://glasgowtrader.co.uk/listing/dm-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/6] Central Paving & Landscaping Ayrshire
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34496 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [5/6] The Driveway Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3c, Portland Business Park, Irvine KA12 8LW, UK
+    Phone:   07500 137401
+    Website: http://www.drivewaysayrshire.co.uk/
+    Rating:  4.3 (6 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37698
+    URL: https://glasgowtrader.co.uk/listing/the-driveway-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/6] S & C Driveways, Landscapes Tarmac & Block Paving Specialists
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34522 — attached location 'Ayr' instead
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   6
+  Created: 3
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

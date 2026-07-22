@@ -1,0 +1,256 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Driveways & Patios
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  2937 existing listings on site
+  Ledger: 2921 place_ids
+
+[SEARCH] Finding driveways & patioss in Glasgow...
+  Found 15 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Central Scotland Driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Ste 1B, 38 Queen St, Glasgow G1 3DX, UK
+    Phone:   0141 530 5790
+    Website: http://www.centralscotlanddriveways.com/
+    Rating:  5 (136 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37628
+    URL: https://glasgowtrader.co.uk/listing/central-scotland-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] The Glasgow Paving Company Resin Driveways, Block Paving & Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Red Tree Magenta, Glasgow Rd, Rutherglen, Glasgow G73 1SA, UK
+    Phone:   0141 673 8400
+    Website: https://glasgowpaving.net/
+    Rating:  4.9 (50 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37630
+    URL: https://glasgowtrader.co.uk/listing/the-glasgow-paving-company-resin-driveways-block-paving-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] Driveways Excel
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Mossbank Ave, Glasgow G33 1LJ, UK
+    Phone:   07966 165998
+    Website: http://www.drivewaysexcel.co.uk/
+    Rating:  4.8 (134 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37632
+    URL: https://glasgowtrader.co.uk/listing/driveways-excel/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] Glasgow driveway and paving ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2/3, 48, Clyde Offices, W George St, Glasgow G2 1BP, UK
+    Phone:   07368 100736
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37634
+    URL: https://glasgowtrader.co.uk/listing/glasgow-driveway-and-paving-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] Kingsway Driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 145 Kilmarnock Rd, Shawlands, Glasgow G41 3JE, UK
+    Phone:   0141 366 0015
+    Website: https://kingswaydriveways.co.uk/driveways-glasgow/
+    Rating:  5 (17 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37636
+    URL: https://glasgowtrader.co.uk/listing/kingsway-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] Country Driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 28, 126 W Regent St, Glasgow G2 2RQ, UK
+    Phone:   0141 280 7676
+    Website: https://www.countrydriveways.com/
+    Rating:  5 (19 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37638
+    URL: https://glasgowtrader.co.uk/listing/country-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/15] Neil Walker Landscaping & Driveways
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33982 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] Thistle Driveway Specialist
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Baldovie Rd, Glasgow G52 3EX, UK
+    Phone:   07542 097987
+    Website: https://www.drivewaysglasgow.net/
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37640
+    URL: https://glasgowtrader.co.uk/listing/thistle-driveway-specialist/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] Indie Paving Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 38 Lady Nancy Cres, Glasgow G72 9BF, UK
+    Phone:   0141 212 9965
+    Website: https://www.indiepaving.co.uk/
+    Rating:  5 (69 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37642
+    URL: https://glasgowtrader.co.uk/listing/indie-paving-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/15] Glasgow Resin Driveways LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 79-82 Oswald St, Glasgow G1 4PL, UK
+    Phone:   0141 673 0332
+    Website: https://glasgowresindrivewaysltd.co.uk/
+    Rating:  3.9 (7 reviews)
+    Hours:   3 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37644
+    URL: https://glasgowtrader.co.uk/listing/glasgow-resin-driveways-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/15] S.Driveways & Landscapes
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 138 Kingswood Dr, Glasgow G44 4RB, UK
+    Phone:   07960 354532
+    Website: https://sdriveways.com/
+    Rating:  5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37646
+    URL: https://glasgowtrader.co.uk/listing/s-driveways-landscapes/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] Block Solid Paving
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Sanquhar Rd, Glasgow G53 7FU, UK
+    Phone:   07776 310261
+    Website: https://www.blocksolidpaving.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37648
+    URL: https://glasgowtrader.co.uk/listing/block-solid-paving/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] Glen Driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 42 Kerrycroy Ave, Glasgow G42 0AB, UK
+    Phone:   07815 308289
+    Website: http://www.glendriveways.co.uk/
+    Rating:  3.7 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37650
+    URL: https://glasgowtrader.co.uk/listing/glen-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] Landscape Gardeners Glasgow - Decking, Driveways, Fencing & Patios
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33631 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [15/15] Right resin driveways
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48west, George St, Glasgow G2 1BP, UK
+    Phone:   0800 145 5928
+    Website: N/A
+    Rating:  2.6 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37652
+    URL: https://glasgowtrader.co.uk/listing/right-resin-driveways/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   15
+  Created: 13
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================
