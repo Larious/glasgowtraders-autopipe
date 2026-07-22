@@ -1,0 +1,42 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  2384 existing listings on site
+  Ledger: 2367 place_ids
+
+[SEARCH] Finding tilers in Greenock...
+  Found 1 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/1] Bath & Tile Studio - Greenock
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 150 Lynedoch St, Greenock PA15 4AJ, UK
+    Phone:   01475 603270
+    Website: https://www.bathandtilestudio.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36520
+    URL: https://glasgowtrader.co.uk/listing/bath-tile-studio-greenock/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   1
+  Created: 1
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

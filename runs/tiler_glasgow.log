@@ -1,0 +1,297 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  2320 existing listings on site
+  Ledger: 2303 place_ids
+
+[SEARCH] Finding tilers in Glasgow...
+  Found 16 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] Hyndland Tiling Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 80 Ferry Rd, Glasgow G3 8QX, UK
+    Phone:   07719 591973
+    Website: https://hyndlandtilingservices.com/
+    Rating:  5 (164 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36392
+    URL: https://glasgowtrader.co.uk/listing/hyndland-tiling-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/16] Max Tiling Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 62 Summertown Rd, Glasgow G51 2PZ, UK
+    Phone:   07494 854303
+    Website: https://maxtiling.co.uk/
+    Rating:  5 (61 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36394
+    URL: https://glasgowtrader.co.uk/listing/max-tiling-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/16] Dundee Prestige Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4/1, 91 Mitchell St, Glasgow G1 3LN, UK
+    Phone:   07380 243004
+    Website: https://dundeeprestigetiling.co.uk/
+    Rating:  5 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36396
+    URL: https://glasgowtrader.co.uk/listing/dundee-prestige-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/16] A Major Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 99 Hillend Rd, Clarkston, Glasgow G76 7XT, UK
+    Phone:   07813 253096
+    Website: N/A
+    Rating:  5 (19 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36398
+    URL: https://glasgowtrader.co.uk/listing/a-major-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] Busby Precision tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 104B E Kilbride Rd, Busby, Glasgow G76 8JF, UK
+    Phone:   07817 508409
+    Website: https://www.busbyprecisiontiling.co.uk/
+    Rating:  5 (19 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36400
+    URL: https://glasgowtrader.co.uk/listing/busby-precision-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] JB Tiling Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 73 Springboig Rd, Glasgow G32 0DB, UK
+    Phone:   07506 300638
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36402
+    URL: https://glasgowtrader.co.uk/listing/jb-tiling-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] Brodrick Tiling Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Teith St, Glasgow G33 2NH, UK
+    Phone:   0141 770 5770
+    Website: http://www.brodricktiling.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36404
+    URL: https://glasgowtrader.co.uk/listing/brodrick-tiling-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/16] Bespoke Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Tannochside Park, Kinning Park, Uddingston, Glasgow G71 5JA, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36406
+    URL: https://glasgowtrader.co.uk/listing/bespoke-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/16] Bishopbriggs Tile & Bathroom Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Crowhill Rd, Bishopbriggs, Glasgow G64 1FT, UK
+    Phone:   0141 339 2648
+    Website: http://tilebathroomcentre.com/
+    Rating:  5 (17 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36408
+    URL: https://glasgowtrader.co.uk/listing/bishopbriggs-tile-bathroom-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/16] Aegean Tiling limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 40 Shannon St, Glasgow G20 9QY, UK
+    Phone:   07824 903019
+    Website: https://aegeantiling.com/
+    Rating:  4 (4 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36410
+    URL: https://glasgowtrader.co.uk/listing/aegean-tiling-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] A1 Tiling Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Durris Gardens, Glasgow G32 9PD, UK
+    Phone:   07725 363534
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36412
+    URL: https://glasgowtrader.co.uk/listing/a1-tiling-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/16] POL-TILE SERVICES LIMITED
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27 Rosneath St, Glasgow G51 3BG, UK
+    Phone:   07928 185523
+    Website: http://www.poltile.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36414
+    URL: https://glasgowtrader.co.uk/listing/pol-tile-services-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] Tile Direct
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 59 Commerce St, Kinning Park, Glasgow G5 8AD, UK
+    Phone:   0141 429 3111
+    Website: https://www.tiledirectglasgow.com/
+    Rating:  4.6 (18 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36416
+    URL: https://glasgowtrader.co.uk/listing/tile-direct/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] Glasgow Tiling Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Clyde Offices - GTS, 2nd Floor, 48 W George St, Glasgow G2 1BP, UK
+    Phone:   0141 363 0239
+    Website: https://glasgow.tiling-services.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36418
+    URL: https://glasgowtrader.co.uk/listing/glasgow-tiling-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] Bathroom & Tiling Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Daleview Ave, Glasgow G12 0HE, UK
+    Phone:   0141 579 2967
+    Website: http://www.bathroomandtiling.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36420
+    URL: https://glasgowtrader.co.uk/listing/bathroom-tiling-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/16] Cm Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Merrylee Cres, Giffnock, Glasgow G46 6AP, UK
+    Phone:   N/A
+    Website: https://businewmap.org/details/cm-tiling-ChIJScG
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36422
+    URL: https://glasgowtrader.co.uk/listing/cm-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   16
+  Created: 16
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

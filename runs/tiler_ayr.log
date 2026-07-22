@@ -1,0 +1,239 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  2372 existing listings on site
+  Ledger: 2355 place_ids
+
+[SEARCH] Finding tilers in Ayr...
+  Found 14 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Gf tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 96 New Rd, Ayr KA8 8JG, UK
+    Phone:   07462 868689
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36496
+    URL: https://glasgowtrader.co.uk/listing/gf-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] McCulloch Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 141 James Campbell Rd, Ayr KA8 0RY, UK
+    Phone:   07740 611535
+    Website: http://www.mccullochtiling.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36498
+    URL: https://glasgowtrader.co.uk/listing/mcculloch-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/14] D.M TILING
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Dalesland, Coylton, Ayr KA6 6JW, UK
+    Phone:   01292 571282
+    Website: https://www.dmtilingayr.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36500
+    URL: https://glasgowtrader.co.uk/listing/d-m-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/14] J Smith Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 43 St Andrew's Ave, Prestwick KA9 2DZ, UK
+    Phone:   07786 620640
+    Website: N/A
+    Rating:  4.8 (19 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36502
+    URL: https://glasgowtrader.co.uk/listing/j-smith-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] Ayrshire Elite Tiling Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 63 Lochgreen Ave, Troon KA10 6UP, UK
+    Phone:   07764 273720
+    Website: https://www.ayrshire-elite-tiling-services.com/
+    Rating:  4.3 (6 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36504
+    URL: https://glasgowtrader.co.uk/listing/ayrshire-elite-tiling-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] Donaldson Tiling Co
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Dornal Dr, Troon KA10 7JZ, UK
+    Phone:   07546 199963
+    Website: https://www.facebook.com/DonaldsonTiling/
+    Rating:  5 (14 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36506
+    URL: https://glasgowtrader.co.uk/listing/donaldson-tiling-co/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/14] SS Plastering And Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35976 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [8/14] Perfect Bathroom & Tiling Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36330 — attached location 'Ayr' instead
+
+────────────────────────────────────────────────────────────
+  [9/14] Topps Tiles Ayr
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Wallacetown Dr, Ayr KA8 9FH, UK
+    Phone:   01292 281918
+    Website: https://www.toppstiles.co.uk/store_finder/Ayr?utm_source=Places&utm_medium=Places&utm_campaign=Google+Places
+    Rating:  4.9 (128 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36508
+    URL: https://glasgowtrader.co.uk/listing/topps-tiles-ayr/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] McDougall Tiling and Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 West Cres, Troon KA10 7BL, UK
+    Phone:   07969 482959
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36510
+    URL: https://glasgowtrader.co.uk/listing/mcdougall-tiling-and-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/14] RV Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Troon KA10 6EF, UK
+    Phone:   07341 200578
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36512
+    URL: https://glasgowtrader.co.uk/listing/rv-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/14] The Ayrshire Tiling Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: LongBank Rd, Ayr KA7 4SA, UK
+    Phone:   07887 725848
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36514
+    URL: https://glasgowtrader.co.uk/listing/the-ayrshire-tiling-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] R T Tile Ayr
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 York St Ln, Ayr KA8 8AQ, UK
+    Phone:   07763 123110
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36516
+    URL: https://glasgowtrader.co.uk/listing/r-t-tile-ayr/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] B&E Tiling Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Kyle St, Ayr KA7 1RZ, UK
+    Phone:   01292 262693
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36518
+    URL: https://glasgowtrader.co.uk/listing/be-tiling-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   14
+  Created: 12
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,47 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  2361 existing listings on site
+  Ledger: 2344 place_ids
+
+[SEARCH] Finding tilers in East Kilbride...
+  Found 2 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] Torrance Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36472 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [2/2] Glasgow Premium Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Rannoch Grn, East Kilbride, Glasgow G74 4AL, UK
+    Phone:   07459 055736
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36474
+    URL: https://glasgowtrader.co.uk/listing/glasgow-premium-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   2
+  Created: 1
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,288 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  2336 existing listings on site
+  Ledger: 2319 place_ids
+
+[SEARCH] Finding tilers in Paisley...
+  Found 19 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/19] G J Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 Princess Cres, Paisley PA1 3SL, UK
+    Phone:   07843 493897
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36424
+    URL: https://glasgowtrader.co.uk/listing/g-j-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/19] Paisley Pro Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Darvel Cres, Paisley PA1 3EF, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  4 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36426
+    URL: https://glasgowtrader.co.uk/listing/paisley-pro-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/19] AHP Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Hazelwood Ave, Paisley PA2 0UQ, UK
+    Phone:   01505 228960
+    Website: http://ahptilingltd.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36428
+    URL: https://glasgowtrader.co.uk/listing/ahp-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/19] Tilecraft
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 9, Air Link Industrial Estate, Paisley PA3 2RS, UK
+    Phone:   0141 887 4051
+    Website: http://www.tilecraftservices.co.uk/
+    Rating:  4.3 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36430
+    URL: https://glasgowtrader.co.uk/listing/tilecraft/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/19] Dynamic Tiling LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 32 Lacy St, Paisley PA1 1QN, UK
+    Phone:   07554 391817
+    Website: N/A
+    Rating:  3 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36432
+    URL: https://glasgowtrader.co.uk/listing/dynamic-tiling-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/19] Ace Quality Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glasgow Rd, Paisley PA1 3QA, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36434
+    URL: https://glasgowtrader.co.uk/listing/ace-quality-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/19] Handyman Plumber Painter Decorator Tiler Multimac
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Ferguslie Walk, Paisley PA1 2QU, UK
+    Phone:   07424 667466
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36436
+    URL: https://glasgowtrader.co.uk/listing/handyman-plumber-painter-decorator-tiler-multimac/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/19] A H Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Riglands Gate, Renfrew PA4 8NZ, UK
+    Phone:   07949 649611
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36438
+    URL: https://glasgowtrader.co.uk/listing/a-h-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/19] Hyndland Tiling Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36392 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [10/19] Max Tiling Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36394 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [11/19] Ceramic Tiling Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37 Highfield Ave, Glenburn, Paisley PA2 8LG, UK
+    Phone:   0141 580 0012
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36440
+    URL: https://glasgowtrader.co.uk/listing/ceramic-tiling-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/19] A Major Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36398 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [13/19] Dunbartonshire Pro Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10d Peel View, Clydebank G81 2EZ, UK
+    Phone:   07926 947257
+    Website: https://dunbartonshireprotiling.com/?utm_campaign=gmb
+    Rating:  4.6 (10 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36442
+    URL: https://glasgowtrader.co.uk/listing/dunbartonshire-pro-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/19] Tilecraft Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3, Imperial Business Park, 1 West Ave, Linwood, Paisley PA1 2FB, UK
+    Phone:   0141 887 4051
+    Website: https://tilecraft.co.uk/
+    Rating:  1 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36444
+    URL: https://glasgowtrader.co.uk/listing/tilecraft-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/19] AHP TILING LIMITED
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Westgate House, Seedhill, Paisley PA1 1J, UK
+    Phone:   07828 174707
+    Website: http://ahptilingltd.co.uk/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36446
+    URL: https://glasgowtrader.co.uk/listing/ahp-tiling-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/19] Dundee Prestige Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36396 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [17/19] Get Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2, 42 High St, Lochwinnoch PA12 4AA, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  4 (2 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36448
+    URL: https://glasgowtrader.co.uk/listing/get-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [18/19] The Tile Bar
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Smithhills St, Paisley PA1 1EB, UK
+    Phone:   0141 889 5342
+    Website: N/A
+    Rating:  4.4 (166 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36450
+    URL: https://glasgowtrader.co.uk/listing/the-tile-bar/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [19/19] POL-TILE SERVICES LIMITED
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36414 — attached location 'Paisley' instead
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   19
+  Created: 14
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

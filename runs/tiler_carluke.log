@@ -1,0 +1,17 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  2399 existing listings on site
+  Ledger: 2382 place_ids
+
+[SEARCH] Finding tilers in Carluke...
+  Found 0 candidates (0 filtered as merchants/off-trade)
+No tilers found in Carluke

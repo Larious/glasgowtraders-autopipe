@@ -1,0 +1,232 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  2385 existing listings on site
+  Ledger: 2368 place_ids
+
+[SEARCH] Finding tilers in Falkirk...
+  Found 15 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Taylor Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Goosedubs Pl, Carron, Falkirk, New FK2 7GW, UK
+    Phone:   07305 832405
+    Website: https://wa.me/447305832405
+    Rating:  5 (5 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36522
+    URL: https://glasgowtrader.co.uk/listing/taylor-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/15] G M Tiling Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36488 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [3/15] Tile Star Falkirk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Etna Ct, Falkirk FK2 9EQ, UK
+    Phone:   01324 619496
+    Website: https://tilestaruk.com/
+    Rating:  4.9 (69 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36524
+    URL: https://glasgowtrader.co.uk/listing/tile-star-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] ACO Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Evans St, Larbert FK5 4RQ, UK
+    Phone:   07747 512734
+    Website: http://acotiling.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36526
+    URL: https://glasgowtrader.co.uk/listing/aco-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] KD Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 Beauly Ct, Hallglen, Falkirk FK1 2QP, UK
+    Phone:   07873 977261
+    Website: https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fkd-tiling.ueniweb.com%2F&ved=0CAEQ_UVqFwoTCLCLmrHGxO8CFQAAAAAdAAAAABAC
+    Rating:  4.3 (12 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36528
+    URL: https://glasgowtrader.co.uk/listing/kd-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] C.S plastering & tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35962 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [7/15] Mac Tiling Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36462 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] Stenhouse Tiling Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 45 Vicar St, Falkirk FK1 1LL, UK
+    Phone:   07710 830180
+    Website: http://www.stenhousetiling.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36530
+    URL: https://glasgowtrader.co.uk/listing/stenhouse-tiling-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] Aitken Professional Tiling Solutions
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36478 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [10/15] Rubix Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Culzean Pl, Stenhousemuir, Larbert FK5 4UD, UK
+    Phone:   07907 938946
+    Website: http://www.rubixtiling.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36532
+    URL: https://glasgowtrader.co.uk/listing/rubix-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/15] Top Rankin Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Derwent Ave, Falkirk FK1 5HZ, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36534
+    URL: https://glasgowtrader.co.uk/listing/top-rankin-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] FK2 Tiling, Kitchens & Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 60 Eastcroft Dr, Polmont, Falkirk FK2 0SU, UK
+    Phone:   07912 865211
+    Website: N/A
+    Rating:  4.4 (5 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36536
+    URL: https://glasgowtrader.co.uk/listing/fk2-tiling-kitchens-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/15] Instyle Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Hill St, Stirling FK7 0DH, UK
+    Phone:   N/A
+    Website: https://www.instyletiling.com/
+    Rating:  5 (5 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36538
+    URL: https://glasgowtrader.co.uk/listing/instyle-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/15] Bath & Tile
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 63 Easton Dr, Shieldhill, Falkirk FK1 2TA, UK
+    Phone:   01324 645216
+    Website: https://www.bathandtile.co.uk/
+    Rating:  4.3 (6 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36540
+    URL: https://glasgowtrader.co.uk/listing/bath-tile/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/15] tile it rite
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Grangemouth Rd, Falkirk FK2 9DD, UK
+    Phone:   07916 175632
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36542
+    URL: https://glasgowtrader.co.uk/listing/tile-it-rite/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   15
+  Created: 11
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

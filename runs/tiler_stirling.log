@@ -1,0 +1,74 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  2396 existing listings on site
+  Ledger: 2379 place_ids
+
+[SEARCH] Finding tilers in Stirling...
+  Found 5 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/5] Instyle Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36538 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [2/5] Taylor Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36522 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [3/5] G M Tiling Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36488 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [4/5] Spirit Tile And Stone Limited
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: unit 10, 9 Munro Rd, Stirling FK7 7XQ, UK
+    Phone:   07962 366167
+    Website: https://www.spirittileandstone.com/
+    Rating:  5 (1 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36544
+    URL: https://glasgowtrader.co.uk/listing/spirit-tile-and-stone-limited/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/5] E.T.L Pro Tiling Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 78 Bryden Rd, Whins of Milton, Stirling FK7 8FJ, UK
+    Phone:   01786 813828
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36546
+    URL: https://glasgowtrader.co.uk/listing/e-t-l-pro-tiling-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   5
+  Created: 2
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,172 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  2363 existing listings on site
+  Ledger: 2346 place_ids
+
+[SEARCH] Finding tilers in Cumbernauld...
+  Found 15 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/15] Mac Tiling Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36462 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [2/15] Aitken Professional Tiling Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10E Darroch Way, Cumbernauld, Glasgow G67 1PY, UK
+    Phone:   07403 354656
+    Website: https://aitkenpts.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36478
+    URL: https://glasgowtrader.co.uk/listing/aitken-professional-tiling-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/15] Cumbernauld tiler touch of class
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Wallbrae Rd, Cumbernauld, Glasgow G67 2PD, UK
+    Phone:   07783 496938
+    Website: N/A
+    Rating:  5 (11 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36480
+    URL: https://glasgowtrader.co.uk/listing/cumbernauld-tiler-touch-of-class/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/15] M.Ferns Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 65 Maree Dr, Cumbernauld, Glasgow G67 4LW, UK
+    Phone:   07851 334194
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36482
+    URL: https://glasgowtrader.co.uk/listing/m-ferns-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/15] Dawson Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 78 Achray Rd, Cumbernauld, Glasgow G67 4JH, UK
+    Phone:   07595 435461
+    Website: https://www.dawsontiling.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36484
+    URL: https://glasgowtrader.co.uk/listing/dawson-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/15] Hyndland Tiling Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36392 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [7/15] CR Tiling & Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36296 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [8/15] Strathkelvin Elite Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Bellcote Pl, Cumbernauld, Glasgow G68 0GJ, UK
+    Phone:   07598 814707
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36486
+    URL: https://glasgowtrader.co.uk/listing/strathkelvin-elite-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/15] Creative tiler & bathroom refit services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36280 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [10/15] L&C Ceramic Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36456 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [11/15] G M Tiling Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Marion Wilson View, Larbert FK5 4TP, UK
+    Phone:   07843 674477
+    Website: N/A
+    Rating:  5 (98 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36488
+    URL: https://glasgowtrader.co.uk/listing/g-m-tiling-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/15] A Major Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36398 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [13/15] Brodrick Tiling Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36404 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [14/15] JB Tiling Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36402 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [15/15] SB Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36460 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   15
+  Created: 6
+  Skipped: 9 (already existed)
+  Failed:  0
+============================================================

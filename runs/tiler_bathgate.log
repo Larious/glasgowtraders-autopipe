@@ -1,0 +1,42 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  2398 existing listings on site
+  Ledger: 2381 place_ids
+
+[SEARCH] Finding tilers in Bathgate...
+  Found 1 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/1] PW Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 Traprain Cres, Bathgate EH48 2BD, UK
+    Phone:   01506 634707
+    Website: http://www.pwtile.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36548
+    URL: https://glasgowtrader.co.uk/listing/pw-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   1
+  Created: 1
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

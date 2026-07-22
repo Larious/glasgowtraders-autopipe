@@ -1,0 +1,131 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  2358 existing listings on site
+  Ledger: 2341 place_ids
+
+[SEARCH] Finding tilers in Hamilton...
+  Found 14 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Cadzow Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Balmore Dr, Hamilton ML3 8BP, UK
+    Phone:   07738 824246
+    Website: https://www.facebook.com/112019617043658/
+    Rating:  4.8 (10 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36468
+    URL: https://glasgowtrader.co.uk/listing/cadzow-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] The Tiling Contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36466 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/14] CR Tiling & Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36296 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [4/14] Lanarkshire Tiling and Bathrooms
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Broomhill Gate, Larkhall ML9 1ED, UK
+    Phone:   07850 012258
+    Website: http://www.lanarkshiretilingandbathrooms.co.uk/
+    Rating:  5 (36 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36470
+    URL: https://glasgowtrader.co.uk/listing/lanarkshire-tiling-and-bathrooms/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] L&C Ceramic Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36456 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [6/14] Max Tiling Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36394 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/14] SK Tiling Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36458 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [8/14] Torrance Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 41 Torrance Wynd, East Kilbride, Glasgow G75 0RY, UK
+    Phone:   07850 127577
+    Website: https://torrance-tiling.co.uk/
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36472
+    URL: https://glasgowtrader.co.uk/listing/torrance-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] PJN Plastering & Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35920 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [10/14] SB Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36460 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [11/14] Mac Tiling Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36462 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [12/14] JB Tiling Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36402 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [13/14] Brodrick Tiling Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36404 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [14/14] A1 Tiling Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36412 — attached location 'Hamilton' instead
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   14
+  Created: 3
+  Skipped: 11 (already existed)
+  Failed:  0
+============================================================

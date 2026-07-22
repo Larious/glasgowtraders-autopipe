@@ -1,0 +1,189 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  2351 existing listings on site
+  Ledger: 2334 place_ids
+
+[SEARCH] Finding tilers in Coatbridge...
+  Found 16 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] CTD Tiles Coatbridge
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2A, Coatdyke Retail Park, Locks St, Coatbridge ML5 3RT, UK
+    Phone:   01236 809108
+    Website: https://www.ctdtiles.co.uk/t-tile-showroom-coatbridge.aspx?utm_source=google&utm_medium=organic&utm_campaign=ctd-showroom-coatbridge
+    Rating:  5 (301 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36454
+    URL: https://glasgowtrader.co.uk/listing/ctd-tiles-coatbridge/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/16] Creative tiler & bathroom refit services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36280 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/16] CR Tiling & Bathrooms
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36296 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/16] PJN Plastering & Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35920 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [5/16] L&C Ceramic Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Macedonian Grove, Motherwell ML1 5TT, UK
+    Phone:   07944 041056
+    Website: N/A
+    Rating:  4.9 (43 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36456
+    URL: https://glasgowtrader.co.uk/listing/lc-ceramic-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] SK Tiling Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 38 Archerfield Cres, Newarthill, Motherwell ML1 5FW, UK
+    Phone:   07425 603700
+    Website: https://www.facebook.com/kgtilingservicesltd/
+    Rating:  5 (7 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36458
+    URL: https://glasgowtrader.co.uk/listing/sk-tiling-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] JB Tiling Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36402 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [8/16] Busby Precision tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36400 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [9/16] Max Tiling Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36394 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [10/16] SB Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Dunvegan Pl, Uddingston, Ellennor G71 7TR, UK
+    Phone:   07446 252477
+    Website: http://www.sbtiling.co.uk/
+    Rating:  None (None reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36460
+    URL: https://glasgowtrader.co.uk/listing/sb-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] Mac Tiling Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 73 Lansdowne Dr, Cumbernauld, Glasgow G68 0JB, UK
+    Phone:   07732 705600
+    Website: http://www.mactilingltd.com/
+    Rating:  5 (6 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36462
+    URL: https://glasgowtrader.co.uk/listing/mac-tiling-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/16] Brodrick Tiling Limited
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36404 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [13/16] Hyndland Tiling Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36392 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [14/16] On the Level Tiling Glasgow
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36452 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [15/16] Tiling Courses Scotland
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9-11 Palacecraig St, Coatbridge ML5 4RY, UK
+    Phone:   01236 544543
+    Website: https://www.tradesmanschool.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36464
+    URL: https://glasgowtrader.co.uk/listing/tiling-courses-scotland/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/16] The Tiling Contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Clyde View, Hamilton ML3 8TE, UK
+    Phone:   07999 052835
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36466
+    URL: https://glasgowtrader.co.uk/listing/the-tiling-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   16
+  Created: 7
+  Skipped: 9 (already existed)
+  Failed:  0
+============================================================

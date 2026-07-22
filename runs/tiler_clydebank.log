@@ -1,0 +1,57 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  2362 existing listings on site
+  Ledger: 2345 place_ids
+
+[SEARCH] Finding tilers in Clydebank...
+  Found 4 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/4] Dunbartonshire Pro Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36442 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [2/4] Marlin Tiling Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Glenhead Cres, Clydebank G81 6LW, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36476
+    URL: https://glasgowtrader.co.uk/listing/marlin-tiling-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/4] Hyndland Tiling Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36392 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [4/4] John Berry Joiner & Tiler
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35466 — attached location 'Clydebank' instead
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   4
+  Created: 1
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,141 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  2369 existing listings on site
+  Ledger: 2352 place_ids
+
+[SEARCH] Finding tilers in Dumbarton...
+  Found 16 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] Dunbartonshire Pro Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36442 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [2/16] Hunter Tiling Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11A Lomond Cres, Alexandria G83 0RJ, UK
+    Phone:   01389 753900
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36490
+    URL: https://glasgowtrader.co.uk/listing/hunter-tiling-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/16] Marlin Tiling Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36476 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [4/16] G J Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36424 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [5/16] Max Tiling Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36394 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [6/16] Hyndland Tiling Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36392 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [7/16] A H Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36438 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [8/16] John Berry Joiner & Tiler
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 35466 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [9/16] Busby Precision tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36400 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [10/16] A Major Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36398 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [11/16] Dundee Prestige Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36396 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [12/16] D W Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14 Hayes Grove, Alexandria G83 0UX, UK
+    Phone:   07961 570479
+    Website: N/A
+    Rating:  1 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36492
+    URL: https://glasgowtrader.co.uk/listing/d-w-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] Mearns Tiling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Naproch Pl, Newton Mearns, Glasgow G77 5SU, UK
+    Phone:   07740 982356
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36494
+    URL: https://glasgowtrader.co.uk/listing/mearns-tiling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] Get Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36448 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [15/16] Bespoke Tiling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36406 — attached location 'Dumbarton' instead
+
+────────────────────────────────────────────────────────────
+  [16/16] Dynamic Tiling LTD
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36432 — attached location 'Dumbarton' instead
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   16
+  Created: 3
+  Skipped: 13 (already existed)
+  Failed:  0
+============================================================

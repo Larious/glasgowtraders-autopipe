@@ -25,7 +25,7 @@ Stirling, Bathgate, Carluke.
 - [x] plasterer (163) — 16/16 core towns
 - [x] kitchen (293) — 16/16 core towns
 - [x] bathroom (169) — 16/16 core towns
-- [ ] tiler (170)
+- [x] tiler (170) — 16/16 core towns
 - [ ] handyman (167)
 - [ ] heating (291; rules → boiler 172 / central heating 171)
 - [ ] locksmith (168)

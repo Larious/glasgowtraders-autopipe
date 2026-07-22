@@ -1,0 +1,47 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Tiler
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  2350 existing listings on site
+  Ledger: 2333 place_ids
+
+[SEARCH] Finding tilers in Airdrie...
+  Found 2 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] Creative tiler & bathroom refit services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 36280 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [2/2] On the Level Tiling Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 West Dr, Petersburn Rd, Airdrie ML6 8BL, UK
+    Phone:   07494 321090
+    Website: N/A
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 36452
+    URL: https://glasgowtrader.co.uk/listing/on-the-level-tiling-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   2
+  Created: 1
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================
