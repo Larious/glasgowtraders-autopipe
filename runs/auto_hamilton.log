@@ -1,0 +1,246 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  3217 existing listings on site
+  Ledger: 3209 place_ids
+
+[SEARCH] Finding auto workshops in Hamilton...
+  Found 13 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] Hamilton Auto Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Argyle Cres, Hamilton ML3 9BQ, UK
+    Phone:   01698 891166
+    Website: https://www.hamiltonauto.co.uk/
+    Rating:  4.4 (577 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38204
+    URL: https://glasgowtrader.co.uk/listing/hamilton-auto-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] HCS Car Servicing, MOTs & Tyres - Hamilton
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 142-144 Almada St, Hamilton ML3 0EW, UK
+    Phone:   01698 760360
+    Website: https://hcs-carservicing.com/
+    Rating:  4.6 (24 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38206
+    URL: https://glasgowtrader.co.uk/listing/hcs-car-servicing-mots-tyres-hamilton/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/13] Falconer Auto Repairs Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 81 Udston Rd, Hamilton ML3 9HT, UK
+    Phone:   01698 300950
+    Website: https://www.falconer-autorepairs.co.uk/
+    Rating:  4.5 (93 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38208
+    URL: https://glasgowtrader.co.uk/listing/falconer-auto-repairs-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/13] Aby Autos
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5, Industrial Estate, Block 1 Birkhill Rd, Hamilton ML3 7QN, UK
+    Phone:   01698 200681
+    Website: N/A
+    Rating:  4.8 (163 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38210
+    URL: https://glasgowtrader.co.uk/listing/aby-autos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/13] Hunter Auto Engineers Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Bertram St, Hamilton ML3 0QS, UK
+    Phone:   01698 821943
+    Website: https://www.hunterautoengineers.co.uk/
+    Rating:  4.8 (52 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38212
+    URL: https://glasgowtrader.co.uk/listing/hunter-auto-engineers-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/13] Auto Safety MOT & Service Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9-11 Avon St, Hamilton ML3 7HU, UK
+    Phone:   01698 424445
+    Website: N/A
+    Rating:  4.9 (102 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38214
+    URL: https://glasgowtrader.co.uk/listing/auto-safety-mot-service-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/13] Strathclyde Autotune - Bosch Car Service
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Peacock Cross, Trading Estate, Burnbank Rd, Hamilton ML3 9AY, UK
+    Phone:   01698 282038
+    Website: https://www.strathclydeautotune.co.uk/
+    Rating:  4.5 (97 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38216
+    URL: https://glasgowtrader.co.uk/listing/strathclyde-autotune-bosch-car-service/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/13] Burnbank Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Wilson Court, 27 Wilson St, Hamilton ML3 0NH, UK
+    Phone:   01698 285435
+    Website: N/A
+    Rating:  4.8 (23 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38218
+    URL: https://glasgowtrader.co.uk/listing/burnbank-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] Mitchell Motors Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 New Park St, Hamilton ML3 0BN, UK
+    Phone:   01698 283600
+    Website: N/A
+    Rating:  4.8 (48 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38220
+    URL: https://glasgowtrader.co.uk/listing/mitchell-motors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/13] T W Autos
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 20, 21 Murray Ct, Hamilton ML3 9SL, UK
+    Phone:   01698 284668
+    Website: https://www.twautoshamilton.co.uk/
+    Rating:  4 (21 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38222
+    URL: https://glasgowtrader.co.uk/listing/t-w-autos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/13] M G Autotec
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Murray Ct, Hamilton ML3 9SL, UK
+    Phone:   01698 891948
+    Website: N/A
+    Rating:  5 (39 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38224
+    URL: https://glasgowtrader.co.uk/listing/m-g-autotec/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/13] Allanshaw Mot Centre Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, 18 Bairds Cresent, Allanshaw Industrial Estate Wellhall Rd, Hamilton ML3 9FD, UK
+    Phone:   01698 891059
+    Website: http://www.allanshawmotcentre.co.uk/
+    Rating:  4.7 (41 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38226
+    URL: https://glasgowtrader.co.uk/listing/allanshaw-mot-centre-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] Udston motors ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1A Burns St, Hamilton ML3 6PL, UK
+    Phone:   07462 790184
+    Website: http://www.udstonmotors.co.uk/
+    Rating:  4.8 (24 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38228
+    URL: https://glasgowtrader.co.uk/listing/udston-motors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   13
+  Created: 13
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

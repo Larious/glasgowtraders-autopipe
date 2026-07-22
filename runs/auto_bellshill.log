@@ -1,0 +1,263 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  3203 existing listings on site
+  Ledger: 3195 place_ids
+
+[SEARCH] Finding auto workshops in Bellshill...
+  Found 14 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Bellshill Autos
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 196 Motherwell Rd, Bellshill ML4 2JH, UK
+    Phone:   01698 746665
+    Website: http://bellshillautos.co.uk/
+    Rating:  4.8 (175 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38176
+    URL: https://glasgowtrader.co.uk/listing/bellshill-autos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] North Road Autos
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3, 91 North Rd, Bellshill ML4 1QZ, UK
+    Phone:   01698 849787
+    Website: https://m.facebook.com/scoobyspares555/
+    Rating:  4.9 (54 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38178
+    URL: https://glasgowtrader.co.uk/listing/north-road-autos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/14] Bellshill mot's
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Cardean Rd, Bellshill ML4 1EF, UK
+    Phone:   01698 841162
+    Website: https://www.bellshill-mot.co.uk/
+    Rating:  4.8 (151 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38180
+    URL: https://glasgowtrader.co.uk/listing/bellshill-mots/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/14] Calder Road Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 154 Calder Rd, Mossend, Bellshill ML4 2PL, UK
+    Phone:   01698 747484
+    Website: http://www.calderroadgarage.co.uk/
+    Rating:  4.5 (150 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38182
+    URL: https://glasgowtrader.co.uk/listing/calder-road-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] S&E AUTOS LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3 Cardean Rd, Bellshill ML4 1EF, UK
+    Phone:   07939 086938
+    Website: N/A
+    Rating:  5 (35 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38184
+    URL: https://glasgowtrader.co.uk/listing/se-autos-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] Farmer Autocare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 338 Main St, Mossend, Bellshill ML4 1BA, UK
+    Phone:   01698 682300
+    Website: https://www.farmerautocare.com/locations/glasgow-east-kilbride-paisley/bellshill/
+    Rating:  4.4 (219 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38186
+    URL: https://glasgowtrader.co.uk/listing/farmer-autocare/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/14] Gopal Motors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 350 New Edinburgh Rd, Bellshill ML4 3HH, UK
+    Phone:   01698 747995
+    Website: N/A
+    Rating:  4.4 (25 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38188
+    URL: https://glasgowtrader.co.uk/listing/gopal-motors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] Autosafe MOT Station
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Clydesdale St, Holytown, New Stevenston, Bellshill ML4 2RS, UK
+    Phone:   01698 733222
+    Website: N/A
+    Rating:  4.7 (106 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38190
+    URL: https://glasgowtrader.co.uk/listing/autosafe-mot-station/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] Righead Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Fire Station, 802 Old Edinburgh Rd, Bellshill ML4 3JG, UK
+    Phone:   01698 317836
+    Website: N/A
+    Rating:  4.1 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38192
+    URL: https://glasgowtrader.co.uk/listing/righead-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] Autoclyde Trucks
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit B1, Industrial Estate, Reema Rd, Bellshill ML4 1RR, UK
+    Phone:   01698 749771
+    Website: N/A
+    Rating:  4.6 (45 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38194
+    URL: https://glasgowtrader.co.uk/listing/autoclyde-trucks/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/14] GCR Auto
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 34, Belgrave St, Bellshill Industrial Estate, Bellshill ML4 3NP, UK
+    Phone:   01698 743045
+    Website: N/A
+    Rating:  5 (5 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38196
+    URL: https://glasgowtrader.co.uk/listing/gcr-auto/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/14] J's Budget Tyres
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unthank Rd, Mossend, Bellshill ML4 1DD, UK
+    Phone:   07584 070023
+    Website: https://www.yellowtom.co.uk/293501
+    Rating:  4.7 (46 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38198
+    URL: https://glasgowtrader.co.uk/listing/js-budget-tyres/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] Bellshill Auto Breakers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Yard, 4 Cardean Rd, Bellshill ML4 1EF, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  4.6 (49 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38200
+    URL: https://glasgowtrader.co.uk/listing/bellshill-auto-breakers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] Russell & Young Auto Specialists
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 18 Block 5, Carfin Industrial Estate, New Stevenston, Motherwell ML1 4UH, UK
+    Phone:   01698 682542
+    Website: http://www.russellandyoung.co.uk/
+    Rating:  5 (82 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38202
+    URL: https://glasgowtrader.co.uk/listing/russell-young-auto-specialists/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   14
+  Created: 14
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

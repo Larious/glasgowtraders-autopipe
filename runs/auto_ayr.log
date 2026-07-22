@@ -1,0 +1,195 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  3284 existing listings on site
+  Ledger: 3278 place_ids
+
+[SEARCH] Finding auto workshops in Ayr...
+  Found 10 candidates (10 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] T & K Motors Ayr
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 47-53 Green St, Ayr KA8 8BQ, UK
+    Phone:   01292 281202
+    Website: http://www.tkmotayr.co.uk/
+    Rating:  4.8 (238 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38342
+    URL: https://glasgowtrader.co.uk/listing/t-k-motors-ayr/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/10] MOT Ayr Vehicle Testing Station
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4, 8 Boundary Rd, Ayr KA8 9DJ, UK
+    Phone:   01292 262800
+    Website: http://www.motayr.co.uk/
+    Rating:  4.6 (143 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38344
+    URL: https://glasgowtrader.co.uk/listing/mot-ayr-vehicle-testing-station/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/10] Rds autocayr
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Waggon Rd, Ayr KA8 8BA, UK
+    Phone:   01292 737676
+    Website: http://www.rdsautocayr.co.uk/
+    Rating:  4.9 (90 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38346
+    URL: https://glasgowtrader.co.uk/listing/rds-autocayr/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/10] Bridgend Motor Group Ayr Autoplex
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Heathfield Rd, Ayr KA8 9BN, UK
+    Phone:   01292 290902
+    Website: https://www.bridgendgroup.co.uk/?utm_source=google+my+business&utm_medium=organic&utm_campaign=Bridgend+Motor+Group+Ayr+Autoplex+GMB+Website+Button+Link
+    Rating:  4.7 (843 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38348
+    URL: https://glasgowtrader.co.uk/listing/bridgend-motor-group-ayr-autoplex/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/10] Somerset Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Somerset Rd, Ayr KA8 9NA, UK
+    Phone:   07889 205284
+    Website: http://somersetgarageayr.co.uk/
+    Rating:  4.8 (58 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38350
+    URL: https://glasgowtrader.co.uk/listing/somerset-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/10] MPM Motor Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 69A Heathfield Rd, Ayr KA8 9DU, UK
+    Phone:   01292 737386
+    Website: http://www.mpmmotorcompany.co.uk/
+    Rating:  4.8 (98 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38352
+    URL: https://glasgowtrader.co.uk/listing/mpm-motor-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/10] Autocare Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14A York St Ln, Ayr KA8 8AQ, UK
+    Phone:   01292 284197
+    Website: http://lambertonautocare.co.uk/
+    Rating:  5 (45 reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38354
+    URL: https://glasgowtrader.co.uk/listing/autocare-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/10] Ayr Autos
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, Lochside works, 151 Lochside Rd, Ayr KA8 9LJ, UK
+    Phone:   01292 288230
+    Website: N/A
+    Rating:  4.5 (46 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38356
+    URL: https://glasgowtrader.co.uk/listing/ayr-autos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/10] Andrew Dodds Autocare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Wallacetown Dr, Heathfield, Ayr KA8 9FH, UK
+    Phone:   01292 299023
+    Website: http://www.adautocare.co.uk/
+    Rating:  4.8 (125 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38358
+    URL: https://glasgowtrader.co.uk/listing/andrew-dodds-autocare/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/10] N B Autos
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Back Peebles St, Ayr KA8 8DT, UK
+    Phone:   01292 282847
+    Website: N/A
+    Rating:  4.8 (28 reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38360
+    URL: https://glasgowtrader.co.uk/listing/n-b-autos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   10
+  Created: 10
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

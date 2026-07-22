@@ -1,0 +1,297 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  3260 existing listings on site
+  Ledger: 3253 place_ids
+
+[SEARCH] Finding auto workshops in Cumbernauld...
+  Found 16 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] Cumbernauld Auto Repair Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19D Glencryan Rd, Cumbernauld, Glasgow G67 2UH, UK
+    Phone:   07955 200444
+    Website: https://cumbernauld-auto-repair-services-ltd.ueniweb.com/?utm_campaign=gmb
+    Rating:  4.7 (221 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38292
+    URL: https://glasgowtrader.co.uk/listing/cumbernauld-auto-repair-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/16] Cumbernauld Auto Repairs Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Tollpark Rd, Glasgow G68 0LW, UK
+    Phone:   01236 732111
+    Website: http://cumbernauldautorepairs.co.uk/
+    Rating:  4.9 (54 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38294
+    URL: https://glasgowtrader.co.uk/listing/cumbernauld-auto-repairs-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/16] BCV Automotive
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, Craiglinn Ind Est, Cumbernauld, Glasgow G68 9AA, UK
+    Phone:   01236 457070
+    Website: https://bcvautomotive.co.uk/
+    Rating:  4.6 (157 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38296
+    URL: https://glasgowtrader.co.uk/listing/bcv-automotive/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/16] Castlecary Motor Co
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 61 Deerdykes View, Westfield, Cumbernauld, Glasgow G68 9HN, UK
+    Phone:   01236 728222
+    Website: N/A
+    Rating:  4.8 (57 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38298
+    URL: https://glasgowtrader.co.uk/listing/castlecary-motor-co/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] A&B AUTOS CUMBERNAULD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 34-36 Tannoch Dr, Lenziemill Rd, Cumbernauld, Glasgow G67 2XX, UK
+    Phone:   01236 801877
+    Website: N/A
+    Rating:  5 (32 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38300
+    URL: https://glasgowtrader.co.uk/listing/ab-autos-cumbernauld/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] Glencryan MOT Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13A Glencryan Rd, Cumbernauld, Glasgow G67 2UH, UK
+    Phone:   01236 452224
+    Website: https://www.glencryan.co.uk/
+    Rating:  4.4 (93 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38302
+    URL: https://glasgowtrader.co.uk/listing/glencryan-mot-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] D&G Autocare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 39 Tollpark Pl, Wardpark East, Cumbernauld, Glasgow G68 0LN, UK
+    Phone:   01236 806840
+    Website: https://www.dandgautocare.co.uk/
+    Rating:  5 (14 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38304
+    URL: https://glasgowtrader.co.uk/listing/dg-autocare-3/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/16] Autofix Mobile Mechanic RSM24
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glasgow, Cumbernauld, Glasgow G67 1NY, UK
+    Phone:   07391 207027
+    Website: https://www.rsm24mechanic.co.uk/
+    Rating:  4.8 (106 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38306
+    URL: https://glasgowtrader.co.uk/listing/autofix-mobile-mechanic-rsm24/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/16] GEMAUTOS
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Burnhead Rd, Cumbernauld, Glasgow G68 9BT, UK
+    Phone:   07983 634110
+    Website: https://www.gemautos.co.uk/
+    Rating:  5 (17 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38308
+    URL: https://glasgowtrader.co.uk/listing/gemautos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/16] Martin Motors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 28 Deerdykes View, Westfield, Cumbernauld, Glasgow G68 9HN, UK
+    Phone:   01236 222444
+    Website: http://www.martinmots.com/
+    Rating:  4.8 (27 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38310
+    URL: https://glasgowtrader.co.uk/listing/martin-motors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] Highland Fuels Station Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 S Carbrain Rd, Cumbernauld, Glasgow G67 2PL, UK
+    Phone:   01236 721955
+    Website: https://www.facebook.com/BellsGarage
+    Rating:  3.4 (28 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38312
+    URL: https://glasgowtrader.co.uk/listing/highland-fuels-station-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/16] Craiglinn MOT Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Craiglinn, Cumbernauld, Glasgow G68 9AA, UK
+    Phone:   01236 734567
+    Website: https://cumbernauldmotcentre.com/
+    Rating:  4.6 (46 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38314
+    URL: https://glasgowtrader.co.uk/listing/craiglinn-mot-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] B&S Autos mobile mechanic
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 30 Pine Grove, Abronhill, Cumbernauld, Glasgow G67 3AX, UK
+    Phone:   07584 243122
+    Website: N/A
+    Rating:  5 (30 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38316
+    URL: https://glasgowtrader.co.uk/listing/bs-autos-mobile-mechanic/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] DB Autos
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Tannoch Dr, Cumbernauld, Glasgow G67 2XX, UK
+    Phone:   0141 286 7171
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38318
+    URL: https://glasgowtrader.co.uk/listing/db-autos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] Jim Dickson Tyres and Exhausts
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Baronhill, Cumbernauld, Glasgow G67 2SB, UK
+    Phone:   01236 720205
+    Website: https://www.cumbernauld-tyres.co.uk/?y_source=1_MTA3Njg2MzI1NS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+    Rating:  4.9 (933 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38320
+    URL: https://glasgowtrader.co.uk/listing/jim-dickson-tyres-and-exhausts/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/16] allison autos
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13b Glencryan Rd, Cumbernauld, Glasgow G67 2UH, UK
+    Phone:   01236 729281
+    Website: N/A
+    Rating:  3.8 (19 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38322
+    URL: https://glasgowtrader.co.uk/listing/allison-autos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   16
+  Created: 16
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

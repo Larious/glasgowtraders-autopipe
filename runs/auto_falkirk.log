@@ -1,0 +1,110 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  3310 existing listings on site
+  Ledger: 3304 place_ids
+
+[SEARCH] Finding auto workshops in Falkirk...
+  Found 5 candidates (15 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/5] D&G Autocare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 7, Middlefield Industrial Estate, Etna Court Trade Centre, Falkirk FK2 9BL, UK
+    Phone:   01324 227751
+    Website: https://www.dandgautocare.co.uk/?y_source=1_OTMyNzczODQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+    Rating:  4.7 (220 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38394
+    URL: https://glasgowtrader.co.uk/listing/dg-autocare-4/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/5] Alan Motors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 156 Main St, Carronshore, Falkirk FK2 8HQ, UK
+    Phone:   01324 554955
+    Website: https://www.alanmotors.co.uk/
+    Rating:  4.8 (107 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38396
+    URL: https://glasgowtrader.co.uk/listing/alan-motors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/5] Farmer Autocare Falkirk
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 Main St, Bainsford, Falkirk FK2 7PQ, UK
+    Phone:   01324 621155
+    Website: https://www.farmerautocare.com/find-your-nearest/
+    Rating:  4.2 (183 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38398
+    URL: https://glasgowtrader.co.uk/listing/farmer-autocare-falkirk/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/5] JM Motor Engineers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Middlefield Industrial Estate, 8 Castings Rd, Falkirk FK2 9HQ, UK
+    Phone:   01324 611492
+    Website: http://www.jmmotorengineers.org.uk/
+    Rating:  4.9 (61 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38400
+    URL: https://glasgowtrader.co.uk/listing/jm-motor-engineers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/5] J & B Garage Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 High Station Rd, Falkirk FK1 5LP, UK
+    Phone:   01324 629623
+    Website: https://www.facebook.com/JBGarageServices
+    Rating:  4.7 (63 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38402
+    URL: https://glasgowtrader.co.uk/listing/j-b-garage-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   5
+  Created: 5
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

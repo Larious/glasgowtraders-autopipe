@@ -1,0 +1,297 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  3294 existing listings on site
+  Ledger: 3288 place_ids
+
+[SEARCH] Finding auto workshops in Greenock...
+  Found 16 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] St Andrew's Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 E Blackhall St, Greenock PA15 1HD, UK
+    Phone:   01475 721366
+    Website: N/A
+    Rating:  4.5 (36 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38362
+    URL: https://glasgowtrader.co.uk/listing/st-andrews-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/16] Altec Motors Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10-12 Crawfurd St, Greenock PA15 1LJ, UK
+    Phone:   01475 888331
+    Website: https://altecmotors.com/
+    Rating:  4.9 (59 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38364
+    URL: https://glasgowtrader.co.uk/listing/altec-motors-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/16] Dillon’s Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Drumfrochar Pl, Greenock PA15 4BJ, UK
+    Phone:   01475 792900
+    Website: https://dillonsgarage.co.uk/
+    Rating:  4.9 (297 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38366
+    URL: https://glasgowtrader.co.uk/listing/dillons-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/16] Riverbank Motor Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 MacKenzie St, Greenock PA15 2TW, UK
+    Phone:   07792 463536
+    Website: http://www.riverbankmotorcompany.co.uk/
+    Rating:  4.4 (75 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38368
+    URL: https://glasgowtrader.co.uk/listing/riverbank-motor-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] McMillan Motors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 26-30 Brougham St, Greenock PA16 8AD, UK
+    Phone:   01475 783336
+    Website: http://www.mcmillanmotors.co.uk/
+    Rating:  4.9 (353 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38370
+    URL: https://glasgowtrader.co.uk/listing/mcmillan-motors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] C M Autos Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Dellingburn St, Greenock PA15 4TW, UK
+    Phone:   01475 880033
+    Website: N/A
+    Rating:  4.8 (38 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38372
+    URL: https://glasgowtrader.co.uk/listing/c-m-autos-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] B Positive MOT & Repair Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Dellingburn St, Greenock PA15 4RN, UK
+    Phone:   01475 731265
+    Website: N/A
+    Rating:  4.9 (89 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38374
+    URL: https://glasgowtrader.co.uk/listing/b-positive-mot-repair-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/16] L & A Motor Engineers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Haig St, Greenock PA15 1JG, UK
+    Phone:   01475 781515
+    Website: N/A
+    Rating:  4.6 (56 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38376
+    URL: https://glasgowtrader.co.uk/listing/l-a-motor-engineers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/16] DG Automotive Inverclyde
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 8, 11 Dellingburn St, Greenock PA15 4RN, UK
+    Phone:   07498 500541
+    Website: http://www.dgautomotive.uk/
+    Rating:  5 (18 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38378
+    URL: https://glasgowtrader.co.uk/listing/dg-automotive-inverclyde/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/16] Clydeview Motors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37 Cartsburn St, Greenock PA15 4UG, UK
+    Phone:   01475 726040
+    Website: https://www.clydeviewmotorsltd.co.uk/
+    Rating:  4.9 (16 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38380
+    URL: https://glasgowtrader.co.uk/listing/clydeview-motors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] Pj auto services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 7, 1 Bogston Ln, Greenock PA15 2AX, UK
+    Phone:   07508 740866
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38382
+    URL: https://glasgowtrader.co.uk/listing/pj-auto-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/16] Clyde Auto Sales
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 179 Inverkip Rd, Greenock PA16 9EU, UK
+    Phone:   01475 888699
+    Website: http://www.clydeautosales.co.uk/
+    Rating:  4.4 (32 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38384
+    URL: https://glasgowtrader.co.uk/listing/clyde-auto-sales/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] Earnhill Motors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5, Earnhill Ln, Greenock PA16 0EQ, UK
+    Phone:   01475 639736
+    Website: https://earnhillmotors.co.uk/
+    Rating:  4.9 (52 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38386
+    URL: https://glasgowtrader.co.uk/listing/earnhill-motors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] Jdh Autos
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 25 Cartsburn St, Greenock PA15 4RR, UK
+    Phone:   01475 648300
+    Website: N/A
+    Rating:  4.9 (12 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38388
+    URL: https://glasgowtrader.co.uk/listing/jdh-autos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] McDonalds Motors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5, 18 Dellingburn St, Greenock PA15 4TW, UK
+    Phone:   07770 896632
+    Website: N/A
+    Rating:  5 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38390
+    URL: https://glasgowtrader.co.uk/listing/mcdonalds-motors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/16] B B Autos
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Neil St, Greenock PA16 9JA, UK
+    Phone:   07949 364561
+    Website: N/A
+    Rating:  4.9 (39 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38392
+    URL: https://glasgowtrader.co.uk/listing/b-b-autos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   16
+  Created: 16
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

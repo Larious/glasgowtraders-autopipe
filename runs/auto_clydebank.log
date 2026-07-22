@@ -1,0 +1,314 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  3243 existing listings on site
+  Ledger: 3236 place_ids
+
+[SEARCH] Finding auto workshops in Clydebank...
+  Found 17 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/17] The Garage Clydebank Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 423 Glasgow Rd, Clydebank G81 1LW, UK
+    Phone:   0141 952 6761
+    Website: https://garageclydebank.co.uk/
+    Rating:  4.3 (72 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38258
+    URL: https://glasgowtrader.co.uk/listing/the-garage-clydebank-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/17] A&R Auto Repairs - Car Servicing & Auto Mechanic Clydebank
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, 11 North Ave, Clydebank G81 2QP, UK
+    Phone:   07503 388599
+    Website: N/A
+    Rating:  4.7 (224 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38260
+    URL: https://glasgowtrader.co.uk/listing/ar-auto-repairs-car-servicing-auto-mechanic-clydebank/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/17] Autofusion Repairs | Clydebank
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 404 Glasgow Rd, Clydebank G81 1PW, UK
+    Phone:   0141 237 5050
+    Website: https://autofusionrepairs.co.uk/
+    Rating:  4.9 (185 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38262
+    URL: https://glasgowtrader.co.uk/listing/autofusion-repairs-clydebank/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/17] Weddell's Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 116 Dumbarton Rd, Clydebank G81 1UG, UK
+    Phone:   0141 952 1429
+    Website: https://www.weddellsgarage.co.uk/
+    Rating:  4.7 (84 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38264
+    URL: https://glasgowtrader.co.uk/listing/weddells-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/17] The Garage (Clydebank) Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Caledonia St, Dalmuir, Clydebank G81 4EX, UK
+    Phone:   0141 952 4228
+    Website: https://www.thegarageclydebank.co.uk/
+    Rating:  3.9 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38266
+    URL: https://glasgowtrader.co.uk/listing/the-garage-clydebank-ltd-2/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/17] Gm Auto Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 193a Dumbarton Rd, Clydebank G81 4XJ, UK
+    Phone:   0141 237 0782
+    Website: https://m.facebook.com/gmautorepairs.193/
+    Rating:  4.9 (44 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38268
+    URL: https://glasgowtrader.co.uk/listing/gm-auto-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/17] Clydebank MOT Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 16, 11 North Ave, Clydebank G81 2QP, UK
+    Phone:   0141 588 6975
+    Website: N/A
+    Rating:  5 (13 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38270
+    URL: https://glasgowtrader.co.uk/listing/clydebank-mot-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/17] Burnside Motors Duntocher
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 5 Dumbarton Rd, Hardgate, Clydebank G81 6AT, UK
+    Phone:   01389 873239
+    Website: https://www.burnsidemotcentre.com/
+    Rating:  4.8 (68 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38272
+    URL: https://glasgowtrader.co.uk/listing/burnside-motors-duntocher/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/17] Dyna Garage Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4, 10 North Ave, Clydebank G81 2QP, UK
+    Phone:   0141 952 6941
+    Website: N/A
+    Rating:  4.8 (48 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38274
+    URL: https://glasgowtrader.co.uk/listing/dyna-garage-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/17] Ramsays Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 667 Dumbarton Rd, Dalmuir, Clydebank G81 4HD, UK
+    Phone:   0141 952 0408
+    Website: N/A
+    Rating:  4.9 (58 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38276
+    URL: https://glasgowtrader.co.uk/listing/ramsays-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/17] Gregors Autos Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Hamilton St, Clydebank G81 1LY, UK
+    Phone:   0141 941 1438
+    Website: https://gregors-autos.ueniweb.com/?utm_campaign=gmb
+    Rating:  5 (14 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38278
+    URL: https://glasgowtrader.co.uk/listing/gregors-autos-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/17] Forsters Autocare Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 11 North Ave, Clydebank G81 2QP, UK
+    Phone:   0141 562 0738
+    Website: N/A
+    Rating:  4.8 (33 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38280
+    URL: https://glasgowtrader.co.uk/listing/forsters-autocare-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/17] The grease monkey autos
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 8, 11 North Ave, Clydebank G81 2QP, UK
+    Phone:   0141 588 2122
+    Website: https://www.thegreasemonkeyautos.co.uk/
+    Rating:  4.9 (120 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38282
+    URL: https://glasgowtrader.co.uk/listing/the-grease-monkey-autos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/17] N P G Motors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Dock St, Clydebank G81 1LX, UK
+    Phone:   0141 952 1571
+    Website: N/A
+    Rating:  4.7 (42 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38284
+    URL: https://glasgowtrader.co.uk/listing/n-p-g-motors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/17] Old Mill Mot Station
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glasgow Rd, Hardgate, Clydebank G81 6AU, UK
+    Phone:   01389 874655
+    Website: N/A
+    Rating:  4.8 (96 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38286
+    URL: https://glasgowtrader.co.uk/listing/old-mill-mot-station/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/17] German Autocare - Clydebank
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 S Elgin St, Clydebank G81 1PL, UK
+    Phone:   0141 952 9854
+    Website: N/A
+    Rating:  4.7 (77 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38288
+    URL: https://glasgowtrader.co.uk/listing/german-autocare-clydebank/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [17/17] Singer's Tyres & MOT s
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1, Clyde Retail Park, Livingstone St, Clydebank G81 2XA, UK
+    Phone:   07565 532490
+    Website: https://www.singerstyresandmots.co.uk/
+    Rating:  4.7 (47 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38290
+    URL: https://glasgowtrader.co.uk/listing/singers-tyres-mot-s/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   17
+  Created: 17
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

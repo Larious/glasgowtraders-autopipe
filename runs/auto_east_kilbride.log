@@ -1,0 +1,263 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  3230 existing listings on site
+  Ledger: 3222 place_ids
+
+[SEARCH] Finding auto workshops in East Kilbride...
+  Found 14 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] East Kilbride Autocare Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2, Tennant Complex, College Milton South, East Kilbride, Glasgow G74 5NA, UK
+    Phone:   01355 579957
+    Website: http://www.ekautocare.co.uk/?y_source=1_MTIxMTc0MjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+    Rating:  4.7 (262 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38230
+    URL: https://glasgowtrader.co.uk/listing/east-kilbride-autocare-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] Parkview Garage Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 24 Hawbank Rd, East Kilbride, Glasgow G74 5EX, UK
+    Phone:   01355 266881
+    Website: http://www.eastkilbridegarage.co.uk/
+    Rating:  5 (84 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38232
+    URL: https://glasgowtrader.co.uk/listing/parkview-garage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/14] Kingsway MoT, Repairs & Servicing East Kilbride
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Glenfield Rd, East Kilbride, Glasgow G75 0RA, UK
+    Phone:   01355 220311
+    Website: http://www.garageserviceseastkilbride.co.uk/
+    Rating:  4.6 (135 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38234
+    URL: https://glasgowtrader.co.uk/listing/kingsway-mot-repairs-servicing-east-kilbride/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/14] D&G Autocare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 71 Colvilles Pl, East Kilbride, Glasgow G75 0PZ, UK
+    Phone:   01355 587330
+    Website: https://www.dandgautocare.co.uk/?y_source=1_OTMyNzc0MDItNzE1LWxvY2F0aW9uLndlYnNpdGU%3D
+    Rating:  4.8 (329 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38236
+    URL: https://glasgowtrader.co.uk/listing/dg-autocare-2/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] Auto Solutions East Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Albion Way, East Kilbride, Glasgow G75 0YN, UK
+    Phone:   07525 763253
+    Website: https://autosolutionsek.co.uk/
+    Rating:  4.2 (60 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38238
+    URL: https://glasgowtrader.co.uk/listing/auto-solutions-east-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] Farmer Autocare Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18-24 Old Coach Rd, East Kilbride, Glasgow G74 4DP, UK
+    Phone:   01355 570777
+    Website: http://www.farmerautocare.com/
+    Rating:  4.5 (283 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38240
+    URL: https://glasgowtrader.co.uk/listing/farmer-autocare-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/14] Highmains Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 51 James Watt Pl, East Kilbride, Glasgow G74 5HG, UK
+    Phone:   01355 232210
+    Website: N/A
+    Rating:  4.9 (60 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38242
+    URL: https://glasgowtrader.co.uk/listing/highmains-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] Hyndland Motor Co ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Springburn Pl, East Kilbride, Glasgow G74 5NU, UK
+    Phone:   01355 235867
+    Website: http://www.hyndlandmotorco.com/
+    Rating:  4.6 (138 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38244
+    URL: https://glasgowtrader.co.uk/listing/hyndland-motor-co-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] EK Mot Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: business centre, 40 Glenburn Rd, College Milton, East Kilbride, Glasgow G74 5BA, UK
+    Phone:   01355 237138
+    Website: https://www.ek-mot.co.uk/
+    Rating:  4.7 (119 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38246
+    URL: https://glasgowtrader.co.uk/listing/ek-mot-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] Dasauto ek
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 46 Arrotshole Rd, East Kilbride, Glasgow G74 5DN, UK
+    Phone:   07446 895950
+    Website: N/A
+    Rating:  5 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38248
+    URL: https://glasgowtrader.co.uk/listing/dasauto-ek/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/14] TGK Auto Works
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 62a, 52 Wilson Pl, East Kilbride, Glasgow G74 4QD, UK
+    Phone:   01355 457582
+    Website: N/A
+    Rating:  5 (33 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38250
+    URL: https://glasgowtrader.co.uk/listing/tgk-auto-works/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/14] True Autocare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 20 Milton Rd, East Kilbride, Glasgow G74 5BU, UK
+    Phone:   01355 708161
+    Website: https://trueautocare-ek.com/
+    Rating:  4.9 (40 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38252
+    URL: https://glasgowtrader.co.uk/listing/true-autocare/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] Automek
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37 Glenburn Rd, East Kilbride, Glasgow G74 5BA, UK
+    Phone:   01355 233568
+    Website: http://www.automek.co.uk/
+    Rating:  4.9 (158 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38254
+    URL: https://glasgowtrader.co.uk/listing/automek/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/14] Premium Garage Service's (PGS)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 James Watt Pl, East Kilbride, Glasgow G74 5HG, UK
+    Phone:   01355 457227
+    Website: https://www.facebook.com/share/16eKdKjj5L/
+    Rating:  5 (21 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38256
+    URL: https://glasgowtrader.co.uk/listing/premium-garage-services-pgs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   14
+  Created: 14
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

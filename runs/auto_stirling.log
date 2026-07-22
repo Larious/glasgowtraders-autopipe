@@ -1,0 +1,229 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  3314 existing listings on site
+  Ledger: 3309 place_ids
+
+[SEARCH] Finding auto workshops in Stirling...
+  Found 12 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] Shaun’s garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2, 10 Broadleys Rd, Stirling FK7 7ST, UK
+    Phone:   07944 969283
+    Website: N/A
+    Rating:  5 (20 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38404
+    URL: https://glasgowtrader.co.uk/listing/shauns-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/12] West End Garage Škoda Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Forthside Way, Stirling FK8 1QZ, UK
+    Phone:   01786 813433
+    Website: https://www.westendgarage-group.com/skoda/contact-us/west-end-garage-stirling/
+    Rating:  4.6 (432 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38406
+    URL: https://glasgowtrader.co.uk/listing/west-end-garage-skoda-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/12] Kilgannon Motors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bannockburn, Stirling FK7 8JD, UK
+    Phone:   01786 813476
+    Website: http://www.kilgannonmotors.com/
+    Rating:  4.7 (265 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38408
+    URL: https://glasgowtrader.co.uk/listing/kilgannon-motors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/12] Central Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 23 Borestone Cres, St Ninians, Stirling FK7 9BG, UK
+    Phone:   01786 473090
+    Website: http://www.centralgaragestirling.com/
+    Rating:  4.6 (138 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38410
+    URL: https://glasgowtrader.co.uk/listing/central-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/12] Stirling Autocentre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Kerse Rd, Stirling FK7 7SY, UK
+    Phone:   01786 475066
+    Website: http://www.fife-autocentre.co.uk/tm/locations/stirling/
+    Rating:  4.7 (102 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38412
+    URL: https://glasgowtrader.co.uk/listing/stirling-autocentre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/12] Sprinkerse Auto Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Springkerse Rd, Stirling FK7 7SN, UK
+    Phone:   01786 445220
+    Website: http://springkerseautocentre.co.uk/contact/
+    Rating:  4.9 (109 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38414
+    URL: https://glasgowtrader.co.uk/listing/sprinkerse-auto-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/12] D&G Autocare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 Munro Rd, Stirling FK7 7UU, UK
+    Phone:   01786 448775
+    Website: https://www.dandgautocare.co.uk/?y_source=1_MTAzNTgyMzcyMi03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D
+    Rating:  4.3 (201 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38416
+    URL: https://glasgowtrader.co.uk/listing/dg-autocare-5/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/12] Budget Auto Centre
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Back O Hill Road Industrial Estate, Stirling FK8 1SH, UK
+    Phone:   01786 449251
+    Website: http://www.budgetautocentre.co.uk/
+    Rating:  4.2 (91 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38418
+    URL: https://glasgowtrader.co.uk/listing/budget-auto-centre/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/12] West End Garage SEAT Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Forthside Way, Stirling FK8 1QZ, UK
+    Phone:   01786 813433
+    Website: https://www.westendgarage-group.com/seat/contact-us/west-end-seat/
+    Rating:  4.4 (13 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38420
+    URL: https://glasgowtrader.co.uk/listing/west-end-garage-seat-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/12] Stirling Auto Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Borrowmeadow Rd, Stirling FK7 7UW, UK
+    Phone:   01786 450888
+    Website: N/A
+    Rating:  4.7 (55 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38422
+    URL: https://glasgowtrader.co.uk/listing/stirling-auto-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/12] J A G Auto Engineers Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 3a, & 3c, Ind Est, Back O'Hill Roundabout, Stirling FK8 1SH, UK
+    Phone:   01786 430008
+    Website: https://www.jagautoengineers.co.uk/
+    Rating:  4.6 (72 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38424
+    URL: https://glasgowtrader.co.uk/listing/j-a-g-auto-engineers-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/12] Milton Garage Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Whitehouse Rd, Stirling FK7 7SP, UK
+    Phone:   01786 542260
+    Website: https://miltongarage.co.uk/
+    Rating:  4.7 (30 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38426
+    URL: https://glasgowtrader.co.uk/listing/milton-garage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   12
+  Created: 12
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

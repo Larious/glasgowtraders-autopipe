@@ -1,0 +1,246 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  3341 existing listings on site
+  Ledger: 3337 place_ids
+
+[SEARCH] Finding auto workshops in Carluke...
+  Found 13 candidates (7 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/13] James Street Garage ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 James St, Carluke ML8 4DE, UK
+    Phone:   01555 704530
+    Website: https://www.jamesstreetrepaircentre.co.uk/
+    Rating:  3.9 (18 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38460
+    URL: https://glasgowtrader.co.uk/listing/james-street-garage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/13] Carluke Auto Stop
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 45 Sandy Rd, Carluke ML8 5DR, UK
+    Phone:   01555 751108
+    Website: N/A
+    Rating:  4.9 (35 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38462
+    URL: https://glasgowtrader.co.uk/listing/carluke-auto-stop/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/13] Burn Road Garage Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 140 Stewart St, Carluke ML8 5BY, UK
+    Phone:   01555 773467
+    Website: http://www.burnroadgarage.co.uk/
+    Rating:  4.8 (51 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38464
+    URL: https://glasgowtrader.co.uk/listing/burn-road-garage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/13] Carluke MOT Centre Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Castlehill Ind Est, 1 Bothwell Rd, Carluke ML8 5UF, UK
+    Phone:   01555 751050
+    Website: http://www.carlukemot.com/
+    Rating:  5 (109 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38466
+    URL: https://glasgowtrader.co.uk/listing/carluke-mot-centre-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/13] Whiteshaw Garage Mot Centre Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Gasworks Rd, Carluke ML8, UK
+    Phone:   01555 773999
+    Website: https://whiteshawgarage.co.uk/
+    Rating:  4.8 (53 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38468
+    URL: https://glasgowtrader.co.uk/listing/whiteshaw-garage-mot-centre-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/13] Braidwood Auto Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Lanark Rd, Braidwood, Carluke ML8 4PW, UK
+    Phone:   01555 759339
+    Website: https://www.braidwoodautoservicesltd.co.uk/
+    Rating:  4.8 (48 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38470
+    URL: https://glasgowtrader.co.uk/listing/braidwood-auto-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/13] Boyd's Motor Engineers
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 7, Powerline Industrial Estate, Yieldshields Rd, Carluke ML8 4FR, UK
+    Phone:   01555 663601
+    Website: http://www.boydsmotorengineers.co.uk/
+    Rating:  4.9 (152 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38472
+    URL: https://glasgowtrader.co.uk/listing/boyds-motor-engineers/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/13] Haynes Automotive Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: South hillhead farm, Milton Rd, Carluke ML8 5ND, UK
+    Phone:   01899 309333
+    Website: N/A
+    Rating:  5 (6 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38474
+    URL: https://glasgowtrader.co.uk/listing/haynes-automotive-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/13] Crossford Garage Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 41 Lanark Rd, Crossford, Carluke ML8 5RE, UK
+    Phone:   01555 860275
+    Website: N/A
+    Rating:  4.9 (71 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38476
+    URL: https://glasgowtrader.co.uk/listing/crossford-garage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/13] Carluke Tyre and Exhaust Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 49 Sandy Rd, Carluke ML8 5DR, UK
+    Phone:   01555 771122
+    Website: N/A
+    Rating:  5 (73 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38478
+    URL: https://glasgowtrader.co.uk/listing/carluke-tyre-and-exhaust-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/13] N.M.S Garage Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1 Block, Castlehill Industrial Estate, 2 Threave Ct, Carluke ML8 5UF, UK
+    Phone:   01555 729368
+    Website: N/A
+    Rating:  5 (4 reviews)
+    Hours:   4 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38480
+    URL: https://glasgowtrader.co.uk/listing/n-m-s-garage-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/13] Nellfield Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 90 Lanark Rd, Braidwood, Carluke ML8 5PG, UK
+    Phone:   01555 772363
+    Website: N/A
+    Rating:  4.1 (23 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38482
+    URL: https://glasgowtrader.co.uk/listing/nellfield-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/13] AG Mot Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 68a Sandy Rd, Carluke ML8 5DH, UK
+    Phone:   01555 750150
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38484
+    URL: https://glasgowtrader.co.uk/listing/ag-mot-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   13
+  Created: 13
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

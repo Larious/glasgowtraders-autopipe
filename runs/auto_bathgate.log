@@ -1,0 +1,297 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Auto Workshop
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  3325 existing listings on site
+  Ledger: 3321 place_ids
+
+[SEARCH] Finding auto workshops in Bathgate...
+  Found 16 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] Kaim Park Garage Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17A Edinburgh Rd, Bathgate EH48 1EP, UK
+    Phone:   01506 676811
+    Website: http://www.kaimparkgarage.com/
+    Rating:  4.9 (346 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38428
+    URL: https://glasgowtrader.co.uk/listing/kaim-park-garage-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/16] M & A Automotive Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 1 Block 13 Whiteside, Ind Est, Bathgate EH48 2RX, UK
+    Phone:   07568 464755
+    Website: https://www.mandaautomotive.co.uk/
+    Rating:  4.3 (227 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38430
+    URL: https://glasgowtrader.co.uk/listing/m-a-automotive-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/16] CRS Garage & MOT Centre Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9D Inchmuir Rd, Bathgate EH48 2EP, UK
+    Phone:   01506 650491
+    Website: http://crsgarage.co.uk/
+    Rating:  4.8 (122 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38432
+    URL: https://glasgowtrader.co.uk/listing/crs-garage-mot-centre-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/16] Meadowpark Garage
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19a Glasgow Rd, Bathgate EH48 2AB, UK
+    Phone:   01506 635993
+    Website: http://www.meadowparkgarage.co.uk/
+    Rating:  4.8 (138 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38434
+    URL: https://glasgowtrader.co.uk/listing/meadowpark-garage/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] ALM Autos
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2 Easton Rd, Bathgate EH48 2QG, UK
+    Phone:   01506 238780
+    Website: http://facebook.com/almautos1/
+    Rating:  4.7 (114 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38436
+    URL: https://glasgowtrader.co.uk/listing/alm-autos/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/16] ELITE GARAGE SERVICES
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 11 Block4, Whiteside Industrial Estate, Bathgate EH48 2RX, UK
+    Phone:   01506 653210
+    Website: http://www.elitegarageservices.co.uk/
+    Rating:  4.7 (54 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38438
+    URL: https://glasgowtrader.co.uk/listing/elite-garage-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/16] Bathgate Auto Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 6 Hopetoun Ln, Bathgate EH48 1PP, UK
+    Phone:   01506 639322
+    Website: N/A
+    Rating:  4.6 (36 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38440
+    URL: https://glasgowtrader.co.uk/listing/bathgate-auto-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/16] Farmer Autocare Bathgate
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 33-35 Mid St, Bathgate EH48 1PS, UK
+    Phone:   01506 634633
+    Website: https://www.farmerautocare.com/locations/west-lothian-falkirk-alloa/bathgate/
+    Rating:  4.2 (289 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38442
+    URL: https://glasgowtrader.co.uk/listing/farmer-autocare-bathgate/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/16] J&R Garage Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 27D Standhill Rd, Bathgate EH48 2HT, UK
+    Phone:   07702 543445
+    Website: N/A
+    Rating:  4.8 (88 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38444
+    URL: https://glasgowtrader.co.uk/listing/jr-garage-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/16] GuildAuto LTD Used Car sales
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Mosshall Industrial Estate, W Main St, Blackburn, Bathgate EH47 7LY, UK
+    Phone:   01506 238590
+    Website: http://www.guildauto.co.uk/
+    Rating:  4.3 (280 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38446
+    URL: https://glasgowtrader.co.uk/listing/guildauto-ltd-used-car-sales/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/16] M & S Auto Solutions
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2, Standhill Industrial Park, 2 Whitburn Rd, Bathgate EH48 2XJ, UK
+    Phone:   01506 632123
+    Website: http://mandsauto.co.uk/
+    Rating:  4.1 (61 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38448
+    URL: https://glasgowtrader.co.uk/listing/m-s-auto-solutions/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/16] Burnside Garage Bathgate
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4a Burnside Rd, Bathgate EH48 4PT, UK
+    Phone:   07808 723939
+    Website: https://www.yellowtom.co.uk/325994
+    Rating:  4.7 (16 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38450
+    URL: https://glasgowtrader.co.uk/listing/burnside-garage-bathgate/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] G W Motorsport And Repairs
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 31 Mill Rd, Bathgate EH48 4JJ, UK
+    Phone:   07732 182211
+    Website: N/A
+    Rating:  4.6 (9 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38452
+    URL: https://glasgowtrader.co.uk/listing/g-w-motorsport-and-repairs/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] Fairdeal Autos Bathgate
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 14E Blackburn Rd, Bathgate EH48 2EY, UK
+    Phone:   01506 237257
+    Website: https://fairdealautos.com/
+    Rating:  4.1 (51 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38454
+    URL: https://glasgowtrader.co.uk/listing/fairdeal-autos-bathgate/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [15/16] GD Motors Used Car Sales
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 65 Station Rd, Armadale, Bathgate EH48 3LJ, UK
+    Phone:   07752 209523
+    Website: http://www.gdmotors.co.uk/
+    Rating:  4.6 (205 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38456
+    URL: https://glasgowtrader.co.uk/listing/gd-motors-used-car-sales/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/16] LD Automotive LTD
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Easton Rd, Bathgate EH48 2QG, UK
+    Phone:   07756 862874
+    Website: https://www.ldauto.co.uk/
+    Rating:  4.8 (22 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 38458
+    URL: https://glasgowtrader.co.uk/listing/ld-automotive-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   16
+  Created: 16
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================
