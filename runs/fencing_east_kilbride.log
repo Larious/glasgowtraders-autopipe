@@ -1,0 +1,77 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: East Kilbride
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'East Kilbride'...
+  Found: ID=214 name=East Kilbride
+
+[DEDUP] Fetching existing listings...
+  2896 existing listings on site
+  Ledger: 2880 place_ids
+
+[SEARCH] Finding fencing & gatess in East Kilbride...
+  Found 8 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/8] JP Landmark Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 17 MacPherson Park, East Kilbride, Glasgow G74 4TW, UK
+    Phone:   07897 897867
+    Website: http://jplandmarkfencing.co.uk/
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37546
+    URL: https://glasgowtrader.co.uk/listing/jp-landmark-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/8] First Fence Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37492 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [3/8] Smith & Sons Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37490 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [4/8] KMS Fencing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37534 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [5/8] J D R Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37530 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [6/8] I D Fencing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37522 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [7/8] Gates Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37532 — attached location 'East Kilbride' instead
+
+────────────────────────────────────────────────────────────
+  [8/8] Gates & Automation Direct
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37542 — attached location 'East Kilbride' instead
+
+============================================================
+  BATCH COMPLETE — East Kilbride
+============================================================
+  Found:   8
+  Created: 1
+  Skipped: 7 (already existed)
+  Failed:  0
+============================================================

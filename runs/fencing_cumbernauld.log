@@ -1,0 +1,142 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Cumbernauld
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Cumbernauld'...
+  Found: ID=205 name=Cumbernauld
+
+[DEDUP] Fetching existing listings...
+  2897 existing listings on site
+  Ledger: 2881 place_ids
+
+[SEARCH] Finding fencing & gatess in Cumbernauld...
+  Found 9 candidates (3 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] James Jack Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Glen Lyon Ct, Cumbernauld, Glasgow G68 0EG, UK
+    Phone:   07709 758844
+    Website: N/A
+    Rating:  4.7 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37548
+    URL: https://glasgowtrader.co.uk/listing/james-jack-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/9] Smith & Sons Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37490 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [3/9] KEP Fencing Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37524 — attached location 'Cumbernauld' instead
+
+────────────────────────────────────────────────────────────
+  [4/9] Next Level Fencing & Gates
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Glen Moriston Rd, Cumbernauld, Glasgow G68 0EU, UK
+    Phone:   07933 313474
+    Website: https://www.facebook.com/share/1F61vzxRsP/
+    Rating:  None (None reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37550
+    URL: https://glasgowtrader.co.uk/listing/next-level-fencing-gates/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/9] Scotia Fencing Co. Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Howe Rd, Kilsyth, Glasgow G65 0TA, UK
+    Phone:   01236 823339
+    Website: https://www.scotiafencingcoglasgow.co.uk/
+    Rating:  4.4 (38 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37552
+    URL: https://glasgowtrader.co.uk/listing/scotia-fencing-co-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/9] Premier sheds & fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 13a, Woodilee Industrial Estate, Woodilee Rd, Kirkintilloch, Glasgow G66 3UU, UK
+    Phone:   0141 776 8001
+    Website: https://www.premiersheds-fencing.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37554
+    URL: https://glasgowtrader.co.uk/listing/premier-sheds-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/9] Central Scotland Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Muirfield Rd, Stenhousemuir, Fk53bs FK5 3BS, UK
+    Phone:   07454 033896
+    Website: https://centralscotlandfencing.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37556
+    URL: https://glasgowtrader.co.uk/listing/central-scotland-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/9] Gary hunter sheds fencing and decking
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 19 Kyle Rd, Cumbernauld, Glasgow G67 2DY, UK
+    Phone:   07306 269368
+    Website: N/A
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37558
+    URL: https://glasgowtrader.co.uk/listing/gary-hunter-sheds-fencing-and-decking/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/9] Cambus Fencing & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33820 — attached location 'Cumbernauld' instead
+
+============================================================
+  BATCH COMPLETE — Cumbernauld
+============================================================
+  Found:   9
+  Created: 6
+  Skipped: 3 (already existed)
+  Failed:  0
+============================================================

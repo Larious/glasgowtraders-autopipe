@@ -1,0 +1,109 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Hamilton
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Hamilton'...
+  Found: ID=224 name=Hamilton
+
+[DEDUP] Fetching existing listings...
+  2894 existing listings on site
+  Ledger: 2878 place_ids
+
+[SEARCH] Finding fencing & gatess in Hamilton...
+  Found 12 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] I D Fencing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37522 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [2/12] J D R Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37530 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [3/12] Smith & Sons Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37490 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [4/12] KMS Fencing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37534 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [5/12] Gates Scotland Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37532 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [6/12] Elite Fencing and Sheds
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37514 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [7/12] Gates & Automation Direct
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 4, Block, Blantyre Industrial Estate, 17 South Ave, Blantyre, Glasgow G72 0XB, UK
+    Phone:   01698 829876
+    Website: http://www.gatesandautomationdirect.co.uk/
+    Rating:  5 (42 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37542
+    URL: https://glasgowtrader.co.uk/listing/gates-automation-direct/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/12] Airdrie Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37510 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [9/12] First Fence Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37492 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [10/12] Cambus Fencing & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33820 — attached location 'Hamilton' instead
+
+────────────────────────────────────────────────────────────
+  [11/12] The cedar fence company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Bairds Cres, Hamilton ML3 9FD, UK
+    Phone:   07393 474592
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37544
+    URL: https://glasgowtrader.co.uk/listing/the-cedar-fence-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/12] M Smith Fencing Contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37536 — attached location 'Hamilton' instead
+
+============================================================
+  BATCH COMPLETE — Hamilton
+============================================================
+  Found:   12
+  Created: 2
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

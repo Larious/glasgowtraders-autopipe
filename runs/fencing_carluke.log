@@ -1,0 +1,116 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Carluke
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Carluke'...
+  Found: ID=198 name=Carluke
+
+[DEDUP] Fetching existing listings...
+  2934 existing listings on site
+  Ledger: 2918 place_ids
+
+[SEARCH] Finding fencing & gatess in Carluke...
+  Found 11 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] Smith & Sons Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37490 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [2/11] J D R Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37530 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [3/11] I D Fencing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37522 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [4/11] Welding Wizard - Gates, Railings & Handrails
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 5 Monks Ln, Braidwood, Carluke ML8 5PN, UK
+    Phone:   07946 270530
+    Website: http://www.welding-wizard.com/
+    Rating:  5 (22 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37622
+    URL: https://glasgowtrader.co.uk/listing/welding-wizard-gates-railings-handrails/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/11] Stellar Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 97 Main St, Forth, Lanark ML11 8AA, UK
+    Phone:   07760 376071
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37624
+    URL: https://glasgowtrader.co.uk/listing/stellar-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/11] M Smith Fencing Contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37536 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [7/11] Elite Fencing and Sheds
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37514 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [8/11] Airdrie Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37510 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [9/11] JC Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 45 Carlisle Rd, Abington, Biggar ML12 6SD, UK
+    Phone:   01864 502082
+    Website: https://www.lanarkshirefencing.co.uk/fencing-in-biggar/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37626
+    URL: https://glasgowtrader.co.uk/listing/jc-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/11] GC Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37538 — attached location 'Carluke' instead
+
+────────────────────────────────────────────────────────────
+  [11/11] First For Fencing And Decking (Jason anderson)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37482 — attached location 'Carluke' instead
+
+============================================================
+  BATCH COMPLETE — Carluke
+============================================================
+  Found:   11
+  Created: 3
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

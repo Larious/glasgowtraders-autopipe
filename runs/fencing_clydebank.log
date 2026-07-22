@@ -1,0 +1,35 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Clydebank
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Clydebank'...
+  Found: ID=203 name=Clydebank
+
+[DEDUP] Fetching existing listings...
+  2897 existing listings on site
+  Ledger: 2881 place_ids
+
+[SEARCH] Finding fencing & gatess in Clydebank...
+  Found 2 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/2] Clydeside Gates
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37506 — attached location 'Clydebank' instead
+
+────────────────────────────────────────────────────────────
+  [2/2] Addison Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37502 — attached location 'Clydebank' instead
+
+============================================================
+  BATCH COMPLETE — Clydebank
+============================================================
+  Found:   2
+  Created: 0
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

@@ -1,0 +1,42 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Dumbarton
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Dumbarton'...
+  Found: ID=210 name=Dumbarton
+
+[DEDUP] Fetching existing listings...
+  2903 existing listings on site
+  Ledger: 2887 place_ids
+
+[SEARCH] Finding fencing & gatess in Dumbarton...
+  Found 1 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/1] MacKinnon Fencing & Groundworks
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Millburn Depot, Main St, Renton, Dumbarton G82 4PZ, UK
+    Phone:   01389 721909
+    Website: https://mackinnonfencing.co.uk/
+    Rating:  4.4 (13 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37560
+    URL: https://glasgowtrader.co.uk/listing/mackinnon-fencing-groundworks/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Dumbarton
+============================================================
+  Found:   1
+  Created: 1
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================

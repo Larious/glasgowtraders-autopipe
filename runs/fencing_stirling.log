@@ -1,0 +1,133 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Stirling
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Stirling'...
+  Found: ID=272 name=Stirling
+
+[DEDUP] Fetching existing listings...
+  2925 existing listings on site
+  Ledger: 2909 place_ids
+
+[SEARCH] Finding fencing & gatess in Stirling...
+  Found 12 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] Taylor Made Fencing Stirling
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37596 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [2/12] Harry McColl Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Perthshire, Nether Cambushinnie Farm, Dunblane FK15 9JU, UK
+    Phone:   07900 274531
+    Website: http://www.harrymccollfencing.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37604
+    URL: https://glasgowtrader.co.uk/listing/harry-mccoll-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/12] DM Decking Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33192 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [4/12] Central Scotland Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37556 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [5/12] KEP Fencing Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37524 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [6/12] Coventry for Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Coventry For Fencing Nr, Cornton Cottages, Doune FK16 6EJ, UK
+    Phone:   01786 842156
+    Website: http://www.coventryfencing.com/
+    Rating:  4.7 (13 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37606
+    URL: https://glasgowtrader.co.uk/listing/coventry-for-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/12] Falkirk Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37584 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [8/12] Forth Valley Fencing Club
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 7, 9 Munro Rd, Stirling FK7 7QX, UK
+    Phone:   07801 453533
+    Website: http://www.fvfencingclub.co.uk/
+    Rating:  5 (8 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37608
+    URL: https://glasgowtrader.co.uk/listing/forth-valley-fencing-club/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/12] B-Spoke Fencing & Decking
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 11, The Trade Centre, Bruce St, Alloa FK10 1RX, UK
+    Phone:   07734 821861
+    Website: http://b-spokefd.co.uk/
+    Rating:  4.6 (11 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37610
+    URL: https://glasgowtrader.co.uk/listing/b-spoke-fencing-decking/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/12] Derek Taylor Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37592 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [11/12] SJS Fencing & Decking Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37588 — attached location 'Stirling' instead
+
+────────────────────────────────────────────────────────────
+  [12/12] First For Fencing And Decking (Jason anderson)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37482 — attached location 'Stirling' instead
+
+============================================================
+  BATCH COMPLETE — Stirling
+============================================================
+  Found:   12
+  Created: 4
+  Skipped: 8 (already existed)
+  Failed:  0
+============================================================

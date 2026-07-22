@@ -1,0 +1,188 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Airdrie
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Airdrie'...
+  Found: ID=173 name=Airdrie
+
+[DEDUP] Fetching existing listings...
+  2878 existing listings on site
+  Ledger: 2862 place_ids
+
+[SEARCH] Finding fencing & gatess in Airdrie...
+  Found 11 candidates (5 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/11] Airdrie Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 45 Cromarty Rd, Airdrie ML6 9RL, UK
+    Phone:   01236 604423
+    Website: http://www.airdriefencing.co.uk/index.html
+    Rating:  4.3 (23 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37510
+    URL: https://glasgowtrader.co.uk/listing/airdrie-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/11] Clark fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 37 Ferguson Way, Airdrie, Ml6 ML6 6EX, UK
+    Phone:   07914 117808
+    Website: https://www.clarkfencing.net/?utm_source=google&utm_medium=local&utm_campaign=1&utm_content=primary
+    Rating:  4.6 (14 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37512
+    URL: https://glasgowtrader.co.uk/listing/clark-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/11] Smith & Sons Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37490 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [4/11] Elite Fencing and Sheds
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 32-44 North Bridge St, Airdrie ML6 6NE, UK
+    Phone:   01236 755887
+    Website: http://www.shedsandfencingglasgow.co.uk/
+    Rating:  4.6 (120 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37514
+    URL: https://glasgowtrader.co.uk/listing/elite-fencing-and-sheds/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/11] Able Fencing Patios & Decking
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 64 Alexander St, Airdrie ML6 0BD, UK
+    Phone:   01236 600766
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37516
+    URL: https://glasgowtrader.co.uk/listing/able-fencing-patios-decking/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/11] OCM Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Glendale Ave, Airdrie ML6 8DB, UK
+    Phone:   07817 702954
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37518
+    URL: https://glasgowtrader.co.uk/listing/ocm-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/11] Cambus Fencing & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33820 — attached location 'Airdrie' instead
+
+────────────────────────────────────────────────────────────
+  [8/11] Heras Mobile Fencing & Security
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Airdrie ML6 9SE, UK
+    Phone:   0800 073 9987
+    Website: N/A
+    Rating:  3 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37520
+    URL: https://glasgowtrader.co.uk/listing/heras-mobile-fencing-security/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/11] I D Fencing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Whistleberry Park, Hamilton ML3 0ED, UK
+    Phone:   07771 733809
+    Website: https://www.lanarkshirefencing.co.uk/fencing-in-hamilton/
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37522
+    URL: https://glasgowtrader.co.uk/listing/i-d-fencing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/11] KEP Fencing Ltd.
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Viewfield House, Wyndford Rd, Banknock, Bonnybridge FK4 1UD, UK
+    Phone:   07722 044675
+    Website: http://www.kepfencing.co.uk/
+    Rating:  4.9 (23 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37524
+    URL: https://glasgowtrader.co.uk/listing/kep-fencing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/11] Diamond Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 245 Calder Gln Cts, Mull, Airdrie ML6 8DP, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37526
+    URL: https://glasgowtrader.co.uk/listing/diamond-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Airdrie
+============================================================
+  Found:   11
+  Created: 9
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

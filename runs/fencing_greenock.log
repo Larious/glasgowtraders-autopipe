@@ -1,0 +1,87 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Greenock
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Greenock'...
+  Found: ID=223 name=Greenock
+
+[DEDUP] Fetching existing listings...
+  2914 existing listings on site
+  Ledger: 2898 place_ids
+
+[SEARCH] Finding fencing & gatess in Greenock...
+  Found 10 candidates (8 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] First For Fencing And Decking (Jason anderson)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37482 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [2/10] McNaughton's Fencing & Dyking Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 26 Clyde St, Kirn, Dunoon PA23 8DX, UK
+    Phone:   01369 705467
+    Website: http://www.mcnaughtonfencing.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37582
+    URL: https://glasgowtrader.co.uk/listing/mcnaughtons-fencing-dyking-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/10] MacKinnon Fencing & Groundworks
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37560 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [4/10] N.C Fencing and Decking Joinery Services
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37566 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [5/10] Clydeside Gates
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37506 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [6/10] 1st Fencing & Decking Company
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37496 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [7/10] Addison Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37502 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [8/10] 1st Fencing Co
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37500 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [9/10] Willows Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37478 — attached location 'Greenock' instead
+
+────────────────────────────────────────────────────────────
+  [10/10] Gleniffer Fencing Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37498 — attached location 'Greenock' instead
+
+============================================================
+  BATCH COMPLETE — Greenock
+============================================================
+  Found:   10
+  Created: 1
+  Skipped: 9 (already existed)
+  Failed:  0
+============================================================

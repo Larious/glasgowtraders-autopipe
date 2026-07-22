@@ -1,0 +1,62 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Coatbridge
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Coatbridge'...
+  Found: ID=204 name=Coatbridge
+
+[DEDUP] Fetching existing listings...
+  2887 existing listings on site
+  Ledger: 2871 place_ids
+
+[SEARCH] Finding fencing & gatess in Coatbridge...
+  Found 5 candidates (0 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/5] Smith & Sons Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37490 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [2/5] Cambus Fencing & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33820 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [3/5] Airdrie Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37510 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [4/5] Elite Fencing and Sheds
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37514 — attached location 'Coatbridge' instead
+
+────────────────────────────────────────────────────────────
+  [5/5] M S Fences
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Koh-I-Noor Restaurant, 297A Bank St, Coatbridge ML5 1EG, UK
+    Phone:   07517 686800
+    Website: https://www.lanarkshirefencing.co.uk/fencing-in-coatbridge/
+    Rating:  3 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37528
+    URL: https://glasgowtrader.co.uk/listing/m-s-fences/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Coatbridge
+============================================================
+  Found:   5
+  Created: 1
+  Skipped: 4 (already existed)
+  Failed:  0
+============================================================

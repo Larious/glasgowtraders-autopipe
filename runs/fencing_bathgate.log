@@ -1,0 +1,135 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bathgate
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bathgate'...
+  Found: ID=187 name=Bathgate
+
+[DEDUP] Fetching existing listings...
+  2929 existing listings on site
+  Ledger: 2913 place_ids
+
+[SEARCH] Finding fencing & gatess in Bathgate...
+  Found 10 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] West Lothian Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Lower Bathville, Armadale, Bathgate EH48 2JY, UK
+    Phone:   07496 005744
+    Website: https://m.facebook.com/westlothianfencing
+    Rating:  4.8 (16 reviews)
+    Hours:   1 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37612
+    URL: https://glasgowtrader.co.uk/listing/west-lothian-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/10] MD Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Burnside Rd, Bathgate EH48 4PX, UK
+    Phone:   01506 676420
+    Website: http://www.mdfencingcontractors.co.uk/
+    Rating:  4.1 (14 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37614
+    URL: https://glasgowtrader.co.uk/listing/md-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/10] Redhouse Fencing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Whitburn Rd, Bathgate EH48 2HR, UK
+    Phone:   01506 632666
+    Website: N/A
+    Rating:  4.1 (14 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37616
+    URL: https://glasgowtrader.co.uk/listing/redhouse-fencing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/10] Livingston Fencing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 22 Meadowbank, Livingston EH54 6EJ, UK
+    Phone:   07387 577270
+    Website: N/A
+    Rating:  5 (42 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37618
+    URL: https://glasgowtrader.co.uk/listing/livingston-fencing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/10] BM Landscaping bathgate
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34198 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [6/10] SNL landscaping & Fencing contractors
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34222 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [7/10] Central Scotland Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37556 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [8/10] Falkirk Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37584 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [9/10] Smith & Sons Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37490 — attached location 'Bathgate' instead
+
+────────────────────────────────────────────────────────────
+  [10/10] Glendale Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 10 Bickerton Crofts, Hens Nest Rd, East Whitburn, Bathgate EH47 8RX, UK
+    Phone:   01501 744899
+    Website: N/A
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37620
+    URL: https://glasgowtrader.co.uk/listing/glendale-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Bathgate
+============================================================
+  Found:   10
+  Created: 5
+  Skipped: 5 (already existed)
+  Failed:  0
+============================================================

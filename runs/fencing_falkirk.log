@@ -1,0 +1,205 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Falkirk
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Falkirk'...
+  Found: ID=215 name=Falkirk
+
+[DEDUP] Fetching existing listings...
+  2915 existing listings on site
+  Ledger: 2899 place_ids
+
+[SEARCH] Finding fencing & gatess in Falkirk...
+  Found 12 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/12] Falkirk Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 61 Ettrick Ct, Hallglen, Falkirk FK1 2QS, UK
+    Phone:   01324 309209
+    Website: https://falkirk.topfencing-services.co.uk/
+    Rating:  5 (36 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37584
+    URL: https://glasgowtrader.co.uk/listing/falkirk-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/12] Falkirk Fencing and Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 50 Main Rd, Maddiston, Falkirk FK2 0SL, UK
+    Phone:   01324 309209
+    Website: https://www.falkirk-fencing.co.uk/
+    Rating:  5 (5 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37586
+    URL: https://glasgowtrader.co.uk/listing/falkirk-fencing-and-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/12] SJS Fencing & Decking Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 93A Glasgow Rd, Camelon, Falkirk FK1 4JW, UK
+    Phone:   01324 628841
+    Website: http://www.sjsfencing.co.uk/
+    Rating:  4.6 (89 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37588
+    URL: https://glasgowtrader.co.uk/listing/sjs-fencing-decking-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/12] KEP Fencing Ltd.
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37524 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [5/12] Central Scotland Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37556 — attached location 'Falkirk' instead
+
+────────────────────────────────────────────────────────────
+  [6/12] Secure Fences
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Forthview, Main Rd, Maddiston, Falkirk FK2 0LF, UK
+    Phone:   07890 283757
+    Website: http://www.securefences.co.uk/
+    Rating:  5 (7 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37590
+    URL: https://glasgowtrader.co.uk/listing/secure-fences/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/12] Derek Taylor Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 12 Peploe Ave, Larbert FK5 4DZ, UK
+    Phone:   01324 555615
+    Website: https://derektaylorfencing.co.uk/
+    Rating:  5 (8 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37592
+    URL: https://glasgowtrader.co.uk/listing/derek-taylor-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/12] John Davidson Fencing & Landscaping
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: bankside ind est, Abbots Rd, Falkirk FK2 7XU, UK
+    Phone:   07771 895144
+    Website: https://www.jdfl.org/
+    Rating:  5 (1 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37594
+    URL: https://glasgowtrader.co.uk/listing/john-davidson-fencing-landscaping/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/12] Taylor Made Fencing Stirling
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 8 St Thomas's Pl, Stirling FK7 9LX, UK
+    Phone:   07815 461234
+    Website: http://taylormadefencingstirling.co.uk/
+    Rating:  5 (109 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37596
+    URL: https://glasgowtrader.co.uk/listing/taylor-made-fencing-stirling/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/12] Decking and Huts For You
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: North End, Manse Pl, Slamannan, Falkirk FK1 3EN, UK
+    Phone:   07889 180155
+    Website: http://deckingandhutsforyou.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37598
+    URL: https://glasgowtrader.co.uk/listing/decking-and-huts-for-you/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/12] Silver Fox Fencing & Decking
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 2 Arnothill Gardens, Falkirk FK1 5BQ, UK
+    Phone:   07801 653651
+    Website: https://silverfoxfencing.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37600
+    URL: https://glasgowtrader.co.uk/listing/silver-fox-fencing-decking/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/12] Gibson Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 9 Westmains Industrial Estate, Grangemouth FK3 8YE, UK
+    Phone:   01324 666655
+    Website: N/A
+    Rating:  4.7 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37602
+    URL: https://glasgowtrader.co.uk/listing/gibson-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Falkirk
+============================================================
+  Found:   12
+  Created: 10
+  Skipped: 2 (already existed)
+  Failed:  0
+============================================================

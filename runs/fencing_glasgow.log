@@ -1,0 +1,251 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Glasgow
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Glasgow'...
+  Found: ID=250 name=Glasgow
+
+[DEDUP] Fetching existing listings...
+  2862 existing listings on site
+  Ledger: 2846 place_ids
+
+[SEARCH] Finding fencing & gatess in Glasgow...
+  Found 14 candidates (4 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/14] Willows Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 54 Bogmoor Pl, Glasgow G51 4TQ, UK
+    Phone:   0141 440 0002
+    Website: https://willows-fencing.com/
+    Rating:  4.9 (28 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37478
+    URL: https://glasgowtrader.co.uk/listing/willows-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/14] Fences Glasgow
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 W George St, Glasgow G2 1BP, UK
+    Phone:   0141 280 3080
+    Website: http://www.fencingglasgow.org.uk/
+    Rating:  4.2 (19 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37480
+    URL: https://glasgowtrader.co.uk/listing/fences-glasgow/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/14] First For Fencing And Decking (Jason anderson)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 220 Paisley Rd, Renfrew PA4 8AA, UK
+    Phone:   07415 067853
+    Website: http://firstforfencinganddecking.co.uk/
+    Rating:  5 (14 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37482
+    URL: https://glasgowtrader.co.uk/listing/first-for-fencing-and-decking-jason-anderson/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/14] G64 Fencing & Decking
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Balmore Industrial Estate, Glasgow G22 7SF, UK
+    Phone:   07597 672627
+    Website: https://g64fencinganddecking.co.uk/
+    Rating:  5 (11 reviews)
+    Hours:   2 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37484
+    URL: https://glasgowtrader.co.uk/listing/g64-fencing-decking/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/14] Colourfence Garden Fencing - Glasgow (South)
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 342 Glasgow Rd, Paisley PA1 3BH, UK
+    Phone:   0141 883 6721
+    Website: https://www.colourfence.co.uk/branches/glasgow/
+    Rating:  4 (11 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37486
+    URL: https://glasgowtrader.co.uk/listing/colourfence-garden-fencing-glasgow-south/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/14] Glasgow Gates and Fencing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Allerdyce Dr, Glasgow G15 6RY, UK
+    Phone:   07587 219462
+    Website: https://www.glasgowgatesandfencing.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37488
+    URL: https://glasgowtrader.co.uk/listing/glasgow-gates-and-fencing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/14] Smith & Sons Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 18 Souter Gdns, Coatbridge ML5 4SE, UK
+    Phone:   01236 359024
+    Website: http://www.smithandsonsfencing.co.uk/
+    Rating:  4.9 (126 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37490
+    URL: https://glasgowtrader.co.uk/listing/smith-sons-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/14] First Fence Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 35 Baronald St, Rutherglen, Glasgow G73 1AF, UK
+    Phone:   0141 673 8885
+    Website: https://firstfence.co.uk/
+    Rating:  4.6 (19 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37492
+    URL: https://glasgowtrader.co.uk/listing/first-fence-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/14] GDR Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 48 W George St, Glasgow G2 1BP, UK
+    Phone:   07565 998946
+    Website: http://www.gdrfencing.co.uk/
+    Rating:  5 (3 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37494
+    URL: https://glasgowtrader.co.uk/listing/gdr-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/14] 1st Fencing & Decking Company
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 29 Brora Dr, Renfrew PA4 0XA, UK
+    Phone:   07402 929529
+    Website: http://www.1stfencinganddecking.co.uk/
+    Rating:  4.4 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37496
+    URL: https://glasgowtrader.co.uk/listing/1st-fencing-decking-company/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [11/14] Gleniffer Fencing Services Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 15 Denewood Ave, Glenburn, Paisley PA2 8DY, UK
+    Phone:   07943 005751
+    Website: https://www.glenfencingltd.co.uk/contact
+    Rating:  4 (4 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37498
+    URL: https://glasgowtrader.co.uk/listing/gleniffer-fencing-services-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [12/14] 1st Fencing Co
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 41 Paisley Rd, Renfrew PA4 8LG, UK
+    Phone:   07402 929529
+    Website: https://www.1stfencinganddecking.co.uk/
+    Rating:  5 (2 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37500
+    URL: https://glasgowtrader.co.uk/listing/1st-fencing-co/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/14] Glasgow tree care and fencing ( landscape gardener )
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 34760 — attached location 'Glasgow' instead
+
+────────────────────────────────────────────────────────────
+  [14/14] Addison Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 50 Clyde St, Clydebank G81 1NW, UK
+    Phone:   0141 952 9844
+    Website: http://www.addisonfencing.co.uk/
+    Rating:  3.7 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37502
+    URL: https://glasgowtrader.co.uk/listing/addison-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Glasgow
+============================================================
+  Found:   14
+  Created: 13
+  Skipped: 1 (already existed)
+  Failed:  0
+============================================================

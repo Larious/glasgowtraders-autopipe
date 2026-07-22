@@ -1,0 +1,106 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Paisley
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Paisley'...
+  Found: ID=258 name=Paisley
+
+[DEDUP] Fetching existing listings...
+  2875 existing listings on site
+  Ledger: 2859 place_ids
+
+[SEARCH] Finding fencing & gatess in Paisley...
+  Found 9 candidates (9 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/9] First For Fencing And Decking (Jason anderson)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37482 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [2/9] Gleniffer Fencing Services Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37498 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [3/9] 1st Fencing & Decking Company
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37496 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [4/9] 1st Fencing Co
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37500 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [5/9] Colourfence Garden Fencing - Glasgow (South)
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37486 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [6/9] K B Fencing & Decking
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Kiln Croft Mews115 Neilston Rd, Paisley PA2 6ER, UK
+    Phone:   0141 848 7227
+    Website: https://www.lanarkshirefencing.co.uk/fencing-in-paisley/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37504
+    URL: https://glasgowtrader.co.uk/listing/k-b-fencing-decking/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/9] Willows Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37478 — attached location 'Paisley' instead
+
+────────────────────────────────────────────────────────────
+  [8/9] Clydeside Gates
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Block A, Jks Workshops, Unit 4 N Elgin Pl, Clydebank G81 1LU, UK
+    Phone:   07421 290100
+    Website: https://clydesidegates.co.uk/
+    Rating:  5 (18 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37506
+    URL: https://glasgowtrader.co.uk/listing/clydeside-gates/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/9] City Gate Construction Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 3, Imperial Park, West Ave, Linwood, Paisley PA1 2FB, UK
+    Phone:   0141 561 6500
+    Website: http://www.citygateconstruction.co.uk/
+    Rating:  3.3 (30 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37508
+    URL: https://glasgowtrader.co.uk/listing/city-gate-construction-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Paisley
+============================================================
+  Found:   9
+  Created: 3
+  Skipped: 6 (already existed)
+  Failed:  0
+============================================================

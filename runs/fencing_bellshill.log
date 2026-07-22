@@ -1,0 +1,177 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Bellshill
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Bellshill'...
+  Found: ID=190 name=Bellshill
+
+[DEDUP] Fetching existing listings...
+  2888 existing listings on site
+  Ledger: 2872 place_ids
+
+[SEARCH] Finding fencing & gatess in Bellshill...
+  Found 16 candidates (1 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/16] Smith & Sons Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37490 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [2/16] I D Fencing Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37522 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [3/16] Cambus Fencing & Landscaping
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 33820 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [4/16] J D R Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 301 Strathaven Rd, Hamilton ML3 7XW, UK
+    Phone:   01357 300100
+    Website: http://jdrfencing.co.uk/
+    Rating:  4.9 (43 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37530
+    URL: https://glasgowtrader.co.uk/listing/j-d-r-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/16] Elite Fencing and Sheds
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37514 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [6/16] Airdrie Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37510 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [7/16] Gates Scotland Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Unit 2a, Block, Blantyre Industrial Estate, 17 South Ave, Blantyre, Glasgow G72 0XB, UK
+    Phone:   01698 629039
+    Website: http://www.gates-scotland.co.uk/
+    Rating:  5 (231 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37532
+    URL: https://glasgowtrader.co.uk/listing/gates-scotland-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/16] Clark fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37512 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [9/16] KMS Fencing Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 46 Viewfield Ave, Blantyre, Glasgow G72 9BH, UK
+    Phone:   N/A
+    Website: http://www.kms-fencing.co.uk/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37534
+    URL: https://glasgowtrader.co.uk/listing/kms-fencing-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/16] Able Fencing Patios & Decking
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37516 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [11/16] First Fence Ltd
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37492 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [12/16] M Smith Fencing Contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Magnolia St, Wishaw ML2 7EQ, UK
+    Phone:   07990 824214
+    Website: N/A
+    Rating:  None (None reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37536
+    URL: https://glasgowtrader.co.uk/listing/m-smith-fencing-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [13/16] GC Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Piggery, Dellburn St, Omoa Rd, Cleland, Motherwell ML1 5LQ, UK
+    Phone:   07399 779951
+    Website: https://www.lanarkshirefencing.co.uk/fencing-in-cleland/
+    Rating:  None (None reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37538
+    URL: https://glasgowtrader.co.uk/listing/gc-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [14/16] OCM Fencing
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37518 — attached location 'Bellshill' instead
+
+────────────────────────────────────────────────────────────
+  [15/16] Treetop Fencing & Decking Contractors
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 103 Bell Quadrant, Carfin, Motherwell ML1 4GR, UK
+    Phone:   0141 611 4684
+    Website: https://www.lanarkshirefencing.co.uk/fencing-in-carfin/
+    Rating:  None (None reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37540
+    URL: https://glasgowtrader.co.uk/listing/treetop-fencing-decking-contractors/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [16/16] M S Fences
+────────────────────────────────────────────────────────────
+  SKIP: in ledger as post 37528 — attached location 'Bellshill' instead
+
+============================================================
+  BATCH COMPLETE — Bellshill
+============================================================
+  Found:   16
+  Created: 6
+  Skipped: 10 (already existed)
+  Failed:  0
+============================================================

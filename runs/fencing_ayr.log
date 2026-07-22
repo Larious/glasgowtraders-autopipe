@@ -1,0 +1,195 @@
+============================================================
+  Glasgow Traders — Batch Sniper
+  Location: Ayr
+  Trade: Fencing & Gates
+  Mode: PUBLISH
+============================================================
+
+[LOCATION] Looking for 'Ayr'...
+  Found: ID=179 name=Ayr
+
+[DEDUP] Fetching existing listings...
+  2904 existing listings on site
+  Ledger: 2888 place_ids
+
+[SEARCH] Finding fencing & gatess in Ayr...
+  Found 10 candidates (6 filtered as merchants/off-trade)
+
+────────────────────────────────────────────────────────────
+  [1/10] RGM Fencing, Decking & Groundcare
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1st Floor, 2 Miller Rd, Ayr KA7 2AY, UK
+    Phone:   01292 848005
+    Website: https://fencingsolutionsrgm.co.uk/
+    Rating:  5 (19 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37562
+    URL: https://glasgowtrader.co.uk/listing/rgm-fencing-decking-groundcare/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [2/10] Fence Squad Ayrshire
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 67 Inchmurrin Dr, Kilmarnock KA3 2HY, UK
+    Phone:   07792 606386
+    Website: https://www.fencesquadayrshireltd.co.uk/
+    Rating:  4.9 (72 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37564
+    URL: https://glasgowtrader.co.uk/listing/fence-squad-ayrshire/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [3/10] N.C Fencing and Decking Joinery Services
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 13 Wingate Ave, Dalry KA24 4AZ, UK
+    Phone:   07435 870942
+    Website: https://www.ncfencinganddecking.co.uk/
+    Rating:  5 (41 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37566
+    URL: https://glasgowtrader.co.uk/listing/n-c-fencing-and-decking-joinery-services/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [4/10] TJ Fencing and Tree Care
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 4 Kerse Terrace, Rankinston, Ayr KA6 7HG, UK
+    Phone:   07885 413902
+    Website: http://www.tjfencing.uk/
+    Rating:  5 (7 reviews)
+    Hours:   6 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37568
+    URL: https://glasgowtrader.co.uk/listing/tj-fencing-and-tree-care/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [5/10] Fencerite repairs ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 1 Glenkinchie Rd, Kilmarnock KA3 1NE, UK
+    Phone:   01563 340373
+    Website: https://www.fencerite.org.uk/
+    Rating:  4.8 (50 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37570
+    URL: https://glasgowtrader.co.uk/listing/fencerite-repairs-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [6/10] Mcblain Fencing Service Ltd
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Summerlea Bungalow, Crosshill, Maybole KA19 7QE, UK
+    Phone:   07752 460705
+    Website: http://www.mcblainfencing.uk/
+    Rating:  5 (20 reviews)
+    Hours:   7 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37572
+    URL: https://glasgowtrader.co.uk/listing/mcblain-fencing-service-ltd/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [7/10] Urqhuart Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 118 Logan Dr, Troon KA10 6XB, UK
+    Phone:   07977 797410
+    Website: http://www.facebook.com/urquhartfencingayrshire
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37574
+    URL: https://glasgowtrader.co.uk/listing/urqhuart-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [8/10] J McCreadie Fencing & Decking
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Dulnain, Kirkoswald Rd, Maybole KA19 8BN, UK
+    Phone:   07801 751376
+    Website: https://www.jmccreadiefencinganddecking.co.uk/
+    Rating:  5 (1 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37576
+    URL: https://glasgowtrader.co.uk/listing/j-mccreadie-fencing-decking/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [9/10] HS Fencing and Decking
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: 7 Warwickhill, Girdle Toll, Irvine KA11 1PH, UK
+    Phone:   N/A
+    Website: N/A
+    Rating:  5 (11 reviews)
+    Hours:   0 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37578
+    URL: https://glasgowtrader.co.uk/listing/hs-fencing-and-decking/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+────────────────────────────────────────────────────────────
+  [10/10] Henry Bennett Fencing
+────────────────────────────────────────────────────────────
+  Enriching from Google...
+    Address: Habbieauld Farm, Kilmaurs, Kilmarnock KA3 2QF, UK
+    Phone:   01563 538579
+    Website: http://www.hbfencing.co.uk/
+    Rating:  4.7 (3 reviews)
+    Hours:   5 days
+    Photos:  0
+  Generating featured tile...
+  Creating listing...
+    Post ID: 37580
+    URL: https://glasgowtrader.co.uk/listing/henry-bennett-fencing/
+  Injecting ListingPro sidebar data...
+    Result: OK
+
+============================================================
+  BATCH COMPLETE — Ayr
+============================================================
+  Found:   10
+  Created: 10
+  Skipped: 0 (already existed)
+  Failed:  0
+============================================================
