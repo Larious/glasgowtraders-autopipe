@@ -9,8 +9,16 @@ Idempotent: listings that already have an image are skipped.
 
 Dry-run by default; --live is guard-gated.
 
+The 2026-07-22 incident: the host exhausted its image-processing resources
+mid-sweep (WP derivative counts decayed 28 -> 13 -> 2 -> hard 500) and stayed
+that way for hours, so a first repair attempt burned 29 listings x 4 retries
+against a server that could not have succeeded. Hence --ids-file (skip the
+12-minute rescan), body capture on failure (never fly blind again), and
+--max-consecutive-failures (stop early instead of grinding).
+
 Usage:
   python3 scripts/fix_missing_featured.py [--live] [--limit N]
+  python3 scripts/fix_missing_featured.py --ids-file data/missing_featured_ids.txt --live
 """
 import argparse
 import importlib.util
@@ -71,6 +79,48 @@ def find_missing(limit=0):
     return out
 
 
+def load_ids(path):
+    """Read known-bad post ids, then re-check each against the site — the file
+    is a snapshot and some may have been fixed since it was written."""
+    with open(path) as f:
+        ids = [int(x) for x in f.read().split() if x.strip().isdigit()]
+    out = []
+    for pid in ids:
+        r = session.get(f"{WP}/wp-json/wp/v2/listing/{pid}",
+                        params={"_fields": "id,title,featured_media,status,listing-category",
+                                "nocache": f"{time.time():.6f}"}, timeout=30)
+        if r.status_code != 200:
+            print(f"  skip {pid}: HTTP {r.status_code}")
+            continue
+        d = r.json()
+        if d.get("featured_media"):
+            print(f"  skip {pid}: already has image {d['featured_media']}")
+            continue
+        if d.get("status") != "publish":
+            print(f"  skip {pid}: status={d.get('status')}")
+            continue
+        out.append(d)
+        time.sleep(0.1)
+    return out
+
+
+def preflight():
+    """One tiny upload to prove the media endpoint can accept writes at all.
+    After the 07-22 incident, never start a 46-item run on faith."""
+    png = bytes.fromhex(
+        "89504e470d0a1a0a0000000d49484452000000010000000108060000001f15c4"
+        "890000000d4944415478da63f8ffff3f0005fe02fea6c2c8e00000000049454e44ae426082")
+    r = session.post(f"{WP}/wp-json/wp/v2/media",
+                     headers={"Content-Disposition": 'attachment; filename="gt-preflight.png"',
+                              "Content-Type": "image/png"}, data=png, timeout=60)
+    if r.status_code != 201:
+        print(f"PREFLIGHT FAILED: HTTP {r.status_code}\n  {r.text[:400]}")
+        return False
+    mid = r.json()["id"]
+    print(f"preflight OK (media {mid}); leaving it in place for the human to remove")
+    return True
+
+
 def town_for(pid, fallback="Glasgow"):
     try:
         r = session.get(f"{WP}/wp-json/glasgow-traders/v1/listing-meta/{pid}",
@@ -106,7 +156,10 @@ def upload_tile(path, name, tries=4):
                 pass
             return mid
         if attempt == tries:
-            print(f"      upload failed after {tries} tries: {r.status_code}")
+            # Capture the body: a WP 500 names the underlying PHP/WP error, and
+            # not logging it cost a full misdiagnosis on 2026-07-22.
+            print(f"      upload failed after {tries} tries: {r.status_code}\n"
+                  f"      body: {r.text[:300]}")
             return None
         time.sleep(2 ** (attempt - 1))
     return None
@@ -123,22 +176,31 @@ def main():
     ap.add_argument("--live", action="store_true")
     ap.add_argument("--limit", type=int, default=0)
     ap.add_argument("--sleep", type=float, default=0.6)
+    ap.add_argument("--ids-file", help="known-bad post ids, skips the full rescan")
+    ap.add_argument("--max-consecutive-failures", type=int, default=3,
+                    help="abort if this many uploads fail in a row (host is down)")
     args = ap.parse_args()
     if not AUTH.password:
         sys.exit("WP credentials missing — run: python3 scripts/check_env.py")
 
     mode = "LIVE" if args.live else "DRY-RUN"
-    targets = find_missing(args.limit)
-    print(f"[{mode}] {len(targets)} listings missing a featured image")
+    targets = load_ids(args.ids_file) if args.ids_file else find_missing(args.limit)
+    if args.limit:
+        targets = targets[:args.limit]
+    print(f"[{mode}] {len(targets)} listings missing a featured image", flush=True)
     os.makedirs(TILE_DIR, exist_ok=True)
 
-    fixed = failed = 0
+    if args.live and targets and not preflight():
+        sys.exit("Media endpoint is not accepting uploads — aborting before the "
+                 "batch. Check host disk/memory, then re-run.")
+
+    fixed = failed = streak = 0
     for p in targets:
         pid = p["id"]
         name = seo_fields.focus_keyphrase(p.get("title", {}).get("rendered", ""))
         cat = (p.get("listing-category") or [0])[0]
         label = bs.CAT_LABELS.get(cat, "Tradesperson")
-        print(f"  {pid} [{label}] {name[:44]}")
+        print(f"  {pid} [{label}] {name[:44]}", flush=True)
         if not args.live:
             continue
         town = town_for(pid)
@@ -147,9 +209,17 @@ def main():
         mid = upload_tile(path, name)
         if mid and set_featured(pid, mid):
             fixed += 1
+            streak = 0
+            print(f"      ok -> media {mid}", flush=True)
         else:
             failed += 1
-            print(f"      FAILED for {pid}")
+            streak += 1
+            print(f"      FAILED for {pid}", flush=True)
+            if streak >= args.max_consecutive_failures:
+                print(f"\nABORTED: {streak} consecutive failures — the host is "
+                      f"refusing uploads. {fixed} fixed, {len(targets) - fixed - failed} "
+                      f"untouched. Re-run when it recovers.", flush=True)
+                break
         time.sleep(args.sleep)
 
     if not args.live:
