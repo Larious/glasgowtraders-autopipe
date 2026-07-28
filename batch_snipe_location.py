@@ -67,7 +67,10 @@ def build_and_upload_tile(enriched, cat_id, location_name, tries=4):
 
     for attempt in range(1, tries + 1):
         try:
-            r = session.post(f"{WP_BASE_URL}/wp-json/wp/v2/media",
+            # ?gt_tile=1 tells the GT Tile Image Sizes plugin to skip the 24
+            # derivative sizes a generated tile never renders (302KB -> 21KB).
+            # Harmless if the plugin isn't installed — WP ignores the param.
+            r = session.post(f"{WP_BASE_URL}/wp-json/wp/v2/media?gt_tile=1",
                              headers={"Content-Disposition": f'attachment; filename="{fname}"',
                                       "Content-Type": "image/jpeg"},
                              data=data, timeout=60)

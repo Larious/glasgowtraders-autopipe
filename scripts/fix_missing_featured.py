@@ -139,7 +139,9 @@ def upload_tile(path, name, tries=4):
         data = f.read()
     for attempt in range(1, tries + 1):
         try:
-            r = session.post(f"{WP}/wp-json/wp/v2/media",
+            # See batch_snipe_location.build_and_upload_tile — ?gt_tile=1 opts
+            # into the trimmed derivative set for generated tiles.
+            r = session.post(f"{WP}/wp-json/wp/v2/media?gt_tile=1",
                              headers={"Content-Disposition": f'attachment; filename="{fname}"',
                                       "Content-Type": "image/jpeg"},
                              data=data, timeout=60)
