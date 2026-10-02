@@ -23,7 +23,7 @@ except Exception:
 
 PROJ="${CLAUDE_PROJECT_DIR:-$(pwd)}"
 TOKEN="$PROJ/.claude/APPROVED"
-TOKEN_TTL_SECS=36000
+TOKEN_TTL_SECS=3600
 
 deny() {
     echo "GUARD BLOCKED: $1" >&2
@@ -47,6 +47,7 @@ consume_token() {
 
 require_token() {
     if token_fresh; then
+        consume_token
         exit 0   # authorized: token was fresh and is now consumed (single-use)
     fi
     deny "$1 Live writes need a fresh approval token. Show the human the dry-run summary; they authorize with: touch .claude/APPROVED (valid 60 min, single use)."
