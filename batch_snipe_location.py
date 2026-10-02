@@ -45,6 +45,12 @@ import tile_gen
 
 GEN_TILE_DIR = "assets/featured/generated"
 
+# Consecutive tile-upload failures before the run stops (exit code 3). On
+# 2026-07-22 the host refused uploads for hours and the publisher kept
+# creating listings without images; stopping early makes a shell loop over
+# towns stop too, instead of shipping blank placeholders across the region.
+TILE_FAILURE_LIMIT = 3
+
 
 def build_and_upload_tile(enriched, cat_id, location_name, tries=4):
     """Generate a unique branded featured tile for this business and upload it
@@ -508,9 +514,17 @@ def get_existing_listings():
 
 
 # ── Step 1: Search Google Places for the trade ──────────────
+class PlacesAPIError(RuntimeError):
+    """Google answered, but with an error (REQUEST_DENIED, OVER_QUERY_LIMIT...)."""
+
+
 def search_trade(location_name, trade_cfg):
     """Text Search across the trade's queries; merge by place_id and apply
-    the junk filter. Returns [{place_id, name}]."""
+    the junk filter. Returns [{place_id, name}].
+
+    Places returns HTTP 200 even for errors, with the failure in `status`.
+    Ignoring it made an expired key look like "0 candidates" for every trade
+    on 2026-09-23, so anything other than OK / ZERO_RESULTS raises."""
     print(f"\n[SEARCH] Finding {trade_cfg['label'].lower()}s in {location_name}...")
     url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
     seen, merged, filtered = set(), [], 0
@@ -518,10 +532,19 @@ def search_trade(location_name, trade_cfg):
     for query_tpl in trade_cfg["queries"]:
         params = {"query": query_tpl.format(loc=location_name),
                   "key": GOOGLE_API_KEY}
+        token_retries = 0
         while True:
             resp = requests.get(url, params=params, timeout=15)
             resp.raise_for_status()
             data = resp.json()
+            status = data.get("status", "OK")
+            if status == "INVALID_REQUEST" and "pagetoken" in params and token_retries < 2:
+                # next_page_token isn't valid for a moment after it's issued.
+                token_retries += 1
+                time.sleep(2)
+                continue
+            if status not in ("OK", "ZERO_RESULTS"):
+                raise PlacesAPIError(f"{status}: {data.get('error_message', '')}".strip())
 
             for r in data.get("results", []):
                 pid = r["place_id"]
@@ -541,6 +564,7 @@ def search_trade(location_name, trade_cfg):
             # Google requires a short delay before using next_page_token
             time.sleep(2)
             params = {"pagetoken": next_token, "key": GOOGLE_API_KEY}
+            token_retries = 0
 
     print(f"  Found {len(merged)} candidates "
           f"({filtered} filtered as merchants/off-trade)")
@@ -814,8 +838,13 @@ def main():
     print(f"  Ledger: {len(by_place)} place_ids")
 
 
-    # Search for the trade in this location
-    results = search_trade(location_name, trade_cfg)
+    # Search for the trade in this location. Exit 4 on an API error so a loop
+    # over towns can tell "Places is broken" from "no businesses here".
+    try:
+        results = search_trade(location_name, trade_cfg)
+    except PlacesAPIError as e:
+        print(f"\n  ABORTED: Google Places error — {e}")
+        sys.exit(4)
 
     if not results:
         sys.exit(f"No {trade_cfg['label'].lower()}s found in {location_name}")
@@ -842,6 +871,7 @@ def main():
     created = 0
     skipped = 0
     failed = 0
+    tile_streak = 0
 
     for i, result in enumerate(results, 1):
         if created >= MAX_CREATES:
@@ -894,6 +924,14 @@ def main():
             skipped += 1
             continue
 
+        # Contactable only: with neither phone nor website a visitor has no way
+        # to reach the business, and it's usually a user-created map pin, not a
+        # trader ("Solar meeting on Saturday" shipped this way on 2026-07-22).
+        if not enriched.get("phone") and not enriched.get("website"):
+            print(f"  SKIP: no phone or website — not a contactable business")
+            skipped += 1
+            continue
+
         print(f"    Address: {enriched['formatted_address']}")
         print(f"    Phone:   {enriched['phone'] or 'N/A'}")
         print(f"    Website: {enriched['website'] or 'N/A'}")
@@ -909,6 +947,21 @@ def main():
         else:
             print(f"  Generating featured tile...")
             featured_id = build_and_upload_tile(enriched, cat_id, location_name)
+
+        # No image, no listing: an image-less post shows a blank placeholder.
+        # Nothing is written to the ledger, so a later re-run picks it up.
+        if not featured_id:
+            tile_streak += 1
+            failed += 1
+            print(f"  SKIP: featured image upload failed — not publishing "
+                  f"without an image ({tile_streak}/{TILE_FAILURE_LIMIT})")
+            if tile_streak >= TILE_FAILURE_LIMIT:
+                print(f"\n  ABORTED: {tile_streak} tile uploads failed in a row — "
+                      f"the host is refusing uploads. {created} created this "
+                      f"run. Re-run once uploads work again.")
+                sys.exit(3)
+            continue
+        tile_streak = 0
         gallery_ids = []
 
         # Create listing
