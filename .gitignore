@@ -22,3 +22,15 @@ __pycache__/
 
 # Generated per-listing featured tiles (reproducible via scripts/tile_gen.py, uploaded to WP)
 assets/featured/generated/
+
+# Local notes that contain credentials (never commit)
+MIGRATION.md
+
+# Claude Code per-user settings and the one-time approval token
+.claude/settings.local.json
+.claude/APPROVED
+
+# dbt build artefacts
+dbt/target/
+dbt/logs/
+dbt/.user.yml
